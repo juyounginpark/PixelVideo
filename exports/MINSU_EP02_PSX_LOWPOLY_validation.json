@@ -1,0 +1,19 @@
+{
+  "decode_pass": true,
+  "output_size": [
+    720,
+    1280
+  ],
+  "source_render_size": [
+    360,
+    640
+  ],
+  "container_fps": 24.0,
+  "source_animation_fps": 12,
+  "action_playback_speed": 1.2,
+  "frames": 1080,
+  "duration_seconds": 45.0,
+  "has_audio": false,
+  "first_last_mean_pixel_difference": 1.639437210648148,
+  "bytes": 8253020
+}

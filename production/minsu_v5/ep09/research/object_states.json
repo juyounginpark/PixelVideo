@@ -1,0 +1,727 @@
+{
+  "objects": [
+    {
+      "state": {
+        "objectId": "S01_left_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "plain"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 0,
+        "currentValue": 0,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "8dbb170338ae0187bffe65d944c14fd682c03a7e96e5c64c8bf2f96a3752e643",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450661583221518,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 0
+        },
+        "objectId": "S01_left_coat",
+        "stateSignature": "35cafef4fa6eda8e89f76e0a2bf105cb0cf5ccf1959db406a64cd9b5cd1724fb",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S01_right_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "stripe"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 2,
+        "currentValue": 2,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "e0c291b38779ee4cc37ce7bb444c99a4db5ee06767b2657cd2a686a4447d92a1",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450660942815981,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 2
+        },
+        "objectId": "S01_right_coat",
+        "stateSignature": "609dd92ab49d94a6b976d25eecf054833d8e12027c3ba1fbf4ac236dfc76d042",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S02_left_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "plain"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 0,
+        "currentValue": 0,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "8dbb170338ae0187bffe65d944c14fd682c03a7e96e5c64c8bf2f96a3752e643",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450661583221518,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 0
+        },
+        "objectId": "S02_left_coat",
+        "stateSignature": "53d62b78481c7154a2e04d59aa81a8aaae275c884b7328e82cc80ce401098d51",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S02_right_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 77,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "stripe"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 0,
+        "currentValue": 2,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "fa957a15f11db8108d42ebaccd7e6cdc9b0385e64e3166db2337ba6d8586a866",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450661714285767,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 2
+        },
+        "objectId": "S02_right_coat",
+        "stateSignature": "d50ec88c54ed5d3ef9d951dd2494cff9ca796173677b18431c653abf13ef4413",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S03_left_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "white"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 1,
+        "currentValue": 1,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "8dbb170338ae0187bffe65d944c14fd682c03a7e96e5c64c8bf2f96a3752e643",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450661583221518,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 1
+        },
+        "objectId": "S03_left_coat",
+        "stateSignature": "1874d478826eb5ac377245c1b88d73058d5b6de8fb1acdb7007c2d1f1e34ce13",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S03_right_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "stripe"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 2,
+        "currentValue": 2,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "e0c291b38779ee4cc37ce7bb444c99a4db5ee06767b2657cd2a686a4447d92a1",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450660942815981,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 2
+        },
+        "objectId": "S03_right_coat",
+        "stateSignature": "e57fbfa40c95609defc969a54f7b8a555d3a55d875b1bd78244811636a157e07",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S04_left_coat",
+        "objectType": "ENLARGED_COAT_PANEL",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "plain"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 0,
+        "currentValue": 0,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "1363ae908646afb4af711e21d125a756d6bcabfaabef8189544555d7658cbf87",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 0.11875000440826017,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 0
+        },
+        "objectId": "S04_left_coat",
+        "stateSignature": "1cc6926782e56f89126cc275b52cbd858146c38d39a5d84c40a4b04ff9ab273d",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S04_right_coat",
+        "objectType": "ENLARGED_COAT_PANEL",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "stripe"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 2,
+        "currentValue": 2,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "654e1435a93eb458a33c226d399de5bb3997c33b5e31b11643c67ac1df607fd4",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 0.11875000565002361,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 2
+        },
+        "objectId": "S04_right_coat",
+        "stateSignature": "5f5166c4b869e613a5d5ec3375c36fdd69a53b6a8e2e34ca7b6170ef9dad70c4",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S05_left_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "plain"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 0,
+        "currentValue": 0,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "8dbb170338ae0187bffe65d944c14fd682c03a7e96e5c64c8bf2f96a3752e643",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450661583221518,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 0
+        },
+        "objectId": "S05_left_coat",
+        "stateSignature": "6b088e9e14a6b69a0cd22e9e3b2a108a00f3f2b447de85ecb4e9c2b81aac4796",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S05_right_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "check"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 3,
+        "currentValue": 3,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "e0c291b38779ee4cc37ce7bb444c99a4db5ee06767b2657cd2a686a4447d92a1",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450660942815981,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 3
+        },
+        "objectId": "S05_right_coat",
+        "stateSignature": "b937af8cb900728a2e7b1272fdea6a28b36d058173e220375f42480b22f1835d",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S06_left_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "faint"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 4,
+        "currentValue": 4,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "8dbb170338ae0187bffe65d944c14fd682c03a7e96e5c64c8bf2f96a3752e643",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450661583221518,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 4
+        },
+        "objectId": "S06_left_coat",
+        "stateSignature": "db0aecb057e5dcde597c2a16d5faf9fd5ddbc574b50ad37e0095c289849f3f06",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S06_right_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "stripe"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 2,
+        "currentValue": 2,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "e0c291b38779ee4cc37ce7bb444c99a4db5ee06767b2657cd2a686a4447d92a1",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450660942815981,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 2
+        },
+        "objectId": "S06_right_coat",
+        "stateSignature": "05f63345d731e8ba66972e9f35264328eaab4c45e778861eded2079274a0b8d9",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S07_left_coat",
+        "objectType": "ENLARGED_COAT_PANEL",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "plain"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 0,
+        "currentValue": 0,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "1363ae908646afb4af711e21d125a756d6bcabfaabef8189544555d7658cbf87",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 0.11875000440826017,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 0
+        },
+        "objectId": "S07_left_coat",
+        "stateSignature": "a968fae1b7c96c9b4904481b61c4f22c4b62c95a8096c9bb01fcb2476e941fb7",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S07_right_coat",
+        "objectType": "ENLARGED_COAT_PANEL",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "stripe"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 0,
+        "currentValue": 0,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "654e1435a93eb458a33c226d399de5bb3997c33b5e31b11643c67ac1df607fd4",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 0.11875000565002361,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 0
+        },
+        "objectId": "S07_right_coat",
+        "stateSignature": "62cdbb9e04781d720ab3e7d48d9943dcf2a7487d3930d674f12d958732baabd9",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S08_left_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "plain"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 0,
+        "currentValue": 0,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "8dbb170338ae0187bffe65d944c14fd682c03a7e96e5c64c8bf2f96a3752e643",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450661583221518,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 0
+        },
+        "objectId": "S08_left_coat",
+        "stateSignature": "c302f0d9d63d4379c2ae4ce2edb5f2c9d5b8b06e0fc9bcc37568965a41082e28",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S08_right_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "stripe"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 2,
+        "currentValue": 2,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "e0c291b38779ee4cc37ce7bb444c99a4db5ee06767b2657cd2a686a4447d92a1",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450660942815981,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 2
+        },
+        "objectId": "S08_right_coat",
+        "stateSignature": "367965c3171010c463bdad95424c9f62d426b7e86ff557d4084a7187d6a360ef",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S09_left_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "stripe"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 2,
+        "currentValue": 2,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "8dbb170338ae0187bffe65d944c14fd682c03a7e96e5c64c8bf2f96a3752e643",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450661583221518,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 2
+        },
+        "objectId": "S09_left_coat",
+        "stateSignature": "cbc61ae88c92972af8f1c010961a5d7408a4cdd70b0b2f3e3d4f78ae38d045d3",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    },
+    {
+      "state": {
+        "objectId": "S09_right_coat",
+        "objectType": "HORSE_COAT",
+        "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d",
+        "operation": {
+          "type": "Compare",
+          "startFrame": 0,
+          "completeFrame": 102,
+          "updateFrame": 106,
+          "parameters": {
+            "pattern": "check"
+          }
+        },
+        "observedProperties": [
+          "coatConditionCode"
+        ],
+        "previousValue": 3,
+        "currentValue": 3,
+        "displayUnits": "internal condition ID, not a physical measurement",
+        "definition": "plain0/white1/stripe2/check3/faint4; no model code is shown as experimental data",
+        "claimStatus": "MODEL_STATE",
+        "evidenceStatus": "SCENE_GEOMETRY"
+      },
+      "geometryReceipt": {
+        "geometryHash": "e0c291b38779ee4cc37ce7bb444c99a4db5ee06767b2657cd2a686a4447d92a1",
+        "vertices": 24,
+        "polygons": 26,
+        "meshVolume": 0.6450660942815981,
+        "connectedComponents": 1,
+        "properties": {
+          "coatConditionCode": 3
+        },
+        "objectId": "S09_right_coat",
+        "stateSignature": "55989da34077ec826df2be459b59274c964f712331fce613e53b555e38cfe28a",
+        "frame": 106,
+        "completed": true
+      },
+      "displayedAsNumber": false
+    }
+  ],
+  "flyUnits": "scene coordinates; size/time simplified; not observed research tracks",
+  "animationSource": "scene.py",
+  "geometryVersion": "5a6749e911b66ac401434057fb53ac8bfbc89b19e27d6ff5a305a8422a8a440d"
+}

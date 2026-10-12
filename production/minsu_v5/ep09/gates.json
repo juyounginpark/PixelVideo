@@ -1,0 +1,206 @@
+{
+  "TOPIC": {
+    "decision": "PASS_WITH_SCOPED_FACTS",
+    "score": 86,
+    "evidence": "research/claim_ledger.json"
+  },
+  "STORY": {
+    "decision": "PASS",
+    "reason": "사건→동일동물비교→착륙단계→체크반례→대비→가설→결론"
+  },
+  "STORYBOARD": {
+    "decision": "PASS",
+    "reason": "실물역할극/비교/근접비행/덮개전환/패치확대를 구분"
+  },
+  "ART_PREVIEW": {
+    "decision": "PROCEED_WITH_STATED_LIMITS",
+    "reviewedAt": "2026-10-12T19:09:36.960994+09:00",
+    "approvedSceneSpecHash": "12763d20eb1c9f0fdf842d745854e5dcd27feab6ae8bceeeb0ec279ba72ea793",
+    "evidence": [
+      {
+        "path": "exports\\MINSU_EP09_ART_SAMPLE.mp4",
+        "sha256": "3fbf82351651207c395e40da0859ce4cec5be2093152e4b7dcc70cf7b93119ce"
+      }
+    ],
+    "observations": [
+      "실제 MP4의 첫2초 표본에서 민무늬 쪽 파리 정착과 줄무늬 쪽 파리 이탈이 구분된다.",
+      "말을3/4 방향으로 바꿔 몸통과 다리를 읽을 수 있다. 민수는 화면 왼쪽으로 이동했다.",
+      "확대 파리, 2개 픽셀 폰트, 독립 고해상도 UI, 고정 프레임과 색 역할을 확인했다.",
+      "체크무늬 발견 캡션은 이벤트 이전 질문에서 이벤트 이후 민트 결과로 바뀌도록 수정했다.",
+      "S05保护여백 수정은 카메라 강도만 낮추고 발견 UI/SFX는 유지한다. 미술 조건은 동일하며 전체/해당 컷 재검수 예정."
+    ],
+    "limits": [
+      "모델은 간결한 블록 스타일이다. 원본의 세밀한 오브젝트 미술과 동일 수준으로 선언하지 않는다.",
+      "표본 프레임을 검수했고 실제 실시간 재생이나 오디오 청취는 수행하지 않았다.",
+      "전체 콘티의 연속성과 남은 장면의 가림은 전체 프리뷰에서 검수한다."
+    ]
+  },
+  "EDITING_PREVIEW": {
+    "decision": "PROCEED_WITH_STATED_LIMITS",
+    "reviewedAt": "2026-10-12T19:34:52.803737+09:00",
+    "approvedSceneSpecHash": "12763d20eb1c9f0fdf842d745854e5dcd27feab6ae8bceeeb0ec279ba72ea793",
+    "evidence": [
+      {
+        "path": "exports\\MINSU_EP09_PREVIEW.mp4",
+        "sha256": "057c87c89c06036e85664a990fc8e09b1085994ff3297179ee7720cf89eec4b1"
+      },
+      {
+        "path": "production\\minsu_v5\\ep09\\research\\geometry_qa.json",
+        "sha256": "bd0a8e830b449166d47b547a6e8dc7a8c74faf12a211f7db7ae53b987400889c"
+      }
+    ],
+    "observations": [
+      "실제36초MP4에서0~2초 접근/착륙이탈 사건을 확인했다.",
+      "4초에는같은말 덮개교체,8초에는2019실험 조건,12초에는마지막 접근,16초에는체크반례,20초에는대비,24초에는가설,28초에는효과,32초에는한계를 추가한다.",
+      "발견 컷은노랑질문→큰민트결과자막으로 바뀌며 시각적 보상에 강약이 있다. 카메라 여백 수정 후1080프레임 보호 대상 검사 통과.",
+      "같은대상을재사용하지만 덮개·비행·정보·감정 변화가 있다. 추상 설명은2개근접컷8초/36초에한정된다.",
+      "수치7마리/3덮개는 실제연구 조건. 착륙 감소는 연구 결과를 모식도로 설명하며 임의 비율을 만들지 않았다.",
+      "처음장면의 효과를 재확인하고 시각기제의 불확실성 및 불완전한 보호 범위를 설명한다.",
+      "최종한국어 결론을 기본 글자 크기로 확인했다. 영어 발견/연구조건의 가독성과 충돌 없는 화면도 확인했다."
+    ],
+    "limits": [
+      "장면의 말과 파리는 단순한 블록 모형이며 원본의 세밀한 오브젝트 미술 수준과 같다고 평가하지 않는다.",
+      "여러 비교 컷은 같은 목장 구도를 사용한다. 동작/조건/정보는 바뀌지만 공간 다양성은 제한적이다.",
+      "민수의 제스처와 덮개 동작은 각색이며 실제 연구자의 행동 기록이 아니다. 손 접촉·시선 연기의 세밀함에는 한계가 있다.",
+      "흡혈등에 경로·크기·시간은 설명용 모식도이다. 실제 실험의 정확한 궤적 또는 실패율을 재현하지 않는다.",
+      "실시간 재생·오디오 청취·시청자 유지율 검증을 수행하지 않았다. 프레임 기반 편집 검수와 오디오 수치 검사를 구분한다."
+    ]
+  },
+  "FINAL_QA": {
+    "decision": "PROCEED_WITH_STATED_LIMITS",
+    "technical": "PASS",
+    "editorial": "REVIEWED_WITH_LIMITS",
+    "reviewedAt": "2026-10-12T19:40:04.739930+09:00",
+    "evidence": {
+      "ko": {
+        "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP09_STRIPES_KO.mp4",
+        "sha256": "a08ffadf8e27d2cd15698ff6e5019517394d550e1d07fa9daf531a422d01b51a",
+        "frameCount": 1080,
+        "duration": 36.0,
+        "metadata": {
+          "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+          "codec": "h264",
+          "pix_fmt": "yuv420p(progressive)",
+          "audio_codec": "aac",
+          "fps": 30.0,
+          "source_size": [
+            1080,
+            1920
+          ],
+          "size": [
+            1080,
+            1920
+          ],
+          "rotate": 0,
+          "duration": 36.0
+        },
+        "audioMeasurement": {
+          "input_i": "-19.02",
+          "input_tp": "-7.27",
+          "input_lra": "4.30",
+          "input_thresh": "-29.26",
+          "output_i": "-19.20",
+          "output_tp": "-7.61",
+          "output_lra": "4.40",
+          "output_thresh": "-29.29",
+          "normalization_type": "dynamic",
+          "target_offset": "0.20"
+        },
+        "fonts": {
+          "checkedCharacters": 2968,
+          "fallbacks": 0,
+          "locale": "ko",
+          "atlases": [
+            {
+              "face": "PIXEL_DISPLAY",
+              "key": "90750df44bcff5f2f9e0fb7db121b3be50c31c74a5e6fbfca40cc3cfe2b28054",
+              "reused": false,
+              "characters": 184
+            },
+            {
+              "face": "PIXEL_BODY",
+              "key": "74089dfb1efe0f6a335719dda71ce4cb212872065a2910909ff5cb87587df293",
+              "reused": false,
+              "characters": 184
+            }
+          ]
+        },
+        "uiCheckedFrames": 1080,
+        "audioCacheHit": true,
+        "fullVideoAndAudioDecode": true
+      },
+      "en": {
+        "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP09_STRIPES_EN.mp4",
+        "sha256": "747b5ee3821cbd562b70a79b56d74197b96aba50645bd4531a96341eee786292",
+        "frameCount": 1080,
+        "duration": 36.0,
+        "metadata": {
+          "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+          "codec": "h264",
+          "pix_fmt": "yuv420p(progressive)",
+          "audio_codec": "aac",
+          "fps": 30.0,
+          "source_size": [
+            1080,
+            1920
+          ],
+          "size": [
+            1080,
+            1920
+          ],
+          "rotate": 0,
+          "duration": 36.0
+        },
+        "audioMeasurement": {
+          "input_i": "-19.02",
+          "input_tp": "-7.27",
+          "input_lra": "4.30",
+          "input_thresh": "-29.26",
+          "output_i": "-19.20",
+          "output_tp": "-7.61",
+          "output_lra": "4.40",
+          "output_thresh": "-29.29",
+          "normalization_type": "dynamic",
+          "target_offset": "0.20"
+        },
+        "fonts": {
+          "checkedCharacters": 2968,
+          "fallbacks": 0,
+          "locale": "en",
+          "atlases": [
+            {
+              "face": "PIXEL_DISPLAY",
+              "key": "90750df44bcff5f2f9e0fb7db121b3be50c31c74a5e6fbfca40cc3cfe2b28054",
+              "reused": true,
+              "characters": 184
+            },
+            {
+              "face": "PIXEL_BODY",
+              "key": "74089dfb1efe0f6a335719dda71ce4cb212872065a2910909ff5cb87587df293",
+              "reused": true,
+              "characters": 184
+            }
+          ]
+        },
+        "uiCheckedFrames": 1080,
+        "audioCacheHit": true,
+        "fullVideoAndAudioDecode": true
+      }
+    },
+    "editorialObservations": [
+      "한국어 최종36초 MP4의0.5초 간격 및 첫2초 조밀 표본 프레임을 검사했다.",
+      "한국어 결론은 시각 원리는 연구 중으로 줄여 기본 글자 크기를 유지한다. 영어 발견 장면과 연구 조건 문장도 실제 완성 프레임에서 확인했다.",
+      "발견 장면은 질문→큰민트 임팩트캡션/반짝임/발견SFX로 구분한다. 카메라 확대 여백 문제는 해당 컷 재렌더 후 해결됐다.",
+      "끝에는 체크 덮개에 착륙하는 예외 모형을 넣어 완전 차단의 과장을 피한다.",
+      "빨대 원본의 동작→결과 UI와 ref4의 캐릭터 리액션 대표 프레임을 나란히 비교했다.",
+      "완성 영상의 기술 정상 동작과 시청 재미·레퍼런스 수준의 미술 완성도를 같은 판정으로 처리하지 않는다."
+    ],
+    "limits": [
+      "장면의 말과 파리는 단순한 블록 모형이며 원본의 세밀한 오브젝트 미술 수준과 같다고 평가하지 않는다.",
+      "여러 비교 컷은 같은 목장 구도를 사용한다. 동작/조건/정보는 바뀌지만 공간 다양성은 제한적이다.",
+      "민수의 제스처와 덮개 동작은 각색이며 실제 연구자의 행동 기록이 아니다. 손 접촉·시선 연기의 세밀함에는 한계가 있다.",
+      "흡혈등에 경로·크기·시간은 설명용 모식도이다. 실제 실험의 정확한 궤적 또는 실패율을 재현하지 않는다.",
+      "실시간 재생·오디오 청취·시청자 유지율 검증을 수행하지 않았다. 프레임 기반 편집 검수와 오디오 수치 검사를 구분한다."
+    ]
+  }
+}

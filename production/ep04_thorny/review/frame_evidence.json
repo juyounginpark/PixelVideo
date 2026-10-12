@@ -1,0 +1,58 @@
+{
+  "hook": {
+    "frames": [
+      1,
+      13,
+      25,
+      37,
+      49,
+      61,
+      73,
+      89
+    ],
+    "distinct_images": 8,
+    "note": "Distinct image count does not establish meaningful action; inspect progression visually."
+  },
+  "capillary": {
+    "frames": [
+      451,
+      463,
+      475,
+      487,
+      499,
+      511,
+      523,
+      539
+    ],
+    "distinct_images": 8,
+    "note": "Distinct image count does not establish meaningful action; inspect progression visually."
+  },
+  "jaw": {
+    "frames": [
+      811,
+      821,
+      831,
+      841,
+      851,
+      861,
+      871,
+      889
+    ],
+    "distinct_images": 8,
+    "note": "Distinct image count does not establish meaningful action; inspect progression visually."
+  },
+  "back_drop": {
+    "frames": [
+      901,
+      913,
+      925,
+      937,
+      949,
+      961,
+      973,
+      989
+    ],
+    "distinct_images": 8,
+    "note": "Distinct image count does not establish meaningful action; inspect progression visually."
+  }
+}

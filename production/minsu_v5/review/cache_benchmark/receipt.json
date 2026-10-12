@@ -1,0 +1,21 @@
+{
+  "nativeRenderSeconds": 0,
+  "nativeWallSeconds": 3.431369800000539,
+  "nativeReusedFrames": 1020,
+  "assetCache": "HIT",
+  "uiCacheHits": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09"
+  ],
+  "uiCompositeSeconds": 3.4867563000007067,
+  "audioCacheHit": true,
+  "totalWallSeconds": 8.326985899999272,
+  "benchmarkVideo": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\production\\minsu_v5\\review\\cache_benchmark\\cached.mp4"
+}

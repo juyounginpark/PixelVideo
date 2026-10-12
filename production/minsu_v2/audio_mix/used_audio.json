@@ -1,0 +1,84 @@
+[
+  {
+    "id": "curious_desert_100",
+    "path": "bgm/curious_desert_100.wav",
+    "mood": [
+      "exploration",
+      "observation",
+      "mechanism"
+    ],
+    "bpm": 100,
+    "duration": 19.2,
+    "loopable": true,
+    "instrumental": true,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "creditsRequired": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "commercialAndSocialUse": "Original project synthesis, no third-party samples or composition",
+    "measuredLUFS": -21.0,
+    "sha256": "e4321c98e4dcbaefb0747be3e0d44e6dd49453142c07f1af55fc022e8d455f77"
+  },
+  {
+    "id": "water_drop",
+    "path": "sfx/water_drop.wav",
+    "duration": 0.24,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "creditsRequired": false,
+    "sha256": "9821aebc8954b573038fe7a3e8bc2485736c77aae547495babfe52c1b30db340"
+  },
+  {
+    "id": "question_blip",
+    "path": "sfx/question_blip.wav",
+    "duration": 0.28,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "creditsRequired": false,
+    "sha256": "6e6b0feb3be081d7cf02c0203996870cdbe9f8e723ea95312b22429066791acf"
+  },
+  {
+    "id": "soft_whoosh",
+    "path": "sfx/soft_whoosh.wav",
+    "duration": 0.35,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "creditsRequired": false,
+    "sha256": "6369904eb9d1e4307e600f207313907145c2ba94c24e496ae606b988ae780742"
+  },
+  {
+    "id": "ui_pop",
+    "path": "sfx/ui_pop.wav",
+    "duration": 0.14,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "creditsRequired": false,
+    "sha256": "85a247ac9d139fef17e2963de305d5cb9ec689197725b314f4f28d4c4d0853bd"
+  },
+  {
+    "id": "discovery",
+    "path": "sfx/discovery.wav",
+    "duration": 1.0,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "creditsRequired": false,
+    "sha256": "ef51427d823a914e38382fa6ccaf1fb89021cd7e3f928ee95bc8a825b0ae03b3"
+  }
+]

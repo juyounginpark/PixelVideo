@@ -1,0 +1,122 @@
+{
+  "quality": "final",
+  "renderedFrames": 115,
+  "reusedFrames": 5,
+  "projectionSeconds": 0.2710482999973465,
+  "renderSeconds": 79.37911080000413,
+  "shots": {
+    "S01": {
+      "rendered": 115,
+      "reused": 5,
+      "seconds": 91.27853409999807,
+      "key": "59e7d61a3b61c088f1ea5924886923ce4d228a435a1be7e7fe55e6ef4c103a4a"
+    }
+  },
+  "errors": [],
+  "assetCache": "HIT",
+  "assetSetupSeconds": 0.054921000002650544,
+  "materials": [
+    {
+      "name": "MINSU_V5_agar",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_alga",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_cheek",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_cream",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_floor",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_glass",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_hair",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_leaf",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_metal",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_micro_bg",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_mint",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_navy",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_red",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_roof",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_shoe",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_skin",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_wall",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_water",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_wood",
+      "texelsPerUnit": 16,
+      "bands": 3
+    }
+  ],
+  "totalSeconds": 91.33616919999986,
+  "nativeSize": [
+    540,
+    960
+  ],
+  "blenderVersion": "5.0.1",
+  "samples": 8
+}

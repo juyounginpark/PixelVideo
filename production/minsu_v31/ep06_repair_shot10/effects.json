@@ -1,0 +1,353 @@
+{
+  "fps": 30,
+  "durationFrames": 1050,
+  "EffectTimeline": [
+    {
+      "id": "event_0:PUNCH_ZOOM",
+      "eventId": "event_0",
+      "shotId": "SHOT_01",
+      "type": "PUNCH_ZOOM",
+      "frame": 24,
+      "endFrame": 40,
+      "target": "minsu",
+      "intensity": 2,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "event_0:REACTION_BURST",
+      "eventId": "event_0",
+      "shotId": "SHOT_01",
+      "type": "REACTION_BURST",
+      "frame": 24,
+      "endFrame": 40,
+      "target": "minsu",
+      "intensity": 2,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    },
+    {
+      "id": "event_1:QUESTION_POP",
+      "eventId": "event_1",
+      "shotId": "SHOT_02",
+      "type": "QUESTION_POP",
+      "frame": 99,
+      "endFrame": 115,
+      "target": "minsu",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "event_2:OBJECT_HIGHLIGHT",
+      "eventId": "event_2",
+      "shotId": "SHOT_03",
+      "type": "OBJECT_HIGHLIGHT",
+      "frame": 178,
+      "endFrame": 206,
+      "target": "surface",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "event_4:OBJECT_HIGHLIGHT",
+      "eventId": "event_4",
+      "shotId": "SHOT_05",
+      "type": "OBJECT_HIGHLIGHT",
+      "frame": 326,
+      "endFrame": 354,
+      "target": "molecule",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "event_5:PIXEL_SPARK",
+      "eventId": "event_5",
+      "shotId": "SHOT_06",
+      "type": "PIXEL_SPARK",
+      "frame": 400,
+      "endFrame": 416,
+      "target": "slider",
+      "intensity": 3,
+      "text": "저항 ↓",
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "event_5:IMPACT_CAPTION",
+      "eventId": "event_5",
+      "shotId": "SHOT_06",
+      "type": "IMPACT_CAPTION",
+      "frame": 400,
+      "endFrame": 424,
+      "target": "slider",
+      "intensity": 3,
+      "text": "저항 ↓",
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    },
+    {
+      "id": "event_6:OBJECT_HIGHLIGHT",
+      "eventId": "event_6",
+      "shotId": "SHOT_07",
+      "type": "OBJECT_HIGHLIGHT",
+      "frame": 487,
+      "endFrame": 515,
+      "target": "minsu",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "event_6:PIXEL_SPARK",
+      "eventId": "event_6",
+      "shotId": "SHOT_07",
+      "type": "PIXEL_SPARK",
+      "frame": 487,
+      "endFrame": 503,
+      "target": "minsu",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    },
+    {
+      "id": "event_7:DATA_REVEAL",
+      "eventId": "event_7",
+      "shotId": "SHOT_08",
+      "type": "DATA_REVEAL",
+      "frame": 578,
+      "endFrame": 606,
+      "target": "surface",
+      "intensity": 2,
+      "text": null,
+      "data": {
+        "label": "강철-얼음 실험",
+        "value": "온도 비교",
+        "provenance": "Weber et al. 2018 Fig.1, DOI 10.1021/acs.jpclett.8b01188"
+      },
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "event_8:OBJECT_HIGHLIGHT",
+      "eventId": "event_8",
+      "shotId": "SHOT_09",
+      "type": "OBJECT_HIGHLIGHT",
+      "frame": 674,
+      "endFrame": 702,
+      "target": "slider",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "event_10:OBJECT_HIGHLIGHT",
+      "eventId": "event_10",
+      "shotId": "SHOT_11",
+      "type": "OBJECT_HIGHLIGHT",
+      "frame": 874,
+      "endFrame": 902,
+      "target": "minsu",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "event_10:PIXEL_SPARK",
+      "eventId": "event_10",
+      "shotId": "SHOT_11",
+      "type": "PIXEL_SPARK",
+      "frame": 874,
+      "endFrame": 890,
+      "target": "minsu",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    }
+  ],
+  "CameraEffectTimeline": [
+    {
+      "id": "event_0:PUNCH_ZOOM",
+      "eventId": "event_0",
+      "shotId": "SHOT_01",
+      "type": "PUNCH_ZOOM",
+      "frame": 24,
+      "endFrame": 40,
+      "target": "minsu",
+      "intensity": 2,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    }
+  ],
+  "CaptionAnimationTimeline": [
+    {
+      "id": "event_5:IMPACT_CAPTION",
+      "eventId": "event_5",
+      "shotId": "SHOT_06",
+      "type": "IMPACT_CAPTION",
+      "frame": 400,
+      "endFrame": 424,
+      "target": "slider",
+      "intensity": 3,
+      "text": "저항 ↓",
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    }
+  ],
+  "ParticleTimeline": [
+    {
+      "id": "event_0:REACTION_BURST",
+      "eventId": "event_0",
+      "shotId": "SHOT_01",
+      "type": "REACTION_BURST",
+      "frame": 24,
+      "endFrame": 40,
+      "target": "minsu",
+      "intensity": 2,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    },
+    {
+      "id": "event_5:PIXEL_SPARK",
+      "eventId": "event_5",
+      "shotId": "SHOT_06",
+      "type": "PIXEL_SPARK",
+      "frame": 400,
+      "endFrame": 416,
+      "target": "slider",
+      "intensity": 3,
+      "text": "저항 ↓",
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "event_6:PIXEL_SPARK",
+      "eventId": "event_6",
+      "shotId": "SHOT_07",
+      "type": "PIXEL_SPARK",
+      "frame": 487,
+      "endFrame": 503,
+      "target": "minsu",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    },
+    {
+      "id": "event_10:PIXEL_SPARK",
+      "eventId": "event_10",
+      "shotId": "SHOT_11",
+      "type": "PIXEL_SPARK",
+      "frame": 874,
+      "endFrame": 890,
+      "target": "minsu",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    }
+  ],
+  "SoundEffectTimeline": [
+    {
+      "frame": 24,
+      "sound": "retro_boing",
+      "eventId": "event_0",
+      "event": "민수가 첫발을 내딛자 발이 앞으로 밀리고 팔을 펼쳐 균형을 잡는다",
+      "gainDb": -4,
+      "duck": true
+    },
+    {
+      "frame": 99,
+      "sound": "question_blip",
+      "eventId": "event_1",
+      "event": "민수가 몸을 낮추고 얼음 표면을 살피며 손을 뻗는다",
+      "gainDb": -6,
+      "duck": false
+    },
+    {
+      "frame": 400,
+      "sound": "discovery",
+      "eventId": "event_5",
+      "event": "표면 분자가 재배치되는 동안 접촉체가 옆으로 진행하고 카메라가 따라간다",
+      "gainDb": -4,
+      "duck": true
+    },
+    {
+      "frame": 487,
+      "sound": "ui_pop",
+      "eventId": "event_6",
+      "event": "민수가 몸을 바로 세우고 발을 밀어 균형을 회복한다",
+      "gainDb": -6,
+      "duck": false
+    },
+    {
+      "frame": 578,
+      "sound": "counter_tick",
+      "eventId": "event_7",
+      "event": "같은 속도로 이동하는 두 강철 접촉체에 다른 크기의 저항 화살표가 생긴다",
+      "gainDb": -4,
+      "duck": true
+    },
+    {
+      "frame": 874,
+      "sound": "ui_pop",
+      "eventId": "event_10",
+      "event": "민수가 손으로 얼음을 가리킨 뒤 고개를 끄덕이고 다시 균형 잡힌 자세로 이동한다",
+      "gainDb": -6,
+      "duck": false
+    }
+  ],
+  "counts": {
+    "PUNCH_ZOOM": 1,
+    "REACTION_BURST": 1,
+    "QUESTION_POP": 1,
+    "OBJECT_HIGHLIGHT": 5,
+    "PIXEL_SPARK": 3,
+    "IMPACT_CAPTION": 1,
+    "DATA_REVEAL": 1
+  },
+  "omissions": [
+    {
+      "event": "event_3",
+      "omitted": "DATA_REVEAL",
+      "reason": "No measured or reviewed data"
+    },
+    {
+      "event": "event_9",
+      "omitted": "DATA_REVEAL",
+      "reason": "No measured or reviewed data"
+    }
+  ]
+}

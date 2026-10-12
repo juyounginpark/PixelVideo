@@ -1,0 +1,13 @@
+{
+  "wallSeconds": 85.1481610999981,
+  "renderLoopSeconds": 85.01103750000038,
+  "renderedFrames": 150,
+  "reusedFrames": 0,
+  "assetCache": "MISS",
+  "assetKey": "fc7c6cc08b7930c211f602efb613763830beae00982de3321236e8f616c2d4c6",
+  "nativeSize": [
+    540,
+    960
+  ],
+  "blender": "5.0.1"
+}

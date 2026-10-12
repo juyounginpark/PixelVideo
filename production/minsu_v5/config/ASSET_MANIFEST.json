@@ -1,0 +1,31 @@
+{
+  "version": "5.0.0",
+  "countUnit": "logical reusable asset, not mesh object",
+  "reusedAssets": [
+    "MINSU_CUTE_V21 rig",
+    "Galmuri11 Bold",
+    "Galmuri11 Regular",
+    "curious_desert_100 BGM",
+    "soft_pop SFX",
+    "ui_pop SFX",
+    "discovery SFX"
+  ],
+  "reusedCount": 7,
+  "newLogicalBundles": [
+    "warm courtyard",
+    "warm laboratory",
+    "microscopy stage",
+    "white umbrella with stains",
+    "sample jar",
+    "microscope",
+    "culture dish",
+    "bark sample",
+    "algal cells and growth chain"
+  ],
+  "newBundleCount": 9,
+  "newExternalDownloads": 0,
+  "newAudioAssets": 0,
+  "newFonts": 0,
+  "materialTreatment": "existing pixel material generator with V5 palette and triplanar seam correction",
+  "cache": "single packed .blend across native sizes; content-addressed native shots, glyph atlases, text, UI clips and audio"
+}

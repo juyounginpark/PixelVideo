@@ -1,0 +1,58 @@
+[
+  {
+    "topicId": "namu-cache-listing-146",
+    "score": [
+      24,
+      24,
+      18,
+      9,
+      9,
+      8
+    ],
+    "firstImage": "같은 잔이 조명 이동 중 녹색에서 붉은색으로 변화",
+    "gate": "선정: 구체적 물체·원인·복귀 보상 가능"
+  },
+  {
+    "topicId": "namu-cache-listing-090",
+    "score": [
+      18,
+      21,
+      16,
+      9,
+      9,
+      6
+    ],
+    "firstImage": "얼음 아래 고착 생물 관찰",
+    "gate": "보류: 최초 2초에서 이상함이 설명 없이 잘 드러나지 않음"
+  },
+  {
+    "topicId": "namu-cache-listing-044",
+    "score": [
+      16,
+      20,
+      16,
+      8,
+      9,
+      7
+    ],
+    "firstImage": "밤의 뜨거운 돌풍",
+    "gate": "보류: 핵심 사건이 온도계 글자에 의존"
+  },
+  {
+    "topicId": "namu-cache-listing-087",
+    "score": [
+      16,
+      17,
+      14,
+      8,
+      9,
+      6
+    ],
+    "firstImage": "다른 주파수 고래 신호",
+    "gate": "보류: 시각만으로 차이가 약하고 외로운 고래로 과장 위험"
+  },
+  {
+    "topicId": "namu-cache-listing-063",
+    "gate": "탈락: EP09 중복"
+  }
+]

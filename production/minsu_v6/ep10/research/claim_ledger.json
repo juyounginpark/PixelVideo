@@ -1,0 +1,38 @@
+{
+  "sources": [
+    {
+      "url": "https://www.beilstein-journals.org/bjnano/articles/11/2",
+      "type": "Peer-reviewed primary reproduction research, including ancient-cup literature",
+      "doi": "10.3762/bjnano.11.2",
+      "snapshot": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\production\\minsu_v6\\ep10\\research\\study2020.html",
+      "sha256": "1d9e5d4044011dabb86cfe22c29c27352f7216268cc56c38dfc3d05cd29cc08d"
+    },
+    {
+      "url": "https://www.britishmuseum.org/collection/object/H_1958-1202-1",
+      "access": "403; search metadata only, not full-page verification"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "같은 잔이 반사광에서는 녹색, 투과광에서는 붉게 보인다",
+      "evidence": "Abstract, Introduction; observer/light on same versus opposite side",
+      "limits": "실제 색은 광원 스펙트럼과 관찰 조건에도 의존"
+    },
+    {
+      "claim": "유리 속 금·은 나노입자가 광학적 성질에 기여",
+      "evidence": "Abstract and Introduction",
+      "limits": "금과 은의 별도 순수 입자 혼합만으로 고대 구조를 정확히 복제했다고 주장하지 않음"
+    },
+    {
+      "claim": "나노입자의 산란·흡수로 색마다 반사/투과 특성이 달라짐",
+      "evidence": "2020 primary article, scattering discussion and absorption in mixed composites, plasmonic color conclusion",
+      "limits": "도식은 분광 계산이나 고대 입자 합금 구조의 정확한 재현이 아님"
+    }
+  ],
+  "rejectedClaims": [
+    "2020년에 처음 원리를 알아냈다",
+    "고대 제작자의 의도가 알려져 있다",
+    "모든 유리/모든 백색광에서 동일한 색 변화"
+  ],
+  "visualization": "빛 입자·경로·색은 개념 모식도; 광학 계산 및 나노 크기 비율 재현 아님"
+}

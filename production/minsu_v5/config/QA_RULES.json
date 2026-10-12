@@ -1,0 +1,40 @@
+{
+  "version": "5.0.0",
+  "automaticArtPass": false,
+  "gates": [
+    "TOPIC",
+    "STORY",
+    "STORYBOARD",
+    "ART_PREVIEW",
+    "EDITING_PREVIEW",
+    "FINAL_QA"
+  ],
+  "technical": [
+    "glyph coverage",
+    "projected bounds",
+    "model mesh checks",
+    "critical part intersections",
+    "foot contact",
+    "cache integrity",
+    "all frame decode",
+    "frame-index SFX",
+    "AAC alignment",
+    "CRT phase stability"
+  ],
+  "editorial": [
+    "event in first frame",
+    "new clue",
+    "cause visible",
+    "payoff resolves color",
+    "uncertainty preserved",
+    "body acting",
+    "reference comparison",
+    "mobile readability"
+  ],
+  "earlyStoryReject": [
+    "title-only opening",
+    "unsupported causal solution",
+    "abstract diagram majority",
+    "unverified alleged subject"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "duration": 30.0,
+  "sampleRate": 48000,
+  "track": {
+    "id": "curious_desert_100",
+    "path": "bgm/curious_desert_100.wav",
+    "mood": [
+      "exploration",
+      "observation",
+      "mechanism"
+    ],
+    "bpm": 100,
+    "duration": 19.2,
+    "loopable": true,
+    "instrumental": true,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "creditsRequired": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "commercialAndSocialUse": "Original project synthesis, no third-party samples or composition",
+    "measuredLUFS": -21.0
+  },
+  "events": [
+    {
+      "frame": 28,
+      "sound": "retro_boing",
+      "eventId": "event_0",
+      "event": "Large nut visibly emerges through the small nuts",
+      "gainDb": -4,
+      "duck": true,
+      "time": 0.9333333333333333,
+      "sampleIndex": 44800,
+      "actualTime": 0.9333333333333333,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 69,
+      "sound": "question_blip",
+      "eventId": "event_1",
+      "event": "Minsu follows the top nut then leans back",
+      "gainDb": -6,
+      "duck": false,
+      "time": 2.3,
+      "sampleIndex": 110400,
+      "actualTime": 2.3,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 161,
+      "sound": "counter_tick",
+      "eventId": "event_2",
+      "event": "Explicit return to initial state, Minsu pushes the box",
+      "gainDb": -6,
+      "duck": false,
+      "time": 5.366666666666666,
+      "sampleIndex": 257600,
+      "actualTime": 5.366666666666666,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 519,
+      "sound": "retro_boing",
+      "eventId": "event_5",
+      "event": "Small nuts descend as the large upright nut rises",
+      "gainDb": -4,
+      "duck": true,
+      "time": 17.3,
+      "sampleIndex": 830400,
+      "actualTime": 17.3,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 659,
+      "sound": "discovery",
+      "eventId": "event_6",
+      "event": "Large nut reorients horizontally at the surface",
+      "gainDb": -4,
+      "duck": true,
+      "time": 21.966666666666665,
+      "sampleIndex": 1054400,
+      "actualTime": 21.966666666666665,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 837,
+      "sound": "ui_pop",
+      "eventId": "event_8",
+      "event": "Minsu points between top and bottom and reacts with understanding",
+      "gainDb": -6,
+      "duck": false,
+      "time": 27.9,
+      "sampleIndex": 1339200,
+      "actualTime": 27.9,
+      "syncErrorSeconds": 0.0
+    }
+  ],
+  "stems": [
+    "bgm.wav",
+    "sfx.wav"
+  ],
+  "ttsEnabled": false,
+  "duckDb": 4,
+  "fadeIn": 0.4,
+  "fadeOut": 0.8,
+  "bgmMeasurement": {
+    "input_i": "-21.14",
+    "input_tp": "-11.88",
+    "input_lra": "1.80",
+    "input_thresh": "-31.19",
+    "output_i": "-19.06",
+    "output_tp": "-9.85",
+    "output_lra": "1.50",
+    "output_thresh": "-29.09",
+    "normalization_type": "dynamic",
+    "target_offset": "0.06"
+  },
+  "mixMeasurement": {
+    "input_i": "-19.00",
+    "input_tp": "-9.86",
+    "input_lra": "1.50",
+    "input_thresh": "-29.06",
+    "output_i": "-19.04",
+    "output_tp": "-9.98",
+    "output_lra": "1.20",
+    "output_thresh": "-29.07",
+    "normalization_type": "dynamic",
+    "target_offset": "0.04"
+  },
+  "loopBoundaryStep": 0.000823974609375,
+  "loopNeighborP999Step": 0.012908935546875,
+  "loopClickCheckPassed": true,
+  "minimumHalfSecondBgmRMS": 0.026512974213755914,
+  "bgmCoveragePassed": true,
+  "peakPassed": true,
+  "auditoryReview": "Not yet listened to; waveform/loudness checks are not a listening test."
+}

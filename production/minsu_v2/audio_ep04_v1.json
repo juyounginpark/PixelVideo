@@ -1,0 +1,14 @@
+{
+  "duration":36,
+  "source":"../ep04_thorny/episode.json",
+  "note":"Existing V1 video retained without changing frames or subtitle timing.",
+  "audioEvents":[
+    {"time":0.8,"sound":"water_drop","gainDb":-4,"duck":false,"event":"foot contacts puddle"},
+    {"time":3.55,"sound":"question_blip","gainDb":-5,"duck":true,"event":"observer crouch completes"},
+    {"time":12.0,"sound":"soft_whoosh","gainDb":-6,"duck":false,"event":"macro scale cut"},
+    {"time":12.65,"sound":"water_drop","gainDb":-5,"duck":false,"event":"macro droplet contact"},
+    {"time":24.0,"sound":"ui_pop","gainDb":-6,"duck":false,"event":"surface route observation"},
+    {"time":30.6,"sound":"water_drop","gainDb":-5,"duck":false,"event":"back droplet contact"},
+    {"time":33.2,"sound":"discovery","gainDb":-4,"duck":true,"event":"discovery ending"}
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "frames": 240,
+  "duration": 8.0,
+  "font": {
+    "checkedCharacters": 2798,
+    "fallbacks": 0,
+    "locale": "ko",
+    "atlases": [
+      {
+        "face": "PIXEL_DISPLAY",
+        "key": "9c382354502ec56eee25a4631d4d7fb2a010dca3b03602de31246810cfd461bc",
+        "reused": false,
+        "characters": 184
+      },
+      {
+        "face": "PIXEL_BODY",
+        "key": "6f47692f70ad4f01b2547637265cece9fc96d6c850551ce82057fb18e26b83de",
+        "reused": false,
+        "characters": 184
+      }
+    ]
+  },
+  "uiCacheHits": 0,
+  "audioCacheHit": true,
+  "audioFolder": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\production\\minsu_v5\\ep09\\cache\\audio\\ce000e466cf5010c3359a270b44e753bd7a6e548365c73176753e8eb82eee2f5",
+  "audio": {
+    "input_i": "-19.00",
+    "input_tp": "-6.93",
+    "input_lra": "2.50",
+    "input_thresh": "-29.08",
+    "output_i": "-19.71",
+    "output_tp": "-8.30",
+    "output_lra": "1.60",
+    "output_thresh": "-29.76",
+    "normalization_type": "dynamic",
+    "target_offset": "0.71"
+  },
+  "seconds": 19.86936810000043,
+  "textCacheHits": 16,
+  "output": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP09_STRIPES_KO.mp4",
+  "sha256": "3fbf82351651207c395e40da0859ce4cec5be2093152e4b7dcc70cf7b93119ce",
+  "tts": false
+}

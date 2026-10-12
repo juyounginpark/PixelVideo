@@ -1,0 +1,68 @@
+{
+  "fullDecodePassed": true,
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 30.0,
+    "source_size": [
+      1080,
+      1920
+    ],
+    "size": [
+      1080,
+      1920
+    ],
+    "rotate": 0,
+    "duration": 30.0
+  },
+  "frameCount": 900,
+  "loudness": {
+    "input_i": "-19.01",
+    "input_tp": "-9.86",
+    "input_lra": "1.50",
+    "input_thresh": "-29.06",
+    "output_i": "-19.04",
+    "output_tp": "-9.96",
+    "output_lra": "1.20",
+    "output_thresh": "-29.06",
+    "normalization_type": "dynamic",
+    "target_offset": "0.04"
+  },
+  "effectCounts": {
+    "PUNCH_ZOOM": 2,
+    "REACTION_BURST": 2,
+    "QUESTION_POP": 1,
+    "DATA_REVEAL": 1,
+    "OBJECT_HIGHLIGHT": 4,
+    "PIXEL_SPARK": 2,
+    "IMPACT_CAPTION": 1
+  },
+  "uiFramesValidated": 900,
+  "ttsEnabled": false,
+  "sourceReceipt": {
+    "sourceSystem": "existing NamuWiki mystery index workflow",
+    "indexUrl": "https://namu.wiki/w/미스터리%20관련%20정보",
+    "localSource": "research/namuwiki/listing.txt",
+    "sourceSha256": "1fc6548a87db2cee99c71fe7dc14f322e7600b383856dca633ca74346bfb8fe0",
+    "sourceLine": 92,
+    "selectionBasis": "Existing 15-item draft row 1; original visual/verification/exclusion/dedup criteria",
+    "selectionMode": "reviewed selection from existing source, not automated recommendation",
+    "priorEpisodeConcepts": [
+      "sailing stones planning",
+      "mystery vending machine",
+      "Brocken spectre",
+      "thorny devil water collection"
+    ],
+    "sourceFilesModified": false,
+    "sampleQa": "production/minsu_v3/sample/FINAL_QA.json",
+    "selectedItem": "브라질너트 효과",
+    "duplicateCheck": "No previous produced episode for this concept found"
+  },
+  "limits": [
+    "Projected geometry masks do not solve inter-object occlusion",
+    "No human listening approval",
+    "No retention measurement"
+  ]
+}

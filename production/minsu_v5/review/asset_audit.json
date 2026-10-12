@@ -1,0 +1,3019 @@
+{
+  "assetKey": "17bb2fb0c5c5fee7abbfe6fe5ae272bd1502adc6833618d5144be132d1f792d4",
+  "meshCount": 435,
+  "missingPackedTextures": [],
+  "scaledTexturedMeshes": [
+    {
+      "object": "ALGAL_BRANCH_CELL",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.001",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.002",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.003",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.004",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.005",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.006",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.007",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.008",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.009",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.010",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.011",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.012",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "ALGAL_BRANCH_CELL.013",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch.001",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch.002",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch.003",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch.004",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch.005",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch.006",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch.007",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch.008",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch.009",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch.010",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "bark_alga_patch.011",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "Confused_brow",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Confused_brow.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Confused_eye_glint",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Confused_eye_glint.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Curious_brow",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Curious_brow.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Curious_eye_glint",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Curious_eye_glint.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Determined_brow",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Determined_brow.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Determined_eye_glint",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Determined_eye_glint.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "hand_sample_back",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_base",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_glass_edge",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_glass_edge.001",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.001",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.002",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.003",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.004",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.005",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.006",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.007",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.008",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.009",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.010",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.011",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.012",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.013",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.014",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.015",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.016",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.017",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.018",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.019",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.020",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.021",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.022",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.023",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.024",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.025",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.026",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.027",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.028",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.029",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.030",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.031",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.032",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.033",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.034",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.035",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.036",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.037",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.038",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.039",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.040",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.041",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_particle.042",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_rim",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "hand_sample_rim_front",
+      "worldScale": [
+        0.3799999952316284,
+        0.3799999952316284,
+        0.3799999952316284
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        42.10526368624617,
+        42.10526368624617,
+        42.10526368624617
+      ]
+    },
+    {
+      "object": "lab_sample_back",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_base",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_glass_edge",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_glass_edge.001",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.001",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.002",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.003",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.004",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.005",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.006",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.007",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.008",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.009",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.010",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.011",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.012",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.013",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.014",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.015",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.016",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.017",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.018",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.019",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.020",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.021",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.022",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.023",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.024",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.025",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.026",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.027",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.028",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.029",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.030",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.031",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.032",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.033",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.034",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.035",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.036",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.037",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.038",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.039",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.040",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.041",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_particle.042",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_rim",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "lab_sample_rim_front",
+      "worldScale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        32.0,
+        32.0,
+        32.0
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.001",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.002",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.003",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.004",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.005",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.006",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.007",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.008",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.009",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.010",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.011",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.012",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.013",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.014",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "MICRO_RED_CELL.015",
+      "worldScale": [
+        1.0,
+        1.0,
+        0.550000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        16.0,
+        16.0,
+        29.090908460380632
+      ]
+    },
+    {
+      "object": "rain_comparison_back",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_base",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_glass_edge",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_glass_edge.001",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.001",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.002",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.003",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.004",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.005",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.006",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.007",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.008",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.009",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.010",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.011",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.012",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.013",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.014",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.015",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.016",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.017",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.018",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.019",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.020",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.021",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.022",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.023",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.024",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.025",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.026",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.027",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.028",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.029",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.030",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.031",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.032",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.033",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.034",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.035",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.036",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.037",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.038",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.039",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.040",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.041",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_particle.042",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_rim",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "rain_comparison_rim_front",
+      "worldScale": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        19.99999970197678,
+        19.99999970197678,
+        19.99999970197678
+      ]
+    },
+    {
+      "object": "Scared_brow",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Scared_brow.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Scared_eye_glint",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Scared_eye_glint.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Surprise_eye_glint",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Surprise_eye_glint.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Thinking_brow",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Thinking_brow.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Thinking_eye_glint",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Thinking_eye_glint.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Worried_brow",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Worried_brow.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Worried_eye_glint",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    },
+    {
+      "object": "Worried_eye_glint.001",
+      "worldScale": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nominalObjectTexels": 16,
+      "effectiveAxisTexels": [
+        160000.0,
+        160000.0,
+        160000.0
+      ]
+    }
+  ],
+  "textureDensityScope": "16 texels per local object unit. Parent-scaled props are denser in world units; do not claim perfect global texel equality.",
+  "interpretation": "Actual texture sampling is Closest, but small jars/cells have residual world-scale density differences. This is an editorial limitation, not a missing-file error."
+}

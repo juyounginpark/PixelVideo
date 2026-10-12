@@ -1,0 +1,65 @@
+{
+  "fullDecodePassed": true,
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 30.0,
+    "source_size": [
+      1080,
+      1920
+    ],
+    "size": [
+      1080,
+      1920
+    ],
+    "rotate": 0,
+    "duration": 35.0
+  },
+  "frameCount": 1050,
+  "sourceFrameRange": [
+    0,
+    1050
+  ],
+  "uiFramesValidated": 1050,
+  "loudness": {
+    "input_i": "-19.00",
+    "input_tp": "-9.30",
+    "input_lra": "1.50",
+    "input_thresh": "-29.08",
+    "output_i": "-19.07",
+    "output_tp": "-9.35",
+    "output_lra": "1.10",
+    "output_thresh": "-29.10",
+    "normalization_type": "dynamic",
+    "target_offset": "0.07"
+  },
+  "effectCounts": {
+    "PUNCH_ZOOM": 1,
+    "REACTION_BURST": 1,
+    "QUESTION_POP": 1,
+    "OBJECT_HIGHLIGHT": 5,
+    "PIXEL_SPARK": 3,
+    "IMPACT_CAPTION": 1,
+    "DATA_REVEAL": 1
+  },
+  "ttsEnabled": false,
+  "source": {
+    "local": "research/namuwiki/listing.txt",
+    "draftRow": 3,
+    "status": "selected_after_sample_gate",
+    "sourceLines": [
+      106,
+      118
+    ],
+    "sourceSha256": "1fc6548a87db2cee99c71fe7dc14f322e7600b383856dca633ca74346bfb8fe0",
+    "selectionRecord": "production/minsu_v31/SOURCE_AND_SCOPE.md",
+    "sampleGate": "production/minsu_v31/ep06/sample_review/GATE.md"
+  },
+  "sha256": "38024a904801504393d48076113ac9bf135737868477bf935c8917e44f5e8a1a",
+  "limits": [
+    "Authored molecular diagram, not physical simulation",
+    "No real-time playback or listening approval implied"
+  ]
+}

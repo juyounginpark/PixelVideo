@@ -1,0 +1,64 @@
+{
+  "ko": {
+    "decodePassed": true,
+    "decodedFrameCount": 960,
+    "formatPassed": true,
+    "decodeErrors": "",
+    "outputSHA256": "976e38326e487da66c92d05ccdbb288dd9bc78e84a064aefebd0f233bd7a734d",
+    "mediaInfo": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP10_V6_LYCURGUS_KO.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.100\n  Duration: 00:00:32.00, start: 0.000000, bitrate: 2254 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920, 2052 kb/s, 30 fps, 30 tbr, 15360 tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.100 libx264\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\nAt least one output file must be specified\n",
+    "uiFrames": 960,
+    "glyphFallbacks": 0,
+    "textCollisions": [],
+    "cupOutOfFrame": [],
+    "reviewFrames": 32,
+    "audioAnalysis": {
+      "input_i": "-18.92",
+      "input_tp": "-5.80",
+      "input_lra": "6.60",
+      "input_thresh": "-29.02",
+      "output_i": "-18.58",
+      "output_tp": "-5.19",
+      "output_lra": "6.40",
+      "output_thresh": "-28.66",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.42"
+    },
+    "audioPeakPassed": true
+  },
+  "en": {
+    "decodePassed": true,
+    "decodedFrameCount": 960,
+    "formatPassed": true,
+    "decodeErrors": "",
+    "outputSHA256": "51b614c79c2b22375cffe7ca5202b634554e94b95f4f812d0fdf535d1afb58c9",
+    "mediaInfo": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP10_V6_LYCURGUS_EN.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.100\n  Duration: 00:00:32.00, start: 0.000000, bitrate: 2292 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920, 2090 kb/s, 30 fps, 30 tbr, 15360 tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.100 libx264\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\nAt least one output file must be specified\n",
+    "uiFrames": 960,
+    "glyphFallbacks": 0,
+    "textCollisions": [],
+    "cupOutOfFrame": [],
+    "reviewFrames": 32,
+    "audioAnalysis": {
+      "input_i": "-18.92",
+      "input_tp": "-5.80",
+      "input_lra": "6.60",
+      "input_thresh": "-29.02",
+      "output_i": "-18.58",
+      "output_tp": "-5.19",
+      "output_lra": "6.40",
+      "output_thresh": "-28.66",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.42"
+    },
+    "audioPeakPassed": true
+  },
+  "preservation": {
+    "checkedFiles": 58,
+    "changedFiles": []
+  },
+  "gate": {
+    "technicalPassed": true,
+    "errors": [],
+    "editorialAutoApproved": false,
+    "rulesVersion": "6.0.0"
+  }
+}

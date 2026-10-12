@@ -1,0 +1,6 @@
+{
+  "method": "faster-whisper small, CPU int8, Korean, beam_size=5, vad_filter=True",
+  "status": "automatic_transcription_not_manually_auditioned",
+  "language": "ko",
+  "segments": []
+}

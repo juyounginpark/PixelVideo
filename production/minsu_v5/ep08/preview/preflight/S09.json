@@ -1,0 +1,4322 @@
+{
+  "0": {
+    "anchors": {
+      "head": {
+        "rect": [
+          456.75,
+          735.22,
+          824.32,
+          1135.21
+        ],
+        "point": [
+          640.54,
+          935.21
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.67,
+          381.08,
+          790.11,
+          1099.71
+        ],
+        "point": [
+          433.39,
+          740.4
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 0,
+      "action": "CELEBRATE",
+      "cameraScale": 4.800000190734863,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "1": {
+    "anchors": {
+      "head": {
+        "rect": [
+          457.6,
+          734.46,
+          825.41,
+          1136.13
+        ],
+        "point": [
+          641.51,
+          935.3
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.67,
+          380.73,
+          790.22,
+          1099.67
+        ],
+        "point": [
+          433.44,
+          740.2
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 1,
+      "action": "CELEBRATE",
+      "cameraScale": 4.799984931945801,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "2": {
+    "anchors": {
+      "head": {
+        "rect": [
+          458.45,
+          733.74,
+          826.5,
+          1137.04
+        ],
+        "point": [
+          642.48,
+          935.39
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.66,
+          380.37,
+          790.32,
+          1099.62
+        ],
+        "point": [
+          433.49,
+          740.0
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 2,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7999396324157715,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "3": {
+    "anchors": {
+      "head": {
+        "rect": [
+          459.29,
+          733.05,
+          827.61,
+          1137.91
+        ],
+        "point": [
+          643.45,
+          935.48
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.66,
+          380.01,
+          790.43,
+          1099.58
+        ],
+        "point": [
+          433.54,
+          739.79
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 3,
+      "action": "CELEBRATE",
+      "cameraScale": 4.799865245819092,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "4": {
+    "anchors": {
+      "head": {
+        "rect": [
+          460.12,
+          732.4,
+          828.71,
+          1138.75
+        ],
+        "point": [
+          644.41,
+          935.57
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.65,
+          379.64,
+          790.54,
+          1099.53
+        ],
+        "point": [
+          433.59,
+          739.59
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 4,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7997612953186035,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "5": {
+    "anchors": {
+      "head": {
+        "rect": [
+          460.93,
+          731.81,
+          829.82,
+          1139.55
+        ],
+        "point": [
+          645.38,
+          935.68
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.64,
+          379.28,
+          790.65,
+          1099.49
+        ],
+        "point": [
+          433.64,
+          739.38
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 5,
+      "action": "CELEBRATE",
+      "cameraScale": 4.799629211425781,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "6": {
+    "anchors": {
+      "head": {
+        "rect": [
+          461.73,
+          731.26,
+          830.94,
+          1140.31
+        ],
+        "point": [
+          646.33,
+          935.79
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.63,
+          378.91,
+          790.75,
+          1099.44
+        ],
+        "point": [
+          433.69,
+          739.18
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 6,
+      "action": "CELEBRATE",
+      "cameraScale": 4.799469470977783,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "7": {
+    "anchors": {
+      "head": {
+        "rect": [
+          462.51,
+          730.76,
+          832.04,
+          1141.03
+        ],
+        "point": [
+          647.28,
+          935.9
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.61,
+          378.54,
+          790.86,
+          1099.4
+        ],
+        "point": [
+          433.74,
+          738.97
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 7,
+      "action": "CELEBRATE",
+      "cameraScale": 4.799282073974609,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "8": {
+    "anchors": {
+      "head": {
+        "rect": [
+          463.27,
+          730.32,
+          833.15,
+          1141.72
+        ],
+        "point": [
+          648.21,
+          936.02
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.59,
+          378.17,
+          790.97,
+          1099.35
+        ],
+        "point": [
+          433.78,
+          738.76
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 8,
+      "action": "CELEBRATE",
+      "cameraScale": 4.799067497253418,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "9": {
+    "anchors": {
+      "head": {
+        "rect": [
+          464.01,
+          729.92,
+          834.24,
+          1142.36
+        ],
+        "point": [
+          649.12,
+          936.14
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.58,
+          377.8,
+          791.08,
+          1099.31
+        ],
+        "point": [
+          433.83,
+          738.55
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 9,
+      "action": "CELEBRATE",
+      "cameraScale": 4.798826694488525,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "10": {
+    "anchors": {
+      "head": {
+        "rect": [
+          464.72,
+          729.57,
+          835.32,
+          1142.97
+        ],
+        "point": [
+          650.02,
+          936.27
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.55,
+          377.42,
+          791.19,
+          1099.26
+        ],
+        "point": [
+          433.87,
+          738.34
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 10,
+      "action": "CELEBRATE",
+      "cameraScale": 4.79856014251709,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "11": {
+    "anchors": {
+      "head": {
+        "rect": [
+          465.4,
+          729.26,
+          836.38,
+          1143.54
+        ],
+        "point": [
+          650.89,
+          936.4
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.53,
+          377.05,
+          791.3,
+          1099.22
+        ],
+        "point": [
+          433.92,
+          738.13
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 11,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7982683181762695,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "12": {
+    "anchors": {
+      "head": {
+        "rect": [
+          466.06,
+          729.01,
+          837.42,
+          1144.07
+        ],
+        "point": [
+          651.74,
+          936.54
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.51,
+          376.67,
+          791.41,
+          1099.18
+        ],
+        "point": [
+          433.96,
+          737.93
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 12,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7979512214660645,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "13": {
+    "anchors": {
+      "head": {
+        "rect": [
+          466.68,
+          728.79,
+          838.44,
+          1144.56
+        ],
+        "point": [
+          652.56,
+          936.68
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.48,
+          376.3,
+          791.52,
+          1099.13
+        ],
+        "point": [
+          434.0,
+          737.72
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 13,
+      "action": "CELEBRATE",
+      "cameraScale": 4.797609806060791,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "14": {
+    "anchors": {
+      "head": {
+        "rect": [
+          467.27,
+          728.62,
+          839.43,
+          1145.02
+        ],
+        "point": [
+          653.35,
+          936.82
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.45,
+          375.93,
+          791.63,
+          1099.09
+        ],
+        "point": [
+          434.04,
+          737.51
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 14,
+      "action": "CELEBRATE",
+      "cameraScale": 4.797245025634766,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "15": {
+    "anchors": {
+      "head": {
+        "rect": [
+          467.83,
+          728.5,
+          840.38,
+          1145.44
+        ],
+        "point": [
+          654.11,
+          936.97
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.42,
+          375.55,
+          791.74,
+          1099.05
+        ],
+        "point": [
+          434.08,
+          737.3
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 15,
+      "action": "CELEBRATE",
+      "cameraScale": 4.79685640335083,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "16": {
+    "anchors": {
+      "head": {
+        "rect": [
+          468.35,
+          728.41,
+          841.3,
+          1145.83
+        ],
+        "point": [
+          654.83,
+          937.12
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.39,
+          375.18,
+          791.85,
+          1099.01
+        ],
+        "point": [
+          434.12,
+          737.09
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 16,
+      "action": "CELEBRATE",
+      "cameraScale": 4.796445369720459,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "17": {
+    "anchors": {
+      "head": {
+        "rect": [
+          468.84,
+          728.37,
+          842.18,
+          1146.17
+        ],
+        "point": [
+          655.51,
+          937.27
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.35,
+          374.81,
+          791.96,
+          1098.97
+        ],
+        "point": [
+          434.16,
+          736.89
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 17,
+      "action": "CELEBRATE",
+      "cameraScale": 4.796011447906494,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "18": {
+    "anchors": {
+      "head": {
+        "rect": [
+          469.29,
+          728.36,
+          843.01,
+          1146.48
+        ],
+        "point": [
+          656.15,
+          937.42
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.32,
+          374.44,
+          792.07,
+          1098.93
+        ],
+        "point": [
+          434.2,
+          736.68
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 18,
+      "action": "CELEBRATE",
+      "cameraScale": 4.795556545257568,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "19": {
+    "anchors": {
+      "head": {
+        "rect": [
+          469.69,
+          728.4,
+          843.79,
+          1146.75
+        ],
+        "point": [
+          656.74,
+          937.58
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.28,
+          374.07,
+          792.18,
+          1098.89
+        ],
+        "point": [
+          434.23,
+          736.48
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 19,
+      "action": "CELEBRATE",
+      "cameraScale": 4.795079708099365,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "20": {
+    "anchors": {
+      "head": {
+        "rect": [
+          470.06,
+          728.48,
+          844.53,
+          1146.98
+        ],
+        "point": [
+          657.29,
+          937.73
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.24,
+          373.7,
+          792.29,
+          1098.85
+        ],
+        "point": [
+          434.27,
+          736.28
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 20,
+      "action": "CELEBRATE",
+      "cameraScale": 4.794582366943359,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "21": {
+    "anchors": {
+      "head": {
+        "rect": [
+          470.39,
+          728.61,
+          845.21,
+          1147.16
+        ],
+        "point": [
+          657.8,
+          937.88
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.2,
+          373.34,
+          792.4,
+          1098.81
+        ],
+        "point": [
+          434.3,
+          736.08
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 21,
+      "action": "CELEBRATE",
+      "cameraScale": 4.794064521789551,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "22": {
+    "anchors": {
+      "head": {
+        "rect": [
+          470.68,
+          728.78,
+          845.83,
+          1147.29
+        ],
+        "point": [
+          658.25,
+          938.04
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.16,
+          372.98,
+          792.5,
+          1098.77
+        ],
+        "point": [
+          434.33,
+          735.88
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 22,
+      "action": "CELEBRATE",
+      "cameraScale": 4.793527126312256,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "23": {
+    "anchors": {
+      "head": {
+        "rect": [
+          470.92,
+          728.99,
+          846.39,
+          1147.38
+        ],
+        "point": [
+          658.66,
+          938.19
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.11,
+          372.62,
+          792.61,
+          1098.74
+        ],
+        "point": [
+          434.36,
+          735.68
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 23,
+      "action": "CELEBRATE",
+      "cameraScale": 4.792970657348633,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "24": {
+    "anchors": {
+      "head": {
+        "rect": [
+          471.12,
+          729.26,
+          846.89,
+          1147.42
+        ],
+        "point": [
+          659.01,
+          938.34
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.07,
+          372.27,
+          792.72,
+          1098.7
+        ],
+        "point": [
+          434.39,
+          735.48
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 24,
+      "action": "CELEBRATE",
+      "cameraScale": 4.79239559173584,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "25": {
+    "anchors": {
+      "head": {
+        "rect": [
+          471.28,
+          729.56,
+          847.33,
+          1147.4
+        ],
+        "point": [
+          659.3,
+          938.48
+        ]
+      },
+      "focus": {
+        "rect": [
+          76.02,
+          371.91,
+          792.82,
+          1098.67
+        ],
+        "point": [
+          434.42,
+          735.29
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 25,
+      "action": "CELEBRATE",
+      "cameraScale": 4.791801929473877,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "26": {
+    "anchors": {
+      "head": {
+        "rect": [
+          471.4,
+          729.92,
+          847.7,
+          1147.34
+        ],
+        "point": [
+          659.55,
+          938.63
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.97,
+          371.56,
+          792.93,
+          1098.63
+        ],
+        "point": [
+          434.45,
+          735.1
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 26,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7911906242370605,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "27": {
+    "anchors": {
+      "head": {
+        "rect": [
+          471.47,
+          730.32,
+          848.0,
+          1147.22
+        ],
+        "point": [
+          659.74,
+          938.77
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.92,
+          371.22,
+          793.03,
+          1098.6
+        ],
+        "point": [
+          434.47,
+          734.91
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 27,
+      "action": "CELEBRATE",
+      "cameraScale": 4.790562629699707,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "28": {
+    "anchors": {
+      "head": {
+        "rect": [
+          471.5,
+          730.75,
+          848.24,
+          1147.06
+        ],
+        "point": [
+          659.87,
+          938.91
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.87,
+          370.88,
+          793.13,
+          1098.57
+        ],
+        "point": [
+          434.5,
+          734.72
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 28,
+      "action": "CELEBRATE",
+      "cameraScale": 4.789917469024658,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "29": {
+    "anchors": {
+      "head": {
+        "rect": [
+          471.49,
+          731.23,
+          848.41,
+          1146.85
+        ],
+        "point": [
+          659.95,
+          939.04
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.81,
+          370.54,
+          793.23,
+          1098.54
+        ],
+        "point": [
+          434.52,
+          734.54
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 29,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7892560958862305,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "30": {
+    "anchors": {
+      "head": {
+        "rect": [
+          471.43,
+          731.74,
+          848.51,
+          1146.59
+        ],
+        "point": [
+          659.97,
+          939.16
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.76,
+          370.21,
+          793.33,
+          1098.51
+        ],
+        "point": [
+          434.54,
+          734.36
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 30,
+      "action": "CELEBRATE",
+      "cameraScale": 4.78857946395874,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "31": {
+    "anchors": {
+      "head": {
+        "rect": [
+          471.33,
+          732.28,
+          848.54,
+          1146.29
+        ],
+        "point": [
+          659.94,
+          939.29
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.7,
+          369.88,
+          793.43,
+          1098.48
+        ],
+        "point": [
+          434.57,
+          734.18
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 31,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7878875732421875,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "32": {
+    "anchors": {
+      "head": {
+        "rect": [
+          471.19,
+          732.85,
+          848.51,
+          1145.95
+        ],
+        "point": [
+          659.85,
+          939.4
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.64,
+          369.56,
+          793.53,
+          1098.46
+        ],
+        "point": [
+          434.59,
+          734.01
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 32,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7871809005737305,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "33": {
+    "anchors": {
+      "head": {
+        "rect": [
+          471.0,
+          733.43,
+          848.41,
+          1145.58
+        ],
+        "point": [
+          659.7,
+          939.5
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.58,
+          369.24,
+          793.62,
+          1098.43
+        ],
+        "point": [
+          434.6,
+          733.84
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 33,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7864603996276855,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "34": {
+    "anchors": {
+      "head": {
+        "rect": [
+          470.77,
+          734.02,
+          848.24,
+          1145.19
+        ],
+        "point": [
+          659.51,
+          939.6
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.52,
+          368.93,
+          793.72,
+          1098.41
+        ],
+        "point": [
+          434.62,
+          733.67
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 34,
+      "action": "CELEBRATE",
+      "cameraScale": 4.785726070404053,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "35": {
+    "anchors": {
+      "head": {
+        "rect": [
+          470.51,
+          734.6,
+          848.01,
+          1144.77
+        ],
+        "point": [
+          659.26,
+          939.69
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.46,
+          368.62,
+          793.81,
+          1098.39
+        ],
+        "point": [
+          434.64,
+          733.51
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 35,
+      "action": "CELEBRATE",
+      "cameraScale": 4.78497838973999,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "36": {
+    "anchors": {
+      "head": {
+        "rect": [
+          470.2,
+          735.18,
+          847.72,
+          1144.35
+        ],
+        "point": [
+          658.96,
+          939.77
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.39,
+          368.32,
+          793.91,
+          1098.37
+        ],
+        "point": [
+          434.65,
+          733.34
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 36,
+      "action": "CELEBRATE",
+      "cameraScale": 4.784218788146973,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "37": {
+    "anchors": {
+      "head": {
+        "rect": [
+          469.85,
+          735.75,
+          847.36,
+          1143.93
+        ],
+        "point": [
+          658.61,
+          939.84
+        ]
+      },
+      "focus": {
+        "rect": [
+          75.33,
+          368.03,
+          794.0,
+          1098.35
+        ],
+        "point": [
+          434.66,
+          733.19
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 37,
+      "action": "CELEBRATE",
+      "cameraScale": 4.783446788787842,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "38": {
+    "anchors": {
+      "head": {
+        "rect": [
+          467.54,
+          730.19,
+          855.3,
+          1148.5
+        ],
+        "point": [
+          661.42,
+          939.35
+        ]
+      },
+      "focus": {
+        "rect": [
+          62.61,
+          351.62,
+          801.0,
+          1102.1
+        ],
+        "point": [
+          431.81,
+          726.86
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 38,
+      "action": "CELEBRATE",
+      "cameraScale": 4.655919075012207,
+      "event": "PAYOFF",
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "39": {
+    "anchors": {
+      "head": {
+        "rect": [
+          466.83,
+          729.84,
+          856.0,
+          1148.79
+        ],
+        "point": [
+          661.42,
+          939.32
+        ]
+      },
+      "focus": {
+        "rect": [
+          60.73,
+          349.02,
+          802.08,
+          1102.62
+        ],
+        "point": [
+          431.41,
+          725.82
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 39,
+      "action": "CELEBRATE",
+      "cameraScale": 4.6375885009765625,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "40": {
+    "anchors": {
+      "head": {
+        "rect": [
+          466.08,
+          729.45,
+          856.64,
+          1149.1
+        ],
+        "point": [
+          661.36,
+          939.27
+        ]
+      },
+      "focus": {
+        "rect": [
+          58.85,
+          346.43,
+          803.16,
+          1103.14
+        ],
+        "point": [
+          431.01,
+          724.79
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 40,
+      "action": "CELEBRATE",
+      "cameraScale": 4.619385242462158,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "41": {
+    "anchors": {
+      "head": {
+        "rect": [
+          465.85,
+          730.74,
+          854.84,
+          1148.02
+        ],
+        "point": [
+          660.34,
+          939.38
+        ]
+      },
+      "focus": {
+        "rect": [
+          60.59,
+          348.46,
+          802.26,
+          1102.59
+        ],
+        "point": [
+          431.42,
+          725.53
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 41,
+      "action": "CELEBRATE",
+      "cameraScale": 4.636017322540283,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "42": {
+    "anchors": {
+      "head": {
+        "rect": [
+          465.59,
+          731.97,
+          852.98,
+          1146.96
+        ],
+        "point": [
+          659.29,
+          939.47
+        ]
+      },
+      "focus": {
+        "rect": [
+          62.32,
+          350.5,
+          801.36,
+          1102.05
+        ],
+        "point": [
+          431.84,
+          726.27
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 42,
+      "action": "CELEBRATE",
+      "cameraScale": 4.65276575088501,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "43": {
+    "anchors": {
+      "head": {
+        "rect": [
+          465.3,
+          733.13,
+          851.08,
+          1145.95
+        ],
+        "point": [
+          658.19,
+          939.54
+        ]
+      },
+      "focus": {
+        "rect": [
+          64.06,
+          352.54,
+          800.45,
+          1101.5
+        ],
+        "point": [
+          432.25,
+          727.02
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 43,
+      "action": "CELEBRATE",
+      "cameraScale": 4.669632911682129,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "44": {
+    "anchors": {
+      "head": {
+        "rect": [
+          464.98,
+          734.23,
+          849.12,
+          1144.98
+        ],
+        "point": [
+          657.05,
+          939.61
+        ]
+      },
+      "focus": {
+        "rect": [
+          65.79,
+          354.6,
+          799.54,
+          1100.96
+        ],
+        "point": [
+          432.67,
+          727.78
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 44,
+      "action": "CELEBRATE",
+      "cameraScale": 4.686620235443115,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "45": {
+    "anchors": {
+      "head": {
+        "rect": [
+          464.65,
+          735.27,
+          847.11,
+          1144.06
+        ],
+        "point": [
+          655.88,
+          939.66
+        ]
+      },
+      "focus": {
+        "rect": [
+          67.52,
+          356.66,
+          798.63,
+          1100.41
+        ],
+        "point": [
+          433.08,
+          728.54
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 45,
+      "action": "CELEBRATE",
+      "cameraScale": 4.70373010635376,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "46": {
+    "anchors": {
+      "head": {
+        "rect": [
+          464.29,
+          736.23,
+          845.05,
+          1143.17
+        ],
+        "point": [
+          654.67,
+          939.7
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.25,
+          358.74,
+          797.72,
+          1099.87
+        ],
+        "point": [
+          433.49,
+          729.31
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 46,
+      "action": "CELEBRATE",
+      "cameraScale": 4.720963954925537,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "47": {
+    "anchors": {
+      "head": {
+        "rect": [
+          463.92,
+          737.13,
+          842.95,
+          1142.34
+        ],
+        "point": [
+          653.44,
+          939.73
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.99,
+          360.82,
+          796.8,
+          1099.34
+        ],
+        "point": [
+          433.89,
+          730.08
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 47,
+      "action": "CELEBRATE",
+      "cameraScale": 4.738324165344238,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "48": {
+    "anchors": {
+      "head": {
+        "rect": [
+          463.53,
+          737.97,
+          840.8,
+          1141.54
+        ],
+        "point": [
+          652.17,
+          939.75
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.72,
+          362.92,
+          795.89,
+          1098.8
+        ],
+        "point": [
+          434.3,
+          730.86
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 48,
+      "action": "CELEBRATE",
+      "cameraScale": 4.755812168121338,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "49": {
+    "anchors": {
+      "head": {
+        "rect": [
+          463.14,
+          738.75,
+          838.61,
+          1140.79
+        ],
+        "point": [
+          650.87,
+          939.77
+        ]
+      },
+      "focus": {
+        "rect": [
+          74.45,
+          365.02,
+          794.97,
+          1098.27
+        ],
+        "point": [
+          434.71,
+          731.64
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 49,
+      "action": "CELEBRATE",
+      "cameraScale": 4.773430347442627,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "50": {
+    "anchors": {
+      "head": {
+        "rect": [
+          462.43,
+          738.61,
+          837.53,
+          1140.77
+        ],
+        "point": [
+          649.98,
+          939.69
+        ]
+      },
+      "focus": {
+        "rect": [
+          74.37,
+          364.82,
+          795.04,
+          1098.27
+        ],
+        "point": [
+          434.7,
+          731.55
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 50,
+      "action": "CELEBRATE",
+      "cameraScale": 4.772548675537109,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "51": {
+    "anchors": {
+      "head": {
+        "rect": [
+          461.7,
+          738.43,
+          836.4,
+          1140.78
+        ],
+        "point": [
+          649.05,
+          939.61
+        ]
+      },
+      "focus": {
+        "rect": [
+          74.28,
+          364.63,
+          795.1,
+          1098.28
+        ],
+        "point": [
+          434.69,
+          731.45
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 51,
+      "action": "CELEBRATE",
+      "cameraScale": 4.771661758422852,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "52": {
+    "anchors": {
+      "head": {
+        "rect": [
+          460.97,
+          738.21,
+          835.22,
+          1140.82
+        ],
+        "point": [
+          648.1,
+          939.52
+        ]
+      },
+      "focus": {
+        "rect": [
+          74.2,
+          364.44,
+          795.17,
+          1098.29
+        ],
+        "point": [
+          434.68,
+          731.37
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 52,
+      "action": "CELEBRATE",
+      "cameraScale": 4.77077054977417,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "53": {
+    "anchors": {
+      "head": {
+        "rect": [
+          460.23,
+          737.96,
+          834.0,
+          1140.88
+        ],
+        "point": [
+          647.12,
+          939.42
+        ]
+      },
+      "focus": {
+        "rect": [
+          74.12,
+          364.27,
+          795.23,
+          1098.3
+        ],
+        "point": [
+          434.67,
+          731.28
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 53,
+      "action": "CELEBRATE",
+      "cameraScale": 4.769875526428223,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "54": {
+    "anchors": {
+      "head": {
+        "rect": [
+          459.49,
+          737.69,
+          832.73,
+          1140.95
+        ],
+        "point": [
+          646.11,
+          939.32
+        ]
+      },
+      "focus": {
+        "rect": [
+          74.03,
+          364.1,
+          795.29,
+          1098.31
+        ],
+        "point": [
+          434.66,
+          731.21
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 54,
+      "action": "CELEBRATE",
+      "cameraScale": 4.768977165222168,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "55": {
+    "anchors": {
+      "head": {
+        "rect": [
+          458.74,
+          737.39,
+          831.42,
+          1141.03
+        ],
+        "point": [
+          645.08,
+          939.21
+        ]
+      },
+      "focus": {
+        "rect": [
+          73.95,
+          363.94,
+          795.35,
+          1098.33
+        ],
+        "point": [
+          434.65,
+          731.14
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 55,
+      "action": "CELEBRATE",
+      "cameraScale": 4.768076419830322,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "56": {
+    "anchors": {
+      "head": {
+        "rect": [
+          458.0,
+          737.1,
+          830.07,
+          1141.11
+        ],
+        "point": [
+          644.03,
+          939.1
+        ]
+      },
+      "focus": {
+        "rect": [
+          73.86,
+          363.79,
+          795.41,
+          1098.35
+        ],
+        "point": [
+          434.64,
+          731.07
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 56,
+      "action": "CELEBRATE",
+      "cameraScale": 4.767172813415527,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "57": {
+    "anchors": {
+      "head": {
+        "rect": [
+          457.25,
+          736.8,
+          828.69,
+          1141.19
+        ],
+        "point": [
+          642.97,
+          938.99
+        ]
+      },
+      "focus": {
+        "rect": [
+          73.77,
+          363.65,
+          795.47,
+          1098.37
+        ],
+        "point": [
+          434.62,
+          731.01
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 57,
+      "action": "CELEBRATE",
+      "cameraScale": 4.766267776489258,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "58": {
+    "anchors": {
+      "head": {
+        "rect": [
+          456.51,
+          736.51,
+          827.28,
+          1141.25
+        ],
+        "point": [
+          641.89,
+          938.88
+        ]
+      },
+      "focus": {
+        "rect": [
+          73.69,
+          363.52,
+          795.52,
+          1098.39
+        ],
+        "point": [
+          434.6,
+          730.96
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 58,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7653608322143555,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "59": {
+    "anchors": {
+      "head": {
+        "rect": [
+          455.73,
+          736.24,
+          825.9,
+          1141.3
+        ],
+        "point": [
+          640.81,
+          938.77
+        ]
+      },
+      "focus": {
+        "rect": [
+          73.6,
+          363.4,
+          795.57,
+          1098.42
+        ],
+        "point": [
+          434.58,
+          730.91
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 59,
+      "action": "CELEBRATE",
+      "cameraScale": 4.764453887939453,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "60": {
+    "anchors": {
+      "head": {
+        "rect": [
+          454.75,
+          735.98,
+          824.8,
+          1141.33
+        ],
+        "point": [
+          639.77,
+          938.66
+        ]
+      },
+      "focus": {
+        "rect": [
+          73.51,
+          363.28,
+          795.62,
+          1098.44
+        ],
+        "point": [
+          434.56,
+          730.86
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 60,
+      "action": "CELEBRATE",
+      "cameraScale": 4.763546466827393,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "61": {
+    "anchors": {
+      "head": {
+        "rect": [
+          453.77,
+          735.76,
+          823.7,
+          1141.34
+        ],
+        "point": [
+          638.73,
+          938.55
+        ]
+      },
+      "focus": {
+        "rect": [
+          73.42,
+          363.18,
+          795.66,
+          1098.47
+        ],
+        "point": [
+          434.54,
+          730.82
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 61,
+      "action": "CELEBRATE",
+      "cameraScale": 4.762639045715332,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "62": {
+    "anchors": {
+      "head": {
+        "rect": [
+          452.47,
+          735.56,
+          822.58,
+          1141.32
+        ],
+        "point": [
+          637.53,
+          938.44
+        ]
+      },
+      "focus": {
+        "rect": [
+          73.33,
+          363.08,
+          795.71,
+          1098.5
+        ],
+        "point": [
+          434.52,
+          730.79
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 62,
+      "action": "CELEBRATE",
+      "cameraScale": 4.761732578277588,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "63": {
+    "anchors": {
+      "head": {
+        "rect": [
+          450.74,
+          735.39,
+          821.46,
+          1141.28
+        ],
+        "point": [
+          636.1,
+          938.34
+        ]
+      },
+      "focus": {
+        "rect": [
+          73.24,
+          363.0,
+          795.75,
+          1098.53
+        ],
+        "point": [
+          434.5,
+          730.77
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 63,
+      "action": "CELEBRATE",
+      "cameraScale": 4.76082706451416,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "64": {
+    "anchors": {
+      "head": {
+        "rect": [
+          449.03,
+          735.26,
+          820.71,
+          1141.21
+        ],
+        "point": [
+          634.87,
+          938.23
+        ]
+      },
+      "focus": {
+        "rect": [
+          73.15,
+          362.92,
+          795.79,
+          1098.57
+        ],
+        "point": [
+          434.47,
+          730.74
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 64,
+      "action": "CELEBRATE",
+      "cameraScale": 4.759923934936523,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "65": {
+    "anchors": {
+      "head": {
+        "rect": [
+          447.36,
+          735.16,
+          820.05,
+          1141.11
+        ],
+        "point": [
+          633.7,
+          938.14
+        ]
+      },
+      "focus": {
+        "rect": [
+          73.06,
+          362.85,
+          795.83,
+          1098.6
+        ],
+        "point": [
+          434.44,
+          730.73
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 65,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7590227127075195,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "66": {
+    "anchors": {
+      "head": {
+        "rect": [
+          445.72,
+          735.09,
+          819.41,
+          1140.99
+        ],
+        "point": [
+          632.56,
+          938.04
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.97,
+          362.8,
+          795.86,
+          1098.64
+        ],
+        "point": [
+          434.41,
+          730.72
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 66,
+      "action": "CELEBRATE",
+      "cameraScale": 4.758124351501465,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "67": {
+    "anchors": {
+      "head": {
+        "rect": [
+          444.14,
+          735.06,
+          818.77,
+          1140.85
+        ],
+        "point": [
+          631.45,
+          937.95
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.87,
+          362.75,
+          795.9,
+          1098.68
+        ],
+        "point": [
+          434.38,
+          730.72
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 67,
+      "action": "CELEBRATE",
+      "cameraScale": 4.757229328155518,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "68": {
+    "anchors": {
+      "head": {
+        "rect": [
+          442.6,
+          735.06,
+          818.13,
+          1140.68
+        ],
+        "point": [
+          630.37,
+          937.87
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.78,
+          362.71,
+          795.93,
+          1098.72
+        ],
+        "point": [
+          434.35,
+          730.72
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 68,
+      "action": "CELEBRATE",
+      "cameraScale": 4.756338119506836,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "69": {
+    "anchors": {
+      "head": {
+        "rect": [
+          441.12,
+          735.09,
+          817.51,
+          1140.49
+        ],
+        "point": [
+          629.31,
+          937.79
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.69,
+          362.68,
+          795.95,
+          1098.77
+        ],
+        "point": [
+          434.32,
+          730.72
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 69,
+      "action": "CELEBRATE",
+      "cameraScale": 4.755451202392578,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "70": {
+    "anchors": {
+      "head": {
+        "rect": [
+          439.69,
+          735.15,
+          816.9,
+          1140.29
+        ],
+        "point": [
+          628.3,
+          937.72
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.6,
+          362.66,
+          795.98,
+          1098.81
+        ],
+        "point": [
+          434.29,
+          730.74
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 70,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7545695304870605,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "71": {
+    "anchors": {
+      "head": {
+        "rect": [
+          438.32,
+          735.23,
+          816.31,
+          1140.07
+        ],
+        "point": [
+          627.32,
+          937.65
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.51,
+          362.65,
+          796.0,
+          1098.86
+        ],
+        "point": [
+          434.25,
+          730.76
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 71,
+      "action": "CELEBRATE",
+      "cameraScale": 4.753693103790283,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "72": {
+    "anchors": {
+      "head": {
+        "rect": [
+          437.02,
+          735.34,
+          815.73,
+          1139.83
+        ],
+        "point": [
+          626.38,
+          937.59
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.42,
+          362.65,
+          796.02,
+          1098.91
+        ],
+        "point": [
+          434.22,
+          730.78
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 72,
+      "action": "CELEBRATE",
+      "cameraScale": 4.752822399139404,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "73": {
+    "anchors": {
+      "head": {
+        "rect": [
+          435.79,
+          735.47,
+          815.17,
+          1139.59
+        ],
+        "point": [
+          625.48,
+          937.53
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.32,
+          362.66,
+          796.04,
+          1098.96
+        ],
+        "point": [
+          434.18,
+          730.81
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 73,
+      "action": "CELEBRATE",
+      "cameraScale": 4.75195837020874,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "74": {
+    "anchors": {
+      "head": {
+        "rect": [
+          434.63,
+          735.61,
+          814.63,
+          1139.33
+        ],
+        "point": [
+          624.63,
+          937.47
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.23,
+          362.68,
+          796.05,
+          1099.01
+        ],
+        "point": [
+          434.14,
+          730.85
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 74,
+      "action": "CELEBRATE",
+      "cameraScale": 4.751101016998291,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "75": {
+    "anchors": {
+      "head": {
+        "rect": [
+          433.54,
+          735.78,
+          814.1,
+          1139.06
+        ],
+        "point": [
+          623.82,
+          937.42
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.14,
+          362.71,
+          796.07,
+          1099.07
+        ],
+        "point": [
+          434.1,
+          730.89
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 75,
+      "action": "CELEBRATE",
+      "cameraScale": 4.750250816345215,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "76": {
+    "anchors": {
+      "head": {
+        "rect": [
+          432.52,
+          735.96,
+          813.61,
+          1138.79
+        ],
+        "point": [
+          623.06,
+          937.38
+        ]
+      },
+      "focus": {
+        "rect": [
+          72.05,
+          362.75,
+          796.08,
+          1099.12
+        ],
+        "point": [
+          434.06,
+          730.94
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 76,
+      "action": "CELEBRATE",
+      "cameraScale": 4.749409198760986,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "77": {
+    "anchors": {
+      "head": {
+        "rect": [
+          431.58,
+          736.17,
+          813.13,
+          1138.5
+        ],
+        "point": [
+          622.36,
+          937.33
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.96,
+          362.79,
+          796.08,
+          1099.18
+        ],
+        "point": [
+          434.02,
+          730.99
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 77,
+      "action": "CELEBRATE",
+      "cameraScale": 4.748575687408447,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "78": {
+    "anchors": {
+      "head": {
+        "rect": [
+          430.72,
+          736.39,
+          812.68,
+          1138.21
+        ],
+        "point": [
+          621.7,
+          937.3
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.87,
+          362.85,
+          796.09,
+          1099.24
+        ],
+        "point": [
+          433.98,
+          731.05
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 78,
+      "action": "CELEBRATE",
+      "cameraScale": 4.747751235961914,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "79": {
+    "anchors": {
+      "head": {
+        "rect": [
+          429.94,
+          736.62,
+          812.26,
+          1137.9
+        ],
+        "point": [
+          621.1,
+          937.26
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.78,
+          362.92,
+          796.09,
+          1099.3
+        ],
+        "point": [
+          433.94,
+          731.11
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 79,
+      "action": "CELEBRATE",
+      "cameraScale": 4.746936321258545,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "80": {
+    "anchors": {
+      "head": {
+        "rect": [
+          429.24,
+          736.88,
+          811.87,
+          1137.59
+        ],
+        "point": [
+          620.56,
+          937.23
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.69,
+          362.99,
+          796.09,
+          1099.36
+        ],
+        "point": [
+          433.89,
+          731.18
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 80,
+      "action": "CELEBRATE",
+      "cameraScale": 4.74613094329834,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "81": {
+    "anchors": {
+      "head": {
+        "rect": [
+          428.63,
+          737.16,
+          811.51,
+          1137.25
+        ],
+        "point": [
+          620.07,
+          937.21
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.61,
+          363.08,
+          796.09,
+          1099.42
+        ],
+        "point": [
+          433.85,
+          731.25
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 81,
+      "action": "CELEBRATE",
+      "cameraScale": 4.745336532592773,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "82": {
+    "anchors": {
+      "head": {
+        "rect": [
+          428.1,
+          737.46,
+          811.24,
+          1136.91
+        ],
+        "point": [
+          619.67,
+          937.19
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.52,
+          363.17,
+          796.08,
+          1099.48
+        ],
+        "point": [
+          433.8,
+          731.33
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 82,
+      "action": "CELEBRATE",
+      "cameraScale": 4.744553089141846,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "83": {
+    "anchors": {
+      "head": {
+        "rect": [
+          427.66,
+          737.79,
+          811.05,
+          1136.54
+        ],
+        "point": [
+          619.35,
+          937.16
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.43,
+          363.28,
+          796.07,
+          1099.55
+        ],
+        "point": [
+          433.75,
+          731.41
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 83,
+      "action": "CELEBRATE",
+      "cameraScale": 4.743781089782715,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "84": {
+    "anchors": {
+      "head": {
+        "rect": [
+          427.31,
+          738.13,
+          810.87,
+          1136.16
+        ],
+        "point": [
+          619.09,
+          937.15
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.35,
+          363.39,
+          796.06,
+          1099.61
+        ],
+        "point": [
+          433.7,
+          731.5
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 84,
+      "action": "CELEBRATE",
+      "cameraScale": 4.743021488189697,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "85": {
+    "anchors": {
+      "head": {
+        "rect": [
+          427.04,
+          738.5,
+          810.71,
+          1135.76
+        ],
+        "point": [
+          618.87,
+          937.13
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.27,
+          363.51,
+          796.04,
+          1099.68
+        ],
+        "point": [
+          433.66,
+          731.6
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 85,
+      "action": "CELEBRATE",
+      "cameraScale": 4.742274284362793,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "86": {
+    "anchors": {
+      "head": {
+        "rect": [
+          426.87,
+          738.89,
+          810.56,
+          1135.34
+        ],
+        "point": [
+          618.71,
+          937.12
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.18,
+          363.64,
+          796.03,
+          1099.74
+        ],
+        "point": [
+          433.61,
+          731.69
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 86,
+      "action": "CELEBRATE",
+      "cameraScale": 4.74153995513916,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "87": {
+    "anchors": {
+      "head": {
+        "rect": [
+          426.78,
+          739.3,
+          810.43,
+          1134.91
+        ],
+        "point": [
+          618.6,
+          937.1
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.1,
+          363.78,
+          796.01,
+          1099.81
+        ],
+        "point": [
+          433.55,
+          731.8
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 87,
+      "action": "CELEBRATE",
+      "cameraScale": 4.740818977355957,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "88": {
+    "anchors": {
+      "head": {
+        "rect": [
+          426.78,
+          739.72,
+          810.32,
+          1134.46
+        ],
+        "point": [
+          618.55,
+          937.09
+        ]
+      },
+      "focus": {
+        "rect": [
+          71.02,
+          363.93,
+          795.99,
+          1099.88
+        ],
+        "point": [
+          433.5,
+          731.91
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 88,
+      "action": "CELEBRATE",
+      "cameraScale": 4.740112781524658,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "89": {
+    "anchors": {
+      "head": {
+        "rect": [
+          426.87,
+          740.15,
+          810.23,
+          1134.0
+        ],
+        "point": [
+          618.55,
+          937.08
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.94,
+          364.09,
+          795.96,
+          1099.95
+        ],
+        "point": [
+          433.45,
+          732.02
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 89,
+      "action": "CELEBRATE",
+      "cameraScale": 4.739420413970947,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "90": {
+    "anchors": {
+      "head": {
+        "rect": [
+          427.04,
+          740.6,
+          810.16,
+          1133.53
+        ],
+        "point": [
+          618.6,
+          937.07
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.87,
+          364.26,
+          795.93,
+          1100.02
+        ],
+        "point": [
+          433.4,
+          732.14
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 90,
+      "action": "CELEBRATE",
+      "cameraScale": 4.738743782043457,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "91": {
+    "anchors": {
+      "head": {
+        "rect": [
+          427.31,
+          741.04,
+          810.11,
+          1133.06
+        ],
+        "point": [
+          618.71,
+          937.05
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.79,
+          364.43,
+          795.9,
+          1100.09
+        ],
+        "point": [
+          433.34,
+          732.26
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 91,
+      "action": "CELEBRATE",
+      "cameraScale": 4.738082408905029,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "92": {
+    "anchors": {
+      "head": {
+        "rect": [
+          427.65,
+          741.48,
+          810.15,
+          1132.59
+        ],
+        "point": [
+          618.9,
+          937.03
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.72,
+          364.62,
+          795.87,
+          1100.16
+        ],
+        "point": [
+          433.29,
+          732.39
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 92,
+      "action": "CELEBRATE",
+      "cameraScale": 4.737437725067139,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "93": {
+    "anchors": {
+      "head": {
+        "rect": [
+          428.08,
+          741.9,
+          810.38,
+          1132.13
+        ],
+        "point": [
+          619.23,
+          937.02
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.64,
+          364.81,
+          795.83,
+          1100.22
+        ],
+        "point": [
+          433.24,
+          732.52
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 93,
+      "action": "CELEBRATE",
+      "cameraScale": 4.736809253692627,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "94": {
+    "anchors": {
+      "head": {
+        "rect": [
+          428.58,
+          742.31,
+          810.65,
+          1131.68
+        ],
+        "point": [
+          619.62,
+          936.99
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.57,
+          365.01,
+          795.79,
+          1100.29
+        ],
+        "point": [
+          433.18,
+          732.65
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 94,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7361979484558105,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "95": {
+    "anchors": {
+      "head": {
+        "rect": [
+          429.16,
+          742.68,
+          810.96,
+          1131.26
+        ],
+        "point": [
+          620.06,
+          936.97
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.5,
+          365.22,
+          795.75,
+          1100.36
+        ],
+        "point": [
+          433.13,
+          732.79
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 95,
+      "action": "CELEBRATE",
+      "cameraScale": 4.735604763031006,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "96": {
+    "anchors": {
+      "head": {
+        "rect": [
+          429.82,
+          743.01,
+          811.3,
+          1130.87
+        ],
+        "point": [
+          620.56,
+          936.94
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.44,
+          365.43,
+          795.7,
+          1100.43
+        ],
+        "point": [
+          433.07,
+          732.93
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 96,
+      "action": "CELEBRATE",
+      "cameraScale": 4.735029220581055,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "97": {
+    "anchors": {
+      "head": {
+        "rect": [
+          430.55,
+          743.3,
+          811.67,
+          1130.51
+        ],
+        "point": [
+          621.11,
+          936.9
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.37,
+          365.66,
+          795.65,
+          1100.5
+        ],
+        "point": [
+          433.01,
+          733.08
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 97,
+      "action": "CELEBRATE",
+      "cameraScale": 4.734472751617432,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "98": {
+    "anchors": {
+      "head": {
+        "rect": [
+          431.34,
+          743.52,
+          812.08,
+          1130.21
+        ],
+        "point": [
+          621.71,
+          936.86
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.31,
+          365.89,
+          795.6,
+          1100.57
+        ],
+        "point": [
+          432.96,
+          733.23
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 98,
+      "action": "CELEBRATE",
+      "cameraScale": 4.733935356140137,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "99": {
+    "anchors": {
+      "head": {
+        "rect": [
+          432.2,
+          743.68,
+          812.53,
+          1129.95
+        ],
+        "point": [
+          622.36,
+          936.82
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.25,
+          366.13,
+          795.55,
+          1100.64
+        ],
+        "point": [
+          432.9,
+          733.39
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 99,
+      "action": "CELEBRATE",
+      "cameraScale": 4.733417510986328,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "100": {
+    "anchors": {
+      "head": {
+        "rect": [
+          433.11,
+          743.77,
+          813.0,
+          1129.76
+        ],
+        "point": [
+          623.06,
+          936.77
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.19,
+          366.38,
+          795.49,
+          1100.71
+        ],
+        "point": [
+          432.84,
+          733.54
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 100,
+      "action": "CELEBRATE",
+      "cameraScale": 4.732920169830322,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "101": {
+    "anchors": {
+      "head": {
+        "rect": [
+          434.09,
+          743.78,
+          813.51,
+          1129.63
+        ],
+        "point": [
+          623.8,
+          936.71
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.13,
+          366.63,
+          795.43,
+          1100.78
+        ],
+        "point": [
+          432.78,
+          733.7
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 101,
+      "action": "CELEBRATE",
+      "cameraScale": 4.732443809509277,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "102": {
+    "anchors": {
+      "head": {
+        "rect": [
+          435.11,
+          743.71,
+          814.04,
+          1129.57
+        ],
+        "point": [
+          624.58,
+          936.64
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.08,
+          366.89,
+          795.37,
+          1100.85
+        ],
+        "point": [
+          432.73,
+          733.87
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 102,
+      "action": "CELEBRATE",
+      "cameraScale": 4.731988430023193,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "103": {
+    "anchors": {
+      "head": {
+        "rect": [
+          436.19,
+          743.55,
+          814.61,
+          1129.59
+        ],
+        "point": [
+          625.4,
+          936.57
+        ]
+      },
+      "focus": {
+        "rect": [
+          70.03,
+          367.16,
+          795.31,
+          1100.91
+        ],
+        "point": [
+          432.67,
+          734.04
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 103,
+      "action": "CELEBRATE",
+      "cameraScale": 4.731554985046387,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "104": {
+    "anchors": {
+      "head": {
+        "rect": [
+          437.31,
+          743.3,
+          815.2,
+          1129.68
+        ],
+        "point": [
+          626.26,
+          936.49
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.98,
+          367.43,
+          795.24,
+          1100.98
+        ],
+        "point": [
+          432.61,
+          734.21
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 104,
+      "action": "CELEBRATE",
+      "cameraScale": 4.731143474578857,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "105": {
+    "anchors": {
+      "head": {
+        "rect": [
+          438.48,
+          742.96,
+          815.82,
+          1129.85
+        ],
+        "point": [
+          627.15,
+          936.4
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.94,
+          367.72,
+          795.17,
+          1101.05
+        ],
+        "point": [
+          432.55,
+          734.38
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 105,
+      "action": "CELEBRATE",
+      "cameraScale": 4.73075532913208,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "106": {
+    "anchors": {
+      "head": {
+        "rect": [
+          439.68,
+          742.53,
+          816.63,
+          1130.09
+        ],
+        "point": [
+          628.16,
+          936.31
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.89,
+          368.01,
+          795.1,
+          1101.11
+        ],
+        "point": [
+          432.5,
+          734.56
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 106,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7303900718688965,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "107": {
+    "anchors": {
+      "head": {
+        "rect": [
+          440.93,
+          742.02,
+          817.46,
+          1130.41
+        ],
+        "point": [
+          629.2,
+          936.21
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.85,
+          368.3,
+          795.02,
+          1101.17
+        ],
+        "point": [
+          432.44,
+          734.74
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 107,
+      "action": "CELEBRATE",
+      "cameraScale": 4.730048656463623,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "108": {
+    "anchors": {
+      "head": {
+        "rect": [
+          442.2,
+          741.42,
+          818.31,
+          1130.8
+        ],
+        "point": [
+          630.26,
+          936.11
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.82,
+          368.6,
+          794.94,
+          1101.24
+        ],
+        "point": [
+          432.38,
+          734.92
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 108,
+      "action": "CELEBRATE",
+      "cameraScale": 4.729732036590576,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "109": {
+    "anchors": {
+      "head": {
+        "rect": [
+          443.51,
+          740.75,
+          819.18,
+          1131.26
+        ],
+        "point": [
+          631.34,
+          936.0
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.78,
+          368.91,
+          794.86,
+          1101.3
+        ],
+        "point": [
+          432.32,
+          735.1
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 109,
+      "action": "CELEBRATE",
+      "cameraScale": 4.729439735412598,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "110": {
+    "anchors": {
+      "head": {
+        "rect": [
+          444.84,
+          740.01,
+          820.06,
+          1131.77
+        ],
+        "point": [
+          632.45,
+          935.89
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.75,
+          369.22,
+          794.78,
+          1101.36
+        ],
+        "point": [
+          432.27,
+          735.29
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 110,
+      "action": "CELEBRATE",
+      "cameraScale": 4.729173183441162,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "111": {
+    "anchors": {
+      "head": {
+        "rect": [
+          446.2,
+          739.21,
+          820.96,
+          1132.34
+        ],
+        "point": [
+          633.58,
+          935.78
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.72,
+          369.54,
+          794.69,
+          1101.42
+        ],
+        "point": [
+          432.21,
+          735.48
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 111,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7289323806762695,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "112": {
+    "anchors": {
+      "head": {
+        "rect": [
+          447.58,
+          738.35,
+          821.88,
+          1132.96
+        ],
+        "point": [
+          634.73,
+          935.66
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.7,
+          369.86,
+          794.61,
+          1101.48
+        ],
+        "point": [
+          432.15,
+          735.67
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 112,
+      "action": "CELEBRATE",
+      "cameraScale": 4.728718280792236,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "113": {
+    "anchors": {
+      "head": {
+        "rect": [
+          448.98,
+          737.46,
+          822.81,
+          1133.62
+        ],
+        "point": [
+          635.9,
+          935.54
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.67,
+          370.19,
+          794.52,
+          1101.53
+        ],
+        "point": [
+          432.09,
+          735.86
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 113,
+      "action": "CELEBRATE",
+      "cameraScale": 4.7285308837890625,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "114": {
+    "anchors": {
+      "head": {
+        "rect": [
+          450.4,
+          736.54,
+          823.76,
+          1134.3
+        ],
+        "point": [
+          637.08,
+          935.42
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.65,
+          370.53,
+          794.42,
+          1101.59
+        ],
+        "point": [
+          432.04,
+          736.06
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 114,
+      "action": "CELEBRATE",
+      "cameraScale": 4.728370666503906,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "115": {
+    "anchors": {
+      "head": {
+        "rect": [
+          451.45,
+          735.59,
+          824.72,
+          1135.01
+        ],
+        "point": [
+          638.08,
+          935.3
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.64,
+          370.87,
+          794.33,
+          1101.64
+        ],
+        "point": [
+          431.98,
+          736.25
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 115,
+      "action": "CELEBRATE",
+      "cameraScale": 4.728238582611084,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "116": {
+    "anchors": {
+      "head": {
+        "rect": [
+          452.45,
+          734.63,
+          825.69,
+          1135.72
+        ],
+        "point": [
+          639.07,
+          935.18
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.63,
+          371.21,
+          794.23,
+          1101.7
+        ],
+        "point": [
+          431.93,
+          736.45
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 116,
+      "action": "CELEBRATE",
+      "cameraScale": 4.728135108947754,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "117": {
+    "anchors": {
+      "head": {
+        "rect": [
+          453.45,
+          733.68,
+          826.67,
+          1136.45
+        ],
+        "point": [
+          640.06,
+          935.06
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.62,
+          371.56,
+          794.13,
+          1101.75
+        ],
+        "point": [
+          431.87,
+          736.65
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 117,
+      "action": "CELEBRATE",
+      "cameraScale": 4.728060245513916,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "118": {
+    "anchors": {
+      "head": {
+        "rect": [
+          454.47,
+          732.73,
+          827.66,
+          1137.17
+        ],
+        "point": [
+          641.06,
+          934.95
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.61,
+          371.91,
+          794.03,
+          1101.79
+        ],
+        "point": [
+          431.82,
+          736.85
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 118,
+      "action": "CELEBRATE",
+      "cameraScale": 4.728014945983887,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  },
+  "119": {
+    "anchors": {
+      "head": {
+        "rect": [
+          455.48,
+          731.8,
+          828.65,
+          1137.87
+        ],
+        "point": [
+          642.07,
+          934.84
+        ]
+      },
+      "focus": {
+        "rect": [
+          69.61,
+          372.27,
+          793.92,
+          1101.84
+        ],
+        "point": [
+          431.77,
+          737.05
+        ]
+      }
+    },
+    "motion": {
+      "localFrame": 119,
+      "action": "CELEBRATE",
+      "cameraScale": 4.728000164031982,
+      "event": null,
+      "analyticDiagram": false,
+      "footContact": "boot minimum z corrected"
+    }
+  }
+}

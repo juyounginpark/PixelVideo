@@ -1,0 +1,57 @@
+{
+  "fonts": {
+    "checkedCharacters": 692,
+    "fallbacks": 0,
+    "locale": "ko",
+    "atlases": [
+      {
+        "face": "PIXEL_DISPLAY",
+        "key": "fa8507e79bb9fc5ea68f764830fecf83adc9bd68379575d5ab8e4ba34fccb2a8",
+        "reused": true,
+        "characters": 38
+      },
+      {
+        "face": "PIXEL_BODY",
+        "key": "2c926de750e0ccb65045ff3ec67e627f8964b97ff834e436909218dcb42c15f1",
+        "reused": true,
+        "characters": 133
+      }
+    ]
+  },
+  "uiCacheHits": [],
+  "uiRenderedShots": [
+    "S01"
+  ],
+  "errors": [],
+  "duration": 4.0,
+  "frameCount": 120,
+  "fullDecode": true,
+  "validatedUIFrames": 120,
+  "audioCacheHit": false,
+  "audioFolder": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\production\\minsu_v5\\cache\\audio\\a9dbdb345a15758b4476bb8f813194c04e633b41f272b005a8554dd4400a88e0",
+  "nativeSize": [
+    540,
+    960
+  ],
+  "audio": {
+    "input_i": "-19.02",
+    "input_tp": "-10.43",
+    "input_lra": "0.80",
+    "input_thresh": "-29.08",
+    "output_i": "-19.57",
+    "output_tp": "-10.97",
+    "output_lra": "0.80",
+    "output_thresh": "-29.57",
+    "normalization_type": "dynamic",
+    "target_offset": "0.57"
+  },
+  "tts": false,
+  "totalSeconds": 9.74643819999983,
+  "sha256": "e93b284a06ed57eeff0ad8a7637e59279a54f56a6b55add61d36f307a74e04eb",
+  "output": "exports\\MINSU_EP08_V5_ART_SAMPLE.mp4",
+  "editorialApproval": false,
+  "locale": "ko",
+  "postPreset": "MOBILE",
+  "textCacheHits": 2,
+  "textCacheMisses": 1
+}

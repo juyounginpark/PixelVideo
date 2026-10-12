@@ -1,0 +1,213 @@
+{
+  "quality": "final",
+  "renderedFrames": 210,
+  "reusedFrames": 0,
+  "projectionSeconds": 0.07254279996777768,
+  "renderSeconds": 103.6184785999867,
+  "shots": {
+    "S05": {
+      "rendered": 105,
+      "reused": 0,
+      "seconds": 55.65374990000055,
+      "key": "685697d721eedd8ed3436e2ad8ca7069539261a65fa8728a297e0e12de306e93"
+    },
+    "S06": {
+      "rendered": 105,
+      "reused": 0,
+      "seconds": 52.73096710000027,
+      "key": "16f0a29715ff921b1295aa8ff8e1230e0f5d96864ebf8a3ea74f16e496d12541"
+    }
+  },
+  "errors": [],
+  "assetCache": "MISS",
+  "assetSetupSeconds": 0.8107530000015686,
+  "materials": [
+    {
+      "name": "MINSU_V4_amber",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_bond",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_brass",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_brown",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_cheek",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_coral",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_cream",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_cyan",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_dim",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_floor",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_hair",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_halo",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_hydrogen",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_ice",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_ice_dark",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_ice_top",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_light",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_metal",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_midnight",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_mint",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_navy",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_ochre",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_oxygen",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_pale",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_rail",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_rock",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_sand",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_shoe",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_skin",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_snow",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_star_cold",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_star_gold",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_track",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_wall",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_water",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_wet",
+      "texelsPerUnit": 16,
+      "bands": 3
+    }
+  ],
+  "totalSeconds": 109.19882829999915,
+  "nativeSize": [
+    540,
+    960
+  ],
+  "blenderVersion": "5.0.1",
+  "samples": 8
+}

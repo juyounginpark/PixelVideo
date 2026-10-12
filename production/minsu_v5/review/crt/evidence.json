@@ -1,0 +1,46 @@
+[
+  {
+    "preset": "OFF",
+    "settings": {
+      "period": 4,
+      "opacity": 0,
+      "bleed": 0
+    },
+    "mp4": "production\\minsu_v5\\review\\crt\\OFF.mp4",
+    "sha256": "4a258e935a261841bebd13f0e8dd38e901a705bd5dd4fd1fb6df61041436ed74",
+    "method": "Repeated diagnostic stills encoded and decoded; not an animation approval"
+  },
+  {
+    "preset": "REFERENCE",
+    "settings": {
+      "period": 4,
+      "opacity": 0.1,
+      "bleed": 0.5
+    },
+    "mp4": "production\\minsu_v5\\review\\crt\\REFERENCE.mp4",
+    "sha256": "e1a03aecf16b7376771e5355444210d28b3f989ef513563bac9a0de8c4f299a4",
+    "method": "Repeated diagnostic stills encoded and decoded; not an animation approval"
+  },
+  {
+    "preset": "MOBILE",
+    "settings": {
+      "period": 4,
+      "opacity": 0.06,
+      "bleed": 0.25
+    },
+    "mp4": "production\\minsu_v5\\review\\crt\\MOBILE.mp4",
+    "sha256": "9d3b39a340cd198a30b63bc170727262ea85f83343b500181262e3fd825004a7",
+    "method": "Repeated diagnostic stills encoded and decoded; not an animation approval"
+  },
+  {
+    "preset": "STRONG",
+    "settings": {
+      "period": 4,
+      "opacity": 0.14,
+      "bleed": 1
+    },
+    "mp4": "production\\minsu_v5\\review\\crt\\STRONG.mp4",
+    "sha256": "9ccce9b687b7b98c462f97169b9c4e81e677d625201c477b7b37d4a51bbe3197",
+    "method": "Repeated diagnostic stills encoded and decoded; not an animation approval"
+  }
+]

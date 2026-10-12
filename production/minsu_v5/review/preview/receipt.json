@@ -1,0 +1,17 @@
+{
+  "video": "exports\\MINSU_EP08_V5_PREVIEW.mp4",
+  "sha256": "e7c60593e6ce894b0efb58a2b8173134fbd57a82b98181ecd06e793cba95433f",
+  "duration": 34.0,
+  "method": "Decoded exact MP4 frames; 2fps whole-episode sequence plus 3-4fps important actions. Not realtime playback or human listening.",
+  "files": [
+    "cut_grid.jpg",
+    "discovery_sequence.jpg",
+    "hook_sequence.jpg",
+    "return_sequence.jpg",
+    "settling_sequence.jpg",
+    "timeline_0.jpg",
+    "timeline_1.jpg",
+    "timeline_2.jpg",
+    "timeline_3.jpg"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "sameInput": true,
+  "beforeSha256": "6b478f5aaa5711e72a6b3b5b719216d764c1437ea2a9706dc5564fe3a833a1f6",
+  "afterSha256": "6b478f5aaa5711e72a6b3b5b719216d764c1437ea2a9706dc5564fe3a833a1f6",
+  "bitIdentical": true,
+  "initialFullNativeSeconds": 890.1809596000021,
+  "initialFullComposeSeconds": 42.73023490000196,
+  "warmNativeSeconds": 4.332464999999502,
+  "warmComposeSeconds": 5.430458800001361,
+  "warmCommandWallSeconds": 11.96520899999814,
+  "renderedFrames": 0,
+  "reusedFrames": 1050,
+  "uiCacheHits": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09",
+    "S10"
+  ],
+  "audioCacheHit": true,
+  "assetCache": "HIT",
+  "scope": "Warm run uses identical delivered inputs. Initial full timings precede the S02 camera revision; no exact cold/warm speedup ratio or new-topic savings claim."
+}

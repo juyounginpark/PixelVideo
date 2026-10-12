@@ -1,0 +1,48 @@
+{
+  "ko": {
+    "captions": 12,
+    "font": {
+      "checkedCharacters": 201,
+      "fallbacks": 0,
+      "locale": "ko",
+      "atlases": [
+        {
+          "face": "PIXEL_DISPLAY",
+          "key": "d5a6940ff8ee33d7c52b83037228ac914f4204b9fbdadbbda4e0c46be1147c30",
+          "reused": true,
+          "characters": 32
+        },
+        {
+          "face": "PIXEL_BODY",
+          "key": "e9dbab7d5919ded099023e46b95ae35ea704c43da22de391930ad51d1f0edf50",
+          "reused": true,
+          "characters": 78
+        }
+      ]
+    },
+    "fixedRoleSizesFit": true
+  },
+  "en": {
+    "captions": 12,
+    "font": {
+      "checkedCharacters": 435,
+      "fallbacks": 0,
+      "locale": "en",
+      "atlases": [
+        {
+          "face": "PIXEL_DISPLAY",
+          "key": "47e52fcd91d0912e36afe4b49b0b319323079169e46b3aabe97aa6ed84395bbb",
+          "reused": true,
+          "characters": 35
+        },
+        {
+          "face": "PIXEL_BODY",
+          "key": "cbd42fdcc9ec71c6c0b9684f239d0c2057d0fe518995d27f903bee708cd74058",
+          "reused": true,
+          "characters": 48
+        }
+      ]
+    },
+    "fixedRoleSizesFit": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+ "version":"6.0.0",
+ "families":{"DISPLAY":"PIXEL_DISPLAY","BODY":"PIXEL_BODY"},
+ "fontAssets":["../retro_voxel/fonts/Galmuri11-Bold.ttf","../retro_voxel/fonts/Galmuri11.ttf"],
+ "license":"../retro_voxel/fonts/OFL.md",
+ "roles":{"PIXEL_TITLE":"DISPLAY","PIXEL_IMPACT":"DISPLAY","PIXEL_BODY":"BODY","PIXEL_LABEL":"BODY"},
+ "scale":{"ko":{"DISPLAY":7,"BODY":5,"LABEL":3},"en":{"DISPLAY":5,"BODY":5,"LABEL":3}},
+ "palette":{"white":"#FFF9EA","yellow":"#FFE48A","mint":"#83EDBF","cyan":"#79D5DA","purple":"#C4A8EF","red":"#DF6653"},
+ "fallback":"error","raster":"binary_atlas_nearest","outline":"integer_pixel_navy"
+}

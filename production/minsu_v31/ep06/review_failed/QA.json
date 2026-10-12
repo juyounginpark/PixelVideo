@@ -1,0 +1,276 @@
+{
+  "video": "exports\\MINSU_EP06_V31_ICE.mp4",
+  "decodedFrames": 1050,
+  "final": {
+    "fullDecodePassed": true,
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, bt709, progressive)",
+      "audio_codec": "aac",
+      "fps": 30.0,
+      "source_size": [
+        1080,
+        1920
+      ],
+      "size": [
+        1080,
+        1920
+      ],
+      "rotate": 0,
+      "duration": 35.0
+    },
+    "frameCount": 1050,
+    "sourceFrameRange": [
+      0,
+      1050
+    ],
+    "uiFramesValidated": 1050,
+    "loudness": {
+      "input_i": "-19.00",
+      "input_tp": "-9.30",
+      "input_lra": "1.50",
+      "input_thresh": "-29.08",
+      "output_i": "-19.07",
+      "output_tp": "-9.35",
+      "output_lra": "1.10",
+      "output_thresh": "-29.10",
+      "normalization_type": "dynamic",
+      "target_offset": "0.07"
+    },
+    "effectCounts": {
+      "PUNCH_ZOOM": 1,
+      "REACTION_BURST": 1,
+      "QUESTION_POP": 1,
+      "OBJECT_HIGHLIGHT": 5,
+      "PIXEL_SPARK": 3,
+      "IMPACT_CAPTION": 1,
+      "DATA_REVEAL": 1
+    },
+    "ttsEnabled": false,
+    "source": {
+      "local": "research/namuwiki/listing.txt",
+      "draftRow": 3,
+      "status": "selected_after_sample_gate",
+      "sourceLines": [
+        106,
+        118
+      ],
+      "sourceSha256": "1fc6548a87db2cee99c71fe7dc14f322e7600b383856dca633ca74346bfb8fe0",
+      "selectionRecord": "production/minsu_v31/SOURCE_AND_SCOPE.md",
+      "sampleGate": "production/minsu_v31/ep06/sample_review/GATE.md"
+    },
+    "sha256": "c4472f65a72e663246651e41de7a8943b29d9a711052b8af6f578339870bd5b9",
+    "limits": [
+      "Authored molecular diagram, not physical simulation",
+      "No real-time playback or listening approval implied"
+    ]
+  },
+  "preservation": {
+    "checked": 42,
+    "changed": []
+  },
+  "nearest2xBeforeUI": true,
+  "actualCompositePixelCheck": {
+    "frame": 306,
+    "pixelsOutsideUI": 2000061,
+    "exactNearestMatchFraction": 1.0
+  },
+  "materialTexelsPerWorldUnit": [
+    16
+  ],
+  "native": {
+    "resolution": [
+      540,
+      960
+    ],
+    "percentage": 100,
+    "taaSamples": 8,
+    "filterSize": 0.009999999776482582,
+    "materials": [
+      {
+        "name": "MINSU_V31_amber",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_bond",
+        "texelsPerUnit": null,
+        "mapping": null,
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_brown",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_cheek",
+        "texelsPerUnit": null,
+        "mapping": null,
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_coral",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_cream",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_cyan",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_hair",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_hydrogen",
+        "texelsPerUnit": null,
+        "mapping": null,
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_ice",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_ice_dark",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_ice_top",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_light",
+        "texelsPerUnit": null,
+        "mapping": null,
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_metal",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_midnight",
+        "texelsPerUnit": null,
+        "mapping": null,
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_mint",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_navy",
+        "texelsPerUnit": null,
+        "mapping": null,
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_ochre",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_oxygen",
+        "texelsPerUnit": null,
+        "mapping": null,
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_pale",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_rail",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_rock",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_sand",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_shoe",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_skin",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_snow",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_wall",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_water",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      },
+      {
+        "name": "MINSU_V31_wet",
+        "texelsPerUnit": 16,
+        "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+        "lightBands": 3
+      }
+    ]
+  },
+  "identicalAdjacentFrames": 0,
+  "largeBrightnessChangesWithinShots": [],
+  "audioEventCount": 8,
+  "maxAudioPlacementError": 0.0,
+  "visualReview": "Pending separate qualitative observation. These checks do not award editorial quality.",
+  "limits": [
+    "Diagram motion is authored, not a physical calculation",
+    "No real-time playback, human listening or phone app test"
+  ]
+}

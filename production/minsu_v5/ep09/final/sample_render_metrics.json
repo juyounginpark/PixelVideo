@@ -1,0 +1,21 @@
+{
+  "renderedFrames": 240,
+  "reusedFrames": 0,
+  "nativeSize": [
+    540,
+    960
+  ],
+  "shots": {
+    "S01": {
+      "rendered": 120,
+      "reused": 0,
+      "seconds": 103.41264170000068
+    },
+    "S05": {
+      "rendered": 120,
+      "reused": 0,
+      "seconds": 105.00517720000062
+    }
+  },
+  "wallSeconds": 210.93199810000078
+}

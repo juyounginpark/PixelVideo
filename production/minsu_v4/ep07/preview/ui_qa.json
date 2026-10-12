@@ -1,0 +1,7210 @@
+[
+  {
+    "localFrame": 0,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          259,
+          663,
+          298
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          322,
+          729,
+          367
+        ],
+        "text": "Visible mass only"
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 1,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          259,
+          663,
+          298
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          322,
+          729,
+          367
+        ],
+        "text": "Visible mass only"
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 2,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          259,
+          663,
+          298
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          322,
+          729,
+          367
+        ],
+        "text": "Visible mass only"
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 3,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 4,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1331,
+          852,
+          1396
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1406,
+          820,
+          1471
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1491,
+          822,
+          1533
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1539,
+          958,
+          1584
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 5,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1331,
+          852,
+          1396
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1406,
+          820,
+          1471
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1491,
+          822,
+          1533
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1539,
+          958,
+          1584
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 6,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1331,
+          852,
+          1396
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1406,
+          820,
+          1471
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1491,
+          822,
+          1533
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1539,
+          958,
+          1584
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 7,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 8,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 9,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 10,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 11,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 12,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 13,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 14,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 15,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 16,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 17,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 18,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 19,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 20,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 21,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 22,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 23,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 24,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 25,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 26,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 27,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 28,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 29,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 30,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 31,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 32,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 33,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 34,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 35,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 36,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 37,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 38,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 39,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 40,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 41,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 42,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 43,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 44,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 45,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 46,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 47,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 48,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 49,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 50,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 51,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 52,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 53,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 54,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 55,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 56,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 57,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 58,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 59,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 60,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 61,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 62,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 63,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 64,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 65,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 66,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 67,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 68,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 69,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 70,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 71,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 72,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 73,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 74,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 75,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 76,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 77,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 78,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 79,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 80,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 81,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 82,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 83,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 84,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 85,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 86,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 87,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 88,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 89,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 90,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 91,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 92,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 93,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 94,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 95,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 96,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 97,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 98,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 99,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 100,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          212,
+          1325,
+          852,
+          1390
+        ],
+        "text": "보이는 질량만 넣으면"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "ko",
+        "rect": [
+          245,
+          1400,
+          820,
+          1465
+        ],
+        "text": "바깥쪽은 느릴 텐데"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          249,
+          1485,
+          822,
+          1527
+        ],
+        "text": "With visible matter alone,"
+      },
+      {
+        "role": "BODY_CAPTION",
+        "lang": "en",
+        "rect": [
+          112,
+          1533,
+          958,
+          1578
+        ],
+        "text": "outer stars should move more slowly."
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 101,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 102,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 103,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      }
+    ],
+    "fallbacks": 0
+  },
+  {
+    "localFrame": 104,
+    "texts": [
+      {
+        "role": "STATUS_HUD",
+        "lang": "ko",
+        "rect": [
+          411,
+          253,
+          663,
+          292
+        ],
+        "text": "보이는 질량만"
+      },
+      {
+        "role": "STATUS_HUD",
+        "lang": "en",
+        "rect": [
+          345,
+          316,
+          729,
+          361
+        ],
+        "text": "Visible mass only"
+      }
+    ],
+    "fallbacks": 0
+  }
+]

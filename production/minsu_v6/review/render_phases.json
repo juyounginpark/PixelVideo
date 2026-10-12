@@ -1,0 +1,50 @@
+[
+  {
+    "log": "sample_render.log",
+    "savedFrames": 300,
+    "lastSavedElapsedSeconds": 203.0,
+    "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+  },
+  {
+    "log": "sample_rework.log",
+    "savedFrames": 300,
+    "lastSavedElapsedSeconds": 197.547,
+    "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+  },
+  {
+    "log": "ep10\\stills.log",
+    "savedFrames": 24,
+    "lastSavedElapsedSeconds": 18.14,
+    "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+  },
+  {
+    "log": "ep10\\stills_rework.log",
+    "savedFrames": 24,
+    "lastSavedElapsedSeconds": 24.282,
+    "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+  },
+  {
+    "log": "ep10\\full_render.log",
+    "savedFrames": 88,
+    "lastSavedElapsedSeconds": 75.297,
+    "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+  },
+  {
+    "log": "ep10\\full_render_rework.log",
+    "savedFrames": 960,
+    "lastSavedElapsedSeconds": 815.61,
+    "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+  },
+  {
+    "log": "ep10\\grounding_render.log",
+    "savedFrames": 720,
+    "lastSavedElapsedSeconds": 523.219,
+    "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+  },
+  {
+    "log": "ep10\\investigation_rework.log",
+    "savedFrames": 120,
+    "lastSavedElapsedSeconds": 86.672,
+    "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+  }
+]

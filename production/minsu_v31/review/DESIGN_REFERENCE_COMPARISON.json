@@ -1,0 +1,65 @@
+[
+  {
+    "role": "CHARACTER / HOOK",
+    "source": "references\\똥, 오줌… 왜 말만 들어도 웃길까 💩 #shorts’똥‘이라는 말만 들어도 피식하게 되죠. 어른이 돼도 웃기는 데는 이유가 있어요.첫째, 금기예요. 우리는 어릴 때부터 .mp4",
+    "timeSeconds": 1
+  },
+  {
+    "role": "CHARACTER / HOOK",
+    "source": "references\\안 만졌는데 간지러운 진짜 이유 🤣 #shorts친구가 손가락을 꼼지락거리며 다가오기만 해도 벌써 몸이 배배 꼬이죠. 아직 닿지도 않았는데 왜 간지러울까요 정답은, 뇌가 .mp4",
+    "timeSeconds": 2
+  },
+  {
+    "role": "CHARACTER / HOOK",
+    "source": "exports\\MINSU_EP05_V3_BRAZIL_NUT.mp4",
+    "timeSeconds": 3
+  },
+  {
+    "role": "CHARACTER / HOOK",
+    "source": "production\\minsu_v31\\ep06\\preview\\0024.png",
+    "sourceFrame": 24,
+    "timeSeconds": 0.8
+  },
+  {
+    "role": "CONCEPT / DETAIL",
+    "source": "references\\똥, 오줌… 왜 말만 들어도 웃길까 💩 #shorts’똥‘이라는 말만 들어도 피식하게 되죠. 어른이 돼도 웃기는 데는 이유가 있어요.첫째, 금기예요. 우리는 어릴 때부터 .mp4",
+    "timeSeconds": 21
+  },
+  {
+    "role": "CONCEPT / DETAIL",
+    "source": "references\\안 만졌는데 간지러운 진짜 이유 🤣 #shorts친구가 손가락을 꼼지락거리며 다가오기만 해도 벌써 몸이 배배 꼬이죠. 아직 닿지도 않았는데 왜 간지러울까요 정답은, 뇌가 .mp4",
+    "timeSeconds": 11
+  },
+  {
+    "role": "CONCEPT / DETAIL",
+    "source": "exports\\MINSU_EP05_V3_BRAZIL_NUT.mp4",
+    "timeSeconds": 13
+  },
+  {
+    "role": "CONCEPT / DETAIL",
+    "source": "production\\minsu_v31\\ep06\\preview\\0411.png",
+    "sourceFrame": 411,
+    "timeSeconds": 13.7
+  },
+  {
+    "role": "INFORMATION / COMPARISON",
+    "source": "references\\똥, 오줌… 왜 말만 들어도 웃길까 💩 #shorts’똥‘이라는 말만 들어도 피식하게 되죠. 어른이 돼도 웃기는 데는 이유가 있어요.첫째, 금기예요. 우리는 어릴 때부터 .mp4",
+    "timeSeconds": 35
+  },
+  {
+    "role": "INFORMATION / COMPARISON",
+    "source": "references\\안 만졌는데 간지러운 진짜 이유 🤣 #shorts친구가 손가락을 꼼지락거리며 다가오기만 해도 벌써 몸이 배배 꼬이죠. 아직 닿지도 않았는데 왜 간지러울까요 정답은, 뇌가 .mp4",
+    "timeSeconds": 23
+  },
+  {
+    "role": "INFORMATION / COMPARISON",
+    "source": "exports\\MINSU_EP05_V3_BRAZIL_NUT.mp4",
+    "timeSeconds": 22
+  },
+  {
+    "role": "INFORMATION / COMPARISON",
+    "source": "production\\minsu_v31\\ep06\\preview\\0580.png",
+    "sourceFrame": 580,
+    "timeSeconds": 19.333333333333332
+  }
+]

@@ -1,0 +1,123 @@
+{
+  "id": "MINSU_V3_EFFECT_TEST",
+  "fps": 30,
+  "durationFrames": 180,
+  "purpose": "editorial test, not a science episode",
+  "rendererProfile": "MINSU_V21",
+  "shots": [
+    {
+      "id": "test_0",
+      "startFrame": 0,
+      "endFrame": 60,
+      "actions": [
+        {
+          "id": "action_0",
+          "startFrame": 0,
+          "endFrame": 60,
+          "target": "minsu",
+          "visibleChange": "head tracks rising prop, then surprise"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 2,
+          "endFrame": 58,
+          "lines": [
+            "어?",
+            "움직인다"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "question",
+          "frame": 15,
+          "type": "QUESTION",
+          "target": "minsu",
+          "actionId": "action_0",
+          "intensity": 1
+        },
+        {
+          "id": "surprise",
+          "frame": 42,
+          "type": "SURPRISE",
+          "target": "minsu",
+          "actionId": "action_0",
+          "intensity": 2
+        }
+      ]
+    },
+    {
+      "id": "test_1",
+      "startFrame": 60,
+      "endFrame": 120,
+      "actions": [
+        {
+          "id": "action_1",
+          "startFrame": 60,
+          "endFrame": 120,
+          "target": "prop",
+          "visibleChange": "prop rotates while observer inspects"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 62,
+          "endFrame": 118,
+          "lines": [
+            "가까이서",
+            "확인해 보자"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "inspect",
+          "frame": 67,
+          "type": "EXPERIMENT",
+          "target": "prop",
+          "actionId": "action_1",
+          "intensity": 1,
+          "focus": true
+        }
+      ]
+    },
+    {
+      "id": "test_2",
+      "startFrame": 120,
+      "endFrame": 180,
+      "actions": [
+        {
+          "id": "action_2",
+          "startFrame": 120,
+          "endFrame": 180,
+          "target": "minsu",
+          "visibleChange": "prop turns green and character smiles"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 122,
+          "endFrame": 178,
+          "lines": [
+            "이제",
+            "찾았다!"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "found",
+          "frame": 132,
+          "type": "DISCOVERY",
+          "target": "minsu",
+          "actionId": "action_2",
+          "intensity": 2,
+          "text": "발견!"
+        }
+      ]
+    }
+  ],
+  "audioMood": "exploration",
+  "audioTrack": "curious_desert_100"
+}

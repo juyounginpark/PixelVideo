@@ -1,0 +1,116 @@
+{
+  "bpm": 100,
+  "bars": 8,
+  "melody": [
+    {
+      "beat": 0,
+      "midi": 76,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 2,
+      "midi": 79,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 3,
+      "midi": 74,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 4,
+      "midi": 76,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 5,
+      "midi": 72,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 7,
+      "midi": 71,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 8,
+      "midi": 72,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 10,
+      "midi": 76,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 11,
+      "midi": 79,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 12,
+      "midi": 76,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 14,
+      "midi": 74,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 16,
+      "midi": 77,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 18,
+      "midi": 76,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 19,
+      "midi": 72,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 20,
+      "midi": 69,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 22,
+      "midi": 72,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 23,
+      "midi": 76,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 24,
+      "midi": 74,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 26,
+      "midi": 71,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 27,
+      "midi": 69,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 28,
+      "midi": 71,
+      "voice": "soft bell"
+    },
+    {
+      "beat": 30,
+      "midi": 74,
+      "voice": "soft bell"
+    }
+  ]
+}

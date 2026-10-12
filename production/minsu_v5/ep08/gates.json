@@ -1,0 +1,118 @@
+{
+  "TOPIC": {
+    "decision": "PASS",
+    "basis": "research/top10.json, top5_hooks.json; scoped government report"
+  },
+  "STORY": {
+    "decision": "PASS",
+    "basis": {
+      "기": "흰 우산에 붉은 비가 튄다. 민수가 빗물을 모은다.",
+      "승": "가라앉는 입자와 현미경의 작은 점에서 단서를 얻는다.",
+      "전": "배양에서 조류가 자라며 조사팀의 포자 판정과 연결된다.",
+      "결": "주변 나무에도 같은 종류. 대량 공중 유입은 미확인이나 이 시료의 색은 생물 입자로 설명된다."
+    },
+    "limits": "색 원인은 설명되지만 수송 경로는 남김"
+  },
+  "STORYBOARD": {
+    "decision": "PASS",
+    "abstractSeconds": 7,
+    "totalSeconds": 34,
+    "basis": "7 scene types; first frame physical rain; objects carry transitions"
+  },
+  "ART_PREVIEW": {
+    "decision": "PROCEED_WITH_STATED_LIMITS",
+    "reviewer": "assistant actual decoded-frame inspection",
+    "evidence": [
+      {
+        "path": "exports\\MINSU_EP08_V5_ART_SAMPLE.mp4",
+        "sha256": "e93b284a06ed57eeff0ad8a7637e59279a54f56a6b55add61d36f307a74e04eb"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\sample\\sequence.jpg",
+        "sha256": "25b8bd8fbae7b2a6c68d325bf52915c102aa223b5f636321af68a29a35752821"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\crt\\pixel_crops.png",
+        "sha256": "186b1bcc41d74a9edd4c1cbcb162d875f83c144f3cad04c3bafe1a703f3a2491"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\model\\angles.jpg",
+        "sha256": "990eae1615126b93e2df6f8b6d1674f4544e64b06e388ea5b6c1544ac8cbdbe6"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\ui_stills\\grid.jpg",
+        "sha256": "f0b88e4d32e4e13e79b1992472413d11e64d45856c663b6e4fff61884edfd9dd"
+      }
+    ],
+    "observations": [
+      "0초부터 붉은 비와 흰 우산의 색 대비가 보임. 0.3~1.5초 팔·몸통·입 변화와 얼룩 증가 확인.",
+      "우산·현미경 테두리 잘림 수정. 머리카락의 검은 모서리 삼각형을 실제 프레임에서 확인 후 수정.",
+      "정면·측면·3/4 네 동작 표본에서 실루엣·팔 연결·접지를 확인. 12동작 전체 36뷰 파일 및 60포즈 진단 저장.",
+      "CRT 미적용/6%/10%/14%를 실제 인코딩 후 밝은 영역·어두운 영역·자막에서 비교. 6% 모바일 프리셋 선택.",
+      "한국어 제목·본문·정보 라벨의 계층이 구분됨. 영어판은 별도 출력."
+    ],
+    "limits": [
+      "표본 프레임 검수이며 실시간 재생 감상이나 실제 모바일 기기 사용자 테스트가 아니다.",
+      "배양과 침강은 설명용 시간 압축이며 유체/생물학 시뮬레이션이 아니다.",
+      "표정과 몸짓은 개선했으나 상업 애니메이션 수준의 복잡한 손 연기는 아직 제한적."
+    ],
+    "approvedSceneSpecHash": "6ccddcba8d8a10e03f47ae27f6998b1aac0891a609de74fed309eadfd25527c5"
+  },
+  "EDITING_PREVIEW": {
+    "decision": "PROCEED_WITH_STATED_LIMITS",
+    "approvedSceneSpecHash": "6ccddcba8d8a10e03f47ae27f6998b1aac0891a609de74fed309eadfd25527c5",
+    "reviewer": "assistant decoded MP4 sequence inspection",
+    "evidence": [
+      {
+        "path": "exports\\MINSU_EP08_V5_PREVIEW.mp4",
+        "sha256": "e7c60593e6ce894b0efb58a2b8173134fbd57a82b98181ecd06e793cba95433f"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\preview\\receipt.json",
+        "sha256": "b1deaec426b68927fa65d52c26827873fa918746c33acf16877125b611fc1b07"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\preview\\discovery_sequence.jpg",
+        "sha256": "e3564ae7e04c4f267f74339900e6068ac08bd62c2f4490a679f574711cb834b3"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\preview\\settling_sequence.jpg",
+        "sha256": "c8df08ce28b2669a75648af86d74dfceb50fac54a904e4f3e80c97f1dbfc90b5"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\preview\\S07.png",
+        "sha256": "2078801013031252aaa91ade8ae24539efd2efe0344f8d0005f776eb3f145888"
+      }
+    ],
+    "observations": [
+      "전체 34초를 0.5초 간격으로, 후킹·침강·배양·결말을 추가 연속 프레임으로 검토했다.",
+      "첫 프레임에 흰 우산과 붉은 비가 보이며, 자막 없이도 비의 색이 이상하다는 단서가 존재한다.",
+      "7~11초: 입자가 물 아래로 모이는 움직임과 용해/부유의 구분이 연결된다.",
+      "14~16초: 배양체가 하나에서 가지 형태로 자라며, 15.5초 큰 발견 자막과 15.6초 카메라·SFX 이벤트를 배치했다.",
+      "22~26초: 멀리 떨어졌던 라벨을 실제 병·나무 시료 위에 붙여 2D만 재합성했다.",
+      "마지막은 처음의 비로 돌아가 색 원인을 답하고, 대량 공중 유입의 미확인 범위를 별도로 보존한다.",
+      "5초 이상 의미 없이 지속되는 컷은 없다. 다만 두 현미경 장면의 원형 구도는 7초 이어지며 관찰에서 배양으로 정보가 바뀐다."
+    ],
+    "limits": [
+      "실시간 연속 감상과 인간 청취 검수가 아닌 실제 MP4 프레임 시퀀스 검수다.",
+      "미세 입자·배양은 모식도이며 실제 물리·생물 성장 시뮬레이션이 아니다.",
+      "일부 작은 소품은 부모 축척 때문에 월드 기준 텍셀 밀도가 완전히 같지는 않다.",
+      "단순한 손 모양·시선 연기와 절제된 리액션은 레퍼런스 대비 한계가 있다.",
+      "관객 흥미와 완주율은 미검증이다."
+    ]
+  },
+  "FINAL_QA": {
+    "decision": "TECHNICAL_PASS_EDITORIAL_QUALIFIED",
+    "technical": {
+      "ko": "PASS",
+      "en": "PASS"
+    },
+    "editorial": "DELIVER_WITH_EDITORIAL_LIMITS",
+    "reports": [
+      "final/qa_ko.json",
+      "final/qa_en.json",
+      "final/editorial.json"
+    ],
+    "approvedSceneSpecHash": "6ccddcba8d8a10e03f47ae27f6998b1aac0891a609de74fed309eadfd25527c5"
+  }
+}

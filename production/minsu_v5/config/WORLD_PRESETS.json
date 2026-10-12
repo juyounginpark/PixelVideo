@@ -1,0 +1,19 @@
+{
+  "version": "5.0.0",
+  "worlds": [
+    "warm_rain_courtyard",
+    "pastel_observation_lab",
+    "microscope_darkfield"
+  ],
+  "palette": "warm cream / sage / apricot",
+  "newAssets": [
+    "umbrella",
+    "rain_particles",
+    "courtyard",
+    "sample_jar",
+    "microscope",
+    "culture_dish",
+    "algal_colony",
+    "bark_sample"
+  ]
+}

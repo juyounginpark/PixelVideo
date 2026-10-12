@@ -1,0 +1,30 @@
+{
+  "version": "5.0.0",
+  "model": "MINSU_CUTE_V21",
+  "reuse": "production/minsu_v2/design_system.py",
+  "actions": [
+    "OBSERVE",
+    "REACT",
+    "POINT",
+    "LOOK_AROUND",
+    "SURPRISE",
+    "CONFUSED",
+    "THINK",
+    "WALK",
+    "TURN",
+    "EXPLAIN",
+    "DISCOVER",
+    "CELEBRATE"
+  ],
+  "requiredViews": [
+    "front",
+    "side",
+    "three_quarter"
+  ],
+  "faceOnlyAllowed": false,
+  "footContact": "root/hip pose compensation",
+  "jointArmLengths": [
+    0.2,
+    0.2
+  ]
+}

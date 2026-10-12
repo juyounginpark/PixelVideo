@@ -1,0 +1,20 @@
+{
+  "video": "references\\pixel_sciences2\\DeTSMDtqIs2.mp4",
+  "sha256": "ed44af31d4a82f624c793cb10f8afe0ff828f9b7b474e5dd7ad2f9d11abae65b",
+  "duration_seconds": 60.12,
+  "frame_sampling": "fps=1, nominal second bins, approximately +/-0.5s",
+  "contact_sampling_seconds": 3,
+  "scene_threshold": 0.3,
+  "scene_candidate_times": [
+    27.2,
+    30.0,
+    34.5,
+    39.0,
+    48.0,
+    52.5,
+    56.6
+  ],
+  "audio": "audio.wav, mono 16000 Hz, extracted from local video",
+  "visual_observation": "completed: sampled frame review; see TWO_REELS_ANALYSIS.md",
+  "audio_observation": "local ASR only; no direct auditory review"
+}

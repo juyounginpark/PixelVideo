@@ -1,0 +1,185 @@
+{
+  "resolution": [
+    540,
+    960
+  ],
+  "percentage": 100,
+  "taaSamples": 8,
+  "filterSize": 0.009999999776482582,
+  "materials": [
+    {
+      "name": "MINSU_V31_amber",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_bond",
+      "texelsPerUnit": null,
+      "mapping": null,
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_brown",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_cheek",
+      "texelsPerUnit": null,
+      "mapping": null,
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_coral",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_cream",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_cyan",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_hair",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_hydrogen",
+      "texelsPerUnit": null,
+      "mapping": null,
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_ice",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_ice_dark",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_ice_top",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_light",
+      "texelsPerUnit": null,
+      "mapping": null,
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_metal",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_midnight",
+      "texelsPerUnit": null,
+      "mapping": null,
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_mint",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_navy",
+      "texelsPerUnit": null,
+      "mapping": null,
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_ochre",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_oxygen",
+      "texelsPerUnit": null,
+      "mapping": null,
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_pale",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_rail",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_rock",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_sand",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_shoe",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_skin",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_snow",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_wall",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_water",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    },
+    {
+      "name": "MINSU_V31_wet",
+      "texelsPerUnit": 16,
+      "mapping": "local Object; baked mesh dimensions; no Generated mapping",
+      "lightBands": 3
+    }
+  ]
+}

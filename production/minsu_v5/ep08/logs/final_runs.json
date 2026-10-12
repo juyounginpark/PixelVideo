@@ -1,0 +1,23 @@
+[
+  {
+    "stage": "projection_cache",
+    "source": "preview",
+    "reusedShots": 9,
+    "reason": "Matching native scene hashes and normalized camera projection"
+  },
+  {
+    "stage": "final_ui_check",
+    "seconds": 11.915087699999276,
+    "returncode": 0
+  },
+  {
+    "stage": "final_render",
+    "seconds": 649.5206212000012,
+    "returncode": 0
+  },
+  {
+    "stage": "final_compose",
+    "seconds": 68.41900819999864,
+    "returncode": 0
+  }
+]

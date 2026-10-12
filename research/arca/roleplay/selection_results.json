@@ -1,0 +1,227 @@
+{
+  "source_url": "https://arca.live/b/spooky?category=%EC%8B%A4%ED%99%94%2F%EC%8D%B0%20%EA%B4%B4%EB%8B%B4",
+  "collected_at_utc": "2026-10-11T15:21:38.387394+00:00",
+  "scope": "first listing page, 20 posts; partial body review; not overall ranking",
+  "articles": [
+    {
+      "id": "185585057",
+      "title": "귀신 본건 아닌데 귀신처럼 생긴 사람 봄..",
+      "url": "https://arca.live/b/spooky/185585057",
+      "status": "제외",
+      "reason": "실제 행인의 외모·문신을 공포로 소비하며 사건 전개·결말이 부족함",
+      "published_at": "2026-10-11T02:11:36.000Z",
+      "views": 402,
+      "average_views_per_hour": 30.53,
+      "body_collected": true
+    },
+    {
+      "id": "185382037",
+      "title": "방금 가위 눌렸는데 개무서웠음",
+      "url": "https://arca.live/b/spooky/185382037",
+      "status": "조건부 후보",
+      "reason": "수면 중 체험 주장. 소리 중단→움직임 제한→감각·그림자→풀려 나옴의 완결 흐름. 1인 역할극 가능, 이용 허락 미확인",
+      "published_at": "2026-10-08T19:32:39.000Z",
+      "views": 470,
+      "average_views_per_hour": 6.93,
+      "body_collected": true
+    },
+    {
+      "id": "185244234",
+      "title": "혐주의) 문경 십자가 자살 사건 찾아보면서 느낀건데",
+      "url": "https://arca.live/b/spooky/185244234",
+      "status": "제외",
+      "reason": "제목에 실제 자살 사건·혐주의 명시. 본문 요청하지 않음",
+      "published_at": "2026-10-07T10:46:27.000Z",
+      "views": 3595,
+      "average_views_per_hour": 35.74,
+      "body_collected": false
+    },
+    {
+      "id": "184991184",
+      "title": "꿈에 나타난 식물 근황(?)",
+      "url": "https://arca.live/b/spooky/184991184",
+      "status": "보류",
+      "reason": "후속 글. 이미지 2장과 연결된 이전 글이 핵심이나 미확인",
+      "published_at": "2026-10-04T23:06:42.000Z",
+      "views": 1507,
+      "average_views_per_hour": 9.4,
+      "body_collected": true
+    },
+    {
+      "id": "184553410",
+      "title": "일본 2ch 썰",
+      "url": "https://arca.live/b/spooky/184553410",
+      "status": "제외",
+      "reason": "본문에 약물·주사기·피 묘사와 민감한 관계 암시. 원문 전체 제외",
+      "published_at": "2026-09-30T11:59:00.000Z",
+      "views": 4486,
+      "average_views_per_hour": 16.78,
+      "body_collected": true
+    },
+    {
+      "id": "184359754",
+      "title": "제타) 인외콤의 끝판왕",
+      "url": "https://arca.live/b/spooky/184359754",
+      "status": "보류",
+      "reason": "이미지 1장이 본문 핵심. 이미지 미확인",
+      "published_at": "2026-09-28T13:38:09.000Z",
+      "views": 4332,
+      "average_views_per_hour": 13.81,
+      "body_collected": true
+    },
+    {
+      "id": "184100197",
+      "title": "난파선 인양 업자의 썰",
+      "url": "https://arca.live/b/spooky/184100197",
+      "status": "보류",
+      "reason": "제목만으로 제외 확정 불가. HTTP 429로 추가 본문 수집 중단, 내용·매체 미확인",
+      "published_at": "2026-09-25T17:35:05.000Z",
+      "views": 5246,
+      "average_views_per_hour": 13.74,
+      "body_collected": false
+    },
+    {
+      "id": "183895341",
+      "title": "어릴때 본 영화 대사 중 여태 기억에 남는게 있음",
+      "url": "https://arca.live/b/spooky/183895341",
+      "status": "보류",
+      "reason": "제목만으로 제외 확정 불가. HTTP 429로 추가 본문 수집 중단, 내용·매체 미확인",
+      "published_at": "2026-09-23T13:59:32.000Z",
+      "views": 1226,
+      "average_views_per_hour": 2.83,
+      "body_collected": false
+    },
+    {
+      "id": "183879215",
+      "title": "예전에 들었던 일본 장의사쪽 이야기",
+      "url": "https://arca.live/b/spooky/183879215",
+      "status": "보류",
+      "reason": "제목만으로 제외 확정 불가. HTTP 429로 추가 본문 수집 중단, 내용·매체 미확인",
+      "published_at": "2026-09-23T11:27:35.000Z",
+      "views": 3422,
+      "average_views_per_hour": 7.85,
+      "body_collected": false
+    },
+    {
+      "id": "183814700",
+      "title": "일본 배우 기타노 다케시 썰",
+      "url": "https://arca.live/b/spooky/183814700",
+      "status": "제외",
+      "reason": "실명 배우의 개인사 체험담으로 보이는 제목. 엄격한 실제 인물 필터로 제외, 본문 미확인",
+      "published_at": "2026-09-22T22:05:07.000Z",
+      "views": 4247,
+      "average_views_per_hour": 9.45,
+      "body_collected": false
+    },
+    {
+      "id": "183785098",
+      "title": "6.25 참전 생존자 인터뷰 발췌",
+      "url": "https://arca.live/b/spooky/183785098",
+      "status": "제외",
+      "reason": "실제 전쟁 생존자 경험·민감한 사건. 본문 요청하지 않음",
+      "published_at": "2026-09-22T12:37:03.000Z",
+      "views": 4077,
+      "average_views_per_hour": 8.89,
+      "body_collected": false
+    },
+    {
+      "id": "183765957",
+      "title": "정신나간 소리같지만 이 화면에 보이는 식물은 여자인걸 확신하게됐음.",
+      "url": "https://arca.live/b/spooky/183765957",
+      "status": "보류",
+      "reason": "제목만으로 제외 확정 불가. HTTP 429로 추가 본문 수집 중단, 내용·매체 미확인",
+      "published_at": "2026-09-22T09:39:19.000Z",
+      "views": 6280,
+      "average_views_per_hour": 13.6,
+      "body_collected": false
+    },
+    {
+      "id": "183736266",
+      "title": "군입대 전 썰",
+      "url": "https://arca.live/b/spooky/183736266",
+      "status": "보류",
+      "reason": "제목만으로 제외 확정 불가. HTTP 429로 추가 본문 수집 중단, 내용·매체 미확인",
+      "published_at": "2026-09-22T03:58:29.000Z",
+      "views": 2588,
+      "average_views_per_hour": 5.54,
+      "body_collected": false
+    },
+    {
+      "id": "183393466",
+      "title": "절대 이렇게 떨어질수 없는데?",
+      "url": "https://arca.live/b/spooky/183393466",
+      "status": "보류",
+      "reason": "제목만으로 제외 확정 불가. HTTP 429로 추가 본문 수집 중단, 내용·매체 미확인",
+      "published_at": "2026-09-18T10:42:51.000Z",
+      "views": 1369,
+      "average_views_per_hour": 2.46,
+      "body_collected": false
+    },
+    {
+      "id": "183342739",
+      "title": "예전에 봤던 군사 잡지 인터뷰 내용",
+      "url": "https://arca.live/b/spooky/183342739",
+      "status": "제외",
+      "reason": "군사 인터뷰로 제시된 실제 경험 자료. 엄격한 실제 사건 필터로 제외, 본문 미확인",
+      "published_at": "2026-09-18T00:10:30.000Z",
+      "views": 3931,
+      "average_views_per_hour": 6.93,
+      "body_collected": false
+    },
+    {
+      "id": "183327362",
+      "title": "혹시 생각하면 죽은 지인이 곁에 있는다는 말들어본적 있음?",
+      "url": "https://arca.live/b/spooky/183327362",
+      "status": "제외",
+      "reason": "실제 사망한 지인의 개인사·상실을 소재로 한 제목. 본문 미확인",
+      "published_at": "2026-09-17T15:41:47.000Z",
+      "views": 1381,
+      "average_views_per_hour": 2.4,
+      "body_collected": false
+    },
+    {
+      "id": "183309737",
+      "title": "어릴때 있었던 일인데",
+      "url": "https://arca.live/b/spooky/183309737",
+      "status": "보류",
+      "reason": "제목만으로 제외 확정 불가. HTTP 429로 추가 본문 수집 중단, 내용·매체 미확인",
+      "published_at": "2026-09-17T12:37:56.000Z",
+      "views": 527,
+      "average_views_per_hour": 0.91,
+      "body_collected": false
+    },
+    {
+      "id": "183238931",
+      "title": "②녹천마을 이라는 곳을 아시나요?",
+      "url": "https://arca.live/b/spooky/183238931",
+      "status": "보류",
+      "reason": "제목만으로 제외 확정 불가. HTTP 429로 추가 본문 수집 중단, 내용·매체 미확인",
+      "published_at": "2026-09-16T23:11:24.000Z",
+      "views": 4140,
+      "average_views_per_hour": 6.99,
+      "body_collected": false
+    },
+    {
+      "id": "183218929",
+      "title": "군대에서 들었던 몇가지 귀신 썰",
+      "url": "https://arca.live/b/spooky/183218929",
+      "status": "보류",
+      "reason": "제목만으로 제외 확정 불가. HTTP 429로 추가 본문 수집 중단, 내용·매체 미확인",
+      "published_at": "2026-09-16T14:53:57.000Z",
+      "views": 3504,
+      "average_views_per_hour": 5.84,
+      "body_collected": false
+    },
+    {
+      "id": "183162561",
+      "title": "전에 살았던 아파트 이야기",
+      "url": "https://arca.live/b/spooky/183162561",
+      "status": "보류",
+      "reason": "제목만으로 제외 확정 불가. HTTP 429로 추가 본문 수집 중단, 내용·매체 미확인",
+      "published_at": "2026-09-16T06:14:09.000Z",
+      "views": 690,
+      "average_views_per_hour": 1.13,
+      "body_collected": false
+    }
+  ]
+}

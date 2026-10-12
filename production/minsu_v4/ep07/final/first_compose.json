@@ -1,0 +1,51 @@
+{
+  "fonts": {
+    "checkedCharacters": 1052,
+    "fallbacks": 0,
+    "fontFaces": [
+      "PIXEL_DISPLAY",
+      "PIXEL_BODY"
+    ]
+  },
+  "uiCacheHits": [],
+  "uiRenderedShots": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09",
+    "S10"
+  ],
+  "errors": [],
+  "duration": 35.0,
+  "frameCount": 1050,
+  "fullDecode": true,
+  "validatedUIFrames": 1050,
+  "audioCacheHit": true,
+  "audioFolder": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\production\\minsu_v4\\cache\\audio\\dcaeaa2142d0600430f509610b4d50e00f8e4d86e684d95ba554342cb96c282e",
+  "nativeSize": [
+    540,
+    960
+  ],
+  "audio": {
+    "input_i": "-19.01",
+    "input_tp": "-9.64",
+    "input_lra": "1.50",
+    "input_thresh": "-29.09",
+    "output_i": "-19.10",
+    "output_tp": "-9.92",
+    "output_lra": "1.10",
+    "output_thresh": "-29.13",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "tts": false,
+  "totalSeconds": 42.73023490000196,
+  "sha256": "72e1400714d9bc9c8581ad76073e2cd88e07254b0ab6e87fee92bc9c661337e5",
+  "output": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP07_V4_DARK_MATTER.mp4",
+  "editorialApproval": false
+}

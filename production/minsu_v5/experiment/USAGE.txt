@@ -1,0 +1,40 @@
+MINSU experiment profile — U-091
+
+Production style source: MINSU_STRAW_STYLE_USER_SPEC.md
+Reference evidence: review/straw/source.json + observations.json
+Delivery: review/REPORT.html
+
+Run (from PIXELvideo workspace):
+  python production/minsu_v5/experiment/run.py
+  python production/minsu_v5/experiment/run.py --compose-only
+  python production/minsu_v5/experiment/test_contracts.py
+  "C:\Program Files\Blender Foundation\Blender 5.0\blender.exe" -b --python-exit-code 1 --python production/minsu_v5/experiment/test_blender_operations.py
+
+Integration:
+  directors.episode_brief now references the versioned experiment profile and compact state contract.
+  directors.story_checks validates experimentStory / experimentObjects when explicitly present.
+  Import experiment.state for scientific state/number validation.
+  operations.apply resets from a captured baseline before each seek; reuse the same objects.
+  GameOverlay uses the existing V5 licensed fonts, glyph atlas and persistent line cache.
+  Native rendering and 2D composition remain separate. The renderer shares V5's heavy-worker lock.
+  Editing captions, audio, or HUD placement is excluded from native_scene_inputs.
+  The fixture has two columns by design; episode-specific layouts and scientific property probes
+  require their own reviewed adapter. This is not an automatic arbitrary-topic 3D renderer.
+
+What the fixture proves:
+  Two object rotations finish on different frames; measured scene transform is 90 degrees.
+  Displayed state changes one frame after each geometry-completion receipt.
+  The receipt is bound to object ID, state signature and evaluated geometry hash.
+  13 operation implementations pass deterministic evaluated-mesh tests.
+  Cut/Pierce remove actual material; Join connects two meshes using exact Boolean evaluation.
+  Open/Close require the model's pivot to be placed at its hinge; Morph requires matching vertices.
+  Bend/Squash/Stretch/Flatten are geometric illustrations and do not claim physical conservation.
+
+What still requires topic-specific work:
+  Independent science evidence, definitions, valid measurements, conditions and exceptions.
+  Full question/hypotheses/experiment/transfer/conclusion/participation story and editorial review.
+  Visual review of operations other than the Rotate fixture, model intersections and material physics.
+  Actual music listening, SFX rhythm and audience engagement. Episode BGM/SFX remains the local system.
+
+The fixture is not a new source-selected episode. Source caches, topic history and EP08 exports stay intact.
+Existing V5 episode adapters remain compatible; already delivered EP08 is not silently rebuilt.

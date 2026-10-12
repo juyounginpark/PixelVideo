@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "file": "references\\해마는 아빠가 아기를 낳는다#해마 #바다동물 #동물 #과학 #릴스 #과학릴스 #픽셀과학.mp4",
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "audio_codec": "aac",
+      "fps": 30.0,
+      "source_size": [
+        720,
+        1280
+      ],
+      "size": [
+        720,
+        1280
+      ],
+      "rotate": 0,
+      "duration": 60.12
+    },
+    "sample_seconds": [
+      0.5,
+      2,
+      5,
+      12,
+      20,
+      30
+    ]
+  },
+  {
+    "id": 2,
+    "file": "references\\지구가 갑자기 멈추면 어떻게될까#지구 #자전 #관성 #만약에 #과학 #릴스 #과학릴스 #픽셀과학.mp4",
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "audio_codec": "aac",
+      "fps": 30.0,
+      "source_size": [
+        720,
+        1280
+      ],
+      "size": [
+        720,
+        1280
+      ],
+      "rotate": 0,
+      "duration": 60.12
+    },
+    "sample_seconds": [
+      0.5,
+      2,
+      5,
+      12,
+      20,
+      30
+    ]
+  },
+  {
+    "id": 3,
+    "file": "references\\똥, 오줌… 왜 말만 들어도 웃길까 💩 #shorts’똥‘이라는 말만 들어도 피식하게 되죠. 어른이 돼도 웃기는 데는 이유가 있어요.첫째, 금기예요. 우리는 어릴 때부터 .mp4",
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, bt709, progressive)",
+      "audio_codec": "aac",
+      "fps": 24.0,
+      "source_size": [
+        720,
+        1280
+      ],
+      "size": [
+        720,
+        1280
+      ],
+      "rotate": 0,
+      "duration": 51.24
+    },
+    "sample_seconds": [
+      0.5,
+      2,
+      5,
+      12,
+      20,
+      30
+    ]
+  },
+  {
+    "id": 4,
+    "file": "references\\안 만졌는데 간지러운 진짜 이유 🤣 #shorts친구가 손가락을 꼼지락거리며 다가오기만 해도 벌써 몸이 배배 꼬이죠. 아직 닿지도 않았는데 왜 간지러울까요 정답은, 뇌가 .mp4",
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "audio_codec": "aac",
+      "fps": 24.0,
+      "source_size": [
+        720,
+        1280
+      ],
+      "size": [
+        720,
+        1280
+      ],
+      "rotate": 0,
+      "duration": 30.11
+    },
+    "sample_seconds": [
+      0.5,
+      2,
+      5,
+      12,
+      20,
+      29.81
+    ]
+  }
+]

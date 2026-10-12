@@ -1,0 +1,32 @@
+{
+  "shots": [
+    "S01",
+    "S04"
+  ],
+  "nativeKeysBefore": {
+    "S01": "b83be5e5be25b62ddc9a3a959e88182aef44baa6de5648b203c867f9248e7a52",
+    "S02": "890a5a8d58eb176d91dba5bc1a4bdb088bbea345303f78da8e33c623efd0070c",
+    "S03": "d9dab5ba2d5739fe1abeb53534a6e3f0b1b3974e6fcc7dc7db5a878b695dfa6f",
+    "S04": "77abaa05fe1795eccb5def53ddbe0b2f5d05c1670c2e06eb195bee9e244518b1",
+    "S05": "98e336f73307121060aa8e9f8e7a85925c62d8bc20ecdbbd93bc386a5ece3cde",
+    "S06": "1113afb64c7838ef1c3fa17ab4ba0e6b3ae0cea6f3c73679452c177bbda3fec5",
+    "S07": "af4f709621036a0f112d354335e1ec6187c636a4bf34eda94c82b72bc4396421",
+    "S08": "9942f8299835b1039c05b14acbf87994b78922c3cc24cc5002fe869f15d6a0ab",
+    "S09": "60b3a88da5c8dcc4bb5758d2f6674a54922d7043d82f9a20896f38b928f37f23",
+    "S10": "14469f114ceee54eeb360dd128f35090ebf74b52531dc3ea5f644de94bf963d6"
+  },
+  "nativeKeysAfter": {
+    "S01": "b83be5e5be25b62ddc9a3a959e88182aef44baa6de5648b203c867f9248e7a52",
+    "S02": "890a5a8d58eb176d91dba5bc1a4bdb088bbea345303f78da8e33c623efd0070c",
+    "S03": "d9dab5ba2d5739fe1abeb53534a6e3f0b1b3974e6fcc7dc7db5a878b695dfa6f",
+    "S04": "77abaa05fe1795eccb5def53ddbe0b2f5d05c1670c2e06eb195bee9e244518b1",
+    "S05": "98e336f73307121060aa8e9f8e7a85925c62d8bc20ecdbbd93bc386a5ece3cde",
+    "S06": "1113afb64c7838ef1c3fa17ab4ba0e6b3ae0cea6f3c73679452c177bbda3fec5",
+    "S07": "af4f709621036a0f112d354335e1ec6187c636a4bf34eda94c82b72bc4396421",
+    "S08": "9942f8299835b1039c05b14acbf87994b78922c3cc24cc5002fe869f15d6a0ab",
+    "S09": "60b3a88da5c8dcc4bb5758d2f6674a54922d7043d82f9a20896f38b928f37f23",
+    "S10": "14469f114ceee54eeb360dd128f35090ebf74b52531dc3ea5f644de94bf963d6"
+  },
+  "nativeInvalidations": 0,
+  "changes": "Korean and English layout only"
+}

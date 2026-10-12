@@ -1,0 +1,56 @@
+{
+  "renderedFrames": 840,
+  "reusedFrames": 240,
+  "nativeSize": [
+    540,
+    960
+  ],
+  "shots": {
+    "S01": {
+      "rendered": 0,
+      "reused": 120,
+      "seconds": 0.6006387999950675
+    },
+    "S02": {
+      "rendered": 120,
+      "reused": 0,
+      "seconds": 108.11269280000124
+    },
+    "S03": {
+      "rendered": 120,
+      "reused": 0,
+      "seconds": 100.69740460000321
+    },
+    "S04": {
+      "rendered": 120,
+      "reused": 0,
+      "seconds": 89.58441700000549
+    },
+    "S05": {
+      "rendered": 0,
+      "reused": 120,
+      "seconds": 0.5886093000008259
+    },
+    "S06": {
+      "rendered": 120,
+      "reused": 0,
+      "seconds": 97.27573679999477
+    },
+    "S07": {
+      "rendered": 120,
+      "reused": 0,
+      "seconds": 75.51442479999969
+    },
+    "S08": {
+      "rendered": 120,
+      "reused": 0,
+      "seconds": 80.59637710000243
+    },
+    "S09": {
+      "rendered": 120,
+      "reused": 0,
+      "seconds": 80.42830050000339
+    }
+  },
+  "wallSeconds": 635.8162666000062
+}

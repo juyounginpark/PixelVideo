@@ -1,0 +1,261 @@
+{
+  "quality": "final",
+  "renderedFrames": 50,
+  "reusedFrames": 0,
+  "projectionSeconds": 0.11968019998312229,
+  "renderSeconds": 30.097492099997908,
+  "shots": {
+    "S01": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.194114699999773,
+      "key": "5bd84921c8b488ee8cf735d163830a3b67c991f61093766f39e6583bb46b1ee9"
+    },
+    "S02": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.9653121000010287,
+      "key": "bd798ef2b6722e3365992dbe9d1f1f8b523d5aaa3e30ed12c8ad5c88c4abcac1"
+    },
+    "S03": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 2.5728185000007215,
+      "key": "e7b1ecac841c7fe4ec144792d65c7702b56a180320eb86f97dc8166c03784d4b"
+    },
+    "S04": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 2.5275059999985388,
+      "key": "bf0d182666f874e050c386b4ea39aec9227aed6bfee859ca82aab78344705b86"
+    },
+    "S05": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 2.514008599999215,
+      "key": "0164858037988688c19ef5c89aec33d46b4041be26d9cc10a155eb8e8ce35346"
+    },
+    "S06": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 2.7059283000016876,
+      "key": "fb1469c220dd116e4dce98dad751b87eb6d96381af6ec3413b37a766f6d64bce"
+    },
+    "S07": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 2.8476743000028364,
+      "key": "ac358ab9fb90611e3a66d3fd3e5fa62227dca6e946917cba69c9fe21387fd11f"
+    },
+    "S08": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.7829485000002023,
+      "key": "4b8a7ca5e5bf3c7d5eedcc92daafeb76fe625baf0441fa328e1306711d40e941"
+    },
+    "S09": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 2.4981440999981714,
+      "key": "0ffdc0afd325559628718ec92cfff9d7350abd8e73aaebafee7d8c7a5efb43d5"
+    },
+    "S10": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.9026650000014342,
+      "key": "f481b3f7a42f2f98fb1660b31ad7f22f110af11c1844d4eea629e054c4e58cc8"
+    }
+  },
+  "errors": [],
+  "assetCache": "MISS",
+  "assetSetupSeconds": 1.3585268999995606,
+  "materials": [
+    {
+      "name": "MINSU_V4_amber",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_bond",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_brass",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_brown",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_cheek",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_coral",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_cream",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_cyan",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_dim",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_floor",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_hair",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_halo",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_hydrogen",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_ice",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_ice_dark",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_ice_top",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_light",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_metal",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_midnight",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_mint",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_navy",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_ochre",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_oxygen",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_pale",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_rail",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_rock",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_sand",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_shoe",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_skin",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_snow",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_star_cold",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_star_gold",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_track",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_wall",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_water",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_wet",
+      "texelsPerUnit": 16,
+      "bands": 3
+    }
+  ],
+  "totalSeconds": 32.873624399999244,
+  "nativeSize": [
+    540,
+    960
+  ],
+  "blenderVersion": "5.0.1",
+  "samples": 8
+}

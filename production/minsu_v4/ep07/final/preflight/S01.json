@@ -1,0 +1,3152 @@
+{
+  "0": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          861.32,
+          1006.18,
+          972.03,
+          1110.04
+        ],
+        "point": [
+          916.68,
+          1058.11
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          92.33,
+          479.94,
+          987.67,
+          1262.18
+        ],
+        "point": [
+          540.0,
+          871.06
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 0,
+      "cameraScale": 4.900000095367432,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "1": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          867.31,
+          998.19,
+          977.46,
+          1101.52
+        ],
+        "point": [
+          922.38,
+          1049.85
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          92.32,
+          479.94,
+          987.68,
+          1262.18
+        ],
+        "point": [
+          540.0,
+          871.06
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 1,
+      "cameraScale": 4.899953842163086,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "2": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          873.07,
+          990.07,
+          982.65,
+          1092.88
+        ],
+        "point": [
+          927.86,
+          1041.48
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          92.31,
+          479.92,
+          987.69,
+          1262.19
+        ],
+        "point": [
+          540.0,
+          871.06
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 2,
+      "cameraScale": 4.899816989898682,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "3": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          878.6,
+          981.85,
+          987.6,
+          1084.12
+        ],
+        "point": [
+          933.1,
+          1032.98
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          92.29,
+          479.9,
+          987.71,
+          1262.2
+        ],
+        "point": [
+          540.0,
+          871.05
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 3,
+      "cameraScale": 4.89959192276001,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "4": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          883.89,
+          973.51,
+          992.31,
+          1075.25
+        ],
+        "point": [
+          938.1,
+          1024.38
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          92.26,
+          479.87,
+          992.31,
+          1262.22
+        ],
+        "point": [
+          542.29,
+          871.05
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 4,
+      "cameraScale": 4.899280071258545,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "5": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          888.94,
+          965.08,
+          996.78,
+          1066.27
+        ],
+        "point": [
+          942.86,
+          1015.67
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          92.22,
+          479.83,
+          996.78,
+          1262.25
+        ],
+        "point": [
+          544.5,
+          871.04
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 5,
+      "cameraScale": 4.89888334274292,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "6": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          893.74,
+          956.54,
+          1001.0,
+          1057.2
+        ],
+        "point": [
+          947.37,
+          1006.87
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          92.18,
+          479.78,
+          1001.0,
+          1262.28
+        ],
+        "point": [
+          546.59,
+          871.03
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 6,
+      "cameraScale": 4.898404598236084,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "7": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          898.31,
+          947.91,
+          1004.98,
+          1048.02
+        ],
+        "point": [
+          951.64,
+          997.97
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          92.13,
+          479.73,
+          1004.98,
+          1262.31
+        ],
+        "point": [
+          548.55,
+          871.02
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 7,
+      "cameraScale": 4.89784574508667,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "8": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          902.62,
+          939.2,
+          1008.7,
+          1038.76
+        ],
+        "point": [
+          955.66,
+          988.98
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          92.07,
+          479.67,
+          1008.7,
+          1262.35
+        ],
+        "point": [
+          550.38,
+          871.01
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 8,
+      "cameraScale": 4.8972086906433105,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "9": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          906.68,
+          930.4,
+          1012.16,
+          1029.41
+        ],
+        "point": [
+          959.42,
+          979.9
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          92.01,
+          479.6,
+          1012.16,
+          1262.4
+        ],
+        "point": [
+          552.08,
+          871.0
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 9,
+      "cameraScale": 4.896495342254639,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "10": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          910.5,
+          921.53,
+          1015.37,
+          1019.98
+        ],
+        "point": [
+          962.93,
+          970.75
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          91.93,
+          479.52,
+          1015.37,
+          1262.44
+        ],
+        "point": [
+          553.65,
+          870.98
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 10,
+      "cameraScale": 4.895708084106445,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "11": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          914.05,
+          912.58,
+          1018.32,
+          1010.47
+        ],
+        "point": [
+          966.19,
+          961.52
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          91.86,
+          479.44,
+          1018.32,
+          1262.5
+        ],
+        "point": [
+          555.09,
+          870.97
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 11,
+      "cameraScale": 4.894848823547363,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "12": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          917.35,
+          903.57,
+          1021.0,
+          1000.89
+        ],
+        "point": [
+          969.18,
+          952.23
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          91.77,
+          479.34,
+          1021.0,
+          1262.55
+        ],
+        "point": [
+          556.39,
+          870.95
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 12,
+      "cameraScale": 4.893919467926025,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "13": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          920.39,
+          894.49,
+          1023.43,
+          991.25
+        ],
+        "point": [
+          971.91,
+          942.87
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          91.68,
+          479.25,
+          1023.43,
+          1262.62
+        ],
+        "point": [
+          557.55,
+          870.93
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 13,
+      "cameraScale": 4.892922878265381,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "14": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          923.17,
+          885.36,
+          1025.59,
+          981.55
+        ],
+        "point": [
+          974.38,
+          933.46
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          91.58,
+          479.14,
+          1025.59,
+          1262.68
+        ],
+        "point": [
+          558.58,
+          870.91
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 14,
+      "cameraScale": 4.891860008239746,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "15": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          925.69,
+          876.18,
+          1027.48,
+          971.79
+        ],
+        "point": [
+          976.58,
+          923.99
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          91.48,
+          479.03,
+          1027.48,
+          1262.75
+        ],
+        "point": [
+          559.48,
+          870.89
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 15,
+      "cameraScale": 4.89073371887207,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "16": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          927.94,
+          866.96,
+          1029.1,
+          961.99
+        ],
+        "point": [
+          978.52,
+          914.47
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          91.37,
+          478.91,
+          1029.1,
+          1262.83
+        ],
+        "point": [
+          560.23,
+          870.87
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 16,
+      "cameraScale": 4.8895463943481445,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "17": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          929.93,
+          857.69,
+          1030.45,
+          952.14
+        ],
+        "point": [
+          980.19,
+          904.92
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          91.25,
+          478.79,
+          1030.45,
+          1262.9
+        ],
+        "point": [
+          560.85,
+          870.85
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 17,
+      "cameraScale": 4.888298988342285,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "18": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          931.65,
+          848.39,
+          1031.53,
+          942.26
+        ],
+        "point": [
+          981.59,
+          895.33
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          91.14,
+          478.66,
+          1031.53,
+          1262.98
+        ],
+        "point": [
+          561.33,
+          870.82
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 18,
+      "cameraScale": 4.8869948387146,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "19": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          933.1,
+          839.07,
+          1032.33,
+          932.34
+        ],
+        "point": [
+          982.72,
+          885.71
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          91.01,
+          478.53,
+          1032.33,
+          1263.07
+        ],
+        "point": [
+          561.67,
+          870.8
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 19,
+      "cameraScale": 4.885634899139404,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "20": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          934.29,
+          829.72,
+          1032.87,
+          922.4
+        ],
+        "point": [
+          983.58,
+          876.06
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          90.88,
+          478.39,
+          1032.87,
+          1263.16
+        ],
+        "point": [
+          561.87,
+          870.77
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 20,
+      "cameraScale": 4.884222030639648,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "21": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          935.2,
+          820.36,
+          1033.13,
+          912.44
+        ],
+        "point": [
+          984.16,
+          866.4
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          90.75,
+          478.24,
+          1033.13,
+          1263.25
+        ],
+        "point": [
+          561.94,
+          870.75
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 21,
+      "cameraScale": 4.882758140563965,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "22": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          935.84,
+          810.98,
+          1033.11,
+          902.46
+        ],
+        "point": [
+          984.48,
+          856.72
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          90.61,
+          478.1,
+          1033.11,
+          1263.34
+        ],
+        "point": [
+          561.86,
+          870.72
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 22,
+      "cameraScale": 4.881245136260986,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "23": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          935.52,
+          800.97,
+          1033.51,
+          893.11
+        ],
+        "point": [
+          984.52,
+          847.04
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          90.46,
+          477.94,
+          1033.51,
+          1263.44
+        ],
+        "point": [
+          561.99,
+          870.69
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 23,
+      "cameraScale": 4.879684925079346,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "24": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          934.93,
+          790.96,
+          1033.63,
+          883.75
+        ],
+        "point": [
+          984.28,
+          837.35
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          90.31,
+          477.78,
+          1033.63,
+          1263.54
+        ],
+        "point": [
+          561.97,
+          870.66
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 24,
+      "cameraScale": 4.878080368041992,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "25": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          934.07,
+          780.95,
+          1033.48,
+          874.4
+        ],
+        "point": [
+          983.77,
+          827.67
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          90.16,
+          477.62,
+          1033.48,
+          1263.64
+        ],
+        "point": [
+          561.82,
+          870.63
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 25,
+      "cameraScale": 4.8764328956604,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "26": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          932.93,
+          770.96,
+          1033.06,
+          865.06
+        ],
+        "point": [
+          982.99,
+          818.01
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          90.01,
+          477.45,
+          1033.06,
+          1263.74
+        ],
+        "point": [
+          561.53,
+          870.6
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 26,
+      "cameraScale": 4.874744892120361,
+      "analyticDiagram": true,
+      "event": "SURPRISE"
+    }
+  },
+  "27": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          933.43,
+          760.01,
+          1034.75,
+          855.22
+        ],
+        "point": [
+          984.09,
+          807.61
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          87.65,
+          474.93,
+          1034.75,
+          1265.33
+        ],
+        "point": [
+          561.2,
+          870.13
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 27,
+      "cameraScale": 4.849366664886475,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "28": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          933.57,
+          749.03,
+          1036.08,
+          845.33
+        ],
+        "point": [
+          984.82,
+          797.18
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          85.38,
+          472.49,
+          1036.08,
+          1266.87
+        ],
+        "point": [
+          560.73,
+          869.68
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 28,
+      "cameraScale": 4.825092792510986,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "29": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          933.28,
+          738.07,
+          1036.93,
+          835.43
+        ],
+        "point": [
+          985.1,
+          786.75
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          83.26,
+          470.22,
+          1036.93,
+          1268.3
+        ],
+        "point": [
+          560.09,
+          869.26
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 29,
+      "cameraScale": 4.802750587463379,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "30": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          932.49,
+          727.18,
+          1037.23,
+          825.55
+        ],
+        "point": [
+          984.86,
+          776.37
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.38,
+          468.2,
+          1037.23,
+          1269.57
+        ],
+        "point": [
+          559.31,
+          868.89
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 30,
+      "cameraScale": 4.783073902130127,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "31": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          931.14,
+          716.42,
+          1036.91,
+          815.74
+        ],
+        "point": [
+          984.02,
+          766.08
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          79.81,
+          466.51,
+          1036.91,
+          1270.63
+        ],
+        "point": [
+          558.36,
+          868.57
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 31,
+      "cameraScale": 4.766683101654053,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "32": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          929.2,
+          705.84,
+          1035.91,
+          806.03
+        ],
+        "point": [
+          982.55,
+          755.94
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          78.59,
+          465.2,
+          1038.89,
+          1271.45
+        ],
+        "point": [
+          558.74,
+          868.33
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 32,
+      "cameraScale": 4.7540740966796875,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "33": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          926.64,
+          695.51,
+          1034.19,
+          796.48
+        ],
+        "point": [
+          980.42,
+          745.99
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          77.76,
+          464.32,
+          1040.8,
+          1272.01
+        ],
+        "point": [
+          559.28,
+          868.17
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 33,
+      "cameraScale": 4.745604038238525,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "34": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          923.45,
+          685.46,
+          1031.73,
+          787.11
+        ],
+        "point": [
+          977.59,
+          736.29
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          77.36,
+          463.89,
+          1042.21,
+          1272.28
+        ],
+        "point": [
+          559.79,
+          868.09
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 34,
+      "cameraScale": 4.741488933563232,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "35": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          919.63,
+          675.74,
+          1028.54,
+          777.97
+        ],
+        "point": [
+          974.08,
+          726.85
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          77.39,
+          463.92,
+          1043.11,
+          1272.26
+        ],
+        "point": [
+          560.25,
+          868.09
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 35,
+      "cameraScale": 4.7417988777160645,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "36": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          915.19,
+          666.36,
+          1024.63,
+          769.09
+        ],
+        "point": [
+          969.91,
+          717.72
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          77.84,
+          464.41,
+          1043.5,
+          1271.95
+        ],
+        "point": [
+          560.67,
+          868.18
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 36,
+      "cameraScale": 4.746457099914551,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "37": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          910.18,
+          657.36,
+          1020.05,
+          760.47
+        ],
+        "point": [
+          965.11,
+          708.92
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          78.7,
+          465.33,
+          1043.41,
+          1271.38
+        ],
+        "point": [
+          561.05,
+          868.35
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 37,
+      "cameraScale": 4.755241870880127,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "38": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          904.63,
+          648.73,
+          1014.83,
+          752.14
+        ],
+        "point": [
+          959.73,
+          700.44
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          79.91,
+          466.63,
+          1042.88,
+          1270.56
+        ],
+        "point": [
+          561.4,
+          868.59
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 38,
+      "cameraScale": 4.767791271209717,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "39": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          898.61,
+          640.46,
+          1009.06,
+          744.1
+        ],
+        "point": [
+          953.83,
+          692.28
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.43,
+          468.26,
+          1041.96,
+          1269.53
+        ],
+        "point": [
+          561.7,
+          868.9
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 39,
+      "cameraScale": 4.783607006072998,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "40": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          892.18,
+          632.53,
+          1002.81,
+          736.33
+        ],
+        "point": [
+          947.49,
+          684.43
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          83.2,
+          470.15,
+          1040.73,
+          1268.34
+        ],
+        "point": [
+          561.96,
+          869.25
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 40,
+      "cameraScale": 4.802067279815674,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "41": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          885.42,
+          624.9,
+          996.17,
+          728.81
+        ],
+        "point": [
+          940.79,
+          676.86
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          85.13,
+          472.22,
+          1039.26,
+          1267.04
+        ],
+        "point": [
+          562.2,
+          869.63
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 41,
+      "cameraScale": 4.822441101074219,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "42": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          878.39,
+          617.53,
+          989.23,
+          721.53
+        ],
+        "point": [
+          933.81,
+          669.53
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          87.14,
+          474.38,
+          1037.65,
+          1265.68
+        ],
+        "point": [
+          562.4,
+          870.03
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 42,
+      "cameraScale": 4.843905925750732,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "43": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          872.78,
+          608.65,
+          984.25,
+          713.22
+        ],
+        "point": [
+          928.52,
+          660.93
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          86.95,
+          474.17,
+          1038.42,
+          1265.81
+        ],
+        "point": [
+          562.69,
+          869.99
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 43,
+      "cameraScale": 4.841845512390137,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "44": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          866.94,
+          599.88,
+          979.03,
+          705.03
+        ],
+        "point": [
+          922.98,
+          652.45
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          86.76,
+          473.97,
+          1039.15,
+          1265.94
+        ],
+        "point": [
+          562.95,
+          869.95
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 44,
+      "cameraScale": 4.839782238006592,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "45": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          860.85,
+          591.23,
+          973.55,
+          696.96
+        ],
+        "point": [
+          917.2,
+          644.09
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          86.56,
+          473.76,
+          1039.83,
+          1266.07
+        ],
+        "point": [
+          563.2,
+          869.91
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 45,
+      "cameraScale": 4.837717533111572,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "46": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          854.53,
+          582.71,
+          967.84,
+          689.0
+        ],
+        "point": [
+          911.18,
+          635.86
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          86.37,
+          473.55,
+          1040.47,
+          1266.2
+        ],
+        "point": [
+          563.42,
+          869.88
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 46,
+      "cameraScale": 4.835654258728027,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "47": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          847.97,
+          574.33,
+          961.88,
+          681.18
+        ],
+        "point": [
+          904.93,
+          627.75
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          86.18,
+          473.34,
+          1041.07,
+          1266.33
+        ],
+        "point": [
+          563.62,
+          869.84
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 47,
+      "cameraScale": 4.833593845367432,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "48": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          841.18,
+          566.08,
+          955.69,
+          673.49
+        ],
+        "point": [
+          898.44,
+          619.79
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          85.98,
+          473.14,
+          1041.62,
+          1266.46
+        ],
+        "point": [
+          563.8,
+          869.8
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 48,
+      "cameraScale": 4.831538677215576,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "49": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          834.17,
+          557.98,
+          949.27,
+          665.94
+        ],
+        "point": [
+          891.72,
+          611.96
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          85.79,
+          472.93,
+          1042.12,
+          1266.59
+        ],
+        "point": [
+          563.96,
+          869.76
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 49,
+      "cameraScale": 4.829491138458252,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "50": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          826.93,
+          550.02,
+          942.61,
+          658.54
+        ],
+        "point": [
+          884.77,
+          604.28
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          85.6,
+          472.73,
+          1042.58,
+          1266.72
+        ],
+        "point": [
+          564.09,
+          869.72
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 50,
+      "cameraScale": 4.827452659606934,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "51": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          819.47,
+          542.23,
+          935.74,
+          651.28
+        ],
+        "point": [
+          877.6,
+          596.75
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          85.41,
+          472.52,
+          1042.99,
+          1266.85
+        ],
+        "point": [
+          564.2,
+          869.69
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 51,
+      "cameraScale": 4.825425624847412,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "52": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          811.8,
+          534.59,
+          928.64,
+          644.18
+        ],
+        "point": [
+          870.22,
+          589.38
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          85.22,
+          472.32,
+          1043.36,
+          1266.98
+        ],
+        "point": [
+          564.29,
+          869.65
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 52,
+      "cameraScale": 4.82341194152832,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "53": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          803.92,
+          527.11,
+          921.32,
+          637.24
+        ],
+        "point": [
+          862.62,
+          582.17
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          85.03,
+          472.12,
+          1043.68,
+          1267.1
+        ],
+        "point": [
+          564.36,
+          869.61
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 53,
+      "cameraScale": 4.821414470672607,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "54": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          795.84,
+          519.81,
+          913.8,
+          630.46
+        ],
+        "point": [
+          854.82,
+          575.13
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          84.84,
+          471.92,
+          1043.96,
+          1267.23
+        ],
+        "point": [
+          564.4,
+          869.57
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 54,
+      "cameraScale": 4.81943416595459,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "55": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          787.55,
+          512.67,
+          906.06,
+          623.85
+        ],
+        "point": [
+          846.81,
+          568.26
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          84.66,
+          471.72,
+          1044.18,
+          1267.36
+        ],
+        "point": [
+          564.42,
+          869.54
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 55,
+      "cameraScale": 4.817473888397217,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "56": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          779.07,
+          505.72,
+          898.13,
+          617.41
+        ],
+        "point": [
+          838.6,
+          561.56
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          84.47,
+          471.52,
+          1044.36,
+          1267.48
+        ],
+        "point": [
+          564.42,
+          869.5
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 56,
+      "cameraScale": 4.815535545349121,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "57": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          770.4,
+          498.95,
+          889.99,
+          611.15
+        ],
+        "point": [
+          830.2,
+          555.05
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          84.29,
+          471.33,
+          1044.5,
+          1267.6
+        ],
+        "point": [
+          564.4,
+          869.46
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 57,
+      "cameraScale": 4.8136210441589355,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "58": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          761.54,
+          492.37,
+          881.67,
+          605.07
+        ],
+        "point": [
+          821.6,
+          548.72
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          84.11,
+          471.13,
+          1044.58,
+          1267.72
+        ],
+        "point": [
+          564.35,
+          869.43
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 58,
+      "cameraScale": 4.811732769012451,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "59": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          752.5,
+          485.98,
+          873.15,
+          599.18
+        ],
+        "point": [
+          812.83,
+          542.58
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          83.94,
+          470.94,
+          1044.62,
+          1267.84
+        ],
+        "point": [
+          564.28,
+          869.39
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 59,
+      "cameraScale": 4.809872627258301,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "60": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          743.29,
+          479.79,
+          864.46,
+          593.48
+        ],
+        "point": [
+          803.87,
+          536.63
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          83.76,
+          470.76,
+          1044.61,
+          1267.96
+        ],
+        "point": [
+          564.19,
+          869.36
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 60,
+      "cameraScale": 4.808043003082275,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "61": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          733.91,
+          473.8,
+          855.59,
+          587.97
+        ],
+        "point": [
+          794.75,
+          530.89
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          83.59,
+          470.58,
+          1044.55,
+          1268.07
+        ],
+        "point": [
+          564.07,
+          869.32
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 61,
+      "cameraScale": 4.80624532699585,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "62": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          724.37,
+          468.01,
+          846.54,
+          582.66
+        ],
+        "point": [
+          785.45,
+          525.34
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          83.43,
+          468.01,
+          1044.44,
+          1268.19
+        ],
+        "point": [
+          563.93,
+          868.1
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 62,
+      "cameraScale": 4.8044819831848145,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "63": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          714.66,
+          462.44,
+          837.34,
+          577.56
+        ],
+        "point": [
+          776.0,
+          520.0
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          83.26,
+          462.44,
+          1044.28,
+          1268.3
+        ],
+        "point": [
+          563.77,
+          865.37
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 63,
+      "cameraScale": 4.802755355834961,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "64": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          704.81,
+          457.07,
+          827.97,
+          572.66
+        ],
+        "point": [
+          766.39,
+          514.87
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          83.1,
+          457.07,
+          1044.08,
+          1268.41
+        ],
+        "point": [
+          563.59,
+          862.74
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 64,
+      "cameraScale": 4.801066875457764,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "65": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          694.81,
+          451.93,
+          818.45,
+          567.97
+        ],
+        "point": [
+          756.63,
+          509.95
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          82.94,
+          451.93,
+          1043.82,
+          1268.51
+        ],
+        "point": [
+          563.38,
+          860.22
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 65,
+      "cameraScale": 4.799419403076172,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "66": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          684.67,
+          447.0,
+          808.78,
+          563.5
+        ],
+        "point": [
+          746.73,
+          505.25
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          82.79,
+          447.0,
+          1043.52,
+          1268.61
+        ],
+        "point": [
+          563.15,
+          857.81
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 66,
+      "cameraScale": 4.797814846038818,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "67": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          674.4,
+          442.29,
+          798.98,
+          559.24
+        ],
+        "point": [
+          736.69,
+          500.77
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          82.64,
+          442.29,
+          1043.16,
+          1268.72
+        ],
+        "point": [
+          562.9,
+          855.5
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 67,
+      "cameraScale": 4.796255111694336,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "68": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          664.0,
+          437.82,
+          789.04,
+          555.2
+        ],
+        "point": [
+          726.52,
+          496.51
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          82.5,
+          437.82,
+          1042.76,
+          1268.81
+        ],
+        "point": [
+          562.63,
+          853.31
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 68,
+      "cameraScale": 4.794742107391357,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "69": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          653.49,
+          433.57,
+          778.97,
+          551.39
+        ],
+        "point": [
+          716.23,
+          492.48
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          82.36,
+          433.57,
+          1042.3,
+          1268.91
+        ],
+        "point": [
+          562.33,
+          851.24
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 69,
+      "cameraScale": 4.793278217315674,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "70": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          642.86,
+          429.55,
+          768.78,
+          547.8
+        ],
+        "point": [
+          705.82,
+          488.68
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          82.22,
+          429.55,
+          1041.8,
+          1269.0
+        ],
+        "point": [
+          562.01,
+          849.28
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 70,
+      "cameraScale": 4.79186487197876,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "71": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          632.12,
+          425.77,
+          758.47,
+          544.44
+        ],
+        "point": [
+          695.29,
+          485.11
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          82.09,
+          425.77,
+          1041.24,
+          1269.09
+        ],
+        "point": [
+          561.67,
+          847.43
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 71,
+      "cameraScale": 4.790505409240723,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "72": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          621.28,
+          422.23,
+          748.06,
+          541.31
+        ],
+        "point": [
+          684.67,
+          481.77
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.97,
+          422.23,
+          1040.63,
+          1269.17
+        ],
+        "point": [
+          561.3,
+          845.7
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 72,
+      "cameraScale": 4.789200782775879,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "73": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          610.35,
+          418.94,
+          737.54,
+          538.41
+        ],
+        "point": [
+          673.95,
+          478.67
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.85,
+          418.94,
+          1039.97,
+          1269.25
+        ],
+        "point": [
+          560.91,
+          844.09
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 73,
+      "cameraScale": 4.787953853607178,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "74": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          599.34,
+          415.88,
+          726.94,
+          535.75
+        ],
+        "point": [
+          663.14,
+          475.82
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.74,
+          415.88,
+          1039.26,
+          1269.33
+        ],
+        "point": [
+          560.5,
+          842.6
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 74,
+      "cameraScale": 4.786766052246094,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "75": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          588.24,
+          413.07,
+          716.24,
+          533.33
+        ],
+        "point": [
+          652.24,
+          473.2
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.63,
+          413.07,
+          1038.5,
+          1269.4
+        ],
+        "point": [
+          560.07,
+          841.24
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 75,
+      "cameraScale": 4.785639762878418,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "76": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          577.08,
+          410.51,
+          705.47,
+          531.15
+        ],
+        "point": [
+          641.27,
+          470.83
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.53,
+          410.51,
+          1037.69,
+          1269.47
+        ],
+        "point": [
+          559.61,
+          839.99
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 76,
+      "cameraScale": 4.784577369689941,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "77": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          565.85,
+          408.2,
+          694.62,
+          529.22
+        ],
+        "point": [
+          630.23,
+          468.71
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.43,
+          408.2,
+          1036.83,
+          1269.53
+        ],
+        "point": [
+          559.13,
+          838.87
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 77,
+      "cameraScale": 4.783580303192139,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "78": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          554.57,
+          406.14,
+          683.7,
+          527.52
+        ],
+        "point": [
+          619.14,
+          466.83
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.34,
+          406.14,
+          1035.91,
+          1269.59
+        ],
+        "point": [
+          558.63,
+          837.87
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 78,
+      "cameraScale": 4.782651424407959,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "79": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          543.23,
+          404.33,
+          672.73,
+          526.07
+        ],
+        "point": [
+          607.98,
+          465.2
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.26,
+          404.33,
+          1034.94,
+          1269.65
+        ],
+        "point": [
+          558.1,
+          836.99
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 79,
+      "cameraScale": 4.781792163848877,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "80": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          531.86,
+          402.78,
+          661.71,
+          524.87
+        ],
+        "point": [
+          596.78,
+          463.82
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.18,
+          402.78,
+          1033.92,
+          1269.7
+        ],
+        "point": [
+          557.55,
+          836.24
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 80,
+      "cameraScale": 4.781004905700684,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "81": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          520.45,
+          401.48,
+          650.65,
+          523.92
+        ],
+        "point": [
+          585.55,
+          462.7
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.12,
+          401.48,
+          1032.85,
+          1269.75
+        ],
+        "point": [
+          556.98,
+          835.61
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 81,
+      "cameraScale": 4.780291557312012,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "82": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          509.01,
+          400.44,
+          639.54,
+          523.21
+        ],
+        "point": [
+          574.28,
+          461.83
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.05,
+          400.44,
+          1031.73,
+          1269.79
+        ],
+        "point": [
+          556.39,
+          835.12
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 82,
+      "cameraScale": 4.779654026031494,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "83": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          497.56,
+          399.66,
+          628.42,
+          522.76
+        ],
+        "point": [
+          562.99,
+          461.21
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          81.0,
+          399.66,
+          1030.55,
+          1269.82
+        ],
+        "point": [
+          555.78,
+          834.74
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 83,
+      "cameraScale": 4.77909517288208,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "84": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          486.09,
+          399.14,
+          617.27,
+          522.55
+        ],
+        "point": [
+          551.68,
+          460.85
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          80.95,
+          399.14,
+          1029.33,
+          1269.85
+        ],
+        "point": [
+          555.14,
+          834.5
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 84,
+      "cameraScale": 4.778616428375244,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "85": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          474.62,
+          398.88,
+          606.1,
+          522.6
+        ],
+        "point": [
+          540.36,
+          460.74
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          80.92,
+          398.88,
+          1028.05,
+          1269.88
+        ],
+        "point": [
+          554.48,
+          834.38
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 85,
+      "cameraScale": 4.778220176696777,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "86": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          463.16,
+          398.87,
+          594.93,
+          522.9
+        ],
+        "point": [
+          529.04,
+          460.88
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          80.89,
+          398.87,
+          1026.71,
+          1269.9
+        ],
+        "point": [
+          553.8,
+          834.39
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 86,
+      "cameraScale": 4.7779083251953125,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "87": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          451.7,
+          399.13,
+          583.77,
+          523.44
+        ],
+        "point": [
+          517.73,
+          461.29
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          80.87,
+          399.13,
+          1025.33,
+          1269.92
+        ],
+        "point": [
+          553.1,
+          834.52
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 87,
+      "cameraScale": 4.777682781219482,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "88": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          440.27,
+          399.64,
+          572.61,
+          524.24
+        ],
+        "point": [
+          506.44,
+          461.94
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          80.85,
+          399.64,
+          1023.89,
+          1269.92
+        ],
+        "point": [
+          552.37,
+          834.78
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 88,
+      "cameraScale": 4.777545928955078,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "89": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          428.86,
+          400.42,
+          561.47,
+          525.3
+        ],
+        "point": [
+          495.17,
+          462.86
+        ]
+      },
+      "galaxy": {
+        "rect": [
+          80.85,
+          400.42,
+          1022.41,
+          1269.93
+        ],
+        "point": [
+          551.63,
+          835.17
+        ]
+      }
+    },
+    "motion": {
+      "mode": "space",
+      "localFrame": 89,
+      "cameraScale": 4.777500152587891,
+      "analyticDiagram": true,
+      "event": null
+    }
+  }
+}

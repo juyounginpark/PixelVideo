@@ -1,0 +1,598 @@
+[
+  {
+    "id": "ref3",
+    "source": "references\\똥, 오줌… 왜 말만 들어도 웃길까 💩 #shorts’똥‘이라는 말만 들어도 피식하게 되죠. 어른이 돼도 웃기는 데는 이유가 있어요.첫째, 금기예요. 우리는 어릴 때부터 .mp4",
+    "sha256": "a3e39ae470725c4fa35f6958ae12cd6c1c6ec95c50a8302791cfd1255d6e2071",
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, bt709, progressive)",
+      "audio_codec": "aac",
+      "fps": 24.0,
+      "source_size": [
+        720,
+        1280
+      ],
+      "size": [
+        720,
+        1280
+      ],
+      "rotate": 0,
+      "duration": 51.24
+    },
+    "decodedFrames": 1227,
+    "sampling": "every exact 1 second, all frames decoded",
+    "largeFrameChangesNotConfirmedCuts": [
+      {
+        "frame": 13,
+        "time": 0.542,
+        "meanChange": 12.5
+      },
+      {
+        "frame": 290,
+        "time": 12.083,
+        "meanChange": 13.09
+      },
+      {
+        "frame": 1189,
+        "time": 49.542,
+        "meanChange": 12.02
+      }
+    ],
+    "listening": "not performed; no audio-content claims"
+  },
+  {
+    "id": "ref4",
+    "source": "references\\안 만졌는데 간지러운 진짜 이유 🤣 #shorts친구가 손가락을 꼼지락거리며 다가오기만 해도 벌써 몸이 배배 꼬이죠. 아직 닿지도 않았는데 왜 간지러울까요 정답은, 뇌가 .mp4",
+    "sha256": "29d3b45eee840233e8f0e86b213b2dacb8e8a748bb565963544321313de3915d",
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "audio_codec": "aac",
+      "fps": 24.0,
+      "source_size": [
+        720,
+        1280
+      ],
+      "size": [
+        720,
+        1280
+      ],
+      "rotate": 0,
+      "duration": 30.11
+    },
+    "decodedFrames": 720,
+    "sampling": "every exact 1 second, all frames decoded",
+    "largeFrameChangesNotConfirmedCuts": [
+      {
+        "frame": 1,
+        "time": 0.042,
+        "meanChange": 169.81
+      },
+      {
+        "frame": 2,
+        "time": 0.083,
+        "meanChange": 27.53
+      },
+      {
+        "frame": 3,
+        "time": 0.125,
+        "meanChange": 29.67
+      },
+      {
+        "frame": 4,
+        "time": 0.167,
+        "meanChange": 28.51
+      },
+      {
+        "frame": 5,
+        "time": 0.208,
+        "meanChange": 29.1
+      },
+      {
+        "frame": 6,
+        "time": 0.25,
+        "meanChange": 29.65
+      },
+      {
+        "frame": 7,
+        "time": 0.292,
+        "meanChange": 28.28
+      },
+      {
+        "frame": 70,
+        "time": 2.917,
+        "meanChange": 36.8
+      },
+      {
+        "frame": 86,
+        "time": 3.583,
+        "meanChange": 28.03
+      },
+      {
+        "frame": 87,
+        "time": 3.625,
+        "meanChange": 15.09
+      },
+      {
+        "frame": 92,
+        "time": 3.833,
+        "meanChange": 13.3
+      },
+      {
+        "frame": 134,
+        "time": 5.583,
+        "meanChange": 22.35
+      },
+      {
+        "frame": 135,
+        "time": 5.625,
+        "meanChange": 25.12
+      },
+      {
+        "frame": 136,
+        "time": 5.667,
+        "meanChange": 26.62
+      },
+      {
+        "frame": 137,
+        "time": 5.708,
+        "meanChange": 24.41
+      },
+      {
+        "frame": 138,
+        "time": 5.75,
+        "meanChange": 25.45
+      },
+      {
+        "frame": 139,
+        "time": 5.792,
+        "meanChange": 24.71
+      },
+      {
+        "frame": 140,
+        "time": 5.833,
+        "meanChange": 26.43
+      },
+      {
+        "frame": 141,
+        "time": 5.875,
+        "meanChange": 14.54
+      },
+      {
+        "frame": 142,
+        "time": 5.917,
+        "meanChange": 27.62
+      },
+      {
+        "frame": 143,
+        "time": 5.958,
+        "meanChange": 27.4
+      },
+      {
+        "frame": 144,
+        "time": 6.0,
+        "meanChange": 26.22
+      },
+      {
+        "frame": 145,
+        "time": 6.042,
+        "meanChange": 27.03
+      },
+      {
+        "frame": 146,
+        "time": 6.083,
+        "meanChange": 28.4
+      },
+      {
+        "frame": 258,
+        "time": 10.75,
+        "meanChange": 48.27
+      },
+      {
+        "frame": 259,
+        "time": 10.792,
+        "meanChange": 18.64
+      },
+      {
+        "frame": 260,
+        "time": 10.833,
+        "meanChange": 17.86
+      },
+      {
+        "frame": 261,
+        "time": 10.875,
+        "meanChange": 19.38
+      },
+      {
+        "frame": 264,
+        "time": 11.0,
+        "meanChange": 12.89
+      },
+      {
+        "frame": 284,
+        "time": 11.833,
+        "meanChange": 22.33
+      },
+      {
+        "frame": 285,
+        "time": 11.875,
+        "meanChange": 22.34
+      },
+      {
+        "frame": 286,
+        "time": 11.917,
+        "meanChange": 23.0
+      },
+      {
+        "frame": 287,
+        "time": 11.958,
+        "meanChange": 22.22
+      },
+      {
+        "frame": 288,
+        "time": 12.0,
+        "meanChange": 23.0
+      },
+      {
+        "frame": 289,
+        "time": 12.042,
+        "meanChange": 21.76
+      },
+      {
+        "frame": 290,
+        "time": 12.083,
+        "meanChange": 22.9
+      },
+      {
+        "frame": 316,
+        "time": 13.167,
+        "meanChange": 134.09
+      },
+      {
+        "frame": 317,
+        "time": 13.208,
+        "meanChange": 35.16
+      },
+      {
+        "frame": 318,
+        "time": 13.25,
+        "meanChange": 39.99
+      },
+      {
+        "frame": 319,
+        "time": 13.292,
+        "meanChange": 65.2
+      },
+      {
+        "frame": 347,
+        "time": 14.458,
+        "meanChange": 119.71
+      },
+      {
+        "frame": 391,
+        "time": 16.292,
+        "meanChange": 36.47
+      },
+      {
+        "frame": 393,
+        "time": 16.375,
+        "meanChange": 13.26
+      },
+      {
+        "frame": 394,
+        "time": 16.417,
+        "meanChange": 15.24
+      },
+      {
+        "frame": 416,
+        "time": 17.333,
+        "meanChange": 25.56
+      },
+      {
+        "frame": 417,
+        "time": 17.375,
+        "meanChange": 24.2
+      },
+      {
+        "frame": 418,
+        "time": 17.417,
+        "meanChange": 25.05
+      },
+      {
+        "frame": 419,
+        "time": 17.458,
+        "meanChange": 24.08
+      },
+      {
+        "frame": 420,
+        "time": 17.5,
+        "meanChange": 24.59
+      },
+      {
+        "frame": 421,
+        "time": 17.542,
+        "meanChange": 23.46
+      },
+      {
+        "frame": 422,
+        "time": 17.583,
+        "meanChange": 24.0
+      },
+      {
+        "frame": 423,
+        "time": 17.625,
+        "meanChange": 25.06
+      },
+      {
+        "frame": 424,
+        "time": 17.667,
+        "meanChange": 31.82
+      },
+      {
+        "frame": 425,
+        "time": 17.708,
+        "meanChange": 32.31
+      },
+      {
+        "frame": 426,
+        "time": 17.75,
+        "meanChange": 31.25
+      },
+      {
+        "frame": 427,
+        "time": 17.792,
+        "meanChange": 32.05
+      },
+      {
+        "frame": 428,
+        "time": 17.833,
+        "meanChange": 30.64
+      },
+      {
+        "frame": 479,
+        "time": 19.958,
+        "meanChange": 47.77
+      },
+      {
+        "frame": 541,
+        "time": 22.542,
+        "meanChange": 50.05
+      },
+      {
+        "frame": 542,
+        "time": 22.583,
+        "meanChange": 20.81
+      },
+      {
+        "frame": 543,
+        "time": 22.625,
+        "meanChange": 21.37
+      },
+      {
+        "frame": 544,
+        "time": 22.667,
+        "meanChange": 21.54
+      },
+      {
+        "frame": 546,
+        "time": 22.75,
+        "meanChange": 12.2
+      },
+      {
+        "frame": 547,
+        "time": 22.792,
+        "meanChange": 18.56
+      },
+      {
+        "frame": 548,
+        "time": 22.833,
+        "meanChange": 13.26
+      },
+      {
+        "frame": 549,
+        "time": 22.875,
+        "meanChange": 14.16
+      },
+      {
+        "frame": 550,
+        "time": 22.917,
+        "meanChange": 13.71
+      },
+      {
+        "frame": 551,
+        "time": 22.958,
+        "meanChange": 13.35
+      },
+      {
+        "frame": 573,
+        "time": 23.875,
+        "meanChange": 21.79
+      },
+      {
+        "frame": 574,
+        "time": 23.917,
+        "meanChange": 22.69
+      },
+      {
+        "frame": 575,
+        "time": 23.958,
+        "meanChange": 20.98
+      },
+      {
+        "frame": 576,
+        "time": 24.0,
+        "meanChange": 21.83
+      },
+      {
+        "frame": 577,
+        "time": 24.042,
+        "meanChange": 20.91
+      },
+      {
+        "frame": 578,
+        "time": 24.083,
+        "meanChange": 21.43
+      },
+      {
+        "frame": 579,
+        "time": 24.125,
+        "meanChange": 21.3
+      },
+      {
+        "frame": 580,
+        "time": 24.167,
+        "meanChange": 14.95
+      },
+      {
+        "frame": 581,
+        "time": 24.208,
+        "meanChange": 26.7
+      },
+      {
+        "frame": 582,
+        "time": 24.25,
+        "meanChange": 25.87
+      },
+      {
+        "frame": 583,
+        "time": 24.292,
+        "meanChange": 26.46
+      },
+      {
+        "frame": 584,
+        "time": 24.333,
+        "meanChange": 25.6
+      },
+      {
+        "frame": 585,
+        "time": 24.375,
+        "meanChange": 27.9
+      },
+      {
+        "frame": 627,
+        "time": 26.125,
+        "meanChange": 47.14
+      },
+      {
+        "frame": 628,
+        "time": 26.167,
+        "meanChange": 22.91
+      },
+      {
+        "frame": 629,
+        "time": 26.208,
+        "meanChange": 20.94
+      },
+      {
+        "frame": 630,
+        "time": 26.25,
+        "meanChange": 18.53
+      },
+      {
+        "frame": 639,
+        "time": 26.625,
+        "meanChange": 12.54
+      },
+      {
+        "frame": 653,
+        "time": 27.208,
+        "meanChange": 17.25
+      }
+    ],
+    "listening": "not performed; no audio-content claims"
+  },
+  {
+    "id": "ep05",
+    "source": "exports\\MINSU_EP05_V3_BRAZIL_NUT.mp4",
+    "sha256": "a504e62b1470722d8bb6ba0a79a31025fd03b3293feba7d74eb706fadc8a944f",
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, bt709, progressive)",
+      "audio_codec": "aac",
+      "fps": 30.0,
+      "source_size": [
+        1080,
+        1920
+      ],
+      "size": [
+        1080,
+        1920
+      ],
+      "rotate": 0,
+      "duration": 30.0
+    },
+    "decodedFrames": 900,
+    "sampling": "every exact 1 second, all frames decoded",
+    "largeFrameChangesNotConfirmedCuts": [
+      {
+        "frame": 29,
+        "time": 0.967,
+        "meanChange": 12.73
+      },
+      {
+        "frame": 30,
+        "time": 1.0,
+        "meanChange": 19.56
+      },
+      {
+        "frame": 31,
+        "time": 1.033,
+        "meanChange": 15.9
+      },
+      {
+        "frame": 60,
+        "time": 2.0,
+        "meanChange": 50.23
+      },
+      {
+        "frame": 150,
+        "time": 5.0,
+        "meanChange": 46.89
+      },
+      {
+        "frame": 240,
+        "time": 8.0,
+        "meanChange": 36.48
+      },
+      {
+        "frame": 360,
+        "time": 12.0,
+        "meanChange": 30.99
+      },
+      {
+        "frame": 480,
+        "time": 16.0,
+        "meanChange": 23.0
+      },
+      {
+        "frame": 521,
+        "time": 17.367,
+        "meanChange": 17.87
+      },
+      {
+        "frame": 522,
+        "time": 17.4,
+        "meanChange": 12.16
+      },
+      {
+        "frame": 600,
+        "time": 20.0,
+        "meanChange": 29.25
+      },
+      {
+        "frame": 720,
+        "time": 24.0,
+        "meanChange": 38.63
+      },
+      {
+        "frame": 810,
+        "time": 27.0,
+        "meanChange": 37.02
+      }
+    ],
+    "listening": "not performed; no audio-content claims"
+  }
+]

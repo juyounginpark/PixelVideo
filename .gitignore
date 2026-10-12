@@ -1,0 +1,41 @@
+.venv/
+__pycache__/
+*.pyc
+references/
+session-*
+*.session
+*.part
+
+# Python and operating-system temporary files
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.blend1
+*.blend2
+
+# Generated render caches and intermediate frame sequences
+/production/**/cache/
+/production/**/frames/
+/production/**/native/
+/production/**/ui/
+
+# Encoded deliverables and temporary compositions (keep SRT and QA metadata)
+/exports/*.mp4
+/exports/*.mov
+/exports/*.mkv
+/exports/*.wav
+/production/**/silent*.mp4
+/production/**/preview*.mp4
+/production/**/*.mp4
+/production/**/decoded_audio_qa.wav
+/production/**/bgm.wav
+/production/**/sfx.wav
+/production/**/mix.wav
+/production/**/mix_raw.wav
+/production/**/mix_normalized.wav
+*.log
+
+# Source inventories, licensed fonts, reusable BGM/SFX and review records stay tracked.

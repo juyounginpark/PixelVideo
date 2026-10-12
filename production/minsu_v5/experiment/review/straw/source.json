@@ -1,0 +1,22 @@
+{
+  "path": "C:\\Users\\0620f\\Downloads\\빨대의 구멍은 몇 개 1개 2개 🥤인터넷을 둘로 가른 질문, 빨대의 구멍은 몇 개일까요답이 갈리는 건 구멍을 입구로 세느냐, 뚫린 길로 세느냐, 뚫은 자국으로 세느냐의.mp4",
+  "sha256": "a794afbfa3b8987802cab0ab3b72df80e9d075e4aa3a987e1398b23ab4cf9a30",
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 30.0,
+    "source_size": [
+      720,
+      1280
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "rotate": 0,
+    "duration": 176.21
+  },
+  "inspection": "decoded MP4 frames; not real-time playback or audio listening"
+}

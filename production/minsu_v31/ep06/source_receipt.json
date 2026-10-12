@@ -1,0 +1,12 @@
+{
+  "local": "research/namuwiki/listing.txt",
+  "draftRow": 3,
+  "status": "selected_after_sample_gate",
+  "sourceLines": [
+    106,
+    118
+  ],
+  "sourceSha256": "1fc6548a87db2cee99c71fe7dc14f322e7600b383856dca633ca74346bfb8fe0",
+  "selectionRecord": "production/minsu_v31/SOURCE_AND_SCOPE.md",
+  "sampleGate": "production/minsu_v31/ep06/sample_review/GATE.md"
+}

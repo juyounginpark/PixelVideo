@@ -1,0 +1,511 @@
+{
+  "episode": "EP09",
+  "topicId": "namu-cache-listing-063",
+  "verificationStatus": "VERIFIED_EXPLAINED",
+  "title": "파리는 왜 못 앉을까?",
+  "titleEn": "Why miss the landing?",
+  "durationFrames": 1080,
+  "fps": 30,
+  "storyMap": {
+    "기": "파리는 민무늬에는 앉지만 줄무늬에서는 착륙을 놓친다.",
+    "승": "같은 말의 덮개만 바꿔 관찰해 동물 차이와 무늬 효과를 분리한다.",
+    "전": "차이는 가까운 착륙 단계. 체크무늬와 강한 대비도 효과를 보여 단순 줄무늬 착시만으로 설명할 수 없음을 발견한다.",
+    "결": "착륙 감소는 확인됐지만 시각 기제는 연구 중. 처음 장면의 보호 효과를 이해한다."
+  },
+  "shots": [
+    {
+      "id": "S01",
+      "startFrame": 0,
+      "endFrame": 120,
+      "phase": "hook",
+      "narrativeRole": "기",
+      "sceneType": "EVENT_SCENE",
+      "primarySubject": "horses and horsefly",
+      "viewerQuestion": "왜 한쪽만 못 앉을까?",
+      "newInformation": "흡혈등에의 착륙 차이",
+      "visualAction": "파리가 한쪽에 앉고 다른 쪽에서 방향을 바꾼다",
+      "scientificMeaning": "흡혈등에의 착륙 차이",
+      "characterEmotion": "SURPRISE",
+      "cameraPlan": {
+        "purpose": "파리가 한쪽에 앉고 다른 쪽에서 방향을 바꾼다",
+        "preset": "PAIR"
+      },
+      "captionPlan": {
+        "ko": [
+          "무늬만 다른데",
+          "착륙이 달라진다"
+        ],
+        "en": [
+          "Same approach.",
+          "Different landing."
+        ]
+      },
+      "chapter": "1. 뜻밖의 착륙",
+      "chapterEn": "A strange landing",
+      "scene": {
+        "action": "SURPRISE",
+        "left": "plain",
+        "right": "stripe"
+      },
+      "emphasisEvent": {
+        "preset": "HOOK",
+        "frame": 38,
+        "target": "right"
+      },
+      "nextShotConnection": "동물이 달라서 그런 걸까?",
+      "claimIds": [
+        "C1"
+      ],
+      "diagramDisclaimer": true
+    },
+    {
+      "id": "S02",
+      "startFrame": 120,
+      "endFrame": 240,
+      "phase": "coat",
+      "narrativeRole": "승",
+      "sceneType": "COMPARISON_SCENE",
+      "primarySubject": "horses and horsefly",
+      "viewerQuestion": "동물이 달라서 그런 걸까?",
+      "newInformation": "동물 차이를 통제하는 덮개 실험",
+      "visualAction": "민수가 덮개를 내려 말의 몸통을 가린다",
+      "scientificMeaning": "동물 차이를 통제하는 덮개 실험",
+      "characterEmotion": "POINT",
+      "cameraPlan": {
+        "purpose": "민수가 덮개를 내려 말의 몸통을 가린다",
+        "preset": "SINGLE"
+      },
+      "captionPlan": {
+        "ko": [
+          "냄새 때문일까?",
+          "같은 말에 덮개만 교체"
+        ],
+        "en": [
+          "Could it be the smell?",
+          "Change only the coat."
+        ]
+      },
+      "chapter": "2. 같은 말로 시험",
+      "chapterEn": "Same horse, new coat",
+      "scene": {
+        "action": "POINT",
+        "left": "plain",
+        "right": "stripe"
+      },
+      "emphasisEvent": {
+        "preset": "CLUE",
+        "frame": 70,
+        "target": "right"
+      },
+      "nextShotConnection": "덮개를 바꾸면 결과도 달라질까?",
+      "claimIds": [
+        "C1"
+      ],
+      "diagramDisclaimer": true
+    },
+    {
+      "id": "S03",
+      "startFrame": 240,
+      "endFrame": 360,
+      "phase": "trial",
+      "narrativeRole": "승",
+      "sceneType": "COMPARISON_SCENE",
+      "primarySubject": "horses and horsefly",
+      "viewerQuestion": "덮개를 바꾸면 결과도 달라질까?",
+      "newInformation": "2019실험의 7마리·3종덮개 조건과 착륙감소",
+      "visualAction": "두 덮개의 비행과 착륙 결과를 비교한다",
+      "scientificMeaning": "2019실험의 7마리·3종덮개 조건과 착륙감소",
+      "characterEmotion": "OBSERVE",
+      "cameraPlan": {
+        "purpose": "두 덮개의 비행과 착륙 결과를 비교한다",
+        "preset": "PAIR"
+      },
+      "captionPlan": {
+        "ko": [
+          "검정·흰색보다",
+          "줄무늬에 착륙이 적었다"
+        ],
+        "en": [
+          "Fewer landings on stripes",
+          "than black or white coats."
+        ]
+      },
+      "chapter": "2. 같은 말로 시험",
+      "chapterEn": "Same horse, new coat",
+      "scene": {
+        "action": "OBSERVE",
+        "left": "white",
+        "right": "stripe"
+      },
+      "emphasisEvent": {
+        "preset": "CLUE",
+        "frame": 66,
+        "target": "right"
+      },
+      "nextShotConnection": "언제 비행이 달라질까?",
+      "claimIds": [
+        "C1"
+      ],
+      "diagramDisclaimer": true
+    },
+    {
+      "id": "S04",
+      "startFrame": 360,
+      "endFrame": 480,
+      "phase": "macro",
+      "narrativeRole": "전",
+      "sceneType": "COMPARISON_SCENE",
+      "primarySubject": "horses and horsefly",
+      "viewerQuestion": "언제 비행이 달라질까?",
+      "newInformation": "다가옴과 안정된 착륙은 다른 사건",
+      "visualAction": "옆면 확대에서 회색 쪽은 감속해 앉고 줄무늬 쪽은 지나친다",
+      "scientificMeaning": "다가옴과 안정된 착륙은 다른 사건",
+      "characterEmotion": "EXPLAIN",
+      "cameraPlan": {
+        "purpose": "옆면 확대에서 회색 쪽은 감속해 앉고 줄무늬 쪽은 지나친다",
+        "preset": "MACRO"
+      },
+      "captionPlan": {
+        "ko": [
+          "멀리서 피하는 게 아니다",
+          "차이는 가까운 착륙 단계"
+        ],
+        "en": [
+          "They still approach.",
+          "The difference is up close."
+        ]
+      },
+      "chapter": "3. 마지막 순간",
+      "chapterEn": "The final approach",
+      "scene": {
+        "action": "EXPLAIN",
+        "left": "plain",
+        "right": "stripe"
+      },
+      "emphasisEvent": {
+        "preset": "NONE",
+        "frame": 60,
+        "target": "right"
+      },
+      "nextShotConnection": "평행한 줄이 꼭 필요할까?",
+      "claimIds": [
+        "C2"
+      ],
+      "diagramDisclaimer": true
+    },
+    {
+      "id": "S05",
+      "startFrame": 480,
+      "endFrame": 600,
+      "phase": "check",
+      "narrativeRole": "전",
+      "sceneType": "COMPARISON_SCENE",
+      "primarySubject": "horses and horsefly",
+      "viewerQuestion": "평행한 줄이 꼭 필요할까?",
+      "newInformation": "체크무늬 효과는 평행줄만의 착시 설명에 반례",
+      "visualAction": "민수가 체크덮개를 펼치고 접근한 파리가 궤도를 바꾼다",
+      "scientificMeaning": "체크무늬 효과는 평행줄만의 착시 설명에 반례",
+      "characterEmotion": "DISCOVER",
+      "cameraPlan": {
+        "purpose": "민수가 체크덮개를 펼치고 접근한 파리가 궤도를 바꾼다",
+        "preset": "PAIR"
+      },
+      "captionPlan": {
+        "ko": [
+          "체크무늬에서도",
+          "착륙이 줄었다!"
+        ],
+        "en": [
+          "Checks reduced",
+          "landings too!"
+        ]
+      },
+      "chapter": "4. 줄무늬만 될까?",
+      "chapterEn": "Only parallel stripes?",
+      "scene": {
+        "action": "DISCOVER",
+        "left": "plain",
+        "right": "check"
+      },
+      "emphasisEvent": {
+        "preset": "PAYOFF",
+        "frame": 62,
+        "target": "right",
+        "uiPreset": "DISCOVERY",
+        "audioPreset": "DISCOVERY"
+      },
+      "nextShotConnection": "무늬의 어떤 부분이 중요할까?",
+      "claimIds": [
+        "C3"
+      ],
+      "diagramDisclaimer": true
+    },
+    {
+      "id": "S06",
+      "startFrame": 600,
+      "endFrame": 720,
+      "phase": "contrast",
+      "narrativeRole": "전",
+      "sceneType": "COMPARISON_SCENE",
+      "primarySubject": "horses and horsefly",
+      "viewerQuestion": "무늬의 어떤 부분이 중요할까?",
+      "newInformation": "2023연구의 대비조건 차이",
+      "visualAction": "같은 줄 배치의 대비만 다른 두 덮개에 접근한 파리를 비교한다",
+      "scientificMeaning": "2023연구의 대비조건 차이",
+      "characterEmotion": "POINT",
+      "cameraPlan": {
+        "purpose": "같은 줄 배치의 대비만 다른 두 덮개에 접근한 파리를 비교한다",
+        "preset": "PAIR"
+      },
+      "captionPlan": {
+        "ko": [
+          "옅은 줄무늬보다",
+          "선명한 흑백 대비가 효과적"
+        ],
+        "en": [
+          "High contrast worked better",
+          "than faint stripes."
+        ]
+      },
+      "chapter": "5. 선명함을 바꾸면",
+      "chapterEn": "Change the contrast",
+      "scene": {
+        "action": "POINT",
+        "left": "faint",
+        "right": "stripe"
+      },
+      "emphasisEvent": {
+        "preset": "CLUE",
+        "frame": 62,
+        "target": "right"
+      },
+      "nextShotConnection": "착륙 표적이 작아지는 걸까?",
+      "claimIds": [
+        "C4"
+      ],
+      "diagramDisclaimer": true
+    },
+    {
+      "id": "S07",
+      "startFrame": 720,
+      "endFrame": 840,
+      "phase": "patch",
+      "narrativeRole": "전",
+      "sceneType": "COMPARISON_SCENE",
+      "primarySubject": "horses and horsefly",
+      "viewerQuestion": "착륙 표적이 작아지는 걸까?",
+      "newInformation": "큰 검은 패치를 없애는 설명은 연구가설",
+      "visualAction": "넓은 검은 표면 위에 흰 구획이 드러나 작은 패치로 분할된다",
+      "scientificMeaning": "큰 검은 패치를 없애는 설명은 연구가설",
+      "characterEmotion": "THINK",
+      "cameraPlan": {
+        "purpose": "넓은 검은 표면 위에 흰 구획이 드러나 작은 패치로 분할된다",
+        "preset": "MACRO"
+      },
+      "captionPlan": {
+        "ko": [
+          "큰 검은 영역을",
+          "작게 나눈 덕분일까?"
+        ],
+        "en": [
+          "Do smaller dark patches",
+          "make the difference?"
+        ]
+      },
+      "chapter": "5. 선명함을 바꾸면",
+      "chapterEn": "Change the contrast",
+      "scene": {
+        "action": "THINK",
+        "left": "plain",
+        "right": "stripe"
+      },
+      "emphasisEvent": {
+        "preset": "NONE",
+        "frame": 55,
+        "target": "right"
+      },
+      "nextShotConnection": "처음 이상한 장면은 무엇을 뜻했나?",
+      "claimIds": [
+        "C5"
+      ],
+      "diagramDisclaimer": true
+    },
+    {
+      "id": "S08",
+      "startFrame": 840,
+      "endFrame": 960,
+      "phase": "return",
+      "narrativeRole": "결",
+      "sceneType": "COMPARISON_SCENE",
+      "primarySubject": "horses and horsefly",
+      "viewerQuestion": "처음 이상한 장면은 무엇을 뜻했나?",
+      "newInformation": "확인된 효과를 처음 사건에 적용",
+      "visualAction": "처음 두 말을 다시 보여 주고 민수가 비교결과를 가리킨다",
+      "scientificMeaning": "확인된 효과를 처음 사건에 적용",
+      "characterEmotion": "CELEBRATE",
+      "cameraPlan": {
+        "purpose": "처음 두 말을 다시 보여 주고 민수가 비교결과를 가리킨다",
+        "preset": "PAIR"
+      },
+      "captionPlan": {
+        "ko": [
+          "줄무늬는 흡혈등에의",
+          "착륙을 줄이는 효과가 있다"
+        ],
+        "en": [
+          "Stripes can reduce",
+          "horsefly landings."
+        ]
+      },
+      "chapter": "6. 처음 장면 다시 보기",
+      "chapterEn": "Back to the first scene",
+      "scene": {
+        "action": "CELEBRATE",
+        "left": "plain",
+        "right": "stripe"
+      },
+      "emphasisEvent": {
+        "preset": "PAYOFF",
+        "frame": 64,
+        "target": "right"
+      },
+      "nextShotConnection": "어디까지 확인됐을까?",
+      "claimIds": [
+        "C1"
+      ],
+      "diagramDisclaimer": true
+    },
+    {
+      "id": "S09",
+      "startFrame": 960,
+      "endFrame": 1080,
+      "phase": "ending",
+      "narrativeRole": "결",
+      "sceneType": "COMPARISON_SCENE",
+      "primarySubject": "horses and horsefly",
+      "viewerQuestion": "어디까지 확인됐을까?",
+      "newInformation": "효과와 미확인 원리·예외를 구분",
+      "visualAction": "무늬에 접근해 실제로 앉는 파리 하나도 보여 과장을 막는다",
+      "scientificMeaning": "효과와 미확인 원리·예외를 구분",
+      "characterEmotion": "OBSERVE",
+      "cameraPlan": {
+        "purpose": "무늬에 접근해 실제로 앉는 파리 하나도 보여 과장을 막는다",
+        "preset": "PAIR"
+      },
+      "captionPlan": {
+        "ko": [
+          "시각 원리는 연구 중",
+          "완벽한 방패는 아니다"
+        ],
+        "en": [
+          "Why it works is still studied.",
+          "Not a perfect shield."
+        ]
+      },
+      "chapter": "6. 처음 장면 다시 보기",
+      "chapterEn": "Back to the first scene",
+      "scene": {
+        "action": "OBSERVE",
+        "left": "stripe",
+        "right": "check"
+      },
+      "emphasisEvent": {
+        "preset": "NONE",
+        "frame": 60,
+        "target": "right"
+      },
+      "nextShotConnection": "처음 질문의 범위 안에서 선택하며 끝낸다",
+      "claimIds": [
+        "C5"
+      ],
+      "diagramDisclaimer": true
+    }
+  ],
+  "source": {
+    "snapshot": "research\\namuwiki\\listing.html",
+    "liIndex": 63,
+    "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+  },
+  "science": [
+    {
+      "id": "C1",
+      "claim": "Striped coats reduced horsefly landings relative to uniform coats.",
+      "source": "study2019",
+      "location": "Study 2 and Coat experiment results",
+      "conditions": "7 domestic horses, three commercial coats worn in randomized order; materials were not standardized.",
+      "notClaimed": "all flies, total protection or a universal effect size"
+    },
+    {
+      "id": "C2",
+      "claim": "Approaching flies failed to decelerate normally near zebra pelage in study videos.",
+      "source": "study2019",
+      "location": "Flight trajectories results and Fig3",
+      "conditions": "2019 sampled captive animals; animation is explanatory, not measured tracks.",
+      "notClaimed": "known neural illusion or every trajectory"
+    },
+    {
+      "id": "C3",
+      "claim": "Checked patterns can reduce landings; parallel stripes are not required.",
+      "source": "study2020",
+      "location": "Abstract and results comparing striped, checked and grey coats",
+      "conditions": "patterned coats on domestic horses",
+      "notClaimed": "all check patterns repel all insects"
+    },
+    {
+      "id": "C4",
+      "claim": "High contrast stripes deterred landings more effectively than lightly contrasting stripes in the study.",
+      "source": "study2023",
+      "location": "Abstract, contrast experiment",
+      "conditions": "identically arranged coat patterns with varied contrast",
+      "notClaimed": "human visual contrast equals fly perception"
+    },
+    {
+      "id": "C5",
+      "claim": "Small dark patches are a proposed explanation; the full visual mechanism remains unresolved.",
+      "source": "study2023",
+      "location": "Abstract and discussion working hypothesis",
+      "conditions": "hypothesis rather than definitive neural mechanism",
+      "notClaimed": "proved sole evolutionary cause"
+    }
+  ],
+  "commonProfile": "straw-game-1.0.0",
+  "audio": {
+    "tts": false,
+    "track": "curious_desert_100",
+    "mood": "observation",
+    "energy": [
+      {
+        "time": 0,
+        "db": -2
+      },
+      {
+        "time": 4,
+        "db": -5
+      },
+      {
+        "time": 12,
+        "db": -4
+      },
+      {
+        "time": 17.7,
+        "db": -18
+      },
+      {
+        "time": 18.05,
+        "db": 0
+      },
+      {
+        "time": 24,
+        "db": -5
+      },
+      {
+        "time": 28,
+        "db": -2
+      },
+      {
+        "time": 34,
+        "db": -6
+      }
+    ]
+  }
+}

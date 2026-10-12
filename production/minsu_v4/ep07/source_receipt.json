@@ -1,0 +1,27 @@
+{
+  "topicId": "namuwiki-draft-08",
+  "name": "암흑물질",
+  "source": {
+    "path": "research/namuwiki/TOPIC_LIST_DRAFT.md",
+    "row": 8,
+    "name": "암흑물질",
+    "sha256": "109144df63125ddb4cc0590f1807beebaa546b17401b44dbe512dcbc72a3ea97",
+    "criteria": "prompts/MYSTERY_100_v1.md"
+  },
+  "criteria": "prompts/MYSTERY_100_v1.md",
+  "criteriaHash": "2dd3f5fd86506ce3b858a79b96c03e272df5e0dd7964ff3acdc4f0811ad3a33f",
+  "selection": "confirmed after sample visual gate",
+  "excludedPrior": [
+    "미스터리 자판기",
+    "브로켄",
+    "가시도마뱀",
+    "브라질너트",
+    "얼음",
+    "움직이는 돌 기획"
+  ],
+  "newSupplyItemsAdded": 0,
+  "originalSupplyModified": false,
+  "listingPath": "research/namuwiki/listing.txt",
+  "listingLine": 1095,
+  "listingItem": "암흑 물질"
+}

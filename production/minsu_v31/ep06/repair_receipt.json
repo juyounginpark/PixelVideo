@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-12 Asia/Seoul",
+  "shot": "SHOT_10",
+  "frameRange": [
+    744,
+    846
+  ],
+  "reason": "Actual final frame cropped head; camera translated and widened",
+  "oldSourceHash": "638634b4e03f7803b5c4f8204c36e198fd5505d66ab6c13830c95fc197460d0c",
+  "repairSourceHash": "e0a29b7b7925906c11671f4ead15f09895ffc7e39e8d4c14a18454299d803d53",
+  "oldCamera": "(2.6,-4.6,6.2), aim(0,0,.55), scale4.1",
+  "newCamera": "(2.95,-4.5,6.2), aim(.35,.10,.55), scale4.35",
+  "unmodifiedFramesVerified": 948,
+  "scopeReview": "Only phase==before_after camera branch changed. Other 948 native PNGs retained byte for byte."
+}

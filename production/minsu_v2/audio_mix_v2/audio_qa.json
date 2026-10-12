@@ -1,0 +1,126 @@
+{
+  "duration": 36,
+  "sampleRate": 48000,
+  "track": {
+    "id": "curious_desert_100",
+    "path": "bgm/curious_desert_100.wav",
+    "mood": [
+      "exploration",
+      "observation",
+      "mechanism"
+    ],
+    "bpm": 100,
+    "duration": 19.2,
+    "loopable": true,
+    "instrumental": true,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "creditsRequired": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "commercialAndSocialUse": "Original project synthesis, no third-party samples or composition",
+    "measuredLUFS": -21.0
+  },
+  "events": [
+    {
+      "time": 0.55,
+      "sound": "water_drop",
+      "duck": false,
+      "gainDb": -4,
+      "event": "drop contact, wet front starts",
+      "sampleIndex": 26400,
+      "actualTime": 0.55,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "time": 2.18,
+      "sound": "question_blip",
+      "duck": true,
+      "gainDb": -4,
+      "event": "Minsu gaze, lean and surprise; animal turns",
+      "sampleIndex": 104640,
+      "actualTime": 2.18,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "time": 9.0,
+      "sound": "soft_whoosh",
+      "duck": false,
+      "gainDb": -4,
+      "event": "scale surface expands to channel model",
+      "sampleIndex": 432000,
+      "actualTime": 9.0,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "time": 12.65,
+      "sound": "water_drop",
+      "duck": false,
+      "gainDb": -4,
+      "event": "capillary front spreads radially between external scales",
+      "sampleIndex": 607200,
+      "actualTime": 12.65,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "time": 23.5,
+      "sound": "water_drop",
+      "duck": false,
+      "gainDb": -4,
+      "event": "water reaches mouth, then jaw cycles",
+      "sampleIndex": 1128000,
+      "actualTime": 23.5,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "time": 28.6,
+      "sound": "discovery",
+      "duck": true,
+      "gainDb": -4,
+      "event": "Minsu points to route then nods",
+      "sampleIndex": 1372800,
+      "actualTime": 28.6,
+      "syncErrorSeconds": 0.0
+    }
+  ],
+  "stems": [
+    "bgm.wav",
+    "sfx.wav"
+  ],
+  "ttsEnabled": false,
+  "duckDb": 4,
+  "fadeIn": 0.4,
+  "fadeOut": 0.8,
+  "bgmMeasurement": {
+    "input_i": "-21.10",
+    "input_tp": "-11.88",
+    "input_lra": "1.40",
+    "input_thresh": "-31.12",
+    "output_i": "-19.07",
+    "output_tp": "-9.99",
+    "output_lra": "1.40",
+    "output_thresh": "-29.08",
+    "normalization_type": "dynamic",
+    "target_offset": "0.07"
+  },
+  "mixMeasurement": {
+    "input_i": "-18.99",
+    "input_tp": "-8.00",
+    "input_lra": "1.30",
+    "input_thresh": "-29.01",
+    "output_i": "-19.06",
+    "output_tp": "-8.13",
+    "output_lra": "1.30",
+    "output_thresh": "-29.07",
+    "normalization_type": "dynamic",
+    "target_offset": "0.06"
+  },
+  "loopBoundaryStep": 0.000823974609375,
+  "loopNeighborP999Step": 0.012908935546875,
+  "loopClickCheckPassed": true,
+  "minimumHalfSecondBgmRMS": 0.02802025382957442,
+  "bgmCoveragePassed": true,
+  "peakPassed": true,
+  "auditoryReview": "Not yet listened to; waveform/loudness checks are not a listening test."
+}

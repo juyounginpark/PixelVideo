@@ -1,0 +1,125 @@
+{
+  "duration": 10,
+  "sampleRate": 48000,
+  "track": {
+    "id": "curious_desert_100",
+    "path": "bgm/curious_desert_100.wav",
+    "mood": [
+      "exploration",
+      "observation",
+      "mechanism"
+    ],
+    "bpm": 100,
+    "duration": 19.2,
+    "loopable": true,
+    "instrumental": true,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "creditsRequired": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "commercialAndSocialUse": "Original project synthesis, no third-party samples or composition",
+    "measuredLUFS": -21.0
+  },
+  "events": [
+    {
+      "frame": 33,
+      "time": 1.1,
+      "sound": "discovery",
+      "gainDb": -10,
+      "event": "FAILED_LANDING",
+      "duck": true,
+      "sampleIndex": 52800,
+      "actualTime": 1.1,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 90,
+      "time": 3,
+      "sound": "soft_whoosh",
+      "gainDb": -12,
+      "event": "MACRO_ENTRY",
+      "duck": false,
+      "sampleIndex": 144000,
+      "actualTime": 3.0,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 246,
+      "time": 8.2,
+      "sound": "achievement",
+      "gainDb": -10,
+      "event": "WORLD_PAYOFF",
+      "duck": true,
+      "sampleIndex": 393600,
+      "actualTime": 8.2,
+      "syncErrorSeconds": 0.0
+    }
+  ],
+  "stems": [
+    "bgm.wav",
+    "sfx.wav"
+  ],
+  "ttsEnabled": false,
+  "duckDb": 4,
+  "fadeIn": 0.4,
+  "fadeOut": 0.8,
+  "bgmMeasurement": {
+    "input_i": "-30.50",
+    "input_tp": "-19.80",
+    "input_lra": "3.70",
+    "input_thresh": "-40.67",
+    "output_i": "-20.01",
+    "output_tp": "-10.05",
+    "output_lra": "1.80",
+    "output_thresh": "-30.09",
+    "normalization_type": "dynamic",
+    "target_offset": "1.01"
+  },
+  "mixMeasurement": {
+    "input_i": "-19.00",
+    "input_tp": "-6.19",
+    "input_lra": "2.80",
+    "input_thresh": "-29.37",
+    "output_i": "-19.46",
+    "output_tp": "-5.88",
+    "output_lra": "2.20",
+    "output_thresh": "-29.67",
+    "normalization_type": "dynamic",
+    "target_offset": "0.46"
+  },
+  "loopBoundaryStep": 0.000823974609375,
+  "loopNeighborP999Step": 0.012908935546875,
+  "loopClickCheckPassed": true,
+  "minimumHalfSecondBgmRMS": 0.011926332729997925,
+  "bgmCoveragePassed": true,
+  "peakPassed": true,
+  "auditoryReview": "Not yet listened to; waveform/loudness checks are not a listening test.",
+  "energyKeyframes": [
+    {
+      "time": 0,
+      "db": -5
+    },
+    {
+      "time": 3,
+      "db": -8
+    },
+    {
+      "time": 7.9,
+      "db": -12
+    },
+    {
+      "time": 8.2,
+      "db": -4
+    },
+    {
+      "time": 9.9,
+      "db": -12
+    }
+  ],
+  "timelineOffset": 0,
+  "arrangementReview": "Event alignment and amplitude envelope reviewed; no human listening approval.",
+  "intentionalPreDiscoveryDip": "7.9s authored gain -12dB",
+  "reviewScope": "Event timing/amplitude analysis only; no real-time hearing"
+}

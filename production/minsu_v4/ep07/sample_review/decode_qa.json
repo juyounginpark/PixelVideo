@@ -1,0 +1,35 @@
+{
+  "video": "exports\\MINSU_V4_GRAVITY_SAMPLE.mp4",
+  "sha256": "4004636121dbbd0a96e79af6eb6e2ecd069f58ca31a07211ade58f45fa1dfd47",
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 30.0,
+    "source_size": [
+      1080,
+      1920
+    ],
+    "size": [
+      1080,
+      1920
+    ],
+    "rotate": 0,
+    "duration": 7.0
+  },
+  "decodedFrames": 210,
+  "exactDuplicateAdjacentFrames": 0,
+  "temporalSampling": "every 8 frames (0.267 s), exact events and boundaries",
+  "mobileRaster": [
+    360,
+    640
+  ],
+  "preservationFiles": 62,
+  "preservationChanges": [],
+  "editorialApproval": false,
+  "limits": [
+    "Not a human listening test",
+    "No real-time playback or audience retention measurement"
+  ]
+}

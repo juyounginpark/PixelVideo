@@ -1,0 +1,117 @@
+{
+  "quality": "preview",
+  "renderedFrames": 105,
+  "reusedFrames": 0,
+  "projectionSeconds": 0.09367570002359571,
+  "renderSeconds": 59.386263100004726,
+  "shots": {
+    "S03": {
+      "rendered": 105,
+      "reused": 0,
+      "seconds": 62.06662999999753,
+      "key": "396f18927a08d77d3788c8de63328edbe097fe44c4552a988f1e0e3168a7f1e0"
+    }
+  },
+  "errors": [],
+  "assetCache": "HIT",
+  "assetSetupSeconds": 0.034183799998572795,
+  "materials": [
+    {
+      "name": "MINSU_V4_brass",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_cheek",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_cream",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_dim",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_floor",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_hair",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_halo",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_ice_dark",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_light",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_midnight",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_mint",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_navy",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_shoe",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_skin",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_star_cold",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_star_gold",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_track",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_wall",
+      "texelsPerUnit": 16,
+      "bands": 3
+    }
+  ],
+  "totalSeconds": 62.105721100000665,
+  "nativeSize": [
+    270,
+    480
+  ],
+  "blenderVersion": "5.0.1",
+  "samples": 8
+}

@@ -1,0 +1,5 @@
+from common import *
+p=R/'ep08/gates.json';g=read(p)
+paths=[ROOT/'exports/MINSU_EP08_V5_PREVIEW.mp4',R/'review/preview/receipt.json',R/'review/preview/discovery_sequence.jpg',R/'review/preview/settling_sequence.jpg',R/'review/preview/S07.png']
+g['EDITING_PREVIEW']=dict(decision='PROCEED_WITH_STATED_LIMITS',approvedSceneSpecHash=sha(R/'ep08/episode.json'),reviewer='assistant decoded MP4 sequence inspection',evidence=[dict(path=str(p.relative_to(ROOT)),sha256=sha(p)) for p in paths],observations=['전체 34초를 0.5초 간격으로, 후킹·침강·배양·결말을 추가 연속 프레임으로 검토했다.','첫 프레임에 흰 우산과 붉은 비가 보이며, 자막 없이도 비의 색이 이상하다는 단서가 존재한다.','7~11초: 입자가 물 아래로 모이는 움직임과 용해/부유의 구분이 연결된다.','14~16초: 배양체가 하나에서 가지 형태로 자라며, 15.5초 큰 발견 자막과 15.6초 카메라·SFX 이벤트를 배치했다.','22~26초: 멀리 떨어졌던 라벨을 실제 병·나무 시료 위에 붙여 2D만 재합성했다.','마지막은 처음의 비로 돌아가 색 원인을 답하고, 대량 공중 유입의 미확인 범위를 별도로 보존한다.','5초 이상 의미 없이 지속되는 컷은 없다. 다만 두 현미경 장면의 원형 구도는 7초 이어지며 관찰에서 배양으로 정보가 바뀐다.'],limits=['실시간 연속 감상과 인간 청취 검수가 아닌 실제 MP4 프레임 시퀀스 검수다.','미세 입자·배양은 모식도이며 실제 물리·생물 성장 시뮬레이션이 아니다.','일부 작은 소품은 부모 축척 때문에 월드 기준 텍셀 밀도가 완전히 같지는 않다.','단순한 손 모양·시선 연기와 절제된 리액션은 레퍼런스 대비 한계가 있다.','관객 흥미와 완주율은 미검증이다.'])
+write(p,g)

@@ -1,0 +1,392 @@
+{
+  "id": "MINSU_EP05_V3_BRAZIL_NUT",
+  "title": "흔들었더니 더 안 섞인다?",
+  "topic": "브라질너트 효과",
+  "fps": 30,
+  "durationFrames": 900,
+  "rendererProfile": "MINSU_V21",
+  "audioMood": "observation",
+  "audioTrack": "curious_desert_100",
+  "sourceReceipt": {
+    "sourceSystem": "existing NamuWiki mystery index workflow",
+    "indexUrl": "https://namu.wiki/w/미스터리%20관련%20정보",
+    "localSource": "research/namuwiki/listing.txt",
+    "sourceSha256": "1fc6548a87db2cee99c71fe7dc14f322e7600b383856dca633ca74346bfb8fe0",
+    "sourceLine": 92,
+    "selectionBasis": "Existing 15-item draft row 1; original visual/verification/exclusion/dedup criteria",
+    "selectionMode": "reviewed selection from existing source, not automated recommendation",
+    "priorEpisodeConcepts": [
+      "sailing stones planning",
+      "mystery vending machine",
+      "Brocken spectre",
+      "thorny devil water collection"
+    ],
+    "sourceFilesModified": false,
+    "sampleQa": "production/minsu_v3/sample/FINAL_QA.json",
+    "selectedItem": "브라질너트 효과",
+    "duplicateCheck": "No previous produced episode for this concept found"
+  },
+  "visualization": {
+    "kind": "granular_orientation_diagram",
+    "world": "warm_tabletop",
+    "style": "MINSU_V21",
+    "mode": "authored scientific reconstruction, not numerical particle simulation"
+  },
+  "facts": [
+    {
+      "claim": "일부 큰 견과의 회전→상승→표면에서 수평 회전",
+      "evidence": "https://doi.org/10.1038/s41598-021-87280-1",
+      "section": "Results, pages 2–3",
+      "status": "reviewed"
+    },
+    {
+      "claim": "작은 땅콩의 하강과 주변 조건이 중요; 큰 견과 모두 상승하지 않음",
+      "evidence": "https://doi.org/10.1038/s41598-021-87280-1",
+      "section": "Discussion, pages 3–4",
+      "status": "reviewed"
+    }
+  ],
+  "shots": [
+    {
+      "id": "SHOT_01",
+      "startFrame": 0,
+      "endFrame": 60,
+      "phase": "hook",
+      "cameraType": "CLOSE_UP",
+      "actions": [
+        {
+          "id": "hook",
+          "startFrame": 0,
+          "endFrame": 60,
+          "target": "nut",
+          "visibleChange": "Large nut visibly emerges through the small nuts"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 2,
+          "endFrame": 58,
+          "lines": [
+            "밑에 있던 게",
+            "왜 위로 올라와?"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "event_0",
+          "frame": 28,
+          "type": "SURPRISE",
+          "actionId": "hook",
+          "target": "nut",
+          "intensity": 2
+        }
+      ],
+      "representationLabel": null
+    },
+    {
+      "id": "SHOT_02",
+      "startFrame": 60,
+      "endFrame": 150,
+      "phase": "reaction",
+      "cameraType": "CLOSE_UP",
+      "actions": [
+        {
+          "id": "reaction",
+          "startFrame": 60,
+          "endFrame": 150,
+          "target": "minsu",
+          "visibleChange": "Minsu follows the top nut then leans back"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 62,
+          "endFrame": 148,
+          "lines": [
+            "큰 것부터",
+            "가라앉을 줄 알았는데?"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "event_1",
+          "frame": 69,
+          "type": "QUESTION",
+          "actionId": "reaction",
+          "target": "minsu",
+          "intensity": 1
+        }
+      ],
+      "representationLabel": null
+    },
+    {
+      "id": "SHOT_03",
+      "startFrame": 150,
+      "endFrame": 240,
+      "phase": "reset",
+      "cameraType": "TWO_SHOT",
+      "actions": [
+        {
+          "id": "reset",
+          "startFrame": 150,
+          "endFrame": 240,
+          "target": "nut",
+          "visibleChange": "Explicit return to initial state, Minsu pushes the box"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 152,
+          "endFrame": 238,
+          "lines": [
+            "처음엔 밑에 놓고",
+            "상자를 흔들었다"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "event_2",
+          "frame": 161,
+          "type": "COMPARISON",
+          "actionId": "reset",
+          "target": "nut",
+          "intensity": 1,
+          "data": {
+            "label": "브라질너트",
+            "value": "효과",
+            "provenance": "Existing NamuWiki entry and Gajjar et al. 2021 DOI 10.1038/s41598-021-87280-1"
+          }
+        }
+      ],
+      "representationLabel": "처음 상태"
+    },
+    {
+      "id": "SHOT_04",
+      "startFrame": 240,
+      "endFrame": 360,
+      "phase": "rotate",
+      "cameraType": "MACRO",
+      "actions": [
+        {
+          "id": "rotate",
+          "startFrame": 240,
+          "endFrame": 360,
+          "target": "nut",
+          "visibleChange": "Elongated nut rotates with little centroid height change"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 242,
+          "endFrame": 358,
+          "lines": [
+            "이 실험에선 견과가",
+            "먼저 몸을 세웠다"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "event_3",
+          "frame": 265,
+          "type": "EXPERIMENT",
+          "actionId": "rotate",
+          "target": "nut",
+          "intensity": 1
+        }
+      ],
+      "representationLabel": "내부 모식도"
+    },
+    {
+      "id": "SHOT_05",
+      "startFrame": 360,
+      "endFrame": 480,
+      "phase": "percolate",
+      "cameraType": "MACRO",
+      "actions": [
+        {
+          "id": "percolate",
+          "startFrame": 360,
+          "endFrame": 480,
+          "target": "peanut",
+          "visibleChange": "Small peanuts move down beside the upright Brazil nut"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 362,
+          "endFrame": 478,
+          "lines": [
+            "그 옆 틈으로",
+            "작은 땅콩이 내려가자"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "event_4",
+          "frame": 398,
+          "type": "EXPERIMENT",
+          "actionId": "percolate",
+          "target": "peanut",
+          "intensity": 1
+        }
+      ],
+      "representationLabel": "내부 모식도"
+    },
+    {
+      "id": "SHOT_06",
+      "startFrame": 480,
+      "endFrame": 600,
+      "phase": "rise",
+      "cameraType": "MEDIUM",
+      "actions": [
+        {
+          "id": "rise",
+          "startFrame": 480,
+          "endFrame": 600,
+          "target": "nut",
+          "visibleChange": "Small nuts descend as the large upright nut rises"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 482,
+          "endFrame": 598,
+          "lines": [
+            "큰 견과가",
+            "위로 올라왔다"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "event_5",
+          "frame": 519,
+          "type": "SURPRISE",
+          "actionId": "rise",
+          "target": "nut",
+          "intensity": 2
+        }
+      ],
+      "representationLabel": "내부 모식도"
+    },
+    {
+      "id": "SHOT_07",
+      "startFrame": 600,
+      "endFrame": 720,
+      "phase": "settle",
+      "cameraType": "CLOSE_UP",
+      "actions": [
+        {
+          "id": "settle",
+          "startFrame": 600,
+          "endFrame": 720,
+          "target": "nut",
+          "visibleChange": "Large nut reorients horizontally at the surface"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 602,
+          "endFrame": 718,
+          "lines": [
+            "올라온 견과는",
+            "다시 옆으로 누웠다"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "event_6",
+          "frame": 659,
+          "type": "DISCOVERY",
+          "actionId": "settle",
+          "target": "nut",
+          "intensity": 2,
+          "text": "올라왔다!"
+        }
+      ],
+      "representationLabel": "내부 모식도"
+    },
+    {
+      "id": "SHOT_08",
+      "startFrame": 720,
+      "endFrame": 810,
+      "phase": "condition",
+      "cameraType": "MEDIUM",
+      "actions": [
+        {
+          "id": "condition",
+          "startFrame": 720,
+          "endFrame": 810,
+          "target": "stuck",
+          "visibleChange": "A lower large nut remains while others have risen"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 722,
+          "endFrame": 808,
+          "lines": [
+            "다 올라오진 않아",
+            "모양·주변 틈도 중요해"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "event_7",
+          "frame": 724,
+          "type": "EXPERIMENT",
+          "actionId": "condition",
+          "target": "stuck",
+          "intensity": 1,
+          "effectDurationFrames": 82
+        }
+      ],
+      "representationLabel": "내부 모식도"
+    },
+    {
+      "id": "SHOT_09",
+      "startFrame": 810,
+      "endFrame": 900,
+      "phase": "payoff",
+      "cameraType": "TWO_SHOT",
+      "actions": [
+        {
+          "id": "payoff",
+          "startFrame": 810,
+          "endFrame": 900,
+          "target": "minsu",
+          "visibleChange": "Minsu points between top and bottom and reacts with understanding"
+        }
+      ],
+      "captions": [
+        {
+          "startFrame": 812,
+          "endFrame": 898,
+          "lines": [
+            "잘 섞으려고 흔들었는데",
+            "오히려 갈라져 버렸다"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "id": "event_8",
+          "frame": 837,
+          "type": "REALIZATION",
+          "actionId": "payoff",
+          "target": "minsu",
+          "intensity": 1
+        }
+      ],
+      "representationLabel": null
+    }
+  ],
+  "credits": "Gajjar 외 · Scientific Reports (2021)"
+}

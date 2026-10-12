@@ -1,0 +1,29 @@
+{
+  "version": "5.0.0",
+  "nativeSize": [
+    540,
+    960
+  ],
+  "previewSize": [
+    270,
+    480
+  ],
+  "outputSize": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "lightBands": 3,
+  "texelsPerUnit": 16,
+  "tts": false,
+  "maxRenderWorkers": 1,
+  "palette": {
+    "navy": "#24213F",
+    "white": "#FFF9EA",
+    "mint": "#83EDBF",
+    "yellow": "#FFE48A",
+    "teal": "#79D5DA",
+    "coral": "#DF6653",
+    "purple": "#352943"
+  }
+}

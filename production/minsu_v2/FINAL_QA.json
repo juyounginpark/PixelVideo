@@ -1,0 +1,168 @@
+{
+  "fullDecodePassed": true,
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709/unknown/unknown, progressive)",
+    "audio_codec": "aac",
+    "fps": 30.0,
+    "source_size": [
+      1080,
+      1920
+    ],
+    "size": [
+      1080,
+      1920
+    ],
+    "rotate": 0,
+    "duration": 36.0
+  },
+  "frameCount": 1080,
+  "expectedFrames": 1080,
+  "missingNativeFrames": [],
+  "nativeSizes": [
+    [
+      540,
+      960
+    ]
+  ],
+  "AACPresent": true,
+  "BT709Tagged": true,
+  "H264Present": true,
+  "YUV420pPresent": true,
+  "loudness": {
+    "input_i": "-19.00",
+    "input_tp": "-8.00",
+    "input_lra": "1.40",
+    "input_thresh": "-29.02",
+    "output_i": "-19.06",
+    "output_tp": "-8.13",
+    "output_lra": "1.30",
+    "output_thresh": "-29.07",
+    "normalization_type": "dynamic",
+    "target_offset": "0.06"
+  },
+  "uiFramesValidated": 1080,
+  "faceAnchorOverlapWarnings": [],
+  "eventFrameDifferences": [
+    {
+      "frames": [
+        9,
+        25
+      ],
+      "meanAbsolutePixelDifference": 8.667
+    },
+    {
+      "frames": [
+        56,
+        93
+      ],
+      "meanAbsolutePixelDifference": 3.455
+    },
+    {
+      "frames": [
+        365,
+        465
+      ],
+      "meanAbsolutePixelDifference": 10.756
+    },
+    {
+      "frames": [
+        512,
+        625
+      ],
+      "meanAbsolutePixelDifference": 10.313
+    },
+    {
+      "frames": [
+        693,
+        735
+      ],
+      "meanAbsolutePixelDifference": 6.196
+    },
+    {
+      "frames": [
+        820,
+        900
+      ],
+      "meanAbsolutePixelDifference": 4.112
+    }
+  ],
+  "characterAssets": {
+    "models": [
+      "MINSU_CUTE_V2",
+      "THORNY_V2"
+    ],
+    "meshCount": 593,
+    "faceStates": [
+      "Neutral",
+      "Curious",
+      "Surprise",
+      "Confused",
+      "Happy",
+      "Worried",
+      "Thinking",
+      "Determined",
+      "Laughing",
+      "Scared"
+    ],
+    "animationPresets": [
+      "Idle",
+      "Walk",
+      "Run",
+      "Turn",
+      "LookAt",
+      "LookAround",
+      "Point",
+      "Explain",
+      "Surprise",
+      "Confused",
+      "Think",
+      "Happy",
+      "Laugh",
+      "Scared",
+      "Jump",
+      "StepBack",
+      "LeanForward",
+      "Touch",
+      "Inspect",
+      "PickUp",
+      "React",
+      "Celebrate"
+    ],
+    "exercisedPresets": [
+      "Idle",
+      "LeanForward",
+      "Surprise",
+      "Inspect",
+      "Point",
+      "Happy"
+    ],
+    "frameCount": 1080,
+    "nativeResolution": [
+      540,
+      960
+    ],
+    "textures": [
+      "amber_32px",
+      "brown_32px",
+      "cream_32px",
+      "hair_32px",
+      "mint_32px",
+      "ochre_32px",
+      "pale_32px",
+      "rock_32px",
+      "sand_32px",
+      "shoe_32px",
+      "skin_32px",
+      "wet_32px"
+    ],
+    "bakeSeconds": 34.36789631843567
+  },
+  "limits": [
+    "Pixel differences do not prove meaningful motion.",
+    "Face-anchor tests are not full silhouette occlusion tests.",
+    "No real Instagram app viewing, audience retention measurement or human listening approval.",
+    "External water paths are schematic; no numerical capillary fluid solver."
+  ]
+}

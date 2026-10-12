@@ -1,0 +1,12 @@
+{
+  "frames": 900,
+  "errors": [],
+  "motionChecks": {
+    "orientationBeforeRise": true,
+    "smallPeanutDescends": true,
+    "largeNutRises": true,
+    "returnsHorizontal": true,
+    "exceptionStaysLow": true
+  },
+  "limits": "Authored kinematic diagram; not a physical simulation or perceptual quality test"
+}

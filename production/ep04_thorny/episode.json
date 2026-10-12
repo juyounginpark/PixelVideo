@@ -1,0 +1,168 @@
+{
+  "series": "민수의 픽셀 도감",
+  "auxiliary": "입은 물에 안 닿는데",
+  "question": "발만 담가도 마신다?!",
+  "fps": 30,
+  "duration": 36,
+  "output": "../../exports/MINSU_EP04_THORNY_DEVIL_SILENT_v1.mp4",
+  "preview_frames": [
+    1,
+    30,
+    70,
+    110,
+    140,
+    210,
+    290,
+    390,
+    470,
+    570,
+    660,
+    740,
+    840,
+    930,
+    1050
+  ],
+  "sources": [
+    "https://doi.org/10.1242/jeb.148791",
+    "https://pubmed.ncbi.nlm.nih.gov/28989762/"
+  ],
+  "cuts": [
+    {
+      "duration": 3,
+      "camera": "A",
+      "action": "Foot enters water, jaw moves while head remains above water",
+      "lines": [
+        "입은 물에 닿지 않는데",
+        "물을 마시고 있다."
+      ],
+      "tags": [
+        "물길 강조 · 시간 압축"
+      ]
+    },
+    {
+      "duration": 3,
+      "camera": "A",
+      "action": "Minsu crouches, looks between mouth and wet feet",
+      "lines": [
+        "민수는 입부터 확인했다.",
+        "젖어 있는 건 발이었다."
+      ]
+    },
+    {
+      "duration": 3,
+      "camera": "B",
+      "action": "Animal makes two halting steps, habitat becomes visible",
+      "lines": [
+        "호주 사막에 사는",
+        "도깨비도마뱀이다."
+      ],
+      "tags": [
+        "도깨비도마뱀 · Moloch horridus"
+      ]
+    },
+    {
+      "duration": 3,
+      "camera": "D",
+      "action": "Compare elevated mouth and feet in water, path begins",
+      "lines": [
+        "물을 모으는 통로는",
+        "입이 아니라 피부에 있다."
+      ],
+      "tags": [
+        "물길 강조"
+      ]
+    },
+    {
+      "duration": 3,
+      "camera": "C",
+      "action": "Scales magnified, narrow external gaps sequentially highlighted",
+      "lines": [
+        "비늘과 비늘 사이에",
+        "아주 작은 물길이 있다."
+      ],
+      "tags": [
+        "미세구조 재현"
+      ]
+    },
+    {
+      "duration": 3,
+      "camera": "C",
+      "action": "Water spreads radially through a branched channel network",
+      "lines": [
+        "좁은 틈으로 물이 퍼지는",
+        "모세관 현상이다."
+      ],
+      "tags": [
+        "미세구조 재현"
+      ]
+    },
+    {
+      "duration": 3,
+      "camera": "C",
+      "action": "Camera shows skin cross section, flow stays on the surface",
+      "lines": [
+        "물은 피부를 뚫지 않는다.",
+        "표면의 틈을 따라 흐른다."
+      ],
+      "tags": [
+        "피부 단면 · 재현"
+      ]
+    },
+    {
+      "duration": 3,
+      "camera": "D",
+      "action": "Water amount in capillary network builds from few to full",
+      "lines": [
+        "물길이 충분히 채워져야",
+        "물을 마실 수 있다."
+      ],
+      "tags": [
+        "물길 채움 · 재현"
+      ]
+    },
+    {
+      "duration": 3,
+      "camera": "A",
+      "action": "External water route advances from wet feet towards mouth",
+      "lines": [
+        "피부 표면의 물길이",
+        "입 주변까지 물을 모은다."
+      ],
+      "tags": [
+        "물길 강조 · 시간 압축"
+      ]
+    },
+    {
+      "duration": 3,
+      "camera": "A",
+      "action": "Jaw moves repeatedly, water highlighted around mouth",
+      "lines": [
+        "이렇게 물을 모은 뒤",
+        "턱을 움직여 마신다."
+      ],
+      "tags": []
+    },
+    {
+      "duration": 3,
+      "camera": "B",
+      "action": "A drop contacts back and branches across external grooves",
+      "lines": [
+        "몸에 닿은 물도",
+        "같은 물길로 모을 수 있다."
+      ],
+      "tags": [
+        "물길 강조"
+      ]
+    },
+    {
+      "duration": 3,
+      "camera": "E",
+      "action": "Codex registers discovery while lizard continues halting steps and breathing",
+      "lines": [
+        "온몸으로 모은 물을",
+        "입으로 마시는 도마뱀."
+      ],
+      "event": "도감 등록 : 피부 물길"
+    }
+  ]
+}

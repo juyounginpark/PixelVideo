@@ -1,0 +1,39 @@
+{
+  "seconds": 14.484126900002593,
+  "uiCutCacheHits": 7,
+  "audioCacheHit": true,
+  "frameCount": 960,
+  "fontQA": {
+    "checkedCharacters": 201,
+    "fallbacks": 0,
+    "locale": "ko",
+    "atlases": [
+      {
+        "face": "PIXEL_DISPLAY",
+        "key": "d5a6940ff8ee33d7c52b83037228ac914f4204b9fbdadbbda4e0c46be1147c30",
+        "reused": true,
+        "characters": 32
+      },
+      {
+        "face": "PIXEL_BODY",
+        "key": "e9dbab7d5919ded099023e46b95ae35ea704c43da22de391930ad51d1f0edf50",
+        "reused": true,
+        "characters": 78
+      }
+    ]
+  },
+  "target": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP10_V6_LYCURGUS_KO.mp4",
+  "loudness": {
+    "input_i": "-18.92",
+    "input_tp": "-5.80",
+    "input_lra": "6.60",
+    "input_thresh": "-29.02",
+    "output_i": "-18.58",
+    "output_tp": "-5.19",
+    "output_lra": "6.40",
+    "output_thresh": "-28.66",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.42"
+  },
+  "tts": false
+}

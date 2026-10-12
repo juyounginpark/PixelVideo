@@ -1,0 +1,102 @@
+{
+  "duration": 6.0,
+  "sampleRate": 48000,
+  "track": {
+    "id": "curious_desert_100",
+    "path": "bgm/curious_desert_100.wav",
+    "mood": [
+      "exploration",
+      "observation",
+      "mechanism"
+    ],
+    "bpm": 100,
+    "duration": 19.2,
+    "loopable": true,
+    "instrumental": true,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "creditsRequired": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "commercialAndSocialUse": "Original project synthesis, no third-party samples or composition",
+    "measuredLUFS": -21.0
+  },
+  "events": [
+    {
+      "frame": 15,
+      "sound": "question_blip",
+      "eventId": "question",
+      "event": "head tracks rising prop, then surprise",
+      "gainDb": -6,
+      "duck": false,
+      "time": 0.5,
+      "sampleIndex": 24000,
+      "actualTime": 0.5,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 42,
+      "sound": "retro_boing",
+      "eventId": "surprise",
+      "event": "head tracks rising prop, then surprise",
+      "gainDb": -4,
+      "duck": true,
+      "time": 1.4,
+      "sampleIndex": 67200,
+      "actualTime": 1.4,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 132,
+      "sound": "discovery",
+      "eventId": "found",
+      "event": "prop turns green and character smiles",
+      "gainDb": -4,
+      "duck": true,
+      "time": 4.4,
+      "sampleIndex": 211200,
+      "actualTime": 4.4,
+      "syncErrorSeconds": 0.0
+    }
+  ],
+  "stems": [
+    "bgm.wav",
+    "sfx.wav"
+  ],
+  "ttsEnabled": false,
+  "duckDb": 4,
+  "fadeIn": 0.4,
+  "fadeOut": 0.8,
+  "bgmMeasurement": {
+    "input_i": "-22.07",
+    "input_tp": "-12.38",
+    "input_lra": "2.10",
+    "input_thresh": "-32.27",
+    "output_i": "-19.45",
+    "output_tp": "-10.05",
+    "output_lra": "2.10",
+    "output_thresh": "-29.59",
+    "normalization_type": "dynamic",
+    "target_offset": "0.45"
+  },
+  "mixMeasurement": {
+    "input_i": "-18.99",
+    "input_tp": "-9.81",
+    "input_lra": "1.40",
+    "input_thresh": "-29.19",
+    "output_i": "-19.06",
+    "output_tp": "-10.09",
+    "output_lra": "1.30",
+    "output_thresh": "-29.21",
+    "normalization_type": "dynamic",
+    "target_offset": "0.06"
+  },
+  "loopBoundaryStep": 0.000823974609375,
+  "loopNeighborP999Step": 0.012908935546875,
+  "loopClickCheckPassed": true,
+  "minimumHalfSecondBgmRMS": 0.04759099488029213,
+  "bgmCoveragePassed": true,
+  "peakPassed": true,
+  "auditoryReview": "Not yet listened to; waveform/loudness checks are not a listening test."
+}

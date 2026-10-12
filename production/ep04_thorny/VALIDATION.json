@@ -1,0 +1,13 @@
+{
+  "size": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "duration": 36,
+  "frames": 1080,
+  "audio": false,
+  "full_decode": true,
+  "ui_bounds": "passed",
+  "native_3d_frames": 1080
+}

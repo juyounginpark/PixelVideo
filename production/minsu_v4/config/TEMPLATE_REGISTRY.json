@@ -1,0 +1,16 @@
+{
+  "version": "4.0.0",
+  "sampleGate": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\production\\minsu_v4\\ep07\\sample_review\\GATE.json",
+  "sampleHash": "4004636121dbbd0a96e79af6eb6e2ecd069f58ca31a07211ade58f45fa1dfd47",
+  "registered": [
+    "STYLE_SPEC",
+    "TYPOGRAPHY_THEME",
+    "EFFECT_PRESETS",
+    "CAMERA_PRESETS",
+    "CHARACTER_MANIFEST",
+    "ASSET_MANIFEST",
+    "SCENE_SCHEMA",
+    "QA_RULES"
+  ],
+  "scope": "reviewed 7s science segment; final character/whole-story review still required"
+}

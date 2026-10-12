@@ -1,0 +1,3317 @@
+{
+  "0": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          862.03,
+          966.11,
+          970.82,
+          1068.42
+        ],
+        "point": [
+          916.43,
+          1017.27
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 0,
+      "cameraScale": 4.699999809265137,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "1": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          866.07,
+          959.54,
+          974.86,
+          1061.85
+        ],
+        "point": [
+          920.47,
+          1010.7
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 1,
+      "cameraScale": 4.699967384338379,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "2": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          869.97,
+          952.9,
+          978.75,
+          1055.21
+        ],
+        "point": [
+          924.36,
+          1004.06
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 2,
+      "cameraScale": 4.69987154006958,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "3": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          873.71,
+          946.19,
+          982.5,
+          1048.51
+        ],
+        "point": [
+          928.1,
+          997.35
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 3,
+      "cameraScale": 4.69971227645874,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "4": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          877.3,
+          939.42,
+          986.1,
+          1041.74
+        ],
+        "point": [
+          931.7,
+          990.58
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 4,
+      "cameraScale": 4.69949197769165,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "5": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          880.74,
+          932.58,
+          989.54,
+          1034.92
+        ],
+        "point": [
+          935.14,
+          983.75
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 5,
+      "cameraScale": 4.699211120605469,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "6": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          884.03,
+          925.69,
+          992.84,
+          1028.03
+        ],
+        "point": [
+          938.43,
+          976.86
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 6,
+      "cameraScale": 4.698872089385986,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "7": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          887.16,
+          918.74,
+          995.98,
+          1021.09
+        ],
+        "point": [
+          941.57,
+          969.92
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 7,
+      "cameraScale": 4.698474884033203,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "8": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          890.14,
+          911.74,
+          998.97,
+          1014.1
+        ],
+        "point": [
+          944.55,
+          962.92
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 8,
+      "cameraScale": 4.698020935058594,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "9": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          892.96,
+          904.68,
+          1001.8,
+          1007.05
+        ],
+        "point": [
+          947.38,
+          955.87
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 9,
+      "cameraScale": 4.697512626647949,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "10": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          895.62,
+          897.58,
+          1004.47,
+          999.96
+        ],
+        "point": [
+          950.04,
+          948.77
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 10,
+      "cameraScale": 4.6969499588012695,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "11": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          898.12,
+          890.43,
+          1006.99,
+          992.82
+        ],
+        "point": [
+          952.55,
+          941.62
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 11,
+      "cameraScale": 4.6963348388671875,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "12": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          900.46,
+          883.23,
+          1009.34,
+          985.64
+        ],
+        "point": [
+          954.9,
+          934.44
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 12,
+      "cameraScale": 4.695667743682861,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "13": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          902.64,
+          876.0,
+          1011.54,
+          978.42
+        ],
+        "point": [
+          957.09,
+          927.21
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 13,
+      "cameraScale": 4.694951057434082,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "14": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          904.66,
+          868.72,
+          1013.58,
+          971.16
+        ],
+        "point": [
+          959.12,
+          919.94
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 14,
+      "cameraScale": 4.694185733795166,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "15": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          906.51,
+          861.41,
+          1015.45,
+          963.87
+        ],
+        "point": [
+          960.98,
+          912.64
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 15,
+      "cameraScale": 4.6933722496032715,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "16": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          908.2,
+          854.07,
+          1017.16,
+          956.54
+        ],
+        "point": [
+          962.68,
+          905.31
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 16,
+      "cameraScale": 4.692512512207031,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "17": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          909.73,
+          846.69,
+          1018.7,
+          949.19
+        ],
+        "point": [
+          964.21,
+          897.94
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 17,
+      "cameraScale": 4.691607475280762,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "18": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          911.08,
+          839.29,
+          1020.09,
+          941.81
+        ],
+        "point": [
+          965.59,
+          890.55
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 18,
+      "cameraScale": 4.690659046173096,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "19": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          912.28,
+          831.86,
+          1021.3,
+          934.4
+        ],
+        "point": [
+          966.79,
+          883.13
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 19,
+      "cameraScale": 4.689667701721191,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "20": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          913.3,
+          824.41,
+          1022.35,
+          926.98
+        ],
+        "point": [
+          967.83,
+          875.69
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 20,
+      "cameraScale": 4.688634872436523,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "21": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          914.16,
+          816.94,
+          1023.24,
+          919.53
+        ],
+        "point": [
+          968.7,
+          868.24
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 21,
+      "cameraScale": 4.687562465667725,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "22": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          914.85,
+          809.46,
+          1023.95,
+          912.07
+        ],
+        "point": [
+          969.4,
+          860.76
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 22,
+      "cameraScale": 4.686450481414795,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "23": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          915.37,
+          801.96,
+          1024.5,
+          904.59
+        ],
+        "point": [
+          969.94,
+          853.28
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 23,
+      "cameraScale": 4.685301303863525,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "24": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          915.73,
+          794.45,
+          1024.88,
+          897.11
+        ],
+        "point": [
+          970.3,
+          845.78
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 24,
+      "cameraScale": 4.684115886688232,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "25": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          915.91,
+          786.93,
+          1025.09,
+          889.62
+        ],
+        "point": [
+          970.5,
+          838.28
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 25,
+      "cameraScale": 4.682895183563232,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "26": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          915.93,
+          779.41,
+          1025.14,
+          882.12
+        ],
+        "point": [
+          970.53,
+          830.77
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 26,
+      "cameraScale": 4.681640625,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "27": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          915.77,
+          771.88,
+          1025.01,
+          874.63
+        ],
+        "point": [
+          970.39,
+          823.25
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 27,
+      "cameraScale": 4.68035364151001,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "28": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          915.45,
+          764.36,
+          1024.72,
+          867.13
+        ],
+        "point": [
+          970.08,
+          815.74
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 28,
+      "cameraScale": 4.679035186767578,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "29": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          914.95,
+          756.84,
+          1024.26,
+          859.64
+        ],
+        "point": [
+          969.6,
+          808.24
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 29,
+      "cameraScale": 4.67768669128418,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "30": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          914.29,
+          749.32,
+          1023.62,
+          852.15
+        ],
+        "point": [
+          968.96,
+          800.74
+        ]
+      },
+      "gravity": {
+        "rect": [
+          728.11,
+          752.56,
+          970.19,
+          888.25
+        ],
+        "point": [
+          849.15,
+          820.4
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 30,
+      "cameraScale": 4.676309108734131,
+      "analyticDiagram": true,
+      "event": "EXPERIMENT"
+    }
+  },
+  "31": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          913.45,
+          741.81,
+          1022.82,
+          844.68
+        ],
+        "point": [
+          968.14,
+          793.24
+        ]
+      },
+      "gravity": {
+        "rect": [
+          726.8,
+          747.79,
+          969.61,
+          884.79
+        ],
+        "point": [
+          848.21,
+          816.29
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 31,
+      "cameraScale": 4.6749043464660645,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "32": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          912.45,
+          734.32,
+          1021.85,
+          837.21
+        ],
+        "point": [
+          967.15,
+          785.77
+        ]
+      },
+      "gravity": {
+        "rect": [
+          725.42,
+          743.05,
+          968.87,
+          881.33
+        ],
+        "point": [
+          847.15,
+          812.19
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 32,
+      "cameraScale": 4.673472881317139,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "33": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          911.28,
+          726.84,
+          1020.71,
+          829.77
+        ],
+        "point": [
+          965.99,
+          778.3
+        ]
+      },
+      "gravity": {
+        "rect": [
+          723.96,
+          738.34,
+          967.96,
+          877.85
+        ],
+        "point": [
+          845.96,
+          808.09
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 33,
+      "cameraScale": 4.672016620635986,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "34": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          909.93,
+          719.38,
+          1019.4,
+          822.34
+        ],
+        "point": [
+          964.67,
+          770.86
+        ]
+      },
+      "gravity": {
+        "rect": [
+          722.43,
+          733.65,
+          966.88,
+          874.36
+        ],
+        "point": [
+          844.66,
+          804.01
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 34,
+      "cameraScale": 4.670536518096924,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "35": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          908.42,
+          711.94,
+          1017.93,
+          814.93
+        ],
+        "point": [
+          963.17,
+          763.43
+        ]
+      },
+      "gravity": {
+        "rect": [
+          720.83,
+          728.99,
+          965.63,
+          870.87
+        ],
+        "point": [
+          843.23,
+          799.93
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 35,
+      "cameraScale": 4.669033527374268,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "36": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          906.74,
+          704.52,
+          1016.28,
+          807.55
+        ],
+        "point": [
+          961.51,
+          756.04
+        ]
+      },
+      "gravity": {
+        "rect": [
+          719.16,
+          724.37,
+          964.2,
+          867.37
+        ],
+        "point": [
+          841.68,
+          795.87
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 36,
+      "cameraScale": 4.66750955581665,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "37": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          904.89,
+          697.13,
+          1014.47,
+          800.19
+        ],
+        "point": [
+          959.68,
+          748.66
+        ]
+      },
+      "gravity": {
+        "rect": [
+          717.41,
+          719.77,
+          962.62,
+          863.87
+        ],
+        "point": [
+          840.01,
+          791.82
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 37,
+      "cameraScale": 4.665965557098389,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "38": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          902.88,
+          689.77,
+          1012.49,
+          792.87
+        ],
+        "point": [
+          957.68,
+          741.32
+        ]
+      },
+      "gravity": {
+        "rect": [
+          715.59,
+          715.21,
+          960.86,
+          860.37
+        ],
+        "point": [
+          838.22,
+          787.79
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 38,
+      "cameraScale": 4.664402484893799,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "39": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          900.69,
+          682.45,
+          1010.34,
+          785.57
+        ],
+        "point": [
+          955.52,
+          734.01
+        ]
+      },
+      "gravity": {
+        "rect": [
+          713.7,
+          710.69,
+          958.93,
+          856.86
+        ],
+        "point": [
+          836.32,
+          783.78
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 39,
+      "cameraScale": 4.662822246551514,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "40": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          898.34,
+          675.15,
+          1008.03,
+          778.32
+        ],
+        "point": [
+          953.19,
+          726.74
+        ]
+      },
+      "gravity": {
+        "rect": [
+          711.74,
+          706.21,
+          956.84,
+          853.36
+        ],
+        "point": [
+          834.29,
+          779.78
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 40,
+      "cameraScale": 4.661225318908691,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "41": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          895.83,
+          667.9,
+          1005.55,
+          771.1
+        ],
+        "point": [
+          950.69,
+          719.5
+        ]
+      },
+      "gravity": {
+        "rect": [
+          709.71,
+          701.77,
+          954.58,
+          849.85
+        ],
+        "point": [
+          832.14,
+          775.81
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 41,
+      "cameraScale": 4.659613609313965,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "42": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          893.15,
+          660.69,
+          1002.91,
+          763.93
+        ],
+        "point": [
+          948.03,
+          712.31
+        ]
+      },
+      "gravity": {
+        "rect": [
+          707.61,
+          697.36,
+          952.15,
+          846.35
+        ],
+        "point": [
+          829.88,
+          771.86
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 42,
+      "cameraScale": 4.65798807144165,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "43": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          890.3,
+          653.52,
+          1000.11,
+          756.79
+        ],
+        "point": [
+          945.2,
+          705.16
+        ]
+      },
+      "gravity": {
+        "rect": [
+          705.44,
+          692.22,
+          949.56,
+          842.85
+        ],
+        "point": [
+          827.5,
+          767.54
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 43,
+      "cameraScale": 4.656350135803223,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "44": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          887.29,
+          646.4,
+          997.14,
+          749.71
+        ],
+        "point": [
+          942.21,
+          698.06
+        ]
+      },
+      "gravity": {
+        "rect": [
+          703.21,
+          685.19,
+          946.8,
+          839.36
+        ],
+        "point": [
+          825.01,
+          762.28
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 44,
+      "cameraScale": 4.654700756072998,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "45": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          884.12,
+          639.33,
+          994.0,
+          742.68
+        ],
+        "point": [
+          939.06,
+          691.0
+        ]
+      },
+      "gravity": {
+        "rect": [
+          700.91,
+          678.22,
+          943.88,
+          835.88
+        ],
+        "point": [
+          822.4,
+          757.05
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 45,
+      "cameraScale": 4.653041362762451,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "46": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          880.79,
+          632.31,
+          990.71,
+          735.7
+        ],
+        "point": [
+          935.75,
+          684.0
+        ]
+      },
+      "gravity": {
+        "rect": [
+          698.54,
+          671.3,
+          940.8,
+          832.4
+        ],
+        "point": [
+          819.67,
+          751.85
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 46,
+      "cameraScale": 4.651372909545898,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "47": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          877.3,
+          625.35,
+          987.26,
+          728.77
+        ],
+        "point": [
+          932.28,
+          677.06
+        ]
+      },
+      "gravity": {
+        "rect": [
+          696.11,
+          664.44,
+          937.56,
+          828.94
+        ],
+        "point": [
+          816.83,
+          746.69
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 47,
+      "cameraScale": 4.649697303771973,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "48": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          873.65,
+          618.45,
+          983.65,
+          721.91
+        ],
+        "point": [
+          928.65,
+          670.18
+        ]
+      },
+      "gravity": {
+        "rect": [
+          693.62,
+          657.65,
+          934.15,
+          825.48
+        ],
+        "point": [
+          813.88,
+          741.56
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 48,
+      "cameraScale": 4.64801549911499,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "49": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          869.84,
+          611.61,
+          979.88,
+          715.1
+        ],
+        "point": [
+          924.86,
+          663.35
+        ]
+      },
+      "gravity": {
+        "rect": [
+          691.06,
+          650.92,
+          930.58,
+          822.04
+        ],
+        "point": [
+          810.82,
+          736.48
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 49,
+      "cameraScale": 4.646328449249268,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "50": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          865.87,
+          604.83,
+          975.95,
+          708.36
+        ],
+        "point": [
+          920.91,
+          656.6
+        ]
+      },
+      "gravity": {
+        "rect": [
+          688.44,
+          644.25,
+          926.86,
+          818.61
+        ],
+        "point": [
+          807.65,
+          731.43
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 50,
+      "cameraScale": 4.644637584686279,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "51": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          861.75,
+          598.12,
+          971.87,
+          701.69
+        ],
+        "point": [
+          916.81,
+          649.91
+        ]
+      },
+      "gravity": {
+        "rect": [
+          685.76,
+          637.66,
+          922.98,
+          815.2
+        ],
+        "point": [
+          804.37,
+          726.43
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 51,
+      "cameraScale": 4.6429443359375,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "52": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          857.48,
+          591.48,
+          967.64,
+          695.09
+        ],
+        "point": [
+          912.56,
+          643.28
+        ]
+      },
+      "gravity": {
+        "rect": [
+          683.02,
+          631.15,
+          918.94,
+          811.8
+        ],
+        "point": [
+          800.98,
+          721.47
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 52,
+      "cameraScale": 4.641250133514404,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "53": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          853.05,
+          584.91,
+          963.25,
+          688.56
+        ],
+        "point": [
+          908.15,
+          636.74
+        ]
+      },
+      "gravity": {
+        "rect": [
+          680.21,
+          624.71,
+          914.75,
+          808.42
+        ],
+        "point": [
+          797.48,
+          716.57
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 53,
+      "cameraScale": 4.63955545425415,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "54": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          848.48,
+          578.42,
+          958.72,
+          682.11
+        ],
+        "point": [
+          903.6,
+          630.26
+        ]
+      },
+      "gravity": {
+        "rect": [
+          677.35,
+          618.35,
+          910.4,
+          805.07
+        ],
+        "point": [
+          793.88,
+          711.71
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 54,
+      "cameraScale": 4.637862205505371,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "55": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          843.75,
+          572.01,
+          954.03,
+          675.73
+        ],
+        "point": [
+          898.89,
+          623.87
+        ]
+      },
+      "gravity": {
+        "rect": [
+          674.44,
+          612.07,
+          905.91,
+          801.73
+        ],
+        "point": [
+          790.17,
+          706.9
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 55,
+      "cameraScale": 4.636171340942383,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "56": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          838.88,
+          565.68,
+          949.2,
+          669.44
+        ],
+        "point": [
+          894.04,
+          617.56
+        ]
+      },
+      "gravity": {
+        "rect": [
+          671.47,
+          605.87,
+          901.26,
+          798.41
+        ],
+        "point": [
+          786.36,
+          702.14
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 56,
+      "cameraScale": 4.63448429107666,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "57": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          833.86,
+          559.43,
+          944.22,
+          663.22
+        ],
+        "point": [
+          889.04,
+          611.33
+        ]
+      },
+      "gravity": {
+        "rect": [
+          668.44,
+          599.77,
+          896.46,
+          795.12
+        ],
+        "point": [
+          782.45,
+          697.44
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 57,
+      "cameraScale": 4.632802486419678,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "58": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          828.69,
+          553.26,
+          939.1,
+          657.1
+        ],
+        "point": [
+          883.9,
+          605.18
+        ]
+      },
+      "gravity": {
+        "rect": [
+          665.36,
+          593.75,
+          891.52,
+          791.86
+        ],
+        "point": [
+          778.44,
+          692.8
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 58,
+      "cameraScale": 4.631126880645752,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "59": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          823.39,
+          547.19,
+          933.83,
+          651.06
+        ],
+        "point": [
+          878.61,
+          599.13
+        ]
+      },
+      "gravity": {
+        "rect": [
+          662.22,
+          587.82,
+          886.43,
+          788.62
+        ],
+        "point": [
+          774.33,
+          688.22
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 59,
+      "cameraScale": 4.629458904266357,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "60": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          817.95,
+          541.21,
+          928.43,
+          645.12
+        ],
+        "point": [
+          873.19,
+          593.16
+        ]
+      },
+      "gravity": {
+        "rect": [
+          659.04,
+          581.99,
+          881.21,
+          785.41
+        ],
+        "point": [
+          770.12,
+          683.7
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 60,
+      "cameraScale": 4.627799034118652,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "61": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          812.36,
+          535.32,
+          922.89,
+          639.27
+        ],
+        "point": [
+          867.62,
+          587.29
+        ]
+      },
+      "gravity": {
+        "rect": [
+          655.8,
+          576.26,
+          875.83,
+          782.22
+        ],
+        "point": [
+          765.82,
+          679.24
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 61,
+      "cameraScale": 4.626150131225586,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "62": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          806.65,
+          529.53,
+          917.21,
+          633.51
+        ],
+        "point": [
+          861.93,
+          581.52
+        ]
+      },
+      "gravity": {
+        "rect": [
+          652.52,
+          570.63,
+          870.32,
+          779.07
+        ],
+        "point": [
+          761.42,
+          674.85
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 62,
+      "cameraScale": 4.62451171875,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "63": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          800.79,
+          523.84,
+          911.39,
+          627.86
+        ],
+        "point": [
+          856.09,
+          575.85
+        ]
+      },
+      "gravity": {
+        "rect": [
+          649.19,
+          565.1,
+          864.68,
+          775.95
+        ],
+        "point": [
+          756.93,
+          670.53
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 63,
+      "cameraScale": 4.6228861808776855,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "64": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          794.81,
+          518.25,
+          905.45,
+          622.3
+        ],
+        "point": [
+          850.13,
+          570.27
+        ]
+      },
+      "gravity": {
+        "rect": [
+          645.81,
+          559.67,
+          858.9,
+          772.87
+        ],
+        "point": [
+          752.35,
+          666.27
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 64,
+      "cameraScale": 4.621274471282959,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "65": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          788.7,
+          512.76,
+          899.38,
+          616.85
+        ],
+        "point": [
+          844.04,
+          564.81
+        ]
+      },
+      "gravity": {
+        "rect": [
+          642.39,
+          554.36,
+          852.98,
+          769.82
+        ],
+        "point": [
+          747.68,
+          662.09
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 65,
+      "cameraScale": 4.619677543640137,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "66": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          782.46,
+          507.38,
+          893.18,
+          611.51
+        ],
+        "point": [
+          837.82,
+          559.44
+        ]
+      },
+      "gravity": {
+        "rect": [
+          638.92,
+          549.15,
+          846.94,
+          766.8
+        ],
+        "point": [
+          742.93,
+          657.97
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 66,
+      "cameraScale": 4.618097305297852,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "67": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          776.1,
+          502.11,
+          886.85,
+          606.27
+        ],
+        "point": [
+          831.48,
+          554.19
+        ]
+      },
+      "gravity": {
+        "rect": [
+          635.41,
+          544.05,
+          840.77,
+          763.82
+        ],
+        "point": [
+          738.09,
+          653.94
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 67,
+      "cameraScale": 4.616534233093262,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "68": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          769.61,
+          496.95,
+          880.4,
+          601.15
+        ],
+        "point": [
+          825.01,
+          549.05
+        ]
+      },
+      "gravity": {
+        "rect": [
+          631.86,
+          539.07,
+          834.47,
+          760.88
+        ],
+        "point": [
+          733.16,
+          649.97
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 68,
+      "cameraScale": 4.614990234375,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "69": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          763.01,
+          491.9,
+          873.84,
+          596.14
+        ],
+        "point": [
+          818.42,
+          544.02
+        ]
+      },
+      "gravity": {
+        "rect": [
+          628.27,
+          534.2,
+          828.05,
+          757.98
+        ],
+        "point": [
+          728.16,
+          646.09
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 69,
+      "cameraScale": 4.613466262817383,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "70": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          756.29,
+          486.97,
+          867.15,
+          591.24
+        ],
+        "point": [
+          811.72,
+          539.11
+        ]
+      },
+      "gravity": {
+        "rect": [
+          624.64,
+          529.45,
+          821.5,
+          755.12
+        ],
+        "point": [
+          723.07,
+          642.29
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 70,
+      "cameraScale": 4.611963748931885,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "71": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          749.46,
+          482.16,
+          860.35,
+          586.46
+        ],
+        "point": [
+          804.9,
+          534.31
+        ]
+      },
+      "gravity": {
+        "rect": [
+          620.98,
+          524.83,
+          814.84,
+          752.3
+        ],
+        "point": [
+          717.91,
+          638.56
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 71,
+      "cameraScale": 4.610483646392822,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "72": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          742.51,
+          477.47,
+          853.44,
+          581.8
+        ],
+        "point": [
+          797.97,
+          529.64
+        ]
+      },
+      "gravity": {
+        "rect": [
+          617.28,
+          520.32,
+          808.07,
+          749.53
+        ],
+        "point": [
+          712.67,
+          634.93
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 72,
+      "cameraScale": 4.609026908874512,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "73": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          735.45,
+          472.9,
+          846.42,
+          577.27
+        ],
+        "point": [
+          790.94,
+          525.08
+        ]
+      },
+      "gravity": {
+        "rect": [
+          613.55,
+          515.94,
+          801.18,
+          746.8
+        ],
+        "point": [
+          707.36,
+          631.37
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 73,
+      "cameraScale": 4.607595920562744,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "74": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          728.29,
+          468.46,
+          839.29,
+          572.85
+        ],
+        "point": [
+          783.79,
+          520.65
+        ]
+      },
+      "gravity": {
+        "rect": [
+          609.78,
+          511.69,
+          794.18,
+          744.12
+        ],
+        "point": [
+          701.98,
+          627.9
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 74,
+      "cameraScale": 4.6061906814575195,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "75": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          721.03,
+          464.14,
+          832.06,
+          568.57
+        ],
+        "point": [
+          776.55,
+          516.35
+        ]
+      },
+      "gravity": {
+        "rect": [
+          605.98,
+          507.57,
+          787.07,
+          741.48
+        ],
+        "point": [
+          696.53,
+          624.52
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 75,
+      "cameraScale": 4.604813575744629,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "76": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          713.67,
+          459.95,
+          824.73,
+          564.41
+        ],
+        "point": [
+          769.2,
+          512.18
+        ]
+      },
+      "gravity": {
+        "rect": [
+          602.16,
+          503.57,
+          779.86,
+          738.89
+        ],
+        "point": [
+          691.01,
+          621.23
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 76,
+      "cameraScale": 4.6034650802612305,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "77": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          706.2,
+          455.89,
+          817.3,
+          560.38
+        ],
+        "point": [
+          761.75,
+          508.13
+        ]
+      },
+      "gravity": {
+        "rect": [
+          598.31,
+          499.71,
+          772.55,
+          736.36
+        ],
+        "point": [
+          685.43,
+          618.03
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 77,
+      "cameraScale": 4.602146625518799,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "78": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          698.65,
+          451.96,
+          809.78,
+          556.48
+        ],
+        "point": [
+          754.21,
+          504.22
+        ]
+      },
+      "gravity": {
+        "rect": [
+          594.43,
+          495.99,
+          765.13,
+          733.87
+        ],
+        "point": [
+          679.78,
+          614.93
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 78,
+      "cameraScale": 4.60085916519165,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "79": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          691.0,
+          448.17,
+          802.16,
+          552.72
+        ],
+        "point": [
+          746.58,
+          500.44
+        ]
+      },
+      "gravity": {
+        "rect": [
+          590.53,
+          492.4,
+          757.63,
+          731.43
+        ],
+        "point": [
+          674.08,
+          611.92
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 79,
+      "cameraScale": 4.599605083465576,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "80": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          683.27,
+          444.51,
+          794.46,
+          549.09
+        ],
+        "point": [
+          738.86,
+          496.8
+        ]
+      },
+      "gravity": {
+        "rect": [
+          586.6,
+          488.94,
+          750.03,
+          729.05
+        ],
+        "point": [
+          668.31,
+          609.0
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 80,
+      "cameraScale": 4.598384380340576,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "81": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          675.45,
+          440.99,
+          786.67,
+          545.6
+        ],
+        "point": [
+          731.06,
+          493.29
+        ]
+      },
+      "gravity": {
+        "rect": [
+          582.65,
+          485.63,
+          742.34,
+          726.72
+        ],
+        "point": [
+          662.5,
+          606.18
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 81,
+      "cameraScale": 4.597198486328125,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "82": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          667.55,
+          437.61,
+          778.8,
+          542.24
+        ],
+        "point": [
+          723.17,
+          489.93
+        ]
+      },
+      "gravity": {
+        "rect": [
+          578.69,
+          482.46,
+          734.56,
+          724.45
+        ],
+        "point": [
+          656.62,
+          603.45
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 82,
+      "cameraScale": 4.5960493087768555,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "83": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          659.57,
+          434.38,
+          770.84,
+          539.03
+        ],
+        "point": [
+          715.21,
+          486.7
+        ]
+      },
+      "gravity": {
+        "rect": [
+          574.7,
+          479.43,
+          726.7,
+          722.23
+        ],
+        "point": [
+          650.7,
+          600.83
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 83,
+      "cameraScale": 4.594937801361084,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "84": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          651.52,
+          431.28,
+          762.82,
+          535.96
+        ],
+        "point": [
+          707.17,
+          483.62
+        ]
+      },
+      "gravity": {
+        "rect": [
+          570.71,
+          476.55,
+          718.76,
+          720.07
+        ],
+        "point": [
+          644.73,
+          598.31
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 84,
+      "cameraScale": 4.593864917755127,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "85": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          643.39,
+          428.33,
+          754.72,
+          533.03
+        ],
+        "point": [
+          699.06,
+          480.68
+        ]
+      },
+      "gravity": {
+        "rect": [
+          566.69,
+          473.81,
+          710.74,
+          717.97
+        ],
+        "point": [
+          638.72,
+          595.89
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 85,
+      "cameraScale": 4.592832088470459,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "86": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          635.2,
+          425.52,
+          746.55,
+          530.25
+        ],
+        "point": [
+          690.87,
+          477.88
+        ]
+      },
+      "gravity": {
+        "rect": [
+          562.66,
+          471.21,
+          702.65,
+          715.92
+        ],
+        "point": [
+          632.66,
+          593.57
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 86,
+      "cameraScale": 4.591840744018555,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "87": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          626.94,
+          422.86,
+          738.31,
+          527.61
+        ],
+        "point": [
+          682.63,
+          475.24
+        ]
+      },
+      "gravity": {
+        "rect": [
+          558.63,
+          468.77,
+          694.49,
+          713.94
+        ],
+        "point": [
+          626.56,
+          591.36
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 87,
+      "cameraScale": 4.590892314910889,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "88": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          618.62,
+          420.35,
+          730.02,
+          525.12
+        ],
+        "point": [
+          674.32,
+          472.73
+        ]
+      },
+      "gravity": {
+        "rect": [
+          554.58,
+          466.48,
+          686.27,
+          712.02
+        ],
+        "point": [
+          620.42,
+          589.25
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 88,
+      "cameraScale": 4.589987277984619,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "89": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          610.25,
+          417.99,
+          721.66,
+          522.78
+        ],
+        "point": [
+          665.95,
+          470.38
+        ]
+      },
+      "gravity": {
+        "rect": [
+          550.53,
+          464.33,
+          677.98,
+          710.16
+        ],
+        "point": [
+          614.25,
+          587.25
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 89,
+      "cameraScale": 4.589128017425537,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "90": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          601.82,
+          415.78,
+          713.25,
+          520.58
+        ],
+        "point": [
+          657.53,
+          468.18
+        ]
+      },
+      "gravity": {
+        "rect": [
+          546.47,
+          462.34,
+          669.63,
+          708.36
+        ],
+        "point": [
+          608.05,
+          585.35
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 90,
+      "cameraScale": 4.588314533233643,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "91": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          593.34,
+          413.72,
+          704.79,
+          518.54
+        ],
+        "point": [
+          649.06,
+          466.13
+        ]
+      },
+      "gravity": {
+        "rect": [
+          542.4,
+          460.5,
+          661.22,
+          706.63
+        ],
+        "point": [
+          601.81,
+          583.56
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 91,
+      "cameraScale": 4.587548732757568,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "92": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          584.81,
+          411.82,
+          696.28,
+          516.65
+        ],
+        "point": [
+          640.54,
+          464.24
+        ]
+      },
+      "gravity": {
+        "rect": [
+          538.33,
+          458.81,
+          652.77,
+          704.96
+        ],
+        "point": [
+          595.55,
+          581.89
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 92,
+      "cameraScale": 4.586832046508789,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "93": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          576.24,
+          410.07,
+          687.72,
+          514.92
+        ],
+        "point": [
+          631.98,
+          462.49
+        ]
+      },
+      "gravity": {
+        "rect": [
+          534.27,
+          457.28,
+          646.3,
+          703.35
+        ],
+        "point": [
+          590.28,
+          580.32
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 93,
+      "cameraScale": 4.586165428161621,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "94": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          567.62,
+          408.47,
+          679.12,
+          513.34
+        ],
+        "point": [
+          623.37,
+          460.9
+        ]
+      },
+      "gravity": {
+        "rect": [
+          530.2,
+          455.9,
+          640.95,
+          701.82
+        ],
+        "point": [
+          585.58,
+          578.86
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 94,
+      "cameraScale": 4.585550308227539,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "95": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          558.98,
+          407.03,
+          670.49,
+          511.91
+        ],
+        "point": [
+          614.73,
+          459.47
+        ]
+      },
+      "gravity": {
+        "rect": [
+          526.14,
+          454.68,
+          635.57,
+          700.34
+        ],
+        "point": [
+          580.85,
+          577.51
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 95,
+      "cameraScale": 4.584987640380859,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "96": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          550.3,
+          405.74,
+          661.82,
+          510.64
+        ],
+        "point": [
+          606.06,
+          458.19
+        ]
+      },
+      "gravity": {
+        "rect": [
+          522.08,
+          453.62,
+          630.15,
+          698.94
+        ],
+        "point": [
+          576.11,
+          576.28
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 96,
+      "cameraScale": 4.584478855133057,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "97": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          541.59,
+          404.62,
+          653.13,
+          509.52
+        ],
+        "point": [
+          597.36,
+          457.07
+        ]
+      },
+      "gravity": {
+        "rect": [
+          518.03,
+          452.71,
+          624.68,
+          697.6
+        ],
+        "point": [
+          571.36,
+          575.16
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 97,
+      "cameraScale": 4.5840253829956055,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "98": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          532.86,
+          403.65,
+          644.4,
+          508.56
+        ],
+        "point": [
+          588.63,
+          456.1
+        ]
+      },
+      "gravity": {
+        "rect": [
+          513.98,
+          451.97,
+          619.19,
+          696.34
+        ],
+        "point": [
+          566.59,
+          574.15
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 98,
+      "cameraScale": 4.583628177642822,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "99": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          524.11,
+          402.84,
+          635.66,
+          507.76
+        ],
+        "point": [
+          579.88,
+          455.3
+        ]
+      },
+      "gravity": {
+        "rect": [
+          509.95,
+          451.38,
+          613.65,
+          695.14
+        ],
+        "point": [
+          561.8,
+          573.26
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 99,
+      "cameraScale": 4.583288669586182,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "100": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          515.34,
+          402.19,
+          626.9,
+          507.11
+        ],
+        "point": [
+          571.12,
+          454.65
+        ]
+      },
+      "gravity": {
+        "rect": [
+          505.93,
+          450.95,
+          608.09,
+          694.01
+        ],
+        "point": [
+          557.01,
+          572.48
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 100,
+      "cameraScale": 4.583008289337158,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "101": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          506.55,
+          401.7,
+          618.12,
+          506.63
+        ],
+        "point": [
+          562.34,
+          454.16
+        ]
+      },
+      "gravity": {
+        "rect": [
+          501.92,
+          450.68,
+          602.5,
+          692.96
+        ],
+        "point": [
+          552.21,
+          571.82
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 101,
+      "cameraScale": 4.58278751373291,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "102": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          497.76,
+          401.37,
+          609.33,
+          506.3
+        ],
+        "point": [
+          553.55,
+          453.83
+        ]
+      },
+      "gravity": {
+        "rect": [
+          497.93,
+          450.57,
+          596.88,
+          691.97
+        ],
+        "point": [
+          547.41,
+          571.27
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 102,
+      "cameraScale": 4.5826287269592285,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "103": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          488.96,
+          401.2,
+          600.54,
+          506.13
+        ],
+        "point": [
+          544.75,
+          453.66
+        ]
+      },
+      "gravity": {
+        "rect": [
+          493.95,
+          450.61,
+          591.24,
+          691.06
+        ],
+        "point": [
+          542.6,
+          570.84
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 103,
+      "cameraScale": 4.5825324058532715,
+      "analyticDiagram": true,
+      "event": null
+    }
+  },
+  "104": {
+    "anchors": {
+      "outer": {
+        "rect": [
+          480.16,
+          401.19,
+          591.74,
+          506.12
+        ],
+        "point": [
+          535.95,
+          453.65
+        ]
+      },
+      "gravity": {
+        "rect": [
+          489.21,
+          450.62,
+          586.36,
+          690.99
+        ],
+        "point": [
+          537.79,
+          570.8
+        ]
+      }
+    },
+    "motion": {
+      "mode": "force",
+      "localFrame": 104,
+      "cameraScale": 4.582499980926514,
+      "analyticDiagram": true,
+      "event": null
+    }
+  }
+}

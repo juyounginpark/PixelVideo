@@ -1,0 +1,42 @@
+{
+  "fonts": {
+    "checkedCharacters": 1052,
+    "fallbacks": 0,
+    "fontFaces": [
+      "PIXEL_DISPLAY",
+      "PIXEL_BODY"
+    ]
+  },
+  "uiCacheHits": [],
+  "uiRenderedShots": [
+    "S03"
+  ],
+  "errors": [],
+  "duration": 3.5,
+  "frameCount": 105,
+  "fullDecode": true,
+  "validatedUIFrames": 105,
+  "audioCacheHit": false,
+  "audioFolder": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\production\\minsu_v4\\cache\\audio\\66e25a9ee59634e3f6db4433f64a1d24b3f7e8cef2443fbe4b2bf1c1d4d9fbcf",
+  "nativeSize": [
+    270,
+    480
+  ],
+  "audio": {
+    "input_i": "-19.01",
+    "input_tp": "-9.09",
+    "input_lra": "0.50",
+    "input_thresh": "-29.15",
+    "output_i": "-19.10",
+    "output_tp": "-9.26",
+    "output_lra": "0.00",
+    "output_thresh": "-29.23",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "tts": false,
+  "totalSeconds": 4.079223699998693,
+  "sha256": "482857f7ec016eedaa02f1a4f375a7429e3b8763c992136d3eecb6f8baff79d5",
+  "output": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_V4_EXPECTED_COLOR_REVIEW.mp4",
+  "editorialApproval": false
+}

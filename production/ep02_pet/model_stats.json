@@ -1,0 +1,12 @@
+{
+  "character_triangles_after_modifiers": 3312,
+  "source_animation_fps": 12,
+  "render_size": [
+    360,
+    640
+  ],
+  "output_size": [
+    720,
+    1280
+  ]
+}

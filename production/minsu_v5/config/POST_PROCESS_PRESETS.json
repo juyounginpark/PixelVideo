@@ -1,0 +1,37 @@
+{
+  "version": "5.0.0",
+  "order": [
+    "native3D",
+    "nativeOutline",
+    "nearestIntegerUpscale",
+    "UI",
+    "fixedScanlines",
+    "subpixelColorFringe",
+    "encode"
+  ],
+  "default": "MOBILE",
+  "presets": {
+    "OFF": {
+      "period": 4,
+      "opacity": 0,
+      "bleed": 0
+    },
+    "REFERENCE": {
+      "period": 4,
+      "opacity": 0.1,
+      "bleed": 0.5
+    },
+    "MOBILE": {
+      "period": 4,
+      "opacity": 0.06,
+      "bleed": 0.25
+    },
+    "STRONG": {
+      "period": 4,
+      "opacity": 0.14,
+      "bleed": 1
+    }
+  },
+  "phase": 0,
+  "uiBleedMultiplier": 0.2
+}

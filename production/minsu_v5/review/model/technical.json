@@ -1,0 +1,765 @@
+{
+  "meshCount": 79,
+  "issues": [],
+  "poses": [
+    {
+      "action": "OBSERVE",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "OBSERVE",
+      "progress": 0.25,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "OBSERVE",
+      "progress": 0.5,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "OBSERVE",
+      "progress": 0.75,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "OBSERVE",
+      "progress": 1,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "REACT",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "REACT",
+      "progress": 0.25,
+      "minimumBootZ": 1.4901161193847656e-08
+    },
+    {
+      "action": "REACT",
+      "progress": 0.5,
+      "minimumBootZ": -1.862645149230957e-08
+    },
+    {
+      "action": "REACT",
+      "progress": 0.75,
+      "minimumBootZ": -7.450580596923828e-09
+    },
+    {
+      "action": "REACT",
+      "progress": 1,
+      "minimumBootZ": 7.450580596923828e-09
+    },
+    {
+      "action": "POINT",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "POINT",
+      "progress": 0.25,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "POINT",
+      "progress": 0.5,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "POINT",
+      "progress": 0.75,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "POINT",
+      "progress": 1,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "LOOK_AROUND",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "LOOK_AROUND",
+      "progress": 0.25,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "LOOK_AROUND",
+      "progress": 0.5,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "LOOK_AROUND",
+      "progress": 0.75,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "LOOK_AROUND",
+      "progress": 1,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "SURPRISE",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "SURPRISE",
+      "progress": 0.25,
+      "minimumBootZ": 1.4901161193847656e-08
+    },
+    {
+      "action": "SURPRISE",
+      "progress": 0.5,
+      "minimumBootZ": -1.862645149230957e-08
+    },
+    {
+      "action": "SURPRISE",
+      "progress": 0.75,
+      "minimumBootZ": -7.450580596923828e-09
+    },
+    {
+      "action": "SURPRISE",
+      "progress": 1,
+      "minimumBootZ": 7.450580596923828e-09
+    },
+    {
+      "action": "CONFUSED",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "CONFUSED",
+      "progress": 0.25,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "CONFUSED",
+      "progress": 0.5,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "CONFUSED",
+      "progress": 0.75,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "CONFUSED",
+      "progress": 1,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "THINK",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "THINK",
+      "progress": 0.25,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "THINK",
+      "progress": 0.5,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "THINK",
+      "progress": 0.75,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "THINK",
+      "progress": 1,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "WALK",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "WALK",
+      "progress": 0.25,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "WALK",
+      "progress": 0.5,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "WALK",
+      "progress": 0.75,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "WALK",
+      "progress": 1,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "TURN",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "TURN",
+      "progress": 0.25,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "TURN",
+      "progress": 0.5,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "TURN",
+      "progress": 0.75,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "TURN",
+      "progress": 1,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "EXPLAIN",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "EXPLAIN",
+      "progress": 0.25,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "EXPLAIN",
+      "progress": 0.5,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "EXPLAIN",
+      "progress": 0.75,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "EXPLAIN",
+      "progress": 1,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "DISCOVER",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "DISCOVER",
+      "progress": 0.25,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "DISCOVER",
+      "progress": 0.5,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "DISCOVER",
+      "progress": 0.75,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "DISCOVER",
+      "progress": 1,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "CELEBRATE",
+      "progress": 0,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "CELEBRATE",
+      "progress": 0.25,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "CELEBRATE",
+      "progress": 0.5,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "CELEBRATE",
+      "progress": 0.75,
+      "minimumBootZ": 3.725290298461914e-09
+    },
+    {
+      "action": "CELEBRATE",
+      "progress": 1,
+      "minimumBootZ": 3.725290298461914e-09
+    }
+  ],
+  "materials": [
+    {
+      "name": "MINSU_V5_agar",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "agar_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_alga",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "alga_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_amber",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "amber_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_bond",
+      "texelsPerUnit": null,
+      "textures": []
+    },
+    {
+      "name": "MINSU_V5_brown",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "brown_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_cheek",
+      "texelsPerUnit": null,
+      "textures": []
+    },
+    {
+      "name": "MINSU_V5_coral",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "coral_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_cream",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "cream_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_cyan",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "cyan_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_floor",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "floor_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_glass",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "glass_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_hair",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "hair_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_hydrogen",
+      "texelsPerUnit": null,
+      "textures": []
+    },
+    {
+      "name": "MINSU_V5_ice",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "ice_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_ice_dark",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "ice_dark_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_ice_top",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "ice_top_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_leaf",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "leaf_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_light",
+      "texelsPerUnit": null,
+      "textures": []
+    },
+    {
+      "name": "MINSU_V5_metal",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "metal_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_micro_bg",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "micro_bg_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_midnight",
+      "texelsPerUnit": null,
+      "textures": []
+    },
+    {
+      "name": "MINSU_V5_mint",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "mint_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_navy",
+      "texelsPerUnit": null,
+      "textures": []
+    },
+    {
+      "name": "MINSU_V5_ochre",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "ochre_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_oxygen",
+      "texelsPerUnit": null,
+      "textures": []
+    },
+    {
+      "name": "MINSU_V5_pale",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "pale_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_rail",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "rail_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_red",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "red_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_rock",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "rock_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_roof",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "roof_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_sand",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "sand_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_shoe",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "shoe_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_skin",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "skin_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_snow",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "snow_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_wall",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "wall_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_water",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "water_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_wet",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "wet_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    },
+    {
+      "name": "MINSU_V5_wood",
+      "texelsPerUnit": 16,
+      "textures": [
+        {
+          "image": "wood_32px_V31",
+          "packed": true,
+          "interpolation": "Closest",
+          "projection": "BOX",
+          "blend": 0.11999999731779099
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "No exhaustive mesh-mesh penetration solver; intentional joint/hair overlaps require image review.",
+    "BOX world projection is used rather than authored UV islands.",
+    "Static angles do not certify every camera or motion."
+  ],
+  "visualReview": {
+    "reviewedImages": [
+      "angles.jpg",
+      "angles_0.jpg",
+      "angles_1.jpg"
+    ],
+    "reviewer": "assistant actual images",
+    "findings": [
+      "12 actions at 3 views: no black corner triangles or visibly detached limbs in these samples",
+      "Head and torso posture vary; boots remain grounded",
+      "Hand articulation remains mitten-like and expressions are stylized"
+    ],
+    "notCertified": "All-frame exhaustive penetration or human animation appeal"
+  }
+}

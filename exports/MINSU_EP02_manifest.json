@@ -1,0 +1,13 @@
+{
+  "file": "MINSU_EP02_SILENT_v1.mp4",
+  "width": 720,
+  "height": 1280,
+  "fps": 24,
+  "duration_seconds": 43,
+  "frames": 1032,
+  "audio": false,
+  "scene": "production/ep02/MINSU_EP02.blend",
+  "photo": "research/namuwiki/assets/vending_sdot.jpg",
+  "photo_credit": "Courtesy SDOT / Seattle Met",
+  "photo_publication_rights": "not verified; review copy"
+}

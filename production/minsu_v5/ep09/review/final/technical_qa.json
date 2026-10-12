@@ -1,0 +1,197 @@
+{
+  "technical": "PASS",
+  "errors": [],
+  "outputs": {
+    "ko": {
+      "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP09_STRIPES_KO.mp4",
+      "sha256": "a08ffadf8e27d2cd15698ff6e5019517394d550e1d07fa9daf531a422d01b51a",
+      "frameCount": 1080,
+      "duration": 36.0,
+      "metadata": {
+        "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+        "codec": "h264",
+        "pix_fmt": "yuv420p(progressive)",
+        "audio_codec": "aac",
+        "fps": 30.0,
+        "source_size": [
+          1080,
+          1920
+        ],
+        "size": [
+          1080,
+          1920
+        ],
+        "rotate": 0,
+        "duration": 36.0
+      },
+      "audioMeasurement": {
+        "input_i": "-19.02",
+        "input_tp": "-7.27",
+        "input_lra": "4.30",
+        "input_thresh": "-29.26",
+        "output_i": "-19.20",
+        "output_tp": "-7.61",
+        "output_lra": "4.40",
+        "output_thresh": "-29.29",
+        "normalization_type": "dynamic",
+        "target_offset": "0.20"
+      },
+      "fonts": {
+        "checkedCharacters": 2968,
+        "fallbacks": 0,
+        "locale": "ko",
+        "atlases": [
+          {
+            "face": "PIXEL_DISPLAY",
+            "key": "90750df44bcff5f2f9e0fb7db121b3be50c31c74a5e6fbfca40cc3cfe2b28054",
+            "reused": false,
+            "characters": 184
+          },
+          {
+            "face": "PIXEL_BODY",
+            "key": "74089dfb1efe0f6a335719dda71ce4cb212872065a2910909ff5cb87587df293",
+            "reused": false,
+            "characters": 184
+          }
+        ]
+      },
+      "uiCheckedFrames": 1080,
+      "audioCacheHit": true,
+      "fullVideoAndAudioDecode": true
+    },
+    "en": {
+      "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP09_STRIPES_EN.mp4",
+      "sha256": "747b5ee3821cbd562b70a79b56d74197b96aba50645bd4531a96341eee786292",
+      "frameCount": 1080,
+      "duration": 36.0,
+      "metadata": {
+        "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+        "codec": "h264",
+        "pix_fmt": "yuv420p(progressive)",
+        "audio_codec": "aac",
+        "fps": 30.0,
+        "source_size": [
+          1080,
+          1920
+        ],
+        "size": [
+          1080,
+          1920
+        ],
+        "rotate": 0,
+        "duration": 36.0
+      },
+      "audioMeasurement": {
+        "input_i": "-19.02",
+        "input_tp": "-7.27",
+        "input_lra": "4.30",
+        "input_thresh": "-29.26",
+        "output_i": "-19.20",
+        "output_tp": "-7.61",
+        "output_lra": "4.40",
+        "output_thresh": "-29.29",
+        "normalization_type": "dynamic",
+        "target_offset": "0.20"
+      },
+      "fonts": {
+        "checkedCharacters": 2968,
+        "fallbacks": 0,
+        "locale": "en",
+        "atlases": [
+          {
+            "face": "PIXEL_DISPLAY",
+            "key": "90750df44bcff5f2f9e0fb7db121b3be50c31c74a5e6fbfca40cc3cfe2b28054",
+            "reused": true,
+            "characters": 184
+          },
+          {
+            "face": "PIXEL_BODY",
+            "key": "74089dfb1efe0f6a335719dda71ce4cb212872065a2910909ff5cb87587df293",
+            "reused": true,
+            "characters": 184
+          }
+        ]
+      },
+      "uiCheckedFrames": 1080,
+      "audioCacheHit": true,
+      "fullVideoAndAudioDecode": true
+    }
+  },
+  "sourceContracts": {
+    "result": "PASS",
+    "errors": [],
+    "numericUI": [
+      {
+        "kind": "OBSERVATION",
+        "meaning": "2019 덮개 실험 참가 말의 수",
+        "units": "마리",
+        "definition": "Study2 참가 동물 수, 착륙 횟수/비율 아님",
+        "source": "REAL_OBSERVATION",
+        "sourceRefs": [
+          "study2019 / Methods Study2"
+        ],
+        "value": 7
+      },
+      {
+        "kind": "STATE",
+        "meaning": "2019 덮개 실험 조건 수",
+        "units": "종",
+        "definition": "검정/흰색/줄무늬 상용 덮개 조건",
+        "source": "REAL_OBSERVATION",
+        "sourceRefs": [
+          "study2019 / Methods Study2"
+        ],
+        "value": 3
+      },
+      {
+        "kind": "CHAPTER_PROGRESS",
+        "meaning": "저작된 챕터 순서",
+        "source": "EDITORIAL_PROGRESS",
+        "value": 1,
+        "total": 6
+      }
+    ],
+    "fictionalLandingCountsDisplayed": false,
+    "closedStory": true,
+    "sources": [
+      {
+        "id": "study2019",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210831",
+        "snapshot": "production\\minsu_v5\\ep09\\research\\study2019.html",
+        "sha256": "9ce925a974ef51c6d3e95c978cd75f6cf611633699aca0cb067bd731dd47b1a3"
+      },
+      {
+        "id": "study2023",
+        "url": "https://www.bristol.ac.uk/news/2023/february/zebra-stripes.html",
+        "type": "Researchers university primary announcement with publication link",
+        "browserVerifiedArticle": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10088525/",
+        "articleDOI": "10.1242/jeb.244778",
+        "snapshot": "production\\minsu_v5\\ep09\\research\\study2023_verified.html",
+        "sha256": "42bffdb06a96d0970546e0d5433aea221f1390e7345bccd2bd14ba632a9a09fb"
+      },
+      {
+        "id": "university2019",
+        "url": "https://www.bristol.ac.uk/news/2019/february/zebra-stripes.html",
+        "snapshot": "production\\minsu_v5\\ep09\\research\\university2019.html",
+        "sha256": "3b159497c984256efdac94155aeec98577ce60d569fbd25f05b51b8f08f2c941"
+      },
+      {
+        "id": "study2020",
+        "url": "https://research-information.bris.ac.uk/ws/portalfiles/portal/246843415/rspb.2020.1521.pdf",
+        "snapshot": "production\\minsu_v5\\ep09\\research\\study2020.pdf",
+        "sha256": "8da876a7d3b546881d76e06a3248ed16ec65554c0a9cc6216f0411d21cd6d3f9",
+        "articleDOI": "10.1098/rspb.2020.1521",
+        "type": "published paper in authors institutional repository"
+      }
+    ],
+    "preservedFilesChecked": 52,
+    "sourceTopicId": "namu-cache-listing-063",
+    "humanEditorialApproval": false
+  },
+  "geometryFramesChecked": 1080,
+  "nativeFramesChecked": 1080,
+  "tts": false,
+  "humanAudioListening": false,
+  "humanRealtimePlayback": false,
+  "viewerEngagementTest": false
+}

@@ -1,0 +1,38 @@
+{
+  "version": "5.0.0",
+  "EVENT": {
+    "direction": [
+      0.7,
+      -6,
+      3.3
+    ]
+  },
+  "LAB": {
+    "direction": [
+      0.6,
+      -6,
+      3.8
+    ]
+  },
+  "MACRO": {
+    "direction": [
+      0,
+      -6,
+      3.8
+    ]
+  },
+  "TOP": {
+    "direction": [
+      0,
+      -0.6,
+      6
+    ]
+  },
+  "REACTION": {
+    "direction": [
+      0.4,
+      -6,
+      2.1
+    ]
+  }
+}

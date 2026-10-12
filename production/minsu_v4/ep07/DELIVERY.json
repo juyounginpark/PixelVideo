@@ -1,0 +1,94 @@
+{
+  "completedAt": "2026-10-12T13:52:01+09:00",
+  "episode": "EP07",
+  "topicId": "namuwiki-draft-08",
+  "topic": "암흑물질",
+  "output": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP07_V4_DARK_MATTER.mp4",
+  "sha256": "6b478f5aaa5711e72a6b3b5b719216d764c1437ea2a9706dc5564fe3a833a1f6",
+  "bytes": 9524526,
+  "durationSeconds": 35.0,
+  "frames": 1050,
+  "format": "1080×1920 / 30fps / H.264 + AAC",
+  "subtitles": [
+    "Korean primary",
+    "English secondary"
+  ],
+  "tts": false,
+  "coreModules": [
+    "NarrativeDirector",
+    "TypographyTheme",
+    "CharacterDirector",
+    "event-driven camera/SFX presets",
+    "render.py native cache",
+    "compose.py UI/audio cache",
+    "two-stage QA"
+  ],
+  "timingsSeconds": {
+    "initialFullNative": 890.1809596000021,
+    "initialFullCompose": 42.73023490000196,
+    "finalS02RevisionNative": 177.19610770000145,
+    "finalS02RevisionCompose": 9.262359600001218,
+    "warmCommand": 11.96520899999814
+  },
+  "timingsScope": "Initial full render plus one final S02 correction. Excludes earlier design trials, sample, preview, QA and planning; see run history for those.",
+  "finalCorrection": {
+    "renderedFrames": 90,
+    "reusedFrames": 960,
+    "uiCacheHits": [
+      "S01",
+      "S03",
+      "S04",
+      "S05",
+      "S06",
+      "S07",
+      "S08",
+      "S09",
+      "S10"
+    ]
+  },
+  "assets": {
+    "reusedCount": 8,
+    "reused": [
+      "MINSU_CUTE_V21",
+      "Galmuri11-Bold.ttf",
+      "Galmuri11.ttf",
+      "curious_desert_100",
+      "soft_pop",
+      "soft_whoosh",
+      "ui_pop",
+      "discovery"
+    ],
+    "newGroupCount": 5,
+    "newGroups": [
+      "observatory_set",
+      "galaxy_model",
+      "orbital_comparison",
+      "gravity_macro",
+      "inferred_halo"
+    ],
+    "countUnit": "named reusable asset types / authored groups, not mesh count"
+  },
+  "optimization": {
+    "cacheProof": "final/CACHE_PROOF.json",
+    "sourceFilesPreserved": 62,
+    "sourceChanges": [],
+    "externalLLMAPICalls": 0,
+    "additionalEditorialRevisionBatches": 8,
+    "promptRange": "P-034…P-041",
+    "externalTokenSavingsMeasured": false,
+    "currentCodexTokenUsage": "not available",
+    "maxHeavyRenderWorkers": 1
+  },
+  "technicalQA": {
+    "status": "PASS",
+    "checkedFrames": 1050,
+    "fontFallbacks": 0,
+    "audioOffsetSeconds": 0.0,
+    "audioCorrelation": 0.9999607800466176,
+    "testsPassed": 11
+  },
+  "editorialQA": "final/EDITORIAL_QA.json",
+  "editorialDecision": "DELIVER_WITH_EDITORIAL_LIMITS",
+  "referenceComparison": "final/review/REFERENCE_COMPARISON.jpg",
+  "automationLimit": "Structured episode input and supported topic adapter required. No automatic arbitrary-topic asset generation or automatic aesthetic approval."
+}

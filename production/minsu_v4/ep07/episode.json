@@ -1,0 +1,910 @@
+{
+  "id": "MINSU_EP07_V4_DARK_MATTER",
+  "topicId": "namuwiki-draft-08",
+  "topic": "암흑물질",
+  "status": "selected",
+  "configVersion": "4.0.0",
+  "fps": 30,
+  "durationFrames": 1050,
+  "goal": "회전 관측→필요 중력→추가 질량의 추론을 무음에서도 이해",
+  "newAssets": [
+    "observatory_set",
+    "galaxy_model",
+    "orbital_comparison",
+    "gravity_macro",
+    "inferred_halo"
+  ],
+  "sampleShots": [
+    "S05",
+    "S06"
+  ],
+  "shots": [
+    {
+      "id": "S01",
+      "phase": "hook",
+      "startFrame": 0,
+      "endFrame": 90,
+      "narrativeRole": "기",
+      "primarySubject": "관측판의 두 별",
+      "viewerQuestion": "왜 예상보다 빠르지?",
+      "newInformation": "같은 바깥 궤도에서 관측 별이 예상 별보다 앞선다",
+      "visualAction": "같은 바깥 궤도 위 노란 관측 별이 점선 예상 별을 앞선다",
+      "scientificMeaning": "빛나는 물질의 질량만으로 예상한 회전과 실제 관측의 불일치",
+      "characterEmotion": "다음 컷 민수의 관측으로 연결",
+      "cameraPlan": {
+        "preset": "MACRO",
+        "aim": [
+          0,
+          -0.25,
+          0
+        ],
+        "scale": 4.9,
+        "push": 0.025
+      },
+      "captionPlan": [
+        {
+          "role": "HOOK_TITLE",
+          "lines": [
+            "예상보다 빠르다!"
+          ],
+          "english": [
+            "Faster than expected!"
+          ],
+          "start": 4,
+          "end": 86,
+          "y": 180,
+          "highlight": [
+            "빠르다"
+          ]
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 26,
+        "type": "SURPRISE",
+        "preset": "OBSERVE",
+        "target": "outer",
+        "action": "hook"
+      },
+      "nextShotConnection": "민수와 망원경로 관심 대상을 연결",
+      "scene": {
+        "adapter": "dark_matter",
+        "mode": "hook",
+        "action": "hook",
+        "seed": 407,
+        "assetIds": [
+          "observatory_set",
+          "galaxy_model",
+          "orbital_comparison",
+          "gravity_macro",
+          "inferred_halo"
+        ],
+        "materialIds": [
+          "V4_palette"
+        ],
+        "speed": 0.75
+      },
+      "labels": [
+        {
+          "role": "MICRO_LABEL",
+          "lines": [
+            "흰색 예상 / 노랑 관측"
+          ],
+          "english": [
+            "White: predicted / Yellow: observed"
+          ],
+          "start": 0,
+          "end": 90,
+          "y": 1400,
+          "highlight": []
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "phase": "observe",
+      "startFrame": 90,
+      "endFrame": 180,
+      "narrativeRole": "승",
+      "primarySubject": "민수와 망원경",
+      "viewerQuestion": "무엇을 비교한 걸까?",
+      "newInformation": "별빛은 질량 추정의 단서다",
+      "visualAction": "관측판 가까이 몸을 기울이고 밝은 별 부분을 손으로 가리킨다",
+      "scientificMeaning": "관측 장면은 역할극이며 실측 영상이 아님",
+      "characterEmotion": "호기심→집중",
+      "cameraPlan": {
+        "preset": "PORTRAIT",
+        "aim": [
+          -0.08,
+          0,
+          0.82
+        ],
+        "scale": 4.6,
+        "push": 0.025
+      },
+      "captionPlan": [
+        {
+          "role": "BODY_CAPTION",
+          "lines": [
+            "별빛으로 질량을",
+            "추정해 봤어요"
+          ],
+          "english": [
+            "Starlight helps us estimate",
+            "how much matter is there."
+          ],
+          "start": 4,
+          "end": 86,
+          "y": 1320,
+          "highlight": [
+            "질량"
+          ]
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 38,
+        "type": "EXPERIMENT",
+        "preset": "ACT",
+        "target": "head",
+        "action": "observe"
+      },
+      "nextShotConnection": "질량 모형과 바깥 별로 관심 대상을 연결",
+      "scene": {
+        "adapter": "dark_matter",
+        "mode": "observe",
+        "action": "observe",
+        "seed": 407,
+        "assetIds": [
+          "observatory_set",
+          "galaxy_model",
+          "orbital_comparison",
+          "gravity_macro",
+          "inferred_halo"
+        ],
+        "materialIds": [
+          "V4_palette"
+        ],
+        "speed": 0.75
+      },
+      "labels": []
+    },
+    {
+      "id": "S03",
+      "phase": "expected",
+      "startFrame": 180,
+      "endFrame": 285,
+      "narrativeRole": "승",
+      "primarySubject": "질량 모형과 바깥 별",
+      "viewerQuestion": "그 질량이면 어떻게 돌까?",
+      "newInformation": "중심에 집중된 빛나는 물질만을 반영한 바깥쪽 예상은 느리다",
+      "visualAction": "밝은 중심은 남기고 바깥 궤도 별과 짧은 이동 흔적을 보여준다",
+      "scientificMeaning": "예상 회전은 질량 분포로 계산; 모든 은하 전체에 케플러 법칙을 일괄 적용하지 않는다",
+      "characterEmotion": "민수는 화면 밖에서 비교를 수행",
+      "cameraPlan": {
+        "preset": "MACRO",
+        "aim": [
+          0,
+          -0.25,
+          0
+        ],
+        "scale": 4.9,
+        "push": 0.025
+      },
+      "captionPlan": [
+        {
+          "role": "BODY_CAPTION",
+          "lines": [
+            "보이는 질량만 넣으면",
+            "바깥쪽은 느릴 텐데"
+          ],
+          "english": [
+            "With visible matter alone,",
+            "outer stars should move more slowly."
+          ],
+          "start": 4,
+          "end": 101,
+          "y": 1320,
+          "highlight": [
+            "보이는 질량"
+          ]
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 38,
+        "type": "COMPARISON",
+        "preset": "COMPARE",
+        "target": "outer",
+        "action": "expected"
+      },
+      "nextShotConnection": "같은 반지름의 실제/예상 별로 관심 대상을 연결",
+      "scene": {
+        "adapter": "dark_matter",
+        "mode": "expected",
+        "action": "expected",
+        "seed": 407,
+        "assetIds": [
+          "observatory_set",
+          "galaxy_model",
+          "orbital_comparison",
+          "gravity_macro",
+          "inferred_halo"
+        ],
+        "materialIds": [
+          "V4_palette"
+        ],
+        "speed": 0.75
+      },
+      "labels": [
+        {
+          "role": "STATUS_HUD",
+          "lines": [
+            "보이는 질량만"
+          ],
+          "english": [
+            "Visible mass only"
+          ],
+          "start": 0,
+          "end": 105,
+          "y": 250,
+          "highlight": []
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "phase": "actual",
+      "startFrame": 285,
+      "endFrame": 390,
+      "narrativeRole": "승",
+      "primarySubject": "같은 반지름의 실제/예상 별",
+      "viewerQuestion": "관측은 얼마나 다른가?",
+      "newInformation": "실제 바깥쪽 회전 속력은 예상보다 크다",
+      "visualAction": "동일 궤도 위 노란 관측 별이 흰 점선 예상 별을 앞서 나간다",
+      "scientificMeaning": "대표적인 회전곡선의 정성 비교; 시간·거리·속력은 실측값 아님",
+      "characterEmotion": "민수 관측 반응은 다음 컷으로 연결",
+      "cameraPlan": {
+        "preset": "MACRO",
+        "aim": [
+          0,
+          -0.25,
+          0
+        ],
+        "scale": 4.9,
+        "push": 0.025
+      },
+      "captionPlan": [
+        {
+          "role": "IMPACT_CAPTION",
+          "lines": [
+            "더 빨라요"
+          ],
+          "english": [
+            "Faster than predicted."
+          ],
+          "start": 4,
+          "end": 101,
+          "y": 180,
+          "highlight": [
+            "빠르게"
+          ]
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 40,
+        "type": "COMPARISON",
+        "preset": "COMPARE",
+        "target": "outer",
+        "action": "actual"
+      },
+      "nextShotConnection": "별의 운동 방향과 안쪽 중력로 관심 대상을 연결",
+      "scene": {
+        "adapter": "dark_matter",
+        "mode": "actual",
+        "action": "actual",
+        "seed": 407,
+        "assetIds": [
+          "observatory_set",
+          "galaxy_model",
+          "orbital_comparison",
+          "gravity_macro",
+          "inferred_halo"
+        ],
+        "materialIds": [
+          "V4_palette"
+        ],
+        "speed": 0.75
+      },
+      "labels": [
+        {
+          "role": "MICRO_LABEL",
+          "lines": [
+            "흰색 예상 / 노랑 관측"
+          ],
+          "english": [
+            "White: predicted / Yellow: observed"
+          ],
+          "start": 0,
+          "end": 105,
+          "y": 1220,
+          "highlight": []
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "phase": "gravity",
+      "startFrame": 390,
+      "endFrame": 495,
+      "narrativeRole": "전",
+      "primarySubject": "별의 운동 방향과 안쪽 중력",
+      "viewerQuestion": "빠른 별은 무엇이 필요한가?",
+      "newInformation": "원운동에는 안쪽으로 향하는 중력이 필요하다",
+      "visualAction": "별이 직선으로 갈 방향과 중심으로 당기는 화살표가 순서대로 생겨 곡선 궤도를 만든다",
+      "scientificMeaning": "구심 가속도 v²/r의 방향 설명, 뉴턴 역학 원궤도 단순화",
+      "characterEmotion": "인물 대신 움직이는 별을 단일 주인공으로",
+      "cameraPlan": {
+        "preset": "MACRO",
+        "aim": [
+          0,
+          -0.3,
+          0
+        ],
+        "scale": 4.7,
+        "push": 0.025
+      },
+      "captionPlan": [
+        {
+          "role": "BODY_CAPTION",
+          "lines": [
+            "별을 휘어 돌리는 힘,",
+            "중력이에요"
+          ],
+          "english": [
+            "Gravity bends the star’s path",
+            "toward the center."
+          ],
+          "start": 4,
+          "end": 101,
+          "y": 1320,
+          "highlight": [
+            "중력"
+          ]
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 30,
+        "type": "EXPERIMENT",
+        "preset": "ACT",
+        "target": "outer",
+        "action": "gravity"
+      },
+      "nextShotConnection": "동일 반지름의 느린/빠른 궤도로 관심 대상을 연결",
+      "scene": {
+        "adapter": "dark_matter",
+        "mode": "gravity",
+        "action": "gravity",
+        "seed": 407,
+        "assetIds": [
+          "observatory_set",
+          "galaxy_model",
+          "orbital_comparison",
+          "gravity_macro",
+          "inferred_halo"
+        ],
+        "materialIds": [
+          "V4_palette"
+        ],
+        "speed": 0.75
+      },
+      "labels": [
+        {
+          "role": "STATUS_HUD",
+          "lines": [
+            "원리 모식도"
+          ],
+          "english": [
+            "Schematic, not measured scale"
+          ],
+          "start": 0,
+          "end": 105,
+          "y": 185,
+          "highlight": []
+        },
+        {
+          "role": "MICRO_LABEL",
+          "lines": [
+            "흰색: 진행  민트: 중력"
+          ],
+          "english": [
+            "White: motion / Mint: gravity"
+          ],
+          "start": 30,
+          "end": 105,
+          "y": 1130,
+          "highlight": [
+            "중력"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "phase": "shortage",
+      "startFrame": 495,
+      "endFrame": 600,
+      "narrativeRole": "전",
+      "primarySubject": "동일 반지름의 느린/빠른 궤도",
+      "viewerQuestion": "같은 궤도에서 더 빠르다면?",
+      "newInformation": "같은 반지름에서 빠른 원운동에는 더 큰 안쪽 가속도가 필요하다",
+      "visualAction": "위쪽 느린 별과 아래쪽 빠른 별에 각기 짧고 긴 안쪽 화살표를 연결한다",
+      "scientificMeaning": "필요 중력은 속력의 제곱/반지름; 화면은 정성 모식도",
+      "characterEmotion": "비교에 집중",
+      "cameraPlan": {
+        "preset": "MACRO",
+        "aim": [
+          0,
+          0,
+          0
+        ],
+        "scale": 5.9,
+        "push": 0.025
+      },
+      "captionPlan": [
+        {
+          "role": "BODY_CAPTION",
+          "lines": [
+            "같은 궤도라면, 빠를수록",
+            "더 큰 중력이 필요해요"
+          ],
+          "english": [
+            "At the same orbit size, faster stars",
+            "need a stronger inward pull."
+          ],
+          "start": 4,
+          "end": 101,
+          "y": 1340,
+          "highlight": [
+            "더 큰 중력"
+          ]
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 32,
+        "type": "COMPARISON",
+        "preset": "COMPARE",
+        "target": "outer",
+        "action": "shortage"
+      },
+      "nextShotConnection": "빛나는 은하 주변의 추론 헤일로로 관심 대상을 연결",
+      "scene": {
+        "adapter": "dark_matter",
+        "mode": "shortage",
+        "action": "shortage",
+        "seed": 407,
+        "assetIds": [
+          "observatory_set",
+          "galaxy_model",
+          "orbital_comparison",
+          "gravity_macro",
+          "inferred_halo"
+        ],
+        "materialIds": [
+          "V4_palette"
+        ],
+        "speed": 0.75
+      },
+      "labels": [
+        {
+          "role": "MICRO_LABEL",
+          "lines": [
+            "느린 별 / 같은 반지름"
+          ],
+          "english": [
+            "Slower / same orbit size"
+          ],
+          "start": 0,
+          "end": 105,
+          "y": 180,
+          "highlight": []
+        },
+        {
+          "role": "MICRO_LABEL",
+          "lines": [
+            "빠른 별 / 같은 반지름"
+          ],
+          "english": [
+            "Faster / same orbit size"
+          ],
+          "start": 0,
+          "end": 105,
+          "y": 780,
+          "highlight": []
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "phase": "halo",
+      "startFrame": 600,
+      "endFrame": 720,
+      "narrativeRole": "전",
+      "primarySubject": "빛나는 은하 주변의 추론 헤일로",
+      "viewerQuestion": "필요한 중력은 어디에서 오나?",
+      "newInformation": "보이지 않는 추가 질량을 포함하면 관측을 설명할 수 있다",
+      "visualAction": "작은 발광 은하 주위로 넓은 민트색 점선 구가 드러난다",
+      "scientificMeaning": "헤일로는 추론 모형, 직접 촬영한 물질이나 빛나는 가스가 아니다",
+      "characterEmotion": "발견의 중심; 인물 생략",
+      "cameraPlan": {
+        "preset": "TABLE",
+        "aim": [
+          0,
+          0,
+          0
+        ],
+        "scale": 5.9,
+        "push": 0.025
+      },
+      "captionPlan": [
+        {
+          "role": "IMPACT_CAPTION",
+          "lines": [
+            "추가 질량"
+          ],
+          "english": [
+            "More mass"
+          ],
+          "start": 36,
+          "end": 116,
+          "y": 230,
+          "highlight": [
+            "질량"
+          ]
+        },
+        {
+          "role": "BODY_CAPTION",
+          "lines": [
+            "보이지 않는 질량을",
+            "더하면 설명돼요"
+          ],
+          "english": [
+            "Adding unseen mass",
+            "can explain the motion."
+          ],
+          "start": 4,
+          "end": 116,
+          "y": 1340,
+          "highlight": [
+            "질량"
+          ]
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 44,
+        "type": "DISCOVERY",
+        "preset": "DISCOVER",
+        "target": "galaxy",
+        "action": "halo"
+      },
+      "nextShotConnection": "민수와 수정한 관측판로 관심 대상을 연결",
+      "scene": {
+        "adapter": "dark_matter",
+        "mode": "halo",
+        "action": "halo",
+        "seed": 407,
+        "assetIds": [
+          "observatory_set",
+          "galaxy_model",
+          "orbital_comparison",
+          "gravity_macro",
+          "inferred_halo"
+        ],
+        "materialIds": [
+          "V4_palette"
+        ],
+        "speed": 0.75
+      },
+      "labels": [
+        {
+          "role": "FACT_PANEL",
+          "lines": [
+            "추가 질량 모형"
+          ],
+          "english": [
+            "Inferred mass model"
+          ],
+          "start": 0,
+          "end": 120,
+          "y": 1160,
+          "highlight": []
+        }
+      ]
+    },
+    {
+      "id": "S08",
+      "phase": "fit",
+      "startFrame": 720,
+      "endFrame": 840,
+      "narrativeRole": "결",
+      "primarySubject": "민수와 수정한 관측판",
+      "viewerQuestion": "처음의 불일치가 해결됐나?",
+      "newInformation": "추가 질량을 포함한 모형이 빠른 관측 별을 따라간다",
+      "visualAction": "민수가 모형 스위치를 누르자 점선 예상 별이 노란 관측 별과 겹친다",
+      "scientificMeaning": "주류 암흑물질 모형의 설명, 가정 없이 입자 정체를 확정한 실험 아님",
+      "characterEmotion": "신중함→납득→작은 끄덕임",
+      "cameraPlan": {
+        "preset": "TABLE",
+        "aim": [
+          0,
+          -0.25,
+          0.75
+        ],
+        "scale": 4.6,
+        "push": 0.025
+      },
+      "captionPlan": [
+        {
+          "role": "BODY_CAPTION",
+          "lines": [
+            "움직임에서 찾은",
+            "암흑물질의 단서"
+          ],
+          "english": [
+            "The motion is evidence",
+            "for dark matter."
+          ],
+          "start": 4,
+          "end": 116,
+          "y": 1320,
+          "highlight": [
+            "암흑물질"
+          ]
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 42,
+        "type": "REALIZATION",
+        "preset": "RESOLVE",
+        "target": "outer",
+        "action": "fit"
+      },
+      "nextShotConnection": "헤일로 표시가 사라진 은하로 관심 대상을 연결",
+      "scene": {
+        "adapter": "dark_matter",
+        "mode": "fit",
+        "action": "fit",
+        "seed": 407,
+        "assetIds": [
+          "observatory_set",
+          "galaxy_model",
+          "orbital_comparison",
+          "gravity_macro",
+          "inferred_halo"
+        ],
+        "materialIds": [
+          "V4_palette"
+        ],
+        "speed": 0.75
+      },
+      "labels": [
+        {
+          "role": "MICRO_LABEL",
+          "lines": [
+            "모형과 관측의 일치"
+          ],
+          "english": [
+            "Model matches observation"
+          ],
+          "start": 54,
+          "end": 116,
+          "y": 235,
+          "highlight": []
+        }
+      ]
+    },
+    {
+      "id": "S09",
+      "phase": "identity",
+      "startFrame": 840,
+      "endFrame": 930,
+      "narrativeRole": "결",
+      "primarySubject": "헤일로 표시가 사라진 은하",
+      "viewerQuestion": "암흑물질은 검은 구름인가?",
+      "newInformation": "그림의 색은 표시일 뿐이며 물질 정체는 미확인이다",
+      "visualAction": "민수가 표시를 끄자 점선 구는 사라져도 별은 계속 돈다",
+      "scientificMeaning": "빛으로 직접 보지 못함; 추론 표시와 관측 대상을 구분",
+      "characterEmotion": "이해→확인",
+      "cameraPlan": {
+        "preset": "TABLE",
+        "aim": [
+          0,
+          -0.25,
+          0
+        ],
+        "scale": 4.9,
+        "push": 0.025
+      },
+      "captionPlan": [
+        {
+          "role": "BODY_CAPTION",
+          "lines": [
+            "색은 설명용 표시예요",
+            "정체는 아직 몰라요"
+          ],
+          "english": [
+            "The color is only a guide.",
+            "Its identity is still unknown."
+          ],
+          "start": 4,
+          "end": 86,
+          "y": 1320,
+          "highlight": [
+            "정체"
+          ]
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 38,
+        "type": "EXPERIMENT",
+        "preset": "ACT",
+        "target": "galaxy",
+        "action": "identity"
+      },
+      "nextShotConnection": "민수와 처음의 빠른 별로 관심 대상을 연결",
+      "scene": {
+        "adapter": "dark_matter",
+        "mode": "identity",
+        "action": "identity",
+        "seed": 407,
+        "assetIds": [
+          "observatory_set",
+          "galaxy_model",
+          "orbital_comparison",
+          "gravity_macro",
+          "inferred_halo"
+        ],
+        "materialIds": [
+          "V4_palette"
+        ],
+        "speed": 0.75
+      },
+      "labels": [
+        {
+          "role": "STATUS_HUD",
+          "lines": [
+            "헤일로 = 질량 분포 모형"
+          ],
+          "english": [
+            "Halo = a mass distribution model"
+          ],
+          "start": 0,
+          "end": 90,
+          "y": 235,
+          "highlight": []
+        }
+      ]
+    },
+    {
+      "id": "S10",
+      "phase": "conclusion",
+      "startFrame": 930,
+      "endFrame": 1050,
+      "narrativeRole": "결",
+      "primarySubject": "민수와 처음의 빠른 별",
+      "viewerQuestion": "왜 예상보다 빨랐나?",
+      "newInformation": "처음 계산에서 보이지 않는 질량을 빠뜨렸을 수 있다",
+      "visualAction": "처음의 두 궤적이 일치한 상태를 유지하고 민수가 관측판을 향해 고개를 끄덕인다",
+      "scientificMeaning": "중력 효과로 추가 질량을 추론한다는 결론",
+      "characterEmotion": "납득→미소",
+      "cameraPlan": {
+        "preset": "TABLE",
+        "aim": [
+          0,
+          -0.25,
+          0.75
+        ],
+        "scale": 4.6,
+        "push": 0.025
+      },
+      "captionPlan": [
+        {
+          "role": "RESULT_TITLE",
+          "lines": [
+            "빛으로 안 보여도",
+            "중력은 남아요"
+          ],
+          "english": [
+            "Unseen matter leaves",
+            "a gravitational signature."
+          ],
+          "start": 4,
+          "end": 116,
+          "y": 220,
+          "highlight": [
+            "중력"
+          ]
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 42,
+        "type": "REALIZATION",
+        "preset": "RESOLVE",
+        "target": "outer",
+        "action": "conclusion"
+      },
+      "nextShotConnection": "처음 현상을 원리로 해석하며 닫음",
+      "scene": {
+        "adapter": "dark_matter",
+        "mode": "conclusion",
+        "action": "conclusion",
+        "seed": 407,
+        "assetIds": [
+          "observatory_set",
+          "galaxy_model",
+          "orbital_comparison",
+          "gravity_macro",
+          "inferred_halo"
+        ],
+        "materialIds": [
+          "V4_palette"
+        ],
+        "speed": 0.75
+      },
+      "labels": [
+        {
+          "role": "MICRO_LABEL",
+          "lines": [
+            "NASA / 은하 회전 근거"
+          ],
+          "english": [
+            "NASA / galaxy rotation evidence"
+          ],
+          "start": 0,
+          "end": 120,
+          "y": 1520,
+          "highlight": []
+        }
+      ]
+    }
+  ],
+  "storyMap": {
+    "phenomenon": "은하 바깥 별이 보이는 질량만으로 예상한 것보다 빠름",
+    "situation": "민수가 관측실에서 예상 궤적과 관측 궤적을 겹침",
+    "expectation": "보이는 질량만으로 속력을 설명할 수 있을 것",
+    "contradiction": "실제 별이 예상보다 앞섬",
+    "clue": "같은 반지름의 빠른 공전",
+    "mechanism": "큰 v²/r에 필요한 중력을 보이는 질량만으로 충족 못 함; 추가 질량으로 설명",
+    "payoff": "민트 헤일로 모형을 켜자 예상과 관측 궤적이 겹침",
+    "takeaway": "빛으로 안 보이는 질량도 중력 효과로 추론할 수 있음; 정체는 미확인"
+  },
+  "science": {
+    "phenomenon": "은하 회전곡선",
+    "cause": "질량 분포가 만드는 중력",
+    "movingObject": "대표 별/가스 추적자의 대리 별",
+    "observableResult": "바깥 회전 속력의 예상-관측 차이",
+    "conditions": "정성적 대표 나선은하, 원궤도와 뉴턴 중력 가정. 모든 은하가 똑같은 곡선인 것은 아님",
+    "simplification": "모형: 색·시간·크기 확대, 실측 좌표/수치가 아님; 헤일로는 추론 표시"
+  },
+  "evidence": [
+    {
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-dark-matter/",
+      "claim": "바깥 별 회전과 보이지 않는 질량, 헤일로",
+      "location": "Rubin paragraph / invisible matter / haloes"
+    },
+    {
+      "url": "https://science.nasa.gov/dark-matter/",
+      "claim": "정체 미확인; dark는 검은 색이라는 뜻이 아님",
+      "location": "Dark Matter Versus Dark Energy; candidates"
+    }
+  ],
+  "source": {
+    "path": "research/namuwiki/TOPIC_LIST_DRAFT.md",
+    "row": 8,
+    "name": "암흑물질",
+    "sha256": "109144df63125ddb4cc0590f1807beebaa546b17401b44dbe512dcbc72a3ea97",
+    "criteria": "prompts/MYSTERY_100_v1.md"
+  },
+  "audio": {
+    "track": "curious_desert_100",
+    "mood": "mechanism",
+    "tts": false
+  }
+}

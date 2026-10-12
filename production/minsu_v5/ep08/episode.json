@@ -1,0 +1,744 @@
+{
+  "version": "5.0.0",
+  "episode": "EP08",
+  "topicId": "namu-cache-listing-023",
+  "verificationStatus": "VERIFIED_EXPLAINED",
+  "source": {
+    "snapshot": "research\\namuwiki\\listing.html",
+    "liIndex": 23,
+    "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+  },
+  "durationFrames": 1020,
+  "sampleShots": [
+    "S01"
+  ],
+  "storyMap": {
+    "기": "흰 우산에 붉은 비가 튄다. 민수가 빗물을 모은다.",
+    "승": "가라앉는 입자와 현미경의 작은 점에서 단서를 얻는다.",
+    "전": "배양에서 조류가 자라며 조사팀의 포자 판정과 연결된다.",
+    "결": "주변 나무에도 같은 종류. 대량 공중 유입은 미확인이나 이 시료의 색은 생물 입자로 설명된다."
+  },
+  "hook": {
+    "HOOK_IMAGE": "흰 우산에 붉은 빗방울이 튄다",
+    "HOOK_ACTION": "우산을 든 민수가 뒤로 물러선다",
+    "HOOK_CAPTION": "비가 빨갛다?",
+    "VIEWER_GAP": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+    "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+  },
+  "science": {
+    "scope": "2001 Changanacherry tested samples",
+    "sources": [
+      "https://www.iangoddard.com/sampath2001.pdf",
+      "https://doi.org/10.1029/2002EO000250",
+      "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.062711-0"
+    ],
+    "known": [
+      "붉은 강우 관측",
+      "침강 입자",
+      "배양과 주변 시료에서 Trentepohlia 속 확인"
+    ],
+    "unknown": [
+      "대량의 포자가 동시에 공중으로 이동한 정확한 경로"
+    ],
+    "simplification": "역할극·입자크기확대·침강/배양시간압축; 실제 현장/현미경 영상 아님",
+    "noExtraterrestrialClaim": true
+  },
+  "audio": {
+    "tts": false,
+    "track": "curious_desert_100",
+    "mood": "observation",
+    "energy": [
+      {
+        "time": 0,
+        "db": -2
+      },
+      {
+        "time": 3.5,
+        "db": -5
+      },
+      {
+        "time": 11,
+        "db": -3
+      },
+      {
+        "time": 15.25,
+        "db": -20
+      },
+      {
+        "time": 15.55,
+        "db": -20
+      },
+      {
+        "time": 15.75,
+        "db": 0
+      },
+      {
+        "time": 21,
+        "db": -4
+      },
+      {
+        "time": 29.5,
+        "db": -5
+      },
+      {
+        "time": 30.5,
+        "db": -1
+      },
+      {
+        "time": 33,
+        "db": -3
+      }
+    ]
+  },
+  "shots": [
+    {
+      "id": "S01",
+      "phase": "rain",
+      "startFrame": 0,
+      "endFrame": 120,
+      "narrativeRole": "기",
+      "sceneType": "EVENT_SCENE",
+      "primarySubject": "민수·흰 우산·붉은 비",
+      "viewerQuestion": "왜 비에 색이 있지?",
+      "newInformation": "빗방울이 우산에 붉은 얼룩을 남긴다",
+      "visualAction": "비를 맞던 민수가 우산을 확인하며 한 걸음 물러선다",
+      "scientificMeaning": "관측된 붉은 강우를 역할극으로 재구성",
+      "characterEmotion": "일상→놀람",
+      "cameraPlan": {
+        "preset": "EVENT",
+        "aim": [
+          -0.12,
+          0,
+          1.08
+        ],
+        "scale": 4.8,
+        "push": 0.015
+      },
+      "captionPlan": [
+        {
+          "role": "PIXEL_TITLE",
+          "lines": [
+            "비가 빨갛다?"
+          ],
+          "english": [
+            "Red rain?"
+          ],
+          "start": 4,
+          "end": 112,
+          "y": 220,
+          "highlight": [
+            "빨갛다"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "role": "PIXEL_LABEL",
+          "lines": [
+            "2001 · 인도 케랄라"
+          ],
+          "english": [
+            "Kerala, India · 2001"
+          ],
+          "start": 0,
+          "end": 120,
+          "y": 1640,
+          "highlight": []
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 18,
+        "preset": "HOOK",
+        "target": "focus",
+        "type": "HOOK"
+      },
+      "nextShotConnection": "색이 묻은 우산에서 채집병으로 연결",
+      "scene": {
+        "adapter": "red_rain",
+        "action": "SURPRISE",
+        "seed": 508
+      },
+      "protectedSubjects": [
+        "head",
+        "focus"
+      ],
+      "abstractDiagram": false
+    },
+    {
+      "id": "S02",
+      "phase": "collect",
+      "startFrame": 120,
+      "endFrame": 210,
+      "narrativeRole": "승",
+      "sceneType": "CHARACTER_SCENE",
+      "primarySubject": "민수·채집병",
+      "viewerQuestion": "물 자체가 빨간 걸까?",
+      "newInformation": "붉은 빗물을 직접 모아 관찰한다",
+      "visualAction": "민수가 몸을 숙여 병에 빗물을 받고 가까이 들여다본다",
+      "scientificMeaning": "실제 시료 조사의 과정을 단순화",
+      "characterEmotion": "놀람→집중",
+      "cameraPlan": {
+        "preset": "EVENT",
+        "aim": [
+          0,
+          0,
+          0.98
+        ],
+        "scale": 4.1,
+        "push": 0.015
+      },
+      "captionPlan": [
+        {
+          "role": "PIXEL_BODY",
+          "lines": [
+            "물의 색일까, 입자일까?"
+          ],
+          "english": [
+            "Colored water,",
+            "or tiny particles?"
+          ],
+          "start": 5,
+          "end": 86,
+          "y": 1440,
+          "highlight": [
+            "입자"
+          ]
+        }
+      ],
+      "labels": [],
+      "emphasisEvent": {
+        "frame": 42,
+        "preset": "NONE",
+        "target": "focus",
+        "type": "NONE"
+      },
+      "nextShotConnection": "병의 모양을 맞춰 실험실로 이동",
+      "scene": {
+        "adapter": "red_rain",
+        "action": "OBSERVE",
+        "seed": 508
+      },
+      "protectedSubjects": [
+        "head",
+        "focus"
+      ],
+      "abstractDiagram": false
+    },
+    {
+      "id": "S03",
+      "phase": "settle",
+      "startFrame": 210,
+      "endFrame": 330,
+      "narrativeRole": "승",
+      "sceneType": "EXPERIMENT_SCENE",
+      "primarySubject": "시료병",
+      "viewerQuestion": "가만히 두면 색이 어디로 갈까?",
+      "newInformation": "시간이 지나며 입자가 가라앉는다",
+      "visualAction": "병 속 붉은 점들이 아래로 내려가고 위쪽이 맑아진다",
+      "scientificMeaning": "보고서의 수 시간 침강 관찰; 시간·입자 크기 확대",
+      "characterEmotion": "집중→의문",
+      "cameraPlan": {
+        "preset": "MACRO",
+        "aim": [
+          0,
+          0,
+          1.0
+        ],
+        "scale": 3.2,
+        "push": 0.015
+      },
+      "captionPlan": [
+        {
+          "role": "PIXEL_BODY",
+          "lines": [
+            "물에 녹은 색이 아닌",
+            "떠 있던 입자!"
+          ],
+          "english": [
+            "Suspended particles,",
+            "not dissolved color."
+          ],
+          "start": 5,
+          "end": 116,
+          "y": 1440,
+          "highlight": [
+            "입자"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "role": "PIXEL_LABEL",
+          "lines": [
+            "몇 시간 뒤 · 시간 압축"
+          ],
+          "english": [
+            "Hours later · time lapse"
+          ],
+          "start": 0,
+          "end": 120,
+          "y": 190,
+          "highlight": []
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 50,
+        "preset": "CLUE",
+        "target": "focus",
+        "type": "CLUE"
+      },
+      "nextShotConnection": "바닥의 입자 하나를 현미경으로 확대",
+      "scene": {
+        "adapter": "red_rain",
+        "action": "THINK",
+        "seed": 508
+      },
+      "protectedSubjects": [
+        "focus"
+      ],
+      "abstractDiagram": false
+    },
+    {
+      "id": "S04",
+      "phase": "cells",
+      "startFrame": 330,
+      "endFrame": 420,
+      "narrativeRole": "승",
+      "sceneType": "MACRO_SCENE",
+      "primarySubject": "현미경 속 붉은 입자",
+      "viewerQuestion": "이 작은 점은 뭘까?",
+      "newInformation": "붉은 색은 물에 떠 있던 작은 입자였다",
+      "visualAction": "현미경 프레임 안에서 둥근 입자들의 윤곽이 선명해진다",
+      "scientificMeaning": "현미경 관찰을 확대 모식도로 표현",
+      "characterEmotion": "의문→관찰",
+      "cameraPlan": {
+        "preset": "TOP",
+        "aim": [
+          0,
+          -0.16,
+          0
+        ],
+        "scale": 4.0,
+        "push": 0.015
+      },
+      "captionPlan": [
+        {
+          "role": "PIXEL_BODY",
+          "lines": [
+            "이 입자를 키워 봤더니…"
+          ],
+          "english": [
+            "Then researchers",
+            "cultured these particles..."
+          ],
+          "start": 5,
+          "end": 86,
+          "y": 1440,
+          "highlight": []
+        }
+      ],
+      "labels": [
+        {
+          "role": "PIXEL_LABEL",
+          "lines": [
+            "현미경 확대 모식도"
+          ],
+          "english": [
+            "Microscope schematic"
+          ],
+          "start": 0,
+          "end": 90,
+          "y": 190,
+          "highlight": []
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 40,
+        "preset": "NONE",
+        "target": "focus",
+        "type": "NONE"
+      },
+      "nextShotConnection": "같은 입자를 배양 접시에 옮기는 매치컷",
+      "scene": {
+        "adapter": "red_rain",
+        "action": "OBSERVE",
+        "seed": 508
+      },
+      "protectedSubjects": [
+        "focus"
+      ],
+      "abstractDiagram": true
+    },
+    {
+      "id": "S05",
+      "phase": "culture",
+      "startFrame": 420,
+      "endFrame": 540,
+      "narrativeRole": "전",
+      "sceneType": "DISCOVERY_SCENE",
+      "primarySubject": "배양 접시·조류",
+      "viewerQuestion": "이 입자에서 무엇이 자랄까?",
+      "newInformation": "배양한 시료에서 가지 모양 조류가 자란다",
+      "visualAction": "둥근 입자가 여러 마디로 자라 가지를 뻗는다",
+      "scientificMeaning": "보고서의 배양 결과; 모양·성장 속도 단순화",
+      "characterEmotion": "집중→발견",
+      "cameraPlan": {
+        "preset": "TOP",
+        "aim": [
+          0,
+          -0.16,
+          0
+        ],
+        "scale": 4.0,
+        "push": 0.015
+      },
+      "captionPlan": [
+        {
+          "role": "PIXEL_IMPACT",
+          "lines": [
+            "조류가 자랐다!"
+          ],
+          "english": [
+            "Algae grew!"
+          ],
+          "start": 45,
+          "end": 110,
+          "y": 1470,
+          "highlight": []
+        }
+      ],
+      "labels": [
+        {
+          "role": "PIXEL_LABEL",
+          "lines": [
+            "며칠 뒤 · 배양 모식도"
+          ],
+          "english": [
+            "Days later · culture model"
+          ],
+          "start": 0,
+          "end": 120,
+          "y": 190,
+          "highlight": []
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 48,
+        "preset": "DISCOVERY",
+        "target": "focus",
+        "type": "DISCOVERY"
+      },
+      "nextShotConnection": "성장한 시료에서 민수의 발견 리액션으로 연결",
+      "scene": {
+        "adapter": "red_rain",
+        "action": "DISCOVER",
+        "seed": 508
+      },
+      "protectedSubjects": [
+        "focus"
+      ],
+      "abstractDiagram": true
+    },
+    {
+      "id": "S06",
+      "phase": "reveal",
+      "startFrame": 540,
+      "endFrame": 660,
+      "narrativeRole": "전",
+      "sceneType": "CHARACTER_SCENE",
+      "primarySubject": "민수·현미경·시료",
+      "viewerQuestion": "붉은 색의 정체는?",
+      "newInformation": "조사팀은 조류의 포자가 색의 원인이라고 결론냈다",
+      "visualAction": "실험대 옆의 민수가 고개와 몸통을 들고 팔을 벌리며 놀람에서 납득으로 반응한다",
+      "scientificMeaning": "2001년 분석 시료에 한정한 결론",
+      "characterEmotion": "놀람→납득",
+      "cameraPlan": {
+        "preset": "LAB",
+        "aim": [
+          0,
+          0,
+          1.0
+        ],
+        "scale": 4.6,
+        "push": 0.015
+      },
+      "captionPlan": [
+        {
+          "role": "PIXEL_BODY",
+          "lines": [
+            "붉은 색의 정체는",
+            "조류의 포자였어요"
+          ],
+          "english": [
+            "The red particles were",
+            "identified as algal spores."
+          ],
+          "start": 5,
+          "end": 116,
+          "y": 1440,
+          "highlight": [
+            "포자"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "role": "PIXEL_INFO",
+          "lines": [
+            "트렌테폴리아 속 조류"
+          ],
+          "english": [
+            "Trentepohlia algae"
+          ],
+          "start": 0,
+          "end": 120,
+          "y": 190,
+          "highlight": []
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 28,
+        "preset": "NONE",
+        "target": "focus",
+        "type": "NONE"
+      },
+      "nextShotConnection": "빗물 시료와 주변 나무 시료를 비교",
+      "scene": {
+        "adapter": "red_rain",
+        "action": "DISCOVER",
+        "seed": 508
+      },
+      "protectedSubjects": [
+        "head",
+        "focus"
+      ],
+      "abstractDiagram": false
+    },
+    {
+      "id": "S07",
+      "phase": "compare",
+      "startFrame": 660,
+      "endFrame": 780,
+      "narrativeRole": "결",
+      "sceneType": "COMPARISON_SCENE",
+      "primarySubject": "빗물 시료·나무 표면",
+      "viewerQuestion": "그 조류는 어디서 왔을까?",
+      "newInformation": "주변 나무의 시료에서도 같은 종류가 확인됐다",
+      "visualAction": "붉은 시료병과 나무 표면의 조류가 나란히 보인다",
+      "scientificMeaning": "주변 시료의 배양 비교; 발생 경로를 직접 본 것은 아님",
+      "characterEmotion": "납득→연결",
+      "cameraPlan": {
+        "preset": "MACRO",
+        "aim": [
+          0,
+          0,
+          0.65
+        ],
+        "scale": 3.9,
+        "push": 0.015
+      },
+      "captionPlan": [
+        {
+          "role": "PIXEL_BODY",
+          "lines": [
+            "주변 나무에서도",
+            "같은 종류가 확인됐어요"
+          ],
+          "english": [
+            "The same kind was found",
+            "on nearby trees."
+          ],
+          "start": 5,
+          "end": 116,
+          "y": 1440,
+          "highlight": [
+            "같은 종류"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "role": "PIXEL_LABEL",
+          "lines": [
+            "빗물 시료"
+          ],
+          "english": [
+            "Rain sample"
+          ],
+          "start": 0,
+          "end": 120,
+          "y": 260,
+          "highlight": [],
+          "anchor": "focus"
+        },
+        {
+          "role": "PIXEL_LABEL",
+          "lines": [
+            "나무 시료"
+          ],
+          "english": [
+            "Tree sample"
+          ],
+          "start": 0,
+          "end": 120,
+          "y": 260,
+          "highlight": [],
+          "anchor": "bark"
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 40,
+        "preset": "NONE",
+        "target": "focus",
+        "type": "NONE"
+      },
+      "nextShotConnection": "같은 종류 확인과 하늘로의 이동 경로 미확인을 구분",
+      "scene": {
+        "adapter": "red_rain",
+        "action": "POINT",
+        "seed": 508
+      },
+      "protectedSubjects": [
+        "focus",
+        "bark"
+      ],
+      "abstractDiagram": false
+    },
+    {
+      "id": "S08",
+      "phase": "unknown",
+      "startFrame": 780,
+      "endFrame": 900,
+      "narrativeRole": "결",
+      "sceneType": "CHARACTER_SCENE",
+      "primarySubject": "민수·구름",
+      "viewerQuestion": "많은 포자가 어떻게 하늘로 갔을까?",
+      "newInformation": "대량 유입의 정확한 경로는 보고서에서도 미확인",
+      "visualAction": "민수가 나무에서 하늘로 시선을 옮기며 생각한다",
+      "scientificMeaning": "확인되지 않은 수송 과정을 애니메이션 사실로 만들지 않음",
+      "characterEmotion": "납득→남은 의문",
+      "cameraPlan": {
+        "preset": "EVENT",
+        "aim": [
+          0,
+          0,
+          1.05
+        ],
+        "scale": 4.8,
+        "push": 0.015
+      },
+      "captionPlan": [
+        {
+          "role": "PIXEL_BODY",
+          "lines": [
+            "한꺼번에 하늘로 간 과정은",
+            "아직 명확하지 않아요"
+          ],
+          "english": [
+            "How so many reached the air",
+            "is still not fully explained."
+          ],
+          "start": 5,
+          "end": 116,
+          "y": 1440,
+          "highlight": [
+            "명확하지"
+          ]
+        }
+      ],
+      "labels": [],
+      "emphasisEvent": {
+        "frame": 50,
+        "preset": "NONE",
+        "target": "focus",
+        "type": "NONE"
+      },
+      "nextShotConnection": "색의 원인과 이동의 미확인을 구분한 채 처음 우산으로 돌아감",
+      "scene": {
+        "adapter": "red_rain",
+        "action": "LOOK_AROUND",
+        "seed": 508
+      },
+      "protectedSubjects": [
+        "head",
+        "focus"
+      ],
+      "abstractDiagram": false
+    },
+    {
+      "id": "S09",
+      "phase": "payoff",
+      "startFrame": 900,
+      "endFrame": 1020,
+      "narrativeRole": "결",
+      "sceneType": "RESULT_SCENE",
+      "primarySubject": "민수·우산·시료병",
+      "viewerQuestion": "처음의 붉은 비를 어떻게 이해할까?",
+      "newInformation": "이 시료의 붉은 색은 작은 생물 입자가 남긴 흔적",
+      "visualAction": "민수가 우산의 얼룩과 병 속 입자를 번갈아 보고 고개를 끄덕인다",
+      "scientificMeaning": "색의 원인을 정리하며 미해결 범위를 덮지 않음",
+      "characterEmotion": "의문→이해",
+      "cameraPlan": {
+        "preset": "EVENT",
+        "aim": [
+          -0.12,
+          0,
+          1.05
+        ],
+        "scale": 4.8,
+        "push": 0.015
+      },
+      "captionPlan": [
+        {
+          "role": "PIXEL_BODY",
+          "lines": [
+            "빗물 속 작은 생물이",
+            "붉은 색을 남긴 거예요"
+          ],
+          "english": [
+            "Tiny biological particles",
+            "gave this rain its red color."
+          ],
+          "start": 5,
+          "end": 115,
+          "y": 1430,
+          "highlight": [
+            "작은 생물"
+          ]
+        }
+      ],
+      "labels": [
+        {
+          "role": "PIXEL_LABEL",
+          "lines": [
+            "CESS·TBGRI · 2001 조사"
+          ],
+          "english": [
+            "CESS / TBGRI · 2001 study"
+          ],
+          "start": 0,
+          "end": 120,
+          "y": 1690,
+          "highlight": []
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 38,
+        "preset": "PAYOFF",
+        "target": "focus",
+        "type": "PAYOFF"
+      },
+      "nextShotConnection": "첫 사건의 색을 이해하며 종료",
+      "scene": {
+        "adapter": "red_rain",
+        "action": "CELEBRATE",
+        "seed": 508
+      },
+      "protectedSubjects": [
+        "head",
+        "focus"
+      ],
+      "abstractDiagram": false
+    }
+  ]
+}

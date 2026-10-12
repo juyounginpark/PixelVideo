@@ -1,0 +1,70 @@
+{
+  "topicId": "namu-cache-listing-063",
+  "name": "얼룩말 의 줄무늬",
+  "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+  "documentUrl": "https://namu.wiki/w/%EC%96%BC%EB%A3%A9%EB%A7%90",
+  "category": "자연과학 관련 정보",
+  "sourcePosition": {
+    "snapshot": "research\\namuwiki\\listing.html",
+    "liIndex": 63,
+    "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+  },
+  "description": "얼룩말 의 줄무늬: 얼룩말이 왜 줄무늬를 지니게 되었는지에 대해서 여러 가설이 있다. 체체파리 의 시각을 교란하기 위해서라는 설, 체온 조절을 위해서라는 설 등이 있다. 이 이유가 전부일 수도 있고 다른 이유가 더 있을 수도 있다.",
+  "discoveredAt": "2026-10-12T15:48:00+09:00",
+  "lastCheckedAt": "2026-10-12T15:48:00+09:00",
+  "lastLiveCheckedAt": null,
+  "originalDiscoveryAt": null,
+  "verificationStatus": "VERIFIED_EXPLAINED",
+  "verificationBasis": "줄무늬의 흡혈파리 착륙 감소 효과로 제한; 진화의 단일 원인으로 단정하지 않음",
+  "interestScore": 86,
+  "hookCandidates": [
+    {
+      "HOOK_IMAGE": "민무늬 말에는 파리, 줄무늬 말에는 착륙 실패",
+      "HOOK_ACTION": "파리가 연속 접근한다",
+      "HOOK_CAPTION": "줄무늬의 뜻밖의 효과",
+      "VIEWER_GAP": "접근과 착륙을 분리한 비교",
+      "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+    },
+    {
+      "HOOK_IMAGE": "민수가 말의 줄무늬 덮개를 걷는다",
+      "HOOK_ACTION": "파리 착륙 위치가 바뀐다",
+      "HOOK_CAPTION": "무늬 하나 바꿨는데",
+      "VIEWER_GAP": "접근과 착륙을 분리한 비교",
+      "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+    },
+    {
+      "HOOK_IMAGE": "파리 시점의 무늬 확대",
+      "HOOK_ACTION": "착륙 직전 속도가 줄지 않는다",
+      "HOOK_CAPTION": "왜 못 앉을까?",
+      "VIEWER_GAP": "접근과 착륙을 분리한 비교",
+      "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+    }
+  ],
+  "visualPotential": "파리가 민무늬 말에는 앉고 줄무늬에는 착륙을 놓친다",
+  "storyPotential": "접근과 착륙을 분리한 비교",
+  "productionCost": "말 관절과 비행 곤충 추가 모델 필요",
+  "previousEpisodeSimilarity": 0.15,
+  "rejectionReasons": [],
+  "scoreComponents": {
+    "hook25": 22,
+    "event25": 23,
+    "narrative20": 17,
+    "surprise10": 8,
+    "evidence10": 9,
+    "feasibility10": 7
+  },
+  "evidenceUrls": [
+    "https://www.nature.com/articles/s41598-022-22333-7"
+  ],
+  "reviewKey": "zebra",
+  "viewerAnswers": [
+    "파리가 민무늬 말에는 앉고 줄무늬에는 착륙을 놓친다",
+    "red_rain/zebra는 색/착륙 차이가 즉시 보임; 다른 후보는 조건 라벨 필요",
+    "접근과 착륙을 분리한 비교",
+    "말 관절과 비행 곤충 추가 모델 필요",
+    "줄무늬의 흡혈파리 착륙 감소 효과로 제한; 진화의 단일 원인으로 단정하지 않음"
+  ],
+  "selectedHook": 0,
+  "gate1": "PASS_WITH_SCOPED_FACTS",
+  "scoreIsAudienceEvidence": false
+}

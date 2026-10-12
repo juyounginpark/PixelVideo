@@ -1,0 +1,71 @@
+{
+  "result": "PASS",
+  "errors": [],
+  "numericUI": [
+    {
+      "kind": "OBSERVATION",
+      "meaning": "2019 덮개 실험 참가 말의 수",
+      "units": "마리",
+      "definition": "Study2 참가 동물 수, 착륙 횟수/비율 아님",
+      "source": "REAL_OBSERVATION",
+      "sourceRefs": [
+        "study2019 / Methods Study2"
+      ],
+      "value": 7
+    },
+    {
+      "kind": "STATE",
+      "meaning": "2019 덮개 실험 조건 수",
+      "units": "종",
+      "definition": "검정/흰색/줄무늬 상용 덮개 조건",
+      "source": "REAL_OBSERVATION",
+      "sourceRefs": [
+        "study2019 / Methods Study2"
+      ],
+      "value": 3
+    },
+    {
+      "kind": "CHAPTER_PROGRESS",
+      "meaning": "저작된 챕터 순서",
+      "source": "EDITORIAL_PROGRESS",
+      "value": 1,
+      "total": 6
+    }
+  ],
+  "fictionalLandingCountsDisplayed": false,
+  "closedStory": true,
+  "sources": [
+    {
+      "id": "study2019",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210831",
+      "snapshot": "production\\minsu_v5\\ep09\\research\\study2019.html",
+      "sha256": "9ce925a974ef51c6d3e95c978cd75f6cf611633699aca0cb067bd731dd47b1a3"
+    },
+    {
+      "id": "study2023",
+      "url": "https://www.bristol.ac.uk/news/2023/february/zebra-stripes.html",
+      "type": "Researchers university primary announcement with publication link",
+      "browserVerifiedArticle": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10088525/",
+      "articleDOI": "10.1242/jeb.244778",
+      "snapshot": "production\\minsu_v5\\ep09\\research\\study2023_verified.html",
+      "sha256": "42bffdb06a96d0970546e0d5433aea221f1390e7345bccd2bd14ba632a9a09fb"
+    },
+    {
+      "id": "university2019",
+      "url": "https://www.bristol.ac.uk/news/2019/february/zebra-stripes.html",
+      "snapshot": "production\\minsu_v5\\ep09\\research\\university2019.html",
+      "sha256": "3b159497c984256efdac94155aeec98577ce60d569fbd25f05b51b8f08f2c941"
+    },
+    {
+      "id": "study2020",
+      "url": "https://research-information.bris.ac.uk/ws/portalfiles/portal/246843415/rspb.2020.1521.pdf",
+      "snapshot": "production\\minsu_v5\\ep09\\research\\study2020.pdf",
+      "sha256": "8da876a7d3b546881d76e06a3248ed16ec65554c0a9cc6216f0411d21cd6d3f9",
+      "articleDOI": "10.1098/rspb.2020.1521",
+      "type": "published paper in authors institutional repository"
+    }
+  ],
+  "preservedFilesChecked": 52,
+  "sourceTopicId": "namu-cache-listing-063",
+  "humanEditorialApproval": false
+}

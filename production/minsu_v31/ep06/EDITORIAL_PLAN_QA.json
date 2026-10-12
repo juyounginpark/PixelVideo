@@ -1,0 +1,99 @@
+{
+  "shotCount": 12,
+  "durationFrames": 1050,
+  "requiredFields": [
+    "StoryBeat",
+    "NewInformation",
+    "PrimaryVisualEvent",
+    "ViewerQuestion",
+    "CharacterReaction",
+    "CameraPurpose",
+    "CaptionRole",
+    "EmphasisEvent",
+    "TransitionReason"
+  ],
+  "typographyRoles": {
+    "HOOK_TITLE": 2,
+    "EXPLANATION_CAPTION": 10,
+    "MICRO_LABEL": 1,
+    "IMPACT_CAPTION": 1,
+    "FACT_PANEL": 1,
+    "RESULT_TITLE": 1
+  },
+  "modes": [
+    {
+      "shot": "SHOT_01",
+      "mode": "whole",
+      "frames": 66,
+      "information": "단단한 얼음에서도 발이 밀린다"
+    },
+    {
+      "shot": "SHOT_02",
+      "mode": "whole",
+      "frames": 78,
+      "information": "얼음은 여전히 단단하다"
+    },
+    {
+      "shot": "SHOT_03",
+      "mode": "contact",
+      "frames": 72,
+      "information": "중요한 곳은 물체가 닿는 경계"
+    },
+    {
+      "shot": "SHOT_04",
+      "mode": "internal",
+      "frames": 90,
+      "information": "내부와 표면 분자의 이동성이 다르다"
+    },
+    {
+      "shot": "SHOT_05",
+      "mode": "path",
+      "frames": 66,
+      "information": "표면 분자는 위치를 바꾸기 쉽다"
+    },
+    {
+      "shot": "SHOT_06",
+      "mode": "contact",
+      "frames": 84,
+      "information": "표면 이동은 낮은 마찰과 연결된다"
+    },
+    {
+      "shot": "SHOT_07",
+      "mode": "whole",
+      "frames": 60,
+      "information": "확대해서 본 현상이 일상 움직임과 연결된다"
+    },
+    {
+      "shot": "SHOT_08",
+      "mode": "conditions",
+      "frames": 120,
+      "information": "온도가 아주 낮으면 마찰이 큰 사례가 있다"
+    },
+    {
+      "shot": "SHOT_09",
+      "mode": "internal",
+      "frames": 108,
+      "information": "온도 외에 압력·속도·접촉 조건도 중요하다"
+    },
+    {
+      "shot": "SHOT_10",
+      "mode": "before_after",
+      "frames": 102,
+      "information": "민수의 이동 결과가 달라졌다"
+    },
+    {
+      "shot": "SHOT_11",
+      "mode": "whole",
+      "frames": 120,
+      "information": "단단한 속과 움직이기 쉬운 표면을 구분한다"
+    },
+    {
+      "shot": "SHOT_12",
+      "mode": "whole",
+      "frames": 84,
+      "information": "새로 이해한 상태에서 첫 행동으로 돌아간다"
+    }
+  ],
+  "warnings": [],
+  "visualApproval": false
+}

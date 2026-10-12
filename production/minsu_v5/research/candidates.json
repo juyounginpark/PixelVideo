@@ -1,0 +1,1448 @@
+[
+  {
+    "topicId": "namu-cache-listing-000",
+    "name": "밀레니엄 문제",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%B0%80%EB%A0%88%EB%8B%88%EC%97%84%20%EB%AC%B8%EC%A0%9C",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 0,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "밀레니엄 문제 : 하술할 페르마의 마지막 정리가 해결된 뒤 하버드 대학교 연구진들에 의해 정해진 7개의 수학 문제이다. 이 중 푸엥카레 추측 은 증명되었지만 [1] 나머지는 그래도 유의미한 진전이 있는 게 있는가 하면, 최악의 경우 아예 접근 방법에 대한 갈피도 제대로",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "첫 2초 물리적 사건이 부족하고 추상 도식 의존"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-001",
+    "name": "나비에-스토크스 방정식",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%82%98%EB%B9%84%EC%97%90-%EC%8A%A4%ED%86%A0%ED%81%AC%EC%8A%A4%20%EB%B0%A9%EC%A0%95%EC%8B%9D",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 1,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "나비에-스토크스 방정식 : 19세기에 나비에-스토크스 방정식이 학계에 처음 소개된 이래로, 이 방정식에 일반해가 있는지 여부가 밝혀지지 않아서 수학 계와 물리학 계의 대표적인 미스터리로 꼽힌다. 이 문제는 밀레니엄 문제의 하나로 꼽힐 정도로 희대의 난제로 꼽히는데 [2",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "첫 2초 물리적 사건이 부족하고 추상 도식 의존"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-002",
+    "name": "암흑 물질",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%95%94%ED%9D%91%20%EB%AC%BC%EC%A7%88",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 2,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "암흑 물질 : 물리학 계의 최대 논쟁거리 중 하나이자, 미스터리인 부분이다. 우주 전체의 질량을 계산해 보면, 통상적으로 관측이 가능한 일반 물질 [5] 이 차지하는 비중은 전체의 5%밖에 되지 않을 정도로 적다는 점이 오랫동안 의문으로 꼽혀왔다. 1920년대에 스위스",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "기제작 또는 이미 기획된 소재와 중복"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-003",
+    "name": "브라질너트 효과",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%B8%8C%EB%9D%BC%EC%A7%88%EB%84%88%ED%8A%B8%20%ED%9A%A8%EA%B3%BC",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 3,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "브라질너트 효과 : 역 브라질 땅콩 효과를 포함해 실제사례가 입증되는 효과로 많은 회사가 이 현상 때문에 골머리를 앓고 있으며, 아직까지도 명쾌한 해답이 없는 상태다. 심플하게 '섞는 것' 외에 다른 값싼 해결 방안도 당연히 없다.",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "기제작 또는 이미 기획된 소재와 중복"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-004",
+    "name": "음펨바 효과",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%9D%8C%ED%8E%A8%EB%B0%94%20%ED%9A%A8%EA%B3%BC",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 4,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "음펨바 효과 : 온도가 높은 액체가 온도가 낮은 액체보다 빠르게 응고하는 현상으로, 풀리는 듯하면서도 풀리지 않는 미스터리.",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "DISPUTED",
+    "verificationBasis": "보편적 뜨거운 물 우선 결빙을 사실처럼 후킹하면 실패. 최근 얼음 편과 반복",
+    "interestScore": 84,
+    "hookCandidates": [],
+    "visualPotential": "두 물통 중 뜨거운 쪽이 먼저 얼 듯하다",
+    "storyPotential": "정의와 조건에 따라 비교 결과가 달라짐",
+    "productionCost": "얼음 EP06 및 상자 실험 EP05와 유사",
+    "previousEpisodeSimilarity": 0.85,
+    "rejectionReasons": [
+      "최근 영상과 장면/주제 유사도 높음"
+    ],
+    "scoreComponents": {
+      "hook25": 23,
+      "event25": 23,
+      "narrative20": 13,
+      "surprise10": 8,
+      "evidence10": 8,
+      "feasibility10": 9
+    },
+    "evidenceUrls": [
+      "https://www.nature.com/articles/srep37665"
+    ],
+    "reviewKey": "mpemba",
+    "viewerAnswers": {
+      "firstTwoSeconds": "두 물통 중 뜨거운 쪽이 먼저 얼 듯하다",
+      "visibleOddityWithoutTitle": "후킹 시안의 실제 행동으로 평가. 현상 자체가 보이지 않는 소재는 점수 감점.",
+      "concreteEvent": "두 물통 중 뜨거운 쪽이 먼저 얼 듯하다",
+      "newMiddleClue": "정의와 조건에 따라 비교 결과가 달라짐",
+      "expectationDifference": "보편적 뜨거운 물 우선 결빙을 사실처럼 후킹하면 실패. 최근 얼음 편과 반복",
+      "takeaway": "보편적 뜨거운 물 우선 결빙을 사실처럼 후킹하면 실패. 최근 얼음 편과 반복",
+      "productionFeasibility": "얼음 EP06 및 상자 실험 EP05와 유사",
+      "similarityToPrevious": "0.85 — 제작 이력 비교에 대한 편집자 판단"
+    }
+  },
+  {
+    "topicId": "namu-cache-listing-005",
+    "name": "암흑에너지",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%95%94%ED%9D%91%EC%97%90%EB%84%88%EC%A7%80",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 5,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "암흑에너지 : 우주 가 일정한 속도로 팽창하는 게 아니라 가속팽창을 한다는 사실 이 알려지면서, 우주의 팽창 속도를 증가시키는 요인이 되는 에너지의 정체에 대한 의문점이 제기되었다. 가능성은 높지 않지만 그나마 후보로 거론되는 물질들이 꽤 제안되고 있는 암흑 물질 과는",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "첫 2초 물리적 사건이 부족하고 추상 도식 의존"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-006",
+    "name": "얼음 이 미끄러운 이유",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%96%BC%EC%9D%8C",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 6,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "얼음 이 미끄러운 이유: 고전부터 현대까지의 방대한 물리학 , 화학 연구가 무색하게 느껴질 정도의 오래된 미스터리로 얼음의 겉표면이 왜 미끄러운가에 대한 해답은 아직까지도 명확하게 밝혀내지 못했다. 과거의 설명으로는 단순한 압력 이나 마찰력 의 원리에서 설명을 했으나 ",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "기제작 또는 이미 기획된 소재와 중복"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-007",
+    "name": "초끈 이론 의 증명",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%B4%88%EB%81%88%20%EC%9D%B4%EB%A1%A0",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 7,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "초끈 이론 의 증명: 입자를 점이나 구 가 아닌 끈으로 간주하고 계산을 한다는 데서 비롯된 초끈 이론은 TOE , 즉 양자역학 과 일반 상대성 이론 을 통합하는 이론 [7] 의 후보 중 하나이다. 문제는 이 이론에서 예견하는 초대칭입자를 입증하는 것부터가 무지막지하며 ",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "첫 2초 물리적 사건이 부족하고 추상 도식 의존"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-008",
+    "name": "페르마의 마지막 정리",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%ED%8E%98%EB%A5%B4%EB%A7%88%EC%9D%98%20%EB%A7%88%EC%A7%80%EB%A7%89%20%EC%A0%95%EB%A6%AC",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 8,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "페르마의 마지막 정리 : 문제 자체는 1994년 앤드루 와일스 덕분에 해결되었으나 17세기에 처음 제기되었을 당시에 페르마가 '여백이 부족하다며' 밝히지 않았던 증명 방식이 미스터리이다. 특히 와일스가 증명한 방식도 페르마가 사망하고 훨씬 뒤인 18~20세기 후반에서야",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "첫 2초 물리적 사건이 부족하고 추상 도식 의존",
+      "기존 피해 사건·민감 소재 제외 기준"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-009",
+    "name": "허블 텐션",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%ED%97%88%EB%B8%94%20%ED%85%90%EC%85%98",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 9,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "허블 텐션 : 우주의 팽창 속도를 나타내는 '허블 상수'를 구하는 두 가지 방법(우주배경복사를 관측하는 방법과 초신성 거리를 측정하는 방법)의 결과 값이 서로 다르게 나오는 모순이 발생하고 있다. 이를 해결할 새로운 물리학이 필요하다는 지적도 나오는 중. 가속 팽창을 ",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "첫 2초 물리적 사건이 부족하고 추상 도식 의존"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-013",
+    "name": "1984년 버섯구름 목격 사건",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/1984%EB%85%84%20%EB%B2%84%EC%84%AF%EA%B5%AC%EB%A6%84%20%EB%AA%A9%EA%B2%A9%20%EC%82%AC%EA%B1%B4",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 13,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "1984년 버섯구름 목격 사건 : 1984년 4월 9일에 일본 동부 약 200km 떨어진 태평양에서 다수의 여객기와 선박 및 일본 항공자위대 조종사에 의해 목격이 교차검증 된, 정체를 알 수 없는 버섯구름 . 이 구름은 특히나 어마어마한 속도로 상승하면서 순식간에 하늘",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-018",
+    "name": "데스 밸리 의 항해하는 돌(sailing stones)",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%EB%B0%B8%EB%A6%AC%20%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 18,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "데스 밸리 의 항해하는 돌(sailing stones) : 사막 한가운데의 집채만 한 돌덩이들이 외력의 도움 없이 먼 거리를 이동하는 현상으로, 2014년 에 과학적으로 그 원리가 밝혀졌다. 겨울 밤이 되면 지표면에 몇 mm 수준으로 얇게 얼음이 깔리는데, 이때 얼음 ",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "기제작 또는 이미 기획된 소재와 중복"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-019",
+    "name": "메가크라이오미티어(megacryometeor)",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%9A%B0%EB%B0%95",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 19,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "메가크라이오미티어(megacryometeor): 마른 하늘에 난데없이 초대형의 얼음덩어리가 떨어지는 현상으로, 아직까지 기상학자들은 이 얼음덩이가 어째서, 어디서, 어떻게 형성되는지 거의 알지 못하고 있다. 그 규모도 보통의 우박 과는 차원을 달리할 정도로 커서, 작은",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-021",
+    "name": "브리스톨의 헤이즐넛 비",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%B8%8C%EB%A6%AC%EC%8A%A4%ED%86%A8%EC%9D%98%20%ED%97%A4%EC%9D%B4%EC%A6%90%EB%84%9B%20%EB%B9%84",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 21,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "브리스톨의 헤이즐넛 비 : 1977년 3월 13일, 영국 브리스톨 지역의 언론인 알프레드 윌슨-오스본(Alfred Wilson-Osborne)이 목격한 사건. 개암나무가 열매를 맺는 시기는 3월이 아니라 9~10월인 데다 그 지역 인근에는 숲이 없었음에도 불구하고, 무",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-022",
+    "name": "캘리포니아의 설탕 비",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%BA%98%EB%A6%AC%ED%8F%AC%EB%8B%88%EC%95%84%EC%9D%98%20%EC%84%A4%ED%83%95%20%EB%B9%84",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 22,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "캘리포니아의 설탕 비 : 1857년 9월 2일에 캘리포니아 레이크 카운티 지역에서 이틀에 걸쳐 설탕 결정이 비처럼 내렸다. 결정의 크기는 0.6cm (quarter-inch) 정도였으며, 주민들이 먹을 수 있었다. 일부 주민들은 떨어지는 설탕 결정들을 모아서 시럽 을 ",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-023",
+    "name": "케랄라의 붉은 비",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%BC%80%EB%9E%84%EB%9D%BC%EC%9D%98%20%EB%B6%89%EC%9D%80%20%EB%B9%84",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 23,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "케랄라의 붉은 비 : 2001년에 인도 케랄라 지역에서 여러 차례 미상의 붉은 비가 내린 사건.( # )",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_EXPLAINED",
+    "verificationBasis": "2001년 시료의 붉은 색 원인에 범위 제한. 대량 공중 유입 경로는 미규명. 2013 DNA 검사는 별도 연구이고 2001 배양의 독립 재현으로 쓰지 않음",
+    "interestScore": 93,
+    "hookCandidates": [
+      {
+        "HOOK_IMAGE": "흰 우산에 붉은 빗방울이 튄다",
+        "HOOK_ACTION": "우산을 든 민수가 뒤로 물러선다",
+        "HOOK_CAPTION": "비가 빨갛다?",
+        "VIEWER_GAP": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "투명 병 속 붉은 입자가 바닥에 쌓인다",
+        "HOOK_ACTION": "민수가 병을 들어 색 경계를 확인한다",
+        "HOOK_CAPTION": "색이 가라앉는다?",
+        "VIEWER_GAP": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "배양 접시에 조류가 자란다",
+        "HOOK_ACTION": "민수가 현미경에서 고개를 번쩍 든다",
+        "HOOK_CAPTION": "빗물에서 자랐다?",
+        "VIEWER_GAP": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      }
+    ],
+    "visualPotential": "빨간 비가 흰 우산에 점을 남긴다",
+    "storyPotential": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+    "productionCost": "캐릭터·비·병·현미경으로 가능",
+    "previousEpisodeSimilarity": 0.1,
+    "rejectionReasons": [],
+    "scoreComponents": {
+      "hook25": 24,
+      "event25": 24,
+      "narrative20": 18,
+      "surprise10": 9,
+      "evidence10": 9,
+      "feasibility10": 9
+    },
+    "evidenceUrls": [
+      "https://www.iangoddard.com/sampath2001.pdf",
+      "https://doi.org/10.1029/2002EO000250",
+      "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.062711-0"
+    ],
+    "reviewKey": "red_rain",
+    "viewerAnswers": {
+      "firstTwoSeconds": "흰 우산에 붉은 빗방울이 떨어지고 얼룩이 늘어난다.",
+      "visibleOddityWithoutTitle": "일반적인 무색 빗물과 달리 우산에 붉은 색이 남는다.",
+      "concreteEvent": "비를 모은 병에서 입자가 가라앉고 배양체가 자란다.",
+      "newMiddleClue": "색을 띤 입자가 가라앉으며 배양에서 조류가 확인된다.",
+      "expectationDifference": "물 자체의 색처럼 보였지만 조사 결과 생물 입자가 색을 만든다.",
+      "takeaway": "2001 조사 시료의 색 원인은 조류 포자. 대량 공중 유입 과정은 미확인.",
+      "productionFeasibility": "기존 민수·픽셀 재질·폰트·오디오를 재사용하고 우산·병·배양 접시를 제작할 수 있다.",
+      "similarityToPrevious": "얼음·견과·은하와 달리 야외 사건→채집→미세 관찰의 구조. 최근 에피소드와 낮은 유사성."
+    }
+  },
+  {
+    "topicId": "namu-cache-listing-024",
+    "name": "텍사스의 푸른 비",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%ED%85%8D%EC%82%AC%EC%8A%A4%EC%9D%98%20%ED%91%B8%EB%A5%B8%20%EB%B9%84",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 24,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "텍사스의 푸른 비 : 2025년 5월경 미국 텍사스의 광범위한 지역에서 뚜렷한 하늘색을 띠는 비가 내려서 주민들을 놀라게 했다. 여러 가설들 중 인공강우 의 영향이라는 주장은 과학자들에 의해 무관한 것으로 확인되었다.",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-027",
+    "name": "세로 엘 코노 (Cerro el Cono)",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%84%B8%EB%A1%9C%20%EC%97%98%20%EC%BD%94%EB%85%B8",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 27,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "세로 엘 코노 (Cerro el Cono): 페루 아마존 내부 분지에 위치한 해발 700m 높이의 작은(?) 산. 놀랍게도, 이 '작은' 산은 불과 수십 년 전까지 지질학자들의 주목을 받기는커녕 아예 지도에 등장하지도 않다가, 페루 정부가 이 일대를 국립공원으로 지정하",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-031",
+    "name": "암흑현상(dark day)",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%B6%9C%EC%95%A0%EA%B5%BD%EA%B8%B0",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 31,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "암흑현상(dark day): 멀쩡한 대낮에 갑자기 세상이 칠흑처럼 어두워지는 이 현상은 출애굽기 와 같은 먼 옛날의 문헌들에서부터 자주 거론되어 왔다. 여러 원인들이 거론되고 있는데, 강력한 슈퍼셀 과 같은 폭풍으로 어두워졌다는 설, 일식 의 영향을 받았다는 설, 화산",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-033",
+    "name": "퀴놀트 호수의 나무 쓰러짐 현상",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%82%B0%EC%95%85%ED%8C%8C",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 33,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "퀴놀트 호수의 나무 쓰러짐 현상 : 2018년 1월 27일, 미국 워싱턴 주의 퀴놀트 호수(Quinault lake)의 호숫가에 위치한 거목들이 뜬금없이 줄줄이 쓰러져서 도로를 가로막고 정전 사태를 일으켰다. 인근에 어떤 지진이나 강풍도 관측되지 않아서 얼마간 미스터리",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-044",
+    "name": "히트버스트 (heatburst)",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%A0%81%EB%9E%80%EC%9A%B4",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 44,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "히트버스트 (heatburst): 한밤중에 수명이 다한 적란운 이 소나기를 다 뿌리고 나서 순간적으로 뜨겁고 건조한 돌풍을 일으키는 현상으로, 늦은 오후나 한밤중에 적란운이 소멸되기 직전에 극히 드물게 나타날 수 있다. 과학적 연구를 통해서 다운버스트(downburst",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_EXPLAINED",
+    "verificationBasis": "공기가 하강하며 압축 가열. 캐시의 단열팽창 서술은 채택하지 않음",
+    "interestScore": 80,
+    "hookCandidates": [
+      {
+        "HOOK_IMAGE": "밤의 온도계가 급상승",
+        "HOOK_ACTION": "민수가 창문을 열고 놀란다",
+        "HOOK_CAPTION": "밤인데 더워진다?",
+        "VIEWER_GAP": "비 증발 후 하강 공기의 압축 가열",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "마른 빗방울이 공중에서 사라진다",
+        "HOOK_ACTION": "하강 바람이 퍼진다",
+        "HOOK_CAPTION": "비는 어디 갔지?",
+        "VIEWER_GAP": "비 증발 후 하강 공기의 압축 가열",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "차갑던 바람 지표에서 가열",
+        "HOOK_ACTION": "잎과 머리가 바람에 움직인다",
+        "HOOK_CAPTION": "뜨거운 돌풍",
+        "VIEWER_GAP": "비 증발 후 하강 공기의 압축 가열",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      }
+    ],
+    "visualPotential": "밤에 창문을 열자 바람은 뜨겁고 온도계가 오른다",
+    "storyPotential": "비 증발 후 하강 공기의 압축 가열",
+    "productionCost": "온도 변화가 자막 없이 즉시 보이기 어려움",
+    "previousEpisodeSimilarity": 0.16,
+    "rejectionReasons": [],
+    "scoreComponents": {
+      "hook25": 20,
+      "event25": 20,
+      "narrative20": 16,
+      "surprise10": 8,
+      "evidence10": 9,
+      "feasibility10": 7
+    },
+    "evidenceUrls": [
+      "https://www.weather.gov/abq/localfeatureheatburst"
+    ],
+    "reviewKey": "heatburst",
+    "viewerAnswers": {
+      "firstTwoSeconds": "밤에 창문을 열자 바람은 뜨겁고 온도계가 오른다",
+      "visibleOddityWithoutTitle": "후킹 시안의 실제 행동으로 평가. 현상 자체가 보이지 않는 소재는 점수 감점.",
+      "concreteEvent": "밤에 창문을 열자 바람은 뜨겁고 온도계가 오른다",
+      "newMiddleClue": "비 증발 후 하강 공기의 압축 가열",
+      "expectationDifference": "공기가 하강하며 압축 가열. 캐시의 단열팽창 서술은 채택하지 않음",
+      "takeaway": "공기가 하강하며 압축 가열. 캐시의 단열팽창 서술은 채택하지 않음",
+      "productionFeasibility": "온도 변화가 자막 없이 즉시 보이기 어려움",
+      "similarityToPrevious": "0.16 — 제작 이력 비교에 대한 편집자 판단"
+    }
+  },
+  {
+    "topicId": "namu-cache-listing-046",
+    "name": "생명의 기원",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%83%9D%EB%AA%85%EC%9D%98%20%EA%B8%B0%EC%9B%90",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 46,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "생명의 기원 : 생물학을 넘어서는 최대의 미스터리. 어떻게 생명이 탄생할 수 있었는지는 정확하게 밝혀지지 않았다. 지구상에서 생명체가 처음 생겨난 원인은 오랜 옛날부터 초미의 관심사였지만, 이에 대해 만족스러운 설명은 여전히 나오고 있지 않다. 1920년대에 소련 의 ",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "첫 2초 물리적 사건이 부족하고 추상 도식 의존"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-056",
+    "name": "독버섯",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%8F%85%EB%B2%84%EC%84%AF",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 56,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "독버섯 : 대개 동물이나 식물이 포식자의 섭취를 막기 위해서 독을 가진 것과는 다르게 버섯의 경우 독이 통하는 동물이 있고 그렇지 않은 동물이 있기 때문에, 왜 버섯이 독을 가지도록 진화했는지는 아직까지 의문이다. 버섯의 유독성과 동물간 차이를 알아내지 못해 계속 연구",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-059",
+    "name": "툴리몬스트룸",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%ED%88%B4%EB%A6%AC%EB%AA%AC%EC%8A%A4%ED%8A%B8%EB%A3%B8",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 59,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "툴리몬스트룸 : 1,000점이 넘는 화석 자료들이 있음에도 불구하고 생물분류학적으로 어떻게 분류해야 할지 대단히 난해하게 여겨지는 사례이다.",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-063",
+    "name": "얼룩말 의 줄무늬",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%96%BC%EB%A3%A9%EB%A7%90",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 63,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "얼룩말 의 줄무늬: 얼룩말이 왜 줄무늬를 지니게 되었는지에 대해서 여러 가설이 있다. 체체파리 의 시각을 교란하기 위해서라는 설, 체온 조절을 위해서라는 설 등이 있다. 이 이유가 전부일 수도 있고 다른 이유가 더 있을 수도 있다.",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_EXPLAINED",
+    "verificationBasis": "줄무늬의 흡혈파리 착륙 감소 효과로 제한; 진화의 단일 원인으로 단정하지 않음",
+    "interestScore": 86,
+    "hookCandidates": [
+      {
+        "HOOK_IMAGE": "민무늬 말에는 파리, 줄무늬 말에는 착륙 실패",
+        "HOOK_ACTION": "파리가 연속 접근한다",
+        "HOOK_CAPTION": "줄무늬의 뜻밖의 효과",
+        "VIEWER_GAP": "접근과 착륙을 분리한 비교",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "민수가 말의 줄무늬 덮개를 걷는다",
+        "HOOK_ACTION": "파리 착륙 위치가 바뀐다",
+        "HOOK_CAPTION": "무늬 하나 바꿨는데",
+        "VIEWER_GAP": "접근과 착륙을 분리한 비교",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "파리 시점의 무늬 확대",
+        "HOOK_ACTION": "착륙 직전 속도가 줄지 않는다",
+        "HOOK_CAPTION": "왜 못 앉을까?",
+        "VIEWER_GAP": "접근과 착륙을 분리한 비교",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      }
+    ],
+    "visualPotential": "파리가 민무늬 말에는 앉고 줄무늬에는 착륙을 놓친다",
+    "storyPotential": "접근과 착륙을 분리한 비교",
+    "productionCost": "말 관절과 비행 곤충 추가 모델 필요",
+    "previousEpisodeSimilarity": 0.15,
+    "rejectionReasons": [],
+    "scoreComponents": {
+      "hook25": 22,
+      "event25": 23,
+      "narrative20": 17,
+      "surprise10": 8,
+      "evidence10": 9,
+      "feasibility10": 7
+    },
+    "evidenceUrls": [
+      "https://www.nature.com/articles/s41598-022-22333-7"
+    ],
+    "reviewKey": "zebra",
+    "viewerAnswers": {
+      "firstTwoSeconds": "파리가 민무늬 말에는 앉고 줄무늬에는 착륙을 놓친다",
+      "visibleOddityWithoutTitle": "후킹 시안의 실제 행동으로 평가. 현상 자체가 보이지 않는 소재는 점수 감점.",
+      "concreteEvent": "파리가 민무늬 말에는 앉고 줄무늬에는 착륙을 놓친다",
+      "newMiddleClue": "접근과 착륙을 분리한 비교",
+      "expectationDifference": "줄무늬의 흡혈파리 착륙 감소 효과로 제한; 진화의 단일 원인으로 단정하지 않음",
+      "takeaway": "줄무늬의 흡혈파리 착륙 감소 효과로 제한; 진화의 단일 원인으로 단정하지 않음",
+      "productionFeasibility": "말 관절과 비행 곤충 추가 모델 필요",
+      "similarityToPrevious": "0.15 — 제작 이력 비교에 대한 편집자 판단"
+    }
+  },
+  {
+    "topicId": "namu-cache-listing-069",
+    "name": "군집붕괴현상",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EA%B5%B0%EC%A7%91%EB%B6%95%EA%B4%B4%ED%98%84%EC%83%81",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 69,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "군집붕괴현상 : 21세기 이후 계속 꿀벌 의 군집붕괴현상이 증가하고 있음이 알려져 있는데, 그 원인이 명확하게 밝혀져 있지 않다. 원인이 인간에게 있다는 측은 20세기 말부터 급속도로 보급된 휴대폰 등의 무선기기에서 나오는 전자파나 양봉 과정의 문제, 또는 일부 살충제",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-072",
+    "name": "고양이 가 그르렁거리는 이유",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EA%B3%A0%EC%96%91%EC%9D%B4",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 72,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "고양이 가 그르렁거리는 이유: 고양이의 목구멍에 있는 후두가 수축돼 그르렁 소리를 내는 것까지는 밝혀졌지만, 왜 고양이가 그르렁거리는 소리를 내는지는 동물학자들 역시 설명하지 못하고 있다.",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_EXPLAINED",
+    "verificationBasis": "2023 후두의 수동 발성 실험은 그르렁거리는 모든 이유를 설명하지 않음",
+    "interestScore": 72,
+    "hookCandidates": [],
+    "visualPotential": "가만히 있는 고양이 목이 떨린다",
+    "storyPotential": "후두 조직의 수동 진동 실험",
+    "productionCost": "TTS 없는 시각 중심 영상에서 소리 현상 후킹 약함",
+    "previousEpisodeSimilarity": 0.1,
+    "rejectionReasons": [
+      "관심 점수 80 미만"
+    ],
+    "scoreComponents": {
+      "hook25": 17,
+      "event25": 17,
+      "narrative20": 15,
+      "surprise10": 7,
+      "evidence10": 9,
+      "feasibility10": 7
+    },
+    "evidenceUrls": [
+      "https://www.sciencedirect.com/science/article/pii/S0960982223012307"
+    ],
+    "reviewKey": "purr",
+    "viewerAnswers": {
+      "firstTwoSeconds": "가만히 있는 고양이 목이 떨린다",
+      "visibleOddityWithoutTitle": "후킹 시안의 실제 행동으로 평가. 현상 자체가 보이지 않는 소재는 점수 감점.",
+      "concreteEvent": "가만히 있는 고양이 목이 떨린다",
+      "newMiddleClue": "후두 조직의 수동 진동 실험",
+      "expectationDifference": "2023 후두의 수동 발성 실험은 그르렁거리는 모든 이유를 설명하지 않음",
+      "takeaway": "2023 후두의 수동 발성 실험은 그르렁거리는 모든 이유를 설명하지 않음",
+      "productionFeasibility": "TTS 없는 시각 중심 영상에서 소리 현상 후킹 약함",
+      "similarityToPrevious": "0.1 — 제작 이력 비교에 대한 편집자 판단"
+    }
+  },
+  {
+    "topicId": "namu-cache-listing-076",
+    "name": "나그네쥐 의 집단 행동",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%82%98%EA%B7%B8%EB%84%A4%EC%A5%90",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 76,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "나그네쥐 의 집단 행동: 나그네쥐는 일정 개체 수 이상이 모이면 갑자기 메뚜기마냥 행동양식이 바뀌어 무리가 무조건 일직선으로만 향하는 기괴한 특성을 가지고 있는데, 이러던 도중 다수가 물에 빠져 익사하거나 절벽에 추락하거나 천적에 먹히는 상황으로 인해 자살하는 쥐로 알",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-078",
+    "name": "로키산메뚜기 의 멸종 원인",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%A1%9C%ED%82%A4%EC%82%B0%EB%A9%94%EB%9A%9C%EA%B8%B0",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 78,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "로키산메뚜기 의 멸종 원인: 19세기 미국의 허리케인보다 더한 재앙으로 불린 메뚜기로 1883~1887년에 보고된 한 무리 만 해도 무려 2조 5000억 마리 에 무게만 2700만 톤 이나 되는 엄청난 수를 자랑했음에도 불구하고 그 많던 개체가 1902년 마지막 표본의",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-080",
+    "name": "생태가 불분명한 생물들 대왕오징어 와 남극하트지느러미오징어",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%8C%80%EC%99%95%EC%98%A4%EC%A7%95%EC%96%B4",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 80,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "생태가 불분명한 생물들 대왕오징어 와 남극하트지느러미오징어 : 대중적으로는 이 둘과 훔볼트오징어 를 통틀어서 대왕오징어 라고 많이 지칭하며 [25] , 전근대시대부터 이들에 대한 목격담이 대거 나오고 있다. 그러나, 대왕오징어 와 남극하트지느러미오징어 는 심해 에 사는",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-082",
+    "name": "뱀장어",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%B1%80%EC%9E%A5%EC%96%B4",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 82,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "뱀장어 : 뱀장어속 물고기들은 어떻게 사는지, 어디서 알을 낳는지, 어떤 삶을 사는지 등에 대해 현재까지도 조사가 진행 중이며, 이 때문에 양식 조건을 찾기가 힘들어 양식 하기 힘든 물고기로도 유명하다.",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-084",
+    "name": "타이탄하늘소",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%ED%83%80%EC%9D%B4%ED%83%84%ED%95%98%EB%8A%98%EC%86%8C",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 84,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "타이탄하늘소 : 1771년이라는 굉장히 이른 시기에 현대적인 작명법으로 분류가 된 곤충임에도 불구하고 아직까지 유충이 발견되지 않았다. 본래 하늘소과 생물 대다수의 생태가 잘 알려져 있진 않은 편이지만, 멸종도 되지 않은 곤충인데도 유충이 발견된 경우가 거의 없어서 이",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "성충 존재만 확인. 현재까지 유충 미발견이라는 핵심을 독립 확증하지 못해 보류",
+    "interestScore": 69,
+    "hookCandidates": [],
+    "visualPotential": "손바닥만 한 딱정벌레의 아기 사진 칸이 비어 있다",
+    "storyPotential": "성충 확인과 유충 정보의 공백",
+    "productionCost": "빈 칸을 반복하게 되어 실제 사건 부족",
+    "previousEpisodeSimilarity": 0.08,
+    "rejectionReasons": [
+      "관심 점수 80 미만",
+      "핵심 사실 독립 검증 부족"
+    ],
+    "scoreComponents": {
+      "hook25": 20,
+      "event25": 20,
+      "narrative20": 11,
+      "surprise10": 7,
+      "evidence10": 5,
+      "feasibility10": 6
+    },
+    "evidenceUrls": [
+      "https://www.nhm.ac.uk/discover/what-is-the-biggest-beetle-in-the-world.html"
+    ],
+    "reviewKey": "titan",
+    "viewerAnswers": {
+      "firstTwoSeconds": "손바닥만 한 딱정벌레의 아기 사진 칸이 비어 있다",
+      "visibleOddityWithoutTitle": "후킹 시안의 실제 행동으로 평가. 현상 자체가 보이지 않는 소재는 점수 감점.",
+      "concreteEvent": "손바닥만 한 딱정벌레의 아기 사진 칸이 비어 있다",
+      "newMiddleClue": "성충 확인과 유충 정보의 공백",
+      "expectationDifference": "성충 존재만 확인. 현재까지 유충 미발견이라는 핵심을 독립 확증하지 못해 보류",
+      "takeaway": "성충 존재만 확인. 현재까지 유충 미발견이라는 핵심을 독립 확증하지 못해 보류",
+      "productionFeasibility": "빈 칸을 반복하게 되어 실제 사건 부족",
+      "similarityToPrevious": "0.08 — 제작 이력 비교에 대한 편집자 판단"
+    }
+  },
+  {
+    "topicId": "namu-cache-listing-087",
+    "name": "52헤르츠 고래",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/52%ED%97%A4%EB%A5%B4%EC%B8%A0%20%EA%B3%A0%EB%9E%98",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 87,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "52헤르츠 고래 : 일명 \"세상에서 가장 외로운 고래\". 1989년에 소리가 발견된 이후 현재까지 미국 해군 의 관측기에 해당 생물체가 내는 52Hz의 주파수가 잡힌다.",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_UNRESOLVED",
+    "verificationBasis": "52Hz 신호 추적 확인; 외로움이나 소통 불능은 확인되지 않음",
+    "interestScore": 67,
+    "hookCandidates": [],
+    "visualPotential": "바닷속 소리는 잡히는데 주인은 보이지 않는다",
+    "storyPotential": "반복 신호 관측과 개체 미확인 구분",
+    "productionCost": "또 파형 도식 중심이 되기 쉬움",
+    "previousEpisodeSimilarity": 0.48,
+    "rejectionReasons": [
+      "관심 점수 80 미만"
+    ],
+    "scoreComponents": {
+      "hook25": 15,
+      "event25": 16,
+      "narrative20": 13,
+      "surprise10": 8,
+      "evidence10": 9,
+      "feasibility10": 6
+    },
+    "evidenceUrls": [
+      "https://www.whoi.edu/oceanus/feature/a-lone-voice-crying-in-the-watery-wilderness/"
+    ],
+    "reviewKey": "whale52",
+    "viewerAnswers": {
+      "firstTwoSeconds": "바닷속 소리는 잡히는데 주인은 보이지 않는다",
+      "visibleOddityWithoutTitle": "후킹 시안의 실제 행동으로 평가. 현상 자체가 보이지 않는 소재는 점수 감점.",
+      "concreteEvent": "바닷속 소리는 잡히는데 주인은 보이지 않는다",
+      "newMiddleClue": "반복 신호 관측과 개체 미확인 구분",
+      "expectationDifference": "52Hz 신호 추적 확인; 외로움이나 소통 불능은 확인되지 않음",
+      "takeaway": "52Hz 신호 추적 확인; 외로움이나 소통 불능은 확인되지 않음",
+      "productionFeasibility": "또 파형 도식 중심이 되기 쉬움",
+      "similarityToPrevious": "0.48 — 제작 이력 비교에 대한 편집자 판단"
+    }
+  },
+  {
+    "topicId": "namu-cache-listing-090",
+    "name": "필히너-론네 빙붕 해저 생물",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%ED%95%84%ED%9E%88%EB%84%88-%EB%A1%A0%EB%84%A4%20%EB%B9%99%EB%B6%95%20%ED%95%B4%EC%A0%80%20%EC%83%9D%EB%AC%BC",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 90,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "필히너-론네 빙붕 해저 생물 : 2021년 영국 남극조사단(BAS)이 남극 필히너-론네 빙붕(Filchner-Ronne Ice Shelf)의 얼음층을 뚫고 그 아래 깊이 1,200 m의 해저를 촬영했는데 그곳에서 돌에 붙어 있는 길이 2~6 cm 정도인 미확인 생명체를",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_UNRESOLVED",
+    "verificationBasis": "2021 실제 영상과 부착생물 확인; 영양분이 전혀 없다고 말하지 않음",
+    "interestScore": 84,
+    "hookCandidates": [
+      {
+        "HOOK_IMAGE": "어두운 바위에 붙은 생물",
+        "HOOK_ACTION": "탐사 카메라 불빛이 켜진다",
+        "HOOK_CAPTION": "이 아래에 생명이?",
+        "VIEWER_GAP": "먹이가 먼 곳의 정착 생물→해류 가설과 미확인 범위",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "끝없이 긴 얼음 시추공",
+        "HOOK_ACTION": "케이블이 내려간다",
+        "HOOK_CAPTION": "빛도 없는데",
+        "VIEWER_GAP": "먹이가 먼 곳의 정착 생물→해류 가설과 미확인 범위",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "부착생물과 먼 바다 단면",
+        "HOOK_ACTION": "먹이 입자가 흘러온다",
+        "HOOK_CAPTION": "무엇을 먹을까?",
+        "VIEWER_GAP": "먹이가 먼 곳의 정착 생물→해류 가설과 미확인 범위",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      }
+    ],
+    "visualPotential": "얼음 아래로 내려간 카메라 앞에 붙박이 생물이 나타난다",
+    "storyPotential": "먹이가 먼 곳의 정착 생물→해류 가설과 미확인 범위",
+    "productionCost": "빙붕·수중·생물 장면 비용 높음",
+    "previousEpisodeSimilarity": 0.22,
+    "rejectionReasons": [],
+    "scoreComponents": {
+      "hook25": 22,
+      "event25": 22,
+      "narrative20": 16,
+      "surprise10": 9,
+      "evidence10": 9,
+      "feasibility10": 6
+    },
+    "evidenceUrls": [
+      "https://www.bas.ac.uk/data/our-data/publication/breaking-all-the-rules-the-first-recorded-hard-substrate-sessile-benthic-community-far-beneath-an-antarctic-ice-shelf/"
+    ],
+    "reviewKey": "subice",
+    "viewerAnswers": {
+      "firstTwoSeconds": "얼음 아래로 내려간 카메라 앞에 붙박이 생물이 나타난다",
+      "visibleOddityWithoutTitle": "후킹 시안의 실제 행동으로 평가. 현상 자체가 보이지 않는 소재는 점수 감점.",
+      "concreteEvent": "얼음 아래로 내려간 카메라 앞에 붙박이 생물이 나타난다",
+      "newMiddleClue": "먹이가 먼 곳의 정착 생물→해류 가설과 미확인 범위",
+      "expectationDifference": "2021 실제 영상과 부착생물 확인; 영양분이 전혀 없다고 말하지 않음",
+      "takeaway": "2021 실제 영상과 부착생물 확인; 영양분이 전혀 없다고 말하지 않음",
+      "productionFeasibility": "빙붕·수중·생물 장면 비용 높음",
+      "similarityToPrevious": "0.22 — 제작 이력 비교에 대한 편집자 판단"
+    }
+  },
+  {
+    "topicId": "namu-cache-history-034",
+    "name": "알 나슬라 바위 (Al Naslaa Rock)",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%97%AD%EC%82%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%95%8C%20%EB%82%98%EC%8A%AC%EB%9D%BC%20%EB%B0%94%EC%9C%84",
+    "category": "역사 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\history.html",
+      "liIndex": 34,
+      "sha256": "9ff13e99ea2d460a6dea94c4ee25b911ab832b3fd485760bc41d31ff71e400e9"
+    },
+    "description": "알 나슬라 바위 (Al Naslaa Rock): 사우디 아라비아 소재. 거대한 바위가 정 중앙으로 완벽하고 깔끔하게 둘로 쪼개져서 고스란히 세워져 있다. 자연물이라고 보기에는 너무 깔끔해서 마치 어떤 초고대문명이 레이저로 바위를 가른 것처럼 보일 정도.",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-history-084",
+    "name": "보이니치 문서",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%97%AD%EC%82%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%B3%B4%EC%9D%B4%EB%8B%88%EC%B9%98%20%EB%AC%B8%EC%84%9C",
+    "category": "역사 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\history.html",
+      "liIndex": 84,
+      "sha256": "9ff13e99ea2d460a6dea94c4ee25b911ab832b3fd485760bc41d31ff71e400e9"
+    },
+    "description": "보이니치 문서 : 발견 직후에 알 수 없는 글자들로 되어 있어서 큰 화제를 모았던 미해독 문서다. 대충 중세기의 여러 가지 자연과학 지식들을 집대성한 일종의 백과사전 이라고 짐작되었고, 최근에는 여러 여성들이 물 속에 몸을 담그는 모습이 나오는 페이지가 있는 점과 책 ",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_UNRESOLVED",
+    "verificationBasis": "예일 소장 실물과 미해독 상태 확인; 해독 완료를 꾸미지 않음",
+    "interestScore": 78,
+    "hookCandidates": [
+      {
+        "HOOK_IMAGE": "읽을 수 없는 책 페이지",
+        "HOOK_ACTION": "민수가 책을 돌려도 못 읽는다",
+        "HOOK_CAPTION": "무슨 글자지?",
+        "VIEWER_GAP": "원본의 기호 규칙과 해독 실패를 구분",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "서로 다른 해독 카드",
+        "HOOK_ACTION": "같은 문장에서 답이 갈린다",
+        "HOOK_CAPTION": "정말 풀렸을까?",
+        "VIEWER_GAP": "원본의 기호 규칙과 해독 실패를 구분",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "오래된 종이와 이상한 식물 그림",
+        "HOOK_ACTION": "페이지를 확대한다",
+        "HOOK_CAPTION": "책은 진짜인데",
+        "VIEWER_GAP": "원본의 기호 규칙과 해독 실패를 구분",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      }
+    ],
+    "visualPotential": "책을 펼쳤는데 익숙한 글자가 하나도 없다",
+    "storyPotential": "원본의 기호 규칙과 해독 실패를 구분",
+    "productionCost": "책 넘김은 가능하지만 시각 보상이 약함",
+    "previousEpisodeSimilarity": 0.05,
+    "rejectionReasons": [
+      "관심 점수 80 미만"
+    ],
+    "scoreComponents": {
+      "hook25": 19,
+      "event25": 19,
+      "narrative20": 15,
+      "surprise10": 8,
+      "evidence10": 9,
+      "feasibility10": 8
+    },
+    "evidenceUrls": [
+      "https://beinecke.library.yale.edu/beinecke/collections/beinecke-cipher-voynich-manuscript"
+    ],
+    "reviewKey": "voynich",
+    "viewerAnswers": {
+      "firstTwoSeconds": "책을 펼쳤는데 익숙한 글자가 하나도 없다",
+      "visibleOddityWithoutTitle": "후킹 시안의 실제 행동으로 평가. 현상 자체가 보이지 않는 소재는 점수 감점.",
+      "concreteEvent": "책을 펼쳤는데 익숙한 글자가 하나도 없다",
+      "newMiddleClue": "원본의 기호 규칙과 해독 실패를 구분",
+      "expectationDifference": "예일 소장 실물과 미해독 상태 확인; 해독 완료를 꾸미지 않음",
+      "takeaway": "예일 소장 실물과 미해독 상태 확인; 해독 완료를 꾸미지 않음",
+      "productionFeasibility": "책 넘김은 가능하지만 시각 보상이 약함",
+      "similarityToPrevious": "0.05 — 제작 이력 비교에 대한 편집자 판단"
+    }
+  },
+  {
+    "topicId": "namu-cache-history-085",
+    "name": "인더스 문자",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%97%AD%EC%82%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%9D%B8%EB%8D%94%EC%8A%A4%20%EB%AC%B8%EC%9E%90",
+    "category": "역사 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\history.html",
+      "liIndex": 85,
+      "sha256": "9ff13e99ea2d460a6dea94c4ee25b911ab832b3fd485760bc41d31ff71e400e9"
+    },
+    "description": "인더스 문자 : 인더스 문명 의 유적지인 모헨조다로 에서 인장 형태로 많은 문자들이 발견되었지만, 인장이다 보니 같은 문자로 추측되는 계열 내에서도 형태 변형이 굉장히 다양하고 글 자체가 짧아, 이것이 대체 무엇을 뜻한 글자이며 표음 문자인지 표의 문자인지도 아직 알 ",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-history-129",
+    "name": "The Most Mysterious Song on the Internet",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%97%AD%EC%82%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/Subways%20Of%20Your%20Mind",
+    "category": "역사 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\history.html",
+      "liIndex": 129,
+      "sha256": "9ff13e99ea2d460a6dea94c4ee25b911ab832b3fd485760bc41d31ff71e400e9"
+    },
+    "description": "The Most Mysterious Song on the Internet : 1980년 초반에 서독 의 한 라디오 방송에서 나온 노래인데 네티즌들의 추적에도 불구하고 제목, 가수, 가사 를 알아내지 못하고 있다. 심지어 노래를 송출한 방송국으로 지목된 북부독일방송 의 ",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-history-135",
+    "name": "크리스탈 해골",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%97%AD%EC%82%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88%20%ED%95%B4%EA%B3%A8",
+    "category": "역사 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\history.html",
+      "liIndex": 135,
+      "sha256": "9ff13e99ea2d460a6dea94c4ee25b911ab832b3fd485760bc41d31ff71e400e9"
+    },
+    "description": "크리스탈 해골 : 발견 당시에 이게 마야 문명과 연관되었다는 발견자인 미첼 헤치스의 주장은 여러모로 다양한 기법과 방법으로 반박이 된 데다가 미첼 헤치스 가족이 경매장에서 사왔다고(...) 시인해서 조작된 것으로 고고학계에선 묻혔지만, 최근 미술사학계에서 이것이 예술 ",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "DEBUNKED",
+    "verificationBasis": "박물관 소장품의 현대 제작 판정에 범위 제한. 모든 수정 유물을 일반화하지 않음",
+    "interestScore": 72,
+    "hookCandidates": [],
+    "visualPotential": "고대처럼 보이는 수정 해골에 현대 공구 흔적이 보인다",
+    "storyPotential": "확대 관찰이 제작시대 주장을 뒤집음",
+    "productionCost": "정밀 수정 재질·도구흔적 확대 비용 높음",
+    "previousEpisodeSimilarity": 0.08,
+    "rejectionReasons": [
+      "관심 점수 80 미만"
+    ],
+    "scoreComponents": {
+      "hook25": 19,
+      "event25": 18,
+      "narrative20": 14,
+      "surprise10": 7,
+      "evidence10": 8,
+      "feasibility10": 6
+    },
+    "evidenceUrls": [
+      "https://www.britishmuseum.org/collection/object/E_Am1898-1"
+    ],
+    "reviewKey": "skull",
+    "viewerAnswers": {
+      "firstTwoSeconds": "고대처럼 보이는 수정 해골에 현대 공구 흔적이 보인다",
+      "visibleOddityWithoutTitle": "후킹 시안의 실제 행동으로 평가. 현상 자체가 보이지 않는 소재는 점수 감점.",
+      "concreteEvent": "고대처럼 보이는 수정 해골에 현대 공구 흔적이 보인다",
+      "newMiddleClue": "확대 관찰이 제작시대 주장을 뒤집음",
+      "expectationDifference": "박물관 소장품의 현대 제작 판정에 범위 제한. 모든 수정 유물을 일반화하지 않음",
+      "takeaway": "박물관 소장품의 현대 제작 판정에 범위 제한. 모든 수정 유물을 일반화하지 않음",
+      "productionFeasibility": "정밀 수정 재질·도구흔적 확대 비용 높음",
+      "similarityToPrevious": "0.08 — 제작 이력 비교에 대한 편집자 판단"
+    }
+  },
+  {
+    "topicId": "namu-cache-main-027",
+    "name": "A858",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/A858",
+    "category": "인터넷 미스터리",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\main.html",
+      "liIndex": 27,
+      "sha256": "b152a7c93e4456b4a719f66c598a8404fae1730839753e8b8e37f7487809323a"
+    },
+    "description": "A858 : 레딧 에 게시되던 꾸준글 로 치부되었지만, 이것이 스톤헨지 와 관련된 암호화된 내용을 담고 있다는 것이 알려졌다. 반미적인 메시지를 담고 있다는 썰도 존재한다.",
+    "discoveredAt": "2026-10-12T14:11:50+09:00",
+    "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "UNREVIEWED_CACHE_CLAIM; not a factual endorsement",
+    "interestScore": null,
+    "hookCandidates": [],
+    "visualPotential": null,
+    "storyPotential": null,
+    "productionCost": null,
+    "previousEpisodeSimilarity": null,
+    "rejectionReasons": [
+      "이번 상세 검토 10개 밖; 원문 주장 단계 보류"
+    ]
+  }
+]

@@ -1,0 +1,300 @@
+{
+  "topic": "케랄라의 붉은 비",
+  "score": 93,
+  "scoreType": "editorial judgment; not audience performance",
+  "verificationStatus": "VERIFIED_EXPLAINED",
+  "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+  "science": {
+    "scope": "2001 Changanacherry tested samples",
+    "sources": [
+      "https://www.iangoddard.com/sampath2001.pdf",
+      "https://doi.org/10.1029/2002EO000250",
+      "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.062711-0"
+    ],
+    "known": [
+      "붉은 강우 관측",
+      "침강 입자",
+      "배양과 주변 시료에서 Trentepohlia 속 확인"
+    ],
+    "unknown": [
+      "대량의 포자가 동시에 공중으로 이동한 정확한 경로"
+    ],
+    "simplification": "역할극·입자크기확대·침강/배양시간압축; 실제 현장/현미경 영상 아님",
+    "noExtraterrestrialClaim": true
+  },
+  "storyMap": {
+    "기": "흰 우산에 붉은 비가 튄다. 민수가 빗물을 모은다.",
+    "승": "가라앉는 입자와 현미경의 작은 점에서 단서를 얻는다.",
+    "전": "배양에서 조류가 자라며 조사팀의 포자 판정과 연결된다.",
+    "결": "주변 나무에도 같은 종류. 대량 공중 유입은 미확인이나 이 시료의 색은 생물 입자로 설명된다."
+  },
+  "hook": {
+    "HOOK_IMAGE": "흰 우산에 붉은 빗방울이 튄다",
+    "HOOK_ACTION": "우산을 든 민수가 뒤로 물러선다",
+    "HOOK_CAPTION": "비가 빨갛다?",
+    "VIEWER_GAP": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+    "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+  },
+  "outputs": {
+    "korean": "exports\\MINSU_EP08_V5_RED_RAIN_KO.mp4",
+    "english": "exports\\MINSU_EP08_V5_RED_RAIN_EN.mp4",
+    "preview": "exports/MINSU_EP08_V5_PREVIEW.mp4",
+    "sample": "exports/MINSU_EP08_V5_ART_SAMPLE.mp4"
+  },
+  "render": {
+    "preview": {
+      "nativeRenderSeconds": 467.79245250007807,
+      "wallSeconds": 543.3671563999997,
+      "renderedFrames": 1020,
+      "reusedFrames": 0,
+      "assetCache": "HIT",
+      "allRecordedNativeRenderSeconds": 467.79245250007807,
+      "warmRuns": []
+    },
+    "final": {
+      "nativeRenderSeconds": 596.9433049999534,
+      "wallSeconds": 648.4384413000007,
+      "renderedFrames": 1020,
+      "reusedFrames": 0,
+      "assetCache": "HIT",
+      "allRecordedNativeRenderSeconds": 791.268255699968,
+      "warmRuns": [
+        {
+          "seconds": 3.431369800000539,
+          "reusedFrames": 1020
+        }
+      ]
+    },
+    "koreanCompositeSeconds": 67.75315590000173,
+    "englishCompositeSeconds": 73.89458559999912
+  },
+  "assets": {
+    "version": "5.0.0",
+    "countUnit": "logical reusable asset, not mesh object",
+    "reusedAssets": [
+      "MINSU_CUTE_V21 rig",
+      "Galmuri11 Bold",
+      "Galmuri11 Regular",
+      "curious_desert_100 BGM",
+      "soft_pop SFX",
+      "ui_pop SFX",
+      "discovery SFX"
+    ],
+    "reusedCount": 7,
+    "newLogicalBundles": [
+      "warm courtyard",
+      "warm laboratory",
+      "microscopy stage",
+      "white umbrella with stains",
+      "sample jar",
+      "microscope",
+      "culture dish",
+      "bark sample",
+      "algal cells and growth chain"
+    ],
+    "newBundleCount": 9,
+    "newExternalDownloads": 0,
+    "newAudioAssets": 0,
+    "newFonts": 0,
+    "materialTreatment": "existing pixel material generator with V5 palette and triplanar seam correction",
+    "cache": "single packed .blend across native sizes; content-addressed native shots, glyph atlases, text, UI clips and audio"
+  },
+  "optimization": {
+    "oneStructuredEpisode": true,
+    "perShotLlmRequests": 0,
+    "remoteLlmApiCallsByPipeline": 0,
+    "sessionTokenUsage": "not available; no claimed measured token savings",
+    "masterSpecCharacters": 11421,
+    "compactBriefCharacters": 2275,
+    "sceneSpecCharacters": 16595,
+    "commonConfigurationFiles": [
+      "ASSET_MANIFEST.json",
+      "CAMERA_PRESETS.json",
+      "CHARACTER_LIBRARY.json",
+      "EFFECT_LIBRARY.json",
+      "FONT_THEME.json",
+      "POST_PROCESS_PRESETS.json",
+      "QA_RULES.json",
+      "RULE_RESOLUTION.json",
+      "SCENE_SCHEMA.json",
+      "STYLE_SPEC.json",
+      "WORLD_PRESETS.json"
+    ],
+    "candidateCacheDownloadsThisBatch": 0,
+    "batchCounts": [
+      40,
+      10,
+      5,
+      1
+    ],
+    "concurrency": 1,
+    "sampledBlenderWorkingSetBytes": 1280864256,
+    "captionChangeDuringPreview": "P-045 changed only the UI; active native render continued without restart",
+    "limitations": [
+      "Candidate scores are editorial judgments, not trained interest predictions",
+      "New unimplemented topic scene adapters are held; there is no universal automatic 3D scene generator",
+      "Actual token accounting for this interactive session is not exposed"
+    ],
+    "measuredFinalPreflight": {
+      "projectedShotsReused": 9,
+      "uiCheckSeconds": 11.915087699999276,
+      "earlierUiCheckSeconds": 48.13487990000067,
+      "reason": "Skip CRT in layout-only preflight; use verified normalized preview projection for final resolution"
+    },
+    "creativeRevisionRounds": 4,
+    "memorySamplesBytes": [
+      1280864256,
+      710098944
+    ],
+    "finalProjectionCacheUses": 9
+  },
+  "cache": {
+    "englishNativeFramesReused": 1020,
+    "englishAudioCacheHit": true,
+    "koreanUiCacheHits": [],
+    "englishUiCacheHits": []
+  },
+  "post": {
+    "version": "5.0.0",
+    "order": [
+      "native3D",
+      "nativeOutline",
+      "nearestIntegerUpscale",
+      "UI",
+      "fixedScanlines",
+      "subpixelColorFringe",
+      "encode"
+    ],
+    "default": "MOBILE",
+    "presets": {
+      "OFF": {
+        "period": 4,
+        "opacity": 0,
+        "bleed": 0
+      },
+      "REFERENCE": {
+        "period": 4,
+        "opacity": 0.1,
+        "bleed": 0.5
+      },
+      "MOBILE": {
+        "period": 4,
+        "opacity": 0.06,
+        "bleed": 0.25
+      },
+      "STRONG": {
+        "period": 4,
+        "opacity": 0.14,
+        "bleed": 1
+      }
+    },
+    "phase": 0,
+    "uiBleedMultiplier": 0.2
+  },
+  "technicalQA": {
+    "korean": "PASS",
+    "english": "PASS",
+    "sourcePreservation": {
+      "checked": 37,
+      "changed": []
+    },
+    "fontFallbacks": 0,
+    "aacTruePeak": "-7.78"
+  },
+  "editorial": {
+    "decision": "DELIVER_WITH_EDITORIAL_LIMITS",
+    "reviewer": "assistant inspecting actual decoded MP4 frames",
+    "audienceTest": false,
+    "humanRealtimePlayback": false,
+    "humanListening": false,
+    "evidence": [
+      {
+        "path": "production\\minsu_v5\\review\\final\\cut_grid.jpg",
+        "sha256": "7c4543347ccde2329caa406f4e6a7257e4a2004a574d07af827693ab64c81b7b"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\final\\discovery_sequence.jpg",
+        "sha256": "d4611965f8b84a4987995b9e0b9b328ca21e3b6ab512b32b6d76f69bc8b0cabd"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\final\\return_sequence.jpg",
+        "sha256": "4d8f12b6df97894939307e6ff008b4640acea1ccf8b3bdcaceb25a35e6deccb2"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\english\\cut_grid.jpg",
+        "sha256": "2c61b90d05ef2caa3a901300c1ad36e5e163fcd8daa600c0d657f1d45a5efbab"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\comparison\\reference_comparison.jpg",
+        "sha256": "35b9778fd0e25e95f65c2c94dd221486db1de4b8699588811c0c28c9bec38050"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\comparison\\reference_pixel_crops.png",
+        "sha256": "ff5b792e46de463aece734fe1274056061edd5655432794275e7c86daf48972b"
+      },
+      {
+        "path": "production\\minsu_v5\\review\\audio_envelope.png",
+        "sha256": "473409e1c4ca117566fb21871e340714c2b4d797571ad3ccf68577c0f5ebb9a7"
+      }
+    ],
+    "findings": {
+      "hook": "첫 프레임부터 우산과 붉은 빗방울이 보인다. 제목만으로 현상을 설명하던 EP07보다 구체적이다.",
+      "causality": "입자 침강→현미경 확대→배양 성장→조류 포자라는 조사 결론으로 이어진다. 포자의 대량 공중 유입 원리는 미해결로 남긴다.",
+      "shotPurpose": "9컷은 사건·채집·침강·미세 관찰·배양·발견 반응·주변 시료 비교·미확인 범위·회귀 결론을 담당한다.",
+      "emphasis": "일반 설명의 효과를 줄이고 배양체 성장에 가장 큰 노란 글자·카메라 변화·발견음을 묶었다. 레퍼런스 4의 강한 감정 연기보다는 절제되어 있다.",
+      "typography": "같은 역할의 폰트가 통일됐고 한/영 동시 중복을 없앴다. 시료 라벨은 해당 오브젝트의 투영 좌표를 따른다.",
+      "character": "우산을 들고 비를 모으며 몸통·고개·팔·다리·표정이 변한다. 실험실 컷은 반응 중심이고 도구를 직접 조작하는 세밀한 연기는 부족하다.",
+      "pixelCRT": "최종 MP4 확대 크롭에서 계단 경계와 고정 스캔라인이 확인된다. 레퍼런스보다 CRT 농도가 약하며 모바일 가독성을 우선한 선택이다.",
+      "style": "따뜻한 마당·실험실과 구분되는 어두운 현미경 세계를 사용한다. 머리카락 모서리 결함은 수정됐다. 일부 작은 소품의 텍셀 밀도 차이는 남아 있다.",
+      "ending": "처음의 붉은 비가 작은 생물 입자의 색으로 다시 이해된다. 새로운 미스터리를 덧붙이지 않는다.",
+      "audio": "파형에서 발견 직전 BGM 감소와 15.6초 SFX를 확인했다. 실제 청취 승인으로 간주하지 않는다."
+    },
+    "limitations": [
+      "관객 완주율과 재미를 실측하지 않았다.",
+      "손·시선·접촉 동작은 레퍼런스 대비 단순하다.",
+      "전체 씬의 월드 기준 텍셀 밀도를 완전히 통일하지 못했다.",
+      "현미경·배양 장면은 7초간 원형 구도가 이어진다. 정보와 성장 동작은 바뀌지만 더 풍부한 공간 연출 여지가 있다.",
+      "실시간 연속 재생 감상·인간 청취 검수는 수행하지 못했다.",
+      "향후 새로운 주제의 어댑터·에셋은 별도 구현과 미술 검수가 필요하다."
+    ]
+  },
+  "creativeRevisionRounds": 4,
+  "changedModules": [
+    "discovery.py + topic_history.py",
+    "directors.py + SceneSpec/config",
+    "character_director.py + rain_scene.py + art_v5.py",
+    "typography.py",
+    "audio_direction.py",
+    "render.py + compose.py + run.py",
+    "model_review.py + inspect_episode.py + qa_final.py"
+  ],
+  "limitations": [
+    "관객 완주율·흥미 점수는 실제 사용자 시험으로 검증하지 않았다.",
+    "실제 MP4 프레임 시퀀스를 검수했으며 실시간 재생 감상·사람의 음악 청취 검수는 하지 못했다.",
+    "손가락·시선·물체 접촉 연기는 레퍼런스 대비 단순하다.",
+    "작은 소품과 납작한 세포의 축척 때문에 월드 기준 텍셀 밀도는 완전히 같지 않다.",
+    "새 주제의 임의 3D 장면을 범용 자동 생성하지 않는다. 검증된 SceneSpec와 구현된 어댑터만 제작한다.",
+    "나무위키 실시간 갱신은 접근 제한으로 수행하지 않았으며 기존 캐시를 사용했다."
+  ],
+  "cacheBenchmark": {
+    "nativeRenderSeconds": 0,
+    "nativeWallSeconds": 3.431369800000539,
+    "nativeReusedFrames": 1020,
+    "assetCache": "HIT",
+    "uiCacheHits": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S05",
+      "S06",
+      "S07",
+      "S08",
+      "S09"
+    ],
+    "uiCompositeSeconds": 3.4867563000007067,
+    "audioCacheHit": true,
+    "totalWallSeconds": 8.326985899999272,
+    "benchmarkVideo": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\production\\minsu_v5\\review\\cache_benchmark\\cached.mp4"
+  }
+}

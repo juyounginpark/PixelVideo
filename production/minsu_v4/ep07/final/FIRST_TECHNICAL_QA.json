@@ -1,0 +1,296 @@
+{
+  "status": "FAIL",
+  "checkedNativeAndUIFrames": 1050,
+  "errors": [
+    "outer clipped S02/0",
+    "outer clipped S02/1",
+    "outer clipped S02/2",
+    "outer clipped S02/3",
+    "outer clipped S02/4",
+    "outer clipped S02/5",
+    "outer clipped S02/6",
+    "outer clipped S02/7",
+    "outer clipped S02/8",
+    "outer clipped S02/9",
+    "outer clipped S02/10",
+    "outer clipped S02/11",
+    "outer clipped S02/12",
+    "outer clipped S02/13",
+    "outer clipped S02/14",
+    "outer clipped S02/15",
+    "outer clipped S02/16",
+    "outer clipped S02/17",
+    "outer clipped S02/18",
+    "outer clipped S02/19",
+    "outer clipped S02/20",
+    "outer clipped S02/21",
+    "outer clipped S02/22",
+    "outer clipped S02/23",
+    "outer clipped S02/24",
+    "outer clipped S02/25",
+    "outer clipped S02/26",
+    "outer clipped S02/27",
+    "outer clipped S02/28",
+    "outer clipped S02/29",
+    "outer clipped S02/30",
+    "outer clipped S02/31",
+    "outer clipped S02/32",
+    "outer clipped S02/33",
+    "outer clipped S02/34",
+    "outer clipped S02/35",
+    "outer clipped S02/36",
+    "outer clipped S02/37",
+    "outer clipped S02/38",
+    "outer clipped S02/39",
+    "outer clipped S02/40",
+    "outer clipped S02/41",
+    "outer clipped S02/42",
+    "outer clipped S02/43",
+    "outer clipped S02/44",
+    "outer clipped S02/45",
+    "outer clipped S02/46",
+    "outer clipped S02/47",
+    "outer clipped S02/48",
+    "outer clipped S02/49",
+    "outer clipped S02/50",
+    "outer clipped S02/51",
+    "outer clipped S02/52",
+    "outer clipped S02/53",
+    "outer clipped S02/54",
+    "outer clipped S02/55",
+    "outer clipped S02/56",
+    "outer clipped S02/57",
+    "outer clipped S02/58",
+    "outer clipped S02/59",
+    "outer clipped S02/60",
+    "outer clipped S02/61",
+    "outer clipped S02/62",
+    "outer clipped S02/63",
+    "outer clipped S02/64",
+    "outer clipped S02/65",
+    "outer clipped S02/66",
+    "outer clipped S02/67",
+    "outer clipped S02/68",
+    "outer clipped S02/69",
+    "outer clipped S02/70",
+    "outer clipped S02/71",
+    "outer clipped S02/72",
+    "outer clipped S02/73",
+    "outer clipped S02/74",
+    "outer clipped S02/75",
+    "outer clipped S02/76",
+    "outer clipped S02/77",
+    "outer clipped S02/78"
+  ],
+  "outputMetadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 30.0,
+    "source_size": [
+      1080,
+      1920
+    ],
+    "size": [
+      1080,
+      1920
+    ],
+    "rotate": 0,
+    "duration": 35.0
+  },
+  "fontCoverage": {
+    "checkedCharacters": 1052,
+    "fallbacks": 0,
+    "fontFaces": [
+      "PIXEL_DISPLAY",
+      "PIXEL_BODY"
+    ]
+  },
+  "pixelNearestEvidence": [
+    {
+      "shot": "S01",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S02",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S03",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S04",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S05",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S06",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S07",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S08",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S09",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S10",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    }
+  ],
+  "audioEventCount": 10,
+  "maxAudioSyncErrorSeconds": 0.0,
+  "aacDecodedAlignmentSeconds": 0.0,
+  "aacCorrelation": 0.9999607800466176,
+  "audioPeakPassed": true,
+  "audioLoopPassed": true,
+  "audioTimingReported": [
+    {
+      "frame": 26,
+      "time": 0.8666666666666667,
+      "sound": "ui_pop",
+      "gainDb": -11,
+      "event": "같은 바깥 궤도 위 노란 관측 별이 점선 예상 별을 앞선다",
+      "duck": false,
+      "sampleIndex": 41600,
+      "actualTime": 0.8666666666666667,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 128,
+      "time": 4.266666666666667,
+      "sound": "soft_whoosh",
+      "gainDb": -11,
+      "event": "관측판 가까이 몸을 기울이고 밝은 별 부분을 손으로 가리킨다",
+      "duck": false,
+      "sampleIndex": 204800,
+      "actualTime": 4.266666666666667,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 218,
+      "time": 7.266666666666667,
+      "sound": "soft_pop",
+      "gainDb": -10,
+      "event": "밝은 중심은 남기고 바깥 궤도 별과 짧은 이동 흔적을 보여준다",
+      "duck": false,
+      "sampleIndex": 348800,
+      "actualTime": 7.266666666666667,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 325,
+      "time": 10.833333333333334,
+      "sound": "soft_pop",
+      "gainDb": -10,
+      "event": "동일 궤도 위 노란 관측 별이 흰 점선 예상 별을 앞서 나간다",
+      "duck": false,
+      "sampleIndex": 520000,
+      "actualTime": 10.833333333333334,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 420,
+      "time": 14.0,
+      "sound": "soft_whoosh",
+      "gainDb": -11,
+      "event": "별이 직선으로 갈 방향과 중심으로 당기는 화살표가 순서대로 생겨 곡선 궤도를 만든다",
+      "duck": false,
+      "sampleIndex": 672000,
+      "actualTime": 14.0,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 527,
+      "time": 17.566666666666666,
+      "sound": "soft_pop",
+      "gainDb": -10,
+      "event": "위쪽 느린 별과 아래쪽 빠른 별에 각기 짧고 긴 안쪽 화살표를 연결한다",
+      "duck": false,
+      "sampleIndex": 843200,
+      "actualTime": 17.566666666666666,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 644,
+      "time": 21.466666666666665,
+      "sound": "discovery",
+      "gainDb": -5,
+      "event": "작은 발광 은하 주위로 넓은 민트색 점선 구가 드러난다",
+      "duck": true,
+      "sampleIndex": 1030400,
+      "actualTime": 21.466666666666665,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 762,
+      "time": 25.4,
+      "sound": "ui_pop",
+      "gainDb": -10,
+      "event": "민수가 모형 스위치를 누르자 점선 예상 별이 노란 관측 별과 겹친다",
+      "duck": false,
+      "sampleIndex": 1219200,
+      "actualTime": 25.4,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 878,
+      "time": 29.266666666666666,
+      "sound": "soft_whoosh",
+      "gainDb": -11,
+      "event": "민수가 표시를 끄자 점선 구는 사라져도 별은 계속 돈다",
+      "duck": false,
+      "sampleIndex": 1404800,
+      "actualTime": 29.266666666666666,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 972,
+      "time": 32.4,
+      "sound": "ui_pop",
+      "gainDb": -10,
+      "event": "처음의 두 궤적이 일치한 상태를 유지하고 민수가 관측판을 향해 고개를 끄덕인다",
+      "duck": false,
+      "sampleIndex": 1555200,
+      "actualTime": 32.4,
+      "syncErrorSeconds": 0.0
+    }
+  ],
+  "audioFinalMeasurement": {
+    "input_i": "-19.01",
+    "input_tp": "-9.64",
+    "input_lra": "1.50",
+    "input_thresh": "-29.09",
+    "output_i": "-19.10",
+    "output_tp": "-9.92",
+    "output_lra": "1.10",
+    "output_thresh": "-29.13",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "preservedFiles": 62,
+  "preservationChanges": [],
+  "ttsEnabled": false,
+  "editorialPass": false
+}

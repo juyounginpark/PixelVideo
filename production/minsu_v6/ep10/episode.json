@@ -1,0 +1,614 @@
+{
+  "episode": "EP10_V6",
+  "topicId": "namu-cache-listing-146",
+  "fps": 30,
+  "durationFrames": 960,
+  "commonVersion": "6.0.0",
+  "storyMap": {
+    "기": "같은 잔이 빛의 위치에 따라 녹색→붉은색",
+    "승": "교체 없는 잔과 앞/뒤 조명 조건 조사",
+    "전": "같은 유리 벽 확대, 나노입자와 반사/투과 경로 설명",
+    "결": "동일 월드 상태 복귀, 첫 조명 동작을 다시 이해"
+  },
+  "shots": [
+    {
+      "id": "S01",
+      "startFrame": 0,
+      "endFrame": 120,
+      "mode": "WORLD_ACTION",
+      "narrativeRole": "기",
+      "primarySubject": "same_cup",
+      "viewerQuestion": "빛만 옮겼는데 왜 색이 바뀌지?",
+      "newInformation": "조명 위치와 함께 잔의 색이 바뀐다",
+      "visualAction": "민수가 흰 조명을 앞으로부터 뒤로 이동",
+      "scientificMeaning": "조명 위치와 함께 잔의 색이 바뀐다",
+      "characterEmotion": "놀람: 걷기→고개·몸통 반응",
+      "cameraPlan": "hero",
+      "scene": {
+        "phase": "hook"
+      },
+      "nextShotConnection": "같은 잔·조명·유리 벽을 따라 연결",
+      "emphasisEvent": {
+        "frame": 24,
+        "spark": true,
+        "screenTarget": [
+          660,
+          800
+        ]
+      },
+      "captionPlan": {
+        "ko": [
+          0,
+          1
+        ],
+        "en": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "id": "S02",
+      "startFrame": 120,
+      "endFrame": 240,
+      "mode": "INVESTIGATION",
+      "narrativeRole": "승",
+      "primarySubject": "same_cup",
+      "viewerQuestion": "다른 잔으로 교체한 걸까?",
+      "newInformation": "잔을 교체하지 않았다",
+      "visualAction": "고개를 기울여 잔과 조명을 다시 확인",
+      "scientificMeaning": "잔을 교체하지 않았다",
+      "characterEmotion": "호기심: 기울여 관찰",
+      "cameraPlan": "three_quarter",
+      "scene": {
+        "phase": "inspect"
+      },
+      "nextShotConnection": "같은 잔·조명·유리 벽을 따라 연결",
+      "captionPlan": {
+        "ko": [
+          1,
+          2
+        ],
+        "en": [
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": "S03",
+      "startFrame": 240,
+      "endFrame": 360,
+      "mode": "WORLD_ACTION",
+      "narrativeRole": "승",
+      "primarySubject": "same_cup",
+      "viewerQuestion": "앞에서 비춘 빛은 어떻게 보일까?",
+      "newInformation": "빛과 관찰자가 같은 쪽: 반사광",
+      "visualAction": "조명을 앞에 두고 녹색 잔을 관찰",
+      "scientificMeaning": "빛과 관찰자가 같은 쪽: 반사광",
+      "characterEmotion": "관찰: 조명에 손을 뻗음",
+      "cameraPlan": "close",
+      "scene": {
+        "phase": "front"
+      },
+      "nextShotConnection": "같은 잔·조명·유리 벽을 따라 연결",
+      "captionPlan": {
+        "ko": [
+          2,
+          3,
+          4
+        ],
+        "en": [
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "S04",
+      "startFrame": 360,
+      "endFrame": 480,
+      "mode": "WORLD_ACTION",
+      "narrativeRole": "전",
+      "primarySubject": "same_cup",
+      "viewerQuestion": "뒤에서 통과한 빛은 왜 다르게 보일까?",
+      "newInformation": "반대쪽 빛: 투과광",
+      "visualAction": "조명을 뒤로 옮기며 붉은 빛을 확인",
+      "scientificMeaning": "반대쪽 빛: 투과광",
+      "characterEmotion": "조사: 조명 이동 후 확인",
+      "cameraPlan": "follow",
+      "scene": {
+        "phase": "back"
+      },
+      "nextShotConnection": "같은 잔·조명·유리 벽을 따라 연결",
+      "captionPlan": {
+        "ko": [
+          4,
+          5
+        ],
+        "en": [
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "S05",
+      "startFrame": 480,
+      "endFrame": 600,
+      "mode": "EXPLAIN_SCENE",
+      "narrativeRole": "전",
+      "primarySubject": "same_cup",
+      "viewerQuestion": "같은 유리 벽 안에 무엇이 있을까?",
+      "newInformation": "유리 속 금·은 나노입자",
+      "visualAction": "같은 컵 벽 확대, 금·은 입자를 드러낸다",
+      "scientificMeaning": "유리 속 금·은 나노입자",
+      "characterEmotion": "캐릭터 생략: 구조만 확대",
+      "cameraPlan": "macro",
+      "scene": {
+        "phase": "particles"
+      },
+      "nextShotConnection": "같은 잔·조명·유리 벽을 따라 연결",
+      "entryReason": "색이 달라지는 같은 유리 벽을 조사",
+      "returnReason": "빛 경로를 확인한 뒤 같은 조명 실험 재확인",
+      "continuityObject": "same_cup_wall",
+      "worldSnapshot": "back_light_t16",
+      "labels": [
+        {
+          "text": {
+            "ko": "금·은 나노입자",
+            "en": "Gold / silver particles"
+          },
+          "x": 540,
+          "y": 1150,
+          "color": "cyan"
+        },
+        {
+          "text": {
+            "ko": "구조·빛 경로 모식도",
+            "en": "Schematic: not to scale"
+          },
+          "x": 540,
+          "y": 1340,
+          "color": "white"
+        }
+      ],
+      "captionPlan": {
+        "ko": [
+          6,
+          7
+        ],
+        "en": [
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "S06",
+      "startFrame": 600,
+      "endFrame": 720,
+      "mode": "EXPLAIN_SCENE",
+      "narrativeRole": "전",
+      "primarySubject": "same_cup",
+      "viewerQuestion": "입자가 빛을 어떤 경로로 보내는가?",
+      "newInformation": "반사와 투과는 다른 빛 경로",
+      "visualAction": "입사광이 벽에 도달, 녹색 반사와 붉은 투과를 따라간다",
+      "scientificMeaning": "반사와 투과는 다른 빛 경로",
+      "characterEmotion": "캐릭터 생략: 빛 경로만 관찰",
+      "cameraPlan": "macro_follow",
+      "scene": {
+        "phase": "paths"
+      },
+      "nextShotConnection": "같은 잔·조명·유리 벽을 따라 연결",
+      "entryReason": "같은 벽에서 빛이 가는 길을 관찰",
+      "returnReason": "두 경로를 같은 잔의 관찰 조건과 연결",
+      "continuityObject": "same_cup_wall",
+      "worldSnapshot": "back_light_t16",
+      "labels": [
+        {
+          "text": {
+            "ko": "반사",
+            "en": "Reflection"
+          },
+          "x": 260,
+          "y": 1080,
+          "color": "mint"
+        },
+        {
+          "text": {
+            "ko": "투과",
+            "en": "Transmission"
+          },
+          "x": 820,
+          "y": 1080,
+          "color": "yellow"
+        },
+        {
+          "text": {
+            "ko": "구조·빛 경로 모식도",
+            "en": "Schematic: not to scale"
+          },
+          "x": 540,
+          "y": 1340,
+          "color": "white"
+        }
+      ],
+      "emphasisEvent": {
+        "frame": 646,
+        "spark": true,
+        "screenTarget": [
+          630,
+          850
+        ]
+      },
+      "captionPlan": {
+        "ko": [
+          7,
+          8
+        ],
+        "en": [
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "id": "S07",
+      "startFrame": 720,
+      "endFrame": 840,
+      "mode": "WORLD_RETURN",
+      "narrativeRole": "결",
+      "primarySubject": "same_cup",
+      "viewerQuestion": "처음 색 변화를 이제 어떻게 이해할까?",
+      "newInformation": "동일 상태의 잔으로 복귀",
+      "visualAction": "설명 전 위치로 복귀, 민수가 빛과 잔을 가리킨다",
+      "scientificMeaning": "동일 상태의 잔으로 복귀",
+      "characterEmotion": "깨달음: 같은 잔을 가리킴",
+      "cameraPlan": "match",
+      "scene": {
+        "phase": "return"
+      },
+      "nextShotConnection": "같은 잔·조명·유리 벽을 따라 연결",
+      "worldSnapshot": "back_light_t16",
+      "captionPlan": {
+        "ko": [
+          9,
+          10
+        ],
+        "en": [
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "id": "S08",
+      "startFrame": 840,
+      "endFrame": 960,
+      "mode": "PAYOFF",
+      "narrativeRole": "결",
+      "primarySubject": "same_cup",
+      "viewerQuestion": "같은 잔을 어느 조명 조건에서 보는가?",
+      "newInformation": "빛이 반사되는가 통과하는가가 관찰 색을 바꾼다",
+      "visualAction": "같은 조명 이동을 반복하며 두 색 확인",
+      "scientificMeaning": "빛이 반사되는가 통과하는가가 관찰 색을 바꾼다",
+      "characterEmotion": "확인: 조명 왕복·결과 반응",
+      "cameraPlan": "hero",
+      "scene": {
+        "phase": "payoff"
+      },
+      "nextShotConnection": "같은 잔·조명·유리 벽을 따라 연결",
+      "emphasisEvent": {
+        "frame": 918,
+        "spark": true,
+        "screenTarget": [
+          660,
+          800
+        ]
+      },
+      "captionPlan": {
+        "ko": [
+          10,
+          11
+        ],
+        "en": [
+          10,
+          11
+        ]
+      }
+    }
+  ],
+  "captions": {
+    "ko": [
+      {
+        "start": 0.8,
+        "end": 3,
+        "lines": [
+          "같은 잔인데?"
+        ],
+        "role": "PIXEL_TITLE",
+        "color": "yellow"
+      },
+      {
+        "start": 3,
+        "end": 5.8,
+        "lines": [
+          "빛만 옮겼다."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white"
+      },
+      {
+        "start": 5.8,
+        "end": 8.6,
+        "lines": [
+          "고대 로마의 유리잔,",
+          "리쿠르고스의 컵."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white"
+      },
+      {
+        "start": 8.6,
+        "end": 10.4,
+        "lines": [
+          "빛을 앞에서 비추면"
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white"
+      },
+      {
+        "start": 10.4,
+        "end": 12.2,
+        "lines": [
+          "빛을 앞에서 비추면",
+          "반사된 빛은 녹색."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "newText": "반사된 빛은 녹색.",
+        "words": [
+          "녹색"
+        ],
+        "accent": "mint"
+      },
+      {
+        "start": 12.2,
+        "end": 15.8,
+        "lines": [
+          "뒤에서 통과한 빛은 붉다."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "words": [
+          "붉다"
+        ],
+        "accent": "yellow"
+      },
+      {
+        "start": 16.2,
+        "end": 18.9,
+        "lines": [
+          "유리 속 금·은 나노입자가"
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "words": [
+          "금·은"
+        ],
+        "accent": "cyan"
+      },
+      {
+        "start": 18.9,
+        "end": 21.5,
+        "lines": [
+          "유리 속 금·은 나노입자가",
+          "빛을 흩뜨리고 흡수한다."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "newText": "빛을 흩뜨리고 흡수한다."
+      },
+      {
+        "start": 21.5,
+        "end": 24,
+        "lines": [
+          "빛의 길이 다르다!"
+        ],
+        "role": "PIXEL_IMPACT",
+        "color": "yellow"
+      },
+      {
+        "start": 24,
+        "end": 26.8,
+        "lines": [
+          "같은 잔, 다른 빛!"
+        ],
+        "role": "PIXEL_IMPACT",
+        "color": "yellow"
+      },
+      {
+        "start": 26.8,
+        "end": 29.5,
+        "lines": [
+          "관찰 색은 조명 조건에 달렸다."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white"
+      },
+      {
+        "start": 29.5,
+        "end": 32,
+        "lines": [
+          "빛의 길이 달랐다."
+        ],
+        "role": "PIXEL_IMPACT",
+        "color": "mint"
+      }
+    ],
+    "en": [
+      {
+        "start": 0.8,
+        "end": 3,
+        "lines": [
+          "Same cup?"
+        ],
+        "role": "PIXEL_TITLE",
+        "color": "yellow",
+        "newText": "Same cup?"
+      },
+      {
+        "start": 3,
+        "end": 5.8,
+        "lines": [
+          "Only the light moved."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "newText": "Only the light moved."
+      },
+      {
+        "start": 5.8,
+        "end": 8.6,
+        "lines": [
+          "An ancient Roman glass:",
+          "the Lycurgus cup."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "newText": "An ancient Roman glass:the Lycurgus cup."
+      },
+      {
+        "start": 8.6,
+        "end": 10.4,
+        "lines": [
+          "With light in front,"
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "newText": "With light in front,"
+      },
+      {
+        "start": 10.4,
+        "end": 12.2,
+        "lines": [
+          "With light in front,",
+          "reflection looks green."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "newText": "reflection looks green."
+      },
+      {
+        "start": 12.2,
+        "end": 15.8,
+        "lines": [
+          "Light passing through",
+          "looks red."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "newText": "Light passing throughlooks red."
+      },
+      {
+        "start": 16.2,
+        "end": 18.9,
+        "lines": [
+          "Gold and silver particles"
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "newText": "Gold and silver particles"
+      },
+      {
+        "start": 18.9,
+        "end": 21.5,
+        "lines": [
+          "Gold and silver particles",
+          "scatter / absorb light."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "newText": "scatter / absorb light."
+      },
+      {
+        "start": 21.5,
+        "end": 24,
+        "lines": [
+          "Different light paths!"
+        ],
+        "role": "PIXEL_IMPACT",
+        "color": "yellow"
+      },
+      {
+        "start": 24,
+        "end": 26.8,
+        "lines": [
+          "Same cup.",
+          "Different light!"
+        ],
+        "role": "PIXEL_IMPACT",
+        "color": "yellow",
+        "newText": "Same cup. Different light!"
+      },
+      {
+        "start": 26.8,
+        "end": 29.5,
+        "lines": [
+          "Color also depends",
+          "on the light source."
+        ],
+        "role": "PIXEL_BODY",
+        "color": "white",
+        "newText": "Color also dependson the light source."
+      },
+      {
+        "start": 29.5,
+        "end": 32,
+        "lines": [
+          "Different light paths."
+        ],
+        "role": "PIXEL_IMPACT",
+        "color": "mint",
+        "newText": "Different light paths."
+      }
+    ]
+  },
+  "audio": {
+    "tts": false,
+    "track": "curious_desert_100",
+    "mood": "observation",
+    "energy": [
+      {
+        "time": 0,
+        "db": -4
+      },
+      {
+        "time": 4,
+        "db": -8
+      },
+      {
+        "time": 12,
+        "db": -5
+      },
+      {
+        "time": 20.8,
+        "db": -15
+      },
+      {
+        "time": 21.5,
+        "db": -3
+      },
+      {
+        "time": 28,
+        "db": -4
+      },
+      {
+        "time": 31.8,
+        "db": -12
+      }
+    ]
+  }
+}

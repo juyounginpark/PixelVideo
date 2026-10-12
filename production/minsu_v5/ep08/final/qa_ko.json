@@ -1,0 +1,48 @@
+{
+  "technical": "PASS",
+  "errors": [],
+  "nativeFrameIntegrityChecks": 1020,
+  "nativeSizes": [
+    [
+      540,
+      960
+    ]
+  ],
+  "output": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 30.0,
+    "source_size": [
+      1080,
+      1920
+    ],
+    "size": [
+      1080,
+      1920
+    ],
+    "rotate": 0,
+    "duration": 34.0
+  },
+  "frameCount": 1020,
+  "duration": 34.0,
+  "fullDecode": true,
+  "uiValidatedFrames": 1020,
+  "glyphFallbacks": 0,
+  "maxSfxSyncErrorSeconds": 0.0,
+  "audioIntegratedLUFS": "-19.00",
+  "audioTruePeak": "-7.78",
+  "tts": false,
+  "sourcePreservation": {
+    "checked": 37,
+    "changed": []
+  },
+  "longestIdenticalDownsampledNativeRunFrames": 2,
+  "cacheIntegrity": "hash checked",
+  "limits": [
+    "2fps visual timeline sampling is not continuous human playback.",
+    "No human listening or audience retention test.",
+    "No exhaustive pairwise mesh intersection proof."
+  ]
+}

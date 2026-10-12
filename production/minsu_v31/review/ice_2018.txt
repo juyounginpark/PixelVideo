@@ -1,0 +1,419 @@
+Molecular Insight into the Slipperiness of Ice
+Bart Weber, †,‡,⊥ Yuki Nagata, ¶,⊥ Stefania Ketzetzi, † Fujie Tang, ¶ Wilbert J. Smit, §,∥ Huib J. Bakker, §
+Ellen H. G. Backus, ¶ Mischa Bonn, *,¶ and Daniel Bonn *,†
+†Van der Waals-Zeeman Institute, IoP, University of Amsterdam, Science Park 904, 1098XH Amsterdam, The Netherlands
+¶Max Planck Institute for Polymer Research, Ackermannweg 10, 55128 Mainz, Germany
+§AMOLF, Science Park 104, 1098 XG Amsterdam, The Netherlands
+*S Supporting Information
+ABSTRACT: Measurements of the friction coe ﬃcient of
+steel-on-ice over a large temperature range reveal very high
+friction at low temperatures ( −100 °C) and a steep decrease in
+the friction coe ﬃcient with increasing temperature. Very low
+friction is only found over the limited temperature range
+typical for ice skating. The strong decrease in the friction
+coeﬃcient with increasing temperature exhibits Arrhenius
+behavior with an activation energy of Ea ≈ 11.5 kJ mol −1.
+Remarkably, molecular dynamics simulations of the ice −air
+interface reveal a very similar activation energy for the mobility
+of surface molecules. Weakly hydrogen-bonded surface
+molecules di ﬀuse over the surface in a rolling motion, their
+number and mobility increasing with increasing temperature.
+This correlation between macroscopic friction and microscopic molecular mobility indicates that slippery ice arises from the high
+mobility of its surface molecules, making the ice surface smooth and the shearing of the weakly bonded surface molecules easy.
+S
+liding friction on ice is of paramount importance to a wide
+variety of subjects and phenomena including glaciology, 1
+automotive safety, 2 frost heave, 1 and winter sports. 3 In each of
+these examples, ice surfaces can display an unusually low level
+of friction under a wide variety of conditions. Since the 19th
+century, this slipperiness of ice has continued to attract the
+attention of many scientists. 4−6 A great variety of experimental
+and theoretical approaches have been deployed to elucidate the
+complex nature of sliding friction on ice, including but not
+limited to atomic force microscopy, 7 sum-frequency generation
+vibrational spectroscopy, 6 and molecular simulations. 8 How-
+ever, the precise molecular mechanism of the slipperiness
+remains unclear, despite a large number of studies dedicated to
+this important phenomenon. 7−23
+Here we perform macroscopic sphere-on-ice friction
+measurements that cover a larger range in temperature
+(−100−0 °C) and sliding speed (10 −6−10−1 ms −1) than
+most studies to date. The main ﬁnding is that between −100
+and −10 °C the friction coe ﬃcient ( μ), de ﬁned as the ratio of
+frictional to normal force, shows a strong Arrhenius-type
+temperature dependence, causing it to decrease by over an
+order of magnitude from values characteristic of normal solids
+(μ = 0.5) to slippery values ( μ = 0.01). The activation energy
+for the Arrhenius behavior is the same as that for the surface
+diﬀusion of ice molecules. 24 Our molecular dynamics (MD)
+simulations reveal the existence of two types of water at the
+topmost ice surface, one of which is very mobile; at high
+temperatures, this mobile water is enriched, accelerating the
+reorganization of the ice surface and making the surface
+smooth. Increasing the temperature, the friction decreases in a
+very similar manner to the inverse di ﬀusion coe ﬃcient of the
+topmost water molecules on ice, suggesting that the sliding is
+facilitated by the topmost (mobile) surface ice molecules. At
+low temperatures, the surface mobility slows down and we
+observe strong velocity strengthening behavior, indicating that
+when the di ﬀusion is too slow to accommodate the sliding
+motion friction increases.
+We employ steel-on-ice sliding experiments over a large
+range of temperatures by using a 2.4 mm radius sphere-on- ﬂat
+contact geometry; the use of a sphere allows us to estimate the
+contact area and penetration depth. The smooth stainless steel
+sphere is glued to a rheometer tool. By rotating the tool, the
+rheometer imposes sliding speeds for the sphere on the ﬂat ice
+surface in the range of 10 −6−10−1 ms −1 while simultaneously
+measuring the normal, N, and frictional force, F (Figure 1 b).
+The friction coe ﬃcient μ = FN , the ratio of the frictional to the
+normal force, is as low as μ = 0.01 at temperatures around −7
+°C( Figure 1 a), a value similar to that obtained in actual ice
+skating.3 However, changing the temperature over a large range,
+we ﬁnd a strong temperature dependence of μ. A consequence
+of its dramatic increase at low temperatures is that at low
+Received: April 16, 2018
+Accepted: May 9, 2018
+Published: May 9, 2018
+Letter
+pubs.acs.org/JPCLCite This: J. Phys. Chem. Lett. 2018, 9, 2838 −2842
+© 2018 American Chemical Society 2838 DOI: 10.1021/acs.jpclett.8b01188
+J. Phys. Chem. Lett. 2018, 9, 2838 −2842
+This is an open access article published under a Creative Commons Non-Commercial No
+Derivative Works (CC-BY-NC-ND) Attribution License, which permits copying and
+redistribution of the article, and creation of adaptations, all for non-commercial purposes.
+temperatures the ice surface is not slippery at all; the measured
+friction coe ﬃcient of μ = 0.5 at −100 °C is typical for dry
+friction such as that between the same steel sphere and a glass
+surface ( Figure S1 ).
+The behavior of the friction coe ﬃcient as a function of
+temperature is in addition found to be nonmonotonic: from
+very low temperatures to roughly −7 °C, the friction coe ﬃcient
+steeply decreases, but above −7 °C, the friction coe ﬃcient rises
+sharply again ( Figure 1 a). This shows that there is an optimal
+temperature for sliding on ice of about −7 °C, which is indeed
+the temperature at which most skating rinks are kept to provide
+the fastest skating times. The sharp increase upon approaching
+the melting temperature can be rationalized as follows. Visual
+inspection of the ice surface shows that when the friction
+coeﬃcient becomes high in this temperature range the sphere
+leaves a clearly visible ploughing track ( Figure S2 ): the ice has
+plastically deformed. The sphere-on- ﬂat geometry used here
+allows us to calculate the ploughing force based on the
+penetration hardness of the ice and the resulting ploughing
+cross section between the steel and the ice. The experimental
+friction coeﬃcient for temperatures close to melting agrees well
+with this simple calculation (blue line in Figure 1 a and
+Supporting Information ). Furthermore, independent penetra-
+tion experiments in which the sphere is pressed onto the ice
+surface and retracted again indeed show that at temperatures
+above −7 °C the contact becomes fully plastic and the ice is
+irreversibly deformed ( Figure S6 ).
+Below −7 °C, the contact is purely elastic and the ice surface
+is not a ﬀected by the sliding. In this elastic regime, the friction
+force is proportional to the area of contact predicted by
+Hertzian25,26 (elastic) contact mechanics and independent of
+the average contact pressure ( Figures S1 and S2 ). Interestingly,
+the elastic properties of the ice do not vary greatly with
+temperature,27 and therefore, the contact area does not either.
+Consequently, because the friction force is proportional to the
+contact area, 28 the change in friction observed at temperatures
+between −100 and −7 °C must result from a change in the
+shear strength of the ice surface itself. 11 Indeed, we ﬁnd
+identical frictional behavior when we replace the steel sphere
+with a glass sphere ( Figure S3). To investigate the nature of the
+change in shear strength, we vary the sliding velocity over more
+than 4 orders of magnitude ( Figure 1 b). Perhaps surprisingly,
+we ﬁnd that in the low-friction regime the friction coe ﬃcient is
+independent of the sliding velocity. In the high-friction regime
+at low temperatures, however, we observe a marked velocity
+strengthening of the friction coe ﬃcient. Both results indicate
+that frictional heating does not play an important role in the
+experiments ( Figure S9 ).
+The macroscopic ice friction experiments suggest the
+presence of an ice surface layer that di ﬀers from the bulk and
+that somehow “lubricates” the contact as the temperature is
+increased from −100 to −7 °C. To obtain molecular-level
+information about this layer, we performed MD simulations
+using the POLI2VS model of water. 29 As the lubrication
+mechanism is not a ﬀected30 by changes in the contact pressure
+or the use of di ﬀerent sliding materials, we investigate the ice −
+air interface as the simplest model system for the ice surface.
+The MD simulations reveal that the surface dynamics is
+governed by two distinct types of water molecules: 31 molecules
+with one donating (D) and two accepting (A) hydrogen bonds
+(notation: DAA) and molecules donating and accepting one
+hydrogen bond (DA). In the simulations, DAA-type water
+molecules lose a hydrogen bond with increasing temperature,
+thereby changing from DAA to DA. The presence of DAA and
+DA water molecules on the ice surface and their temperature
+dependence predicted by theory are in quantitative agreement
+with those of SFG experiments ( Figure S4 ). This interconver-
+sion of energetically stable DAA water to more weakly
+interacting and thus less stable DA molecules entails an
+increase in the mobility of water molecules across the surface; a
+reduced number of hydrogen bonds lowers the energetic
+barrier for translational motion. We quantify the lateral mobility
+of the surface molecules and link it to macroscopic ice friction
+using the time evolution of the in-plane two-dimensional (2D)
+Figure 1. Steel-on-ice friction at di ﬀerent temperatures and speeds. (a) Steel-on-ice friction coe ﬃcient μ as a function of temperature measured at a
+constant sliding speed of 0.38 mm s −1 (black circles). Close to the melting point, the friction coe ﬃcient increases strongly, in agreement with a
+calculation of the friction coe ﬃcient resulting from plastic ploughing through the ice, using the temperature dependence of the penetration hardness
+of the ice, ph, obtained from indentation experiments ( Supporting Information), a normal force N = 1 N, and the surface friction contribution μ0 =
+0.03 (blue line). At low temperatures, both the friction coe ﬃcient and the calculated inverse ice surface di ﬀusion constant (red triangles) are found
+to follow Arrhenius temperature dependence with an activation energy of ΔE ≈ 11.5 kJ mol −1 (green line). (b) Sliding speed dependence of the
+friction coe ﬃcient.
+The Journal of Physical Chemistry Letters Letter
+DOI: 10.1021/acs.jpclett.8b01188
+J. Phys. Chem. Lett. 2018, 9, 2838 −2842
+2839
+mean-square displacement (MSD) of the DA water species at
+the topmost layer in the simulations
+θ
+θ= ⟨|− | ⟩ ⟨⟩t rt rMSD( ) (0) ( ) (0) 2
+where θ(t) is 1 when a surface molecule has a free O −H group
+at time t and 0 otherwise. While heating the ice from −103 to
+−28 °C, we see a marked increase in the MSD of the surface
+molecules ( Figure 2 a).
+The high mobility of the surface molecules has two
+important consequences for the slipperiness of ice. First, such
+a high mobility allows water molecules to ﬁll in any defects on
+the ice surface very rapidly. We demonstrate this here by
+manually making a scratch into the ice surface and look at its
+evolution using a high-resolution interferometer ( Figure 3 ). It
+can be observed that even a very deep scratch (made manually
+with a screwdriver) is ﬁlled in by the surface di ﬀusion in a
+matter of minutes. This makes the surface very smooth;
+generally smooth surfaces are slipperier than their rough
+counterparts. Together with the observation that there is no
+ploughing at low temperature, this is a ﬁrst indication of why
+ice is slippery. The thermally driven high lateral mobility of
+water molecules on an ice surface has been demonstrated
+previously: experiments on the sintering of ice spheres (the
+Faraday experiment) have shown that macroscopic quantities of
+ice molecules can be transported over millimeter length scales
+on a time scale of minutes, 24 similar to our ﬁndings in this
+study. Furthermore, it has been established previously that
+surface molecules of solids can move at surprisingly high rates,
+and their dynamics has been compared to a giant atomic slide
+puzzle.32 Taken together, these observations suggest that
+during the sliding motion on the ice shear is localized at
+these weakly bonded surface molecules and that their sliding
+ability determines the friction coe ﬃcient. If this were true, the
+friction coeﬃcient should increase with increasing sliding speed
+whenever the mobility of the molecules becomes too low to
+follow the sliding motion. We observe this velocity strengthen-
+ing e ﬀect in the low-temperature regime; the friction increases
+with increasing sliding speed ( Figure 1 b). Additionally, if
+surface mobility indeed facilitates the sliding, we would expect
+an inverse relation between friction and mobility: the higher the
+mobility, the lower the friction. This is exactly what we observe;
+in Figure 1 a, where we plot the inverse di ﬀusion coe ﬃcient,
+D−1(T),
+θ
+θ= ⟨|− | ⟩ ⟨⟩→∞D rt rtlim (0) ( ) (0)4t 2
+together with the friction coe ﬃcient as a function of
+temperature.
+Friction and mobility follow the same Arrhenius temperature
+dependence with an activation energy of ΔE ≈ 11.5 kJ mol −1
+Figure 2. Mobility at the ice surface. (a) Calculated 2D MSD of the interfacial water molecules with free O −H group(s) at di ﬀerent temperatures.
+Inset: comparison of the MSD of the interfacial water molecules that have free O −H group(s) at time time 0 (blue) with that of the interfacial water
+molecules that keep free O −H group(s) during time 0 to t (black), both simulated at −43 °C. (b) Snapshots of the MD trajectory of the ice −air
+interface at −43 °C. Top and bottom panels show the top and side views of the interface. The water molecule with the free OH group that forms the
+new hydrogen bond at positive t is highlighted.
+Figure 3. Self-healing ice at −10 °C. (a) Scratch pro ﬁle measured with an interferometer just after a scratch was made manually on the ice surface
+using a screwdriver. (b) The scratch is almost completely healed just 7 min later.
+The Journal of Physical Chemistry Letters Letter
+DOI: 10.1021/acs.jpclett.8b01188
+J. Phys. Chem. Lett. 2018, 9, 2838 −2842
+2840
+(Figure 1 a), almost half of the hydrogen-bond energy of 21 kJ
+mol−1.
+The MD trajectories displayed in Figure 2b demonstrate that
+a DA water molecule at the ice surface moves by exchanging its
+hydrogen bond partner ( Supporting Inormation movie ). In
+fact, the MSD for a DA molecule which keeps free O −H
+group(s) does not show clear di ﬀusion, as is seen in Figure 2 a
+inset. This exchange occurs by breaking the hydrogen bonds of
+the topmost water molecules. As is evident from the SFG
+spectra of the free O −H stretch peak ( Figure S4), by increasing
+the temperature, the hydrogen bond tends to be broken,
+converting DAA water molecules to DA water molecules and
+increasing the surface mobility. During frictional sliding, we
+submit that these weakly bonded surface molecules determine
+the friction coe ﬃcient. We therefore conclude that at
+temperatures close to melting ice is slippery due to highly
+mobile DA water molecules that di ﬀuse over the ice surface in a
+rolling motion through exchange of the hydrogen bond partner:
+there is one molecular layer of mobile water at the surface that
+lubricates the contact.
+In summary, combined macroscopic sliding friction measure-
+ments and MD simulations reveal that the macroscopic friction
+coeﬃcient of ice and the microscopic mobility of the topmost
+water molecules on the ice surface exhibit very similar
+temperature dependence. Quantitatively, both exhibit an
+activation energy of ΔE ≈ 11.5 kJ mol −1, suggesting that
+friction is correlated with the presence of the mobile DA water
+molecules at the topmost ice surface. This would imply that ice
+is slippery due to highly mobile DA water molecules that di ﬀuse
+over the ice surface: there is a layer of mobile ice at the surface
+that makes the surface smooth and lubricates the contact. The
+simulations show that the fraction of mobile molecules strongly
+increases with increasing temperature. This then allows the ice
+to evolve from a normal solid surface at low temperatures to a
+very slippery surface close to the melting temperature. While
+the presence of a quasi-liquid layer on ice has often been held
+responsible for the slipperiness of ice, our results indicate that
+surface melting contributes indirectly to slipperiness by creating
+highly mobile surface molecules. We note, however, that the
+friction coe ﬃcient varies smoothly with temperature, and no
+discontinuities are observed that could be attributed to discrete
+surface melting transitions.
+It is perhaps not so surprising that the energetic barrier for
+translational motion on the surface is directly relevant for
+friction;33 skating on Te ﬂon skating rinks for example is
+thought to be possible because the activation energy for the
+slippage between crystalline Te ﬂon slices is low, causing high
+wear and low friction on Te ﬂon.34 In friction at the nanoscale,
+the energy barrier for translational motion of an AFM tip over a
+surface can become small compared to the thermal energy,
+resulting, again, in very low friction; temperature acts as a
+lubricant because the energy required to locally move from one
+potential minimum to the next is supplied thermally. 35
+Furthermore, mobile hydration shells consisting of water
+molecules surrounding ions are conjectured to cause low
+friction between such hydrated ions. 36
+■ ASSOCIATED CONTENT
+*S Supporting Information
+The Supporting Information is available free of charge on the
+ACS Publications website at DOI: 10.1021/acs.jpclett.8b01188.
+Normal force dependence of the friction force, glass-on-
+ice friction measurements, SFG experiments, friction
+experiments on monocrystalline ice, the ploughing
+model, ice sti ﬀness and hardness, frictional heating, and
+details of the MD simulations ( PDF)
+Movie showing molecule movement at the ice surface
+(WMV)
+■ AUTHOR INFORMATION
+Corresponding Authors
+*E-mail: bonn@mpip-mainz.mpg.de (M.B.).
+*E-mail: d.bonn@uva.nl (D.B.).
+ORCID
+Yuki Nagata: 0000-0001-9727-6641
+Wilbert J. Smit: 0000-0002-0543-7258
+Ellen H. G. Backus: 0000-0002-6202-0280
+Mischa Bonn: 0000-0001-6851-8453
+Daniel Bonn: 0000-0001-8925-1997
+Present Addresses
+‡B.W.: Advanced Research Center for Nanolithography
+(ARCNL), Science Park 110, 1098 XG Amsterdam, Nether-
+lands.
+∥W.J.S.: ESPCI Paris, PSL Research University, UMR CBI
+8231, 10 rue Vauquelin, 75005 Paris, France.
+Author Contributions
+⊥B.W. and Y.N. contributed equally.
+Notes
+The authors declare no competing ﬁnancial interest.
+■ ACKNOWLEDGMENTS
+The authors thank Hans van Leeuwen, Sander Woutersen,
+Joost Frenken, Tjerk Oosterkamp, and Sergey Krylov for very
+helpful discussions. This work is part of the FOM-Programme
+Fundamental Aspects of Friction, ﬁnanced by FOM/NWO.
+■ REFERENCES
+(1) Dash, J. G.; Rempel, A. W.; Wettlaufer, J. S. The Physics of
+Premelted Ice and Its Geophysical Consequences. Rev. Mod. Phys.
+2006, 78, 695 −741.
+(2) Strong, K. C.; Ye, Z.; Shi, X. Safety Effects of Winter Weather:
+The State of Knowledge and Remaining Challenges. Transp. Rev.
+2010, 30, 677 −699.
+(3) de Koning, J. J.; de Groot, G.; van Ingen Schenau, G. J. Ice
+Friction During Speed Skating. J. Biomech. 1992, 25, 565 −571.
+(4) Joly, J. Sci. Proc. R. Soc. Dublin 1886, 5, 453.
+(5) Rosenberg, R. Why is Ice Slippery? Phys. Today 2005, 58,5 0−55.
+(6) Li, Y.; Somorjai, G. A. Surface Premelting of Ice. J. Phys. Chem. C
+2007, 111, 9631 −9637.
+(7) Do ̈ppenschmidt, A.; Kappl, M.; Butt, H.-J. Surface Properties of
+Ice Studied by Atomic Force Microscopy. J. Phys. Chem. B 1998, 102,
+7813−7819.
+(8) Gladich, I.; Pfalzgraff, W.; Marsalek, O.; Jungwirth, P.; Roeselova ́,
+M.; Neshyba, S. Arrhenius Analysis of Anisotropic Surface Self-
+Diffusion on the Prismatic Facet of Ice. Phys. Chem. Chem. Phys. 2011,
+13, 19960 −19969.
+(9) Gurney, C. Surface Forces in Liquids and Solids. Proc. Phys. Soc.,
+London, Sect. A 1949, 62, 639.
+(10) Barnes, P.; Tabor, D.; Walker, J. C. F. The Friction and Creep of
+Polycrystalline Ice. Proc. R. Soc. London, Ser. A 1971, 324, 127 −155.
+(11) Persson, B. N. J. Ice Friction: Role of Non-Uniform Frictional
+Heating and Ice Premelting. J. Chem. Phys. 2015, 143, 224701.
+(12) Kvlividze, V. I.; Kiselev, V. F.; Kurzaev, A. B.; Ushakova, L. A.
+The Mobile Water Phase on Ice Surfaces. Surf. Sci. 1974, 44,6 0 −68.
+The Journal of Physical Chemistry Letters Letter
+DOI: 10.1021/acs.jpclett.8b01188
+J. Phys. Chem. Lett. 2018, 9, 2838 −2842
+2841
+(13) Golecki, I.; Jaccard, C. Intrinsic Surface Disorder in Ice Near the
+Melting Point. J. Phys. C: Solid State Phys. 1978, 11, 4229.
+(14) Engemann, S.; Reichert, H.; Dosch, J.; Bilgram, V.; Honkima ̈ki,
+V.; Snigirev, A. Interfacial Melting of Ice in Contact With SiO 2. Phys.
+Rev. Lett. 2004, 92, 205701.
+(15) Sánchez, M. A.; et al. Experimental and Theoretical Evidence for
+Bilayer-by-Bilayer Surface Melting of Crystalline Ice. Proc. Natl. Acad.
+Sci. U. S. A. 2017, 114, 227 −232.
+(16) Kietzig, A.-M.; Hatzikiriakos, S. G.; Englezos, P. Physics of Ice
+Friction. J. Appl. Phys. 2010, 107, 081101 −081101.
+(17) Bowden, F. P.; Hughes, T. P. The Mechanism of Sliding on Ice
+and Snow. Proc. R. Soc. London, Ser. A 1939, 172, 280 −298.
+(18) van Leeuwen, J. M. J. Skating on Slippery Ice. SciPost Phys. 2017,
+3, 042.
+(19) Ovaska, M.; Tuononen, A. J. Multiscale Imaging of Wear Tracks
+in Ice Skate Friction. Tribol. Int. 2018, 121, 280 −286.
+( 2 0 )L i a n g ,H . ;M a r t i n ,J .M . ;M o g n e ,T .L .E x p e r i m e n t a l
+Investigation of Friction on Low-Temperature Ice. Acta Mater. 2003,
+51, 2639 −2646.
+(21) Colbeck, S. C.; Najarian, L.; Smith, H. B. Sliding Temperatures
+of Ice Skates. Am. J. Phys. 1997, 65, 488 −492.
+(22) Fowler, A. J.; Bejan, A. Contact Melting During Sliding on Ice.
+Int. J. Heat Mass Transfer 1993, 36, 1171 −1179.
+(23) Wei, X.; Miranda, P. B.; Shen, Y. R. Surface Vibrational
+Spectroscopic Study of Surface Melting of Ice. Phys. Rev. Lett. 2001,
+86, 1554.
+(24) Kingery, W. D. Regelation, Surface Diffusion, and Ice Sintering.
+J. Appl. Phys. 1960, 31, 833 −838.
+(25) Hertz, H. Über die Berührung Fester Elastischer Ko ̈rper. J. Reine
+Angew. Math. 1882, 92, 156 −171.
+(26) Suhina, T.; Weber, B.; Carpentier, C. E.; Lorincz, K.; Schall, P.;
+Bonn, D.; Brouwer, A. M. Fluorescence Microscopy Visualization of
+Contacts Between Objects. Angew. Chem., Int. Ed. 2015, 54, 3688 −
+3691.
+(27) Butkovich, T. Strength Studies of Sea Ice ; Snow Ice and
+Permafrost Research Establishment, Corps of Engineers, U.S. Army,
+1956.
+(28) Weber, B.; Suhina, T.; Junge, T.; Pastewka, L.; Brouwer, A. M.;
+Bonn, D. Molecular Probes Reveal Deviations From Amontons ’ Law
+in Multi-asperity Frictional Contacts. Nat. Commun. 2018, 9, 888.
+(29) Hasegawa, T.; Tanimura, Y. A Polarizable Water Model for
+Intramolecular and Intermolecular Vibrational Spectroscopies. J. Phys.
+Chem. B 2011, 115, 5545 −5553.
+(30) Dhopatkar, N.; Defante, A. P.; Dhinojwala, A. Ice-like Water
+Supports Hydration Forces and Eases Sliding Friction. Sci. Adv. 2016,
+2, e1600763.
+(31) Smit, W. J.; Tang, F.; Sa ́nchez, M. A.; Backus, E. H. G.; Xu, L.;
+Hasegawa, T.; Bonn, M.; Bakker, H. J.; Nagata, Y. Excess Hydrogen
+Bond at the Ice-Vapor Interface around 200 K. Phys. Rev. Lett. 2017,
+119, 133003.
+(32) van Gastel, R.; Somfai, E.; van Saarloos, W.; Frenken, J. A Giant
+Atomic Slide-Puzzle. Nature 2000, 408, 665.
+(33) Louden, P. B.; Gezelter, J. D. Friction at Ice-Ih/Water Interfaces
+is Governed by Solid/Liquid Hydrogen-Bonding. J. Phys. Chem. C
+2017, 121, 26764 −26776.
+(34) Tanaka, K.; Uchiyama, Y.; Toyooka, S. The Mechanism of Wear
+of Polytetrafluoroethylene. Wear 1973, 23, 153 −172.
+(35) Jinesh, K. B.; Krylov, S. Yu.; Valk, H.; Dienwiebel, M.; Frenken,
+J. W. M. Thermolubricity in Atomic-Scale Friction. Phys. Rev. B:
+Condens. Matter Mater. Phys. 2008, 78, 155440.
+(36) Ma, L.; Gaisinskaya-Kipnis, A.; Kampf, N.; Klein, J. Origins of
+Hydration Lubrication. Nat. Commun. 2015, 6, 6060.
+The Journal of Physical Chemistry Letters Letter
+DOI: 10.1021/acs.jpclett.8b01188
+J. Phys. Chem. Lett. 2018, 9, 2838 −2842
+2842

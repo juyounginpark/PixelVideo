@@ -1,0 +1,77 @@
+{
+  "source": {
+    "path": "C:\\Users\\0620f\\Downloads\\빨대의 구멍은 몇 개 1개 2개 🥤인터넷을 둘로 가른 질문, 빨대의 구멍은 몇 개일까요답이 갈리는 건 구멍을 입구로 세느냐, 뚫린 길로 세느냐, 뚫은 자국으로 세느냐의.mp4",
+    "sha256": "a794afbfa3b8987802cab0ab3b72df80e9d075e4aa3a987e1398b23ab4cf9a30",
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, bt709, progressive)",
+      "audio_codec": "aac",
+      "fps": 30.0,
+      "source_size": [
+        720,
+        1280
+      ],
+      "size": [
+        720,
+        1280
+      ],
+      "rotate": 0,
+      "duration": 176.21
+    },
+    "inspection": "decoded MP4 frames; not real-time playback or audio listening"
+  },
+  "observations": [
+    {
+      "range": "00:00–00:17",
+      "observation": "실물 컵/빨대로 시작해 2개·1개 예상과 설문 수치를 제시한다. 제목, 챕터 1/8, 숫자 HUD, 아래 관객 영역을 유지한다.",
+      "timingPurpose": "일상 물체를 본 뒤 의견 차이가 생기도록 한다.",
+      "limit": "설문은 영상에 표시된 내용이며 이 작업에서 독립적으로 사실 확인하지 않았다."
+    },
+    {
+      "range": "00:19–00:39",
+      "observation": "입구 2, 이어진 길 1, 뚫은 자국 0을 노랑·민트·보라로 구분한다. 사전 정의 패널이 숫자 차이를 설명한다.",
+      "timingPurpose": "숫자보다 먼저 무엇을 세는지 분리한다."
+    },
+    {
+      "range": "00:40–00:53.5",
+      "observation": "늘이기·누르기·구부리기에 초록 체크, 붙이기·찢기·뚫기에 빨간 실패 표시가 붙는다. 정확 추출 50.50초에는 뚫기 전 구멍 0, 51.00초에는 관통 모습과 HUD 1, 51.50초에는 구멍 0→1 패널과 실패 표시가 함께 보인다.",
+      "timingPurpose": "동작→관찰값 변화→규칙 위반 피드백 순서로 이해를 연결한다.",
+      "limit": "0.5초 샘플 사이의 정확한 이벤트 프레임과 효과음 시점은 미측정."
+    },
+    {
+      "range": "00:53.5–00:83",
+      "observation": "머그컵을 도넛으로, 빨대를 짧게 눌러 고리/도넛으로 바꾼다. 변형 뒤 구멍 1개 결과와 위아래 입구 라벨을 붙인다.",
+      "timingPurpose": "새 무대 대신 같은 대상의 연속 변형으로 앞 규칙을 적용한다."
+    },
+    {
+      "range": "00:85–00:107",
+      "observation": "단추, 한쪽 끝을 막은 빨대, 발가락 쪽이 열린 양말로 사례를 바꾼다. 입구와 뚫린 길을 계속 대조한다.",
+      "timingPurpose": "사례를 바꿔 이전 결론이 우연이 아님을 보여준다."
+    },
+    {
+      "range": "00:109–00:129",
+      "observation": "종이 말아 붙이기와 컵/빨대의 내부 고리 비교를 제시한다. 122초에는 같은 위치의 두 대상, 126초에는 한쪽 고리는 작아지고 다른 쪽은 걸리는 결과가 보인다.",
+      "timingPurpose": "대안 정의의 한계를 실제 구조 변화와 비교로 설명한다."
+    },
+    {
+      "range": "00:131–00:153",
+      "observation": "영상은 조건을 붙인 구멍=입구−1 표현을 컵·빨대·바지·티셔츠에 적용한다.",
+      "timingPurpose": "같은 원리를 다른 물체에 적용하는 보상을 만든다.",
+      "limit": "해당 표현을 모든 위상 공간에 통하는 일반 공식으로 채택하지 않는다. 별도 소재 제작 시 수학적 조건과 출처 검증 필요."
+    },
+    {
+      "range": "00:155–00:176.21",
+      "observation": "빨대 옆을 찌르는 새 실험 후 163초에는 전1/후2 결과가 보인다. 마지막에는 원래의 2·0·1 정의를 정리하고 선택을 묻는다.",
+      "timingPurpose": "처음 질문을 이해한 상태에서 참여하게 한다."
+    }
+  ],
+  "viewingScope": "88 overview samples plus 24 exact-time decoded frames; audio not listened; source science not independently verified",
+  "notCopied": [
+    "audience sprites",
+    "striped straw asset",
+    "script",
+    "poll data",
+    "unknown shader code"
+  ]
+}

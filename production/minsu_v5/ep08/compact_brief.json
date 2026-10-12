@@ -1,0 +1,57 @@
+{
+  "topicId": "namu-cache-listing-023",
+  "sourcePosition": {
+    "snapshot": "research\\namuwiki\\listing.html",
+    "liIndex": 23,
+    "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+  },
+  "verificationStatus": "VERIFIED_EXPLAINED",
+  "evidence": {
+    "scope": "2001 Changanacherry tested samples",
+    "sources": [
+      "https://www.iangoddard.com/sampath2001.pdf",
+      "https://doi.org/10.1029/2002EO000250",
+      "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.062711-0"
+    ],
+    "known": [
+      "붉은 강우 관측",
+      "침강 입자",
+      "배양과 주변 시료에서 Trentepohlia 속 확인"
+    ],
+    "unknown": [
+      "대량의 포자가 동시에 공중으로 이동한 정확한 경로"
+    ],
+    "simplification": "역할극·입자크기확대·침강/배양시간압축; 실제 현장/현미경 영상 아님",
+    "noExtraterrestrialClaim": true
+  },
+  "videoGoal": "사건을 따라 2001 시료의 붉은 색 원인과 아직 모르는 점을 이해",
+  "newAssets": [
+    "white umbrella",
+    "rain sample jar",
+    "microscope",
+    "culture dish",
+    "bark sample",
+    "warm courtyard",
+    "warm laboratory"
+  ],
+  "storyRoute": [
+    "event",
+    "clues",
+    "mechanism",
+    "understanding"
+  ],
+  "commonVersions": {
+    "ASSET_MANIFEST": "ffb30d6c15c1cf34d902502ce89b7d63a621c296d46d0ebac5d691c0bc805b6d",
+    "CAMERA_PRESETS": "03800f4bd11c7daa8117393d97682971dec08a4460e95b67929065594efe54ac",
+    "CHARACTER_LIBRARY": "9658ca406d0fbe3ff5bd4734f7528f7a2e52f7fa7fcce8d8bf8be80193beb851",
+    "EFFECT_LIBRARY": "a860034091810b13700f28752e9b28c89872b78c528fc5ab7fc6ed59b51218de",
+    "FONT_THEME": "aab1836911e52b6272d62c694b7ee5c19426865ad17f1c672aad37057d7741b6",
+    "POST_PROCESS_PRESETS": "d8b433aa04ef3deed4254078bf7a06a1482f25c163bc24ebdc8490152691dabc",
+    "QA_RULES": "02dd4fea6d01315b855a685c5de2557cdd8fad9998482dc96595e4a89dd2a8a0",
+    "RULE_RESOLUTION": "5506b0d7182567e1d299a894e4e3b253b1ce628cc841a610f5ff90ae62d5ca14",
+    "SCENE_SCHEMA": "02d2befb12b356b00e618aac550b8a9070c9f40304b49a97695662f79b211756",
+    "STYLE_SPEC": "f0f915f6ab1cb51b3516dd0b6197927d0cf38724f399ae698676ed064289eda4",
+    "WORLD_PRESETS": "c50241dd7c54b5d38ea3d8d160a4d31e60e45f06fcf59d25825c5182ac009a68"
+  },
+  "responseContract": "One JSON: Story Map, 3 visual hook options, all SceneSpecs, localized captions and event cues. Do not make one request per shot."
+}

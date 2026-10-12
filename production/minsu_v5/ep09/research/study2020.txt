@@ -1,0 +1,779 @@
+Citation (Version of Record):
+How, M. J., Gonzales, D., Irwin, A., & Caro, T. (2020). Zebra stripes,
+tabanid biting flies and the aperture effect. Proceedings of the Royal
+Society of London B: Biological Sciences, 287(1933).
+https://doi.org/10.1098/rspb.2020.1521
+Version:
+Publisher's PDF, also known as Version of record
+License (if available):
+CC BY
+Link to published version (if available):
+10.1098/rspb.2020.1521
+Link to publication record on the Bristol Research Portal:
+Access record including PDF (if available)
+University of Bristol – Bristol Research Portal
+This is the final published version of the article (version of record). It first appeared online via The Royal Society
+at https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.1521?af=R . Please refer to any applicable terms
+of use of the publisher.
+Citing this paper
+Guidance on citing material from the Bristol Research Portal is available under ‘Manuscripts and Citations’ in the
+Terms of Use (linked below)
+Terms of Use
+Full Terms of Use for the Bristol Research Portal are available online: https://www.bristol.ac.uk/research-
+enterprise-innovation/research-policy/pure/brp-terms/
+Has this research benefited you?
+Let us know how reading this research here has been meaningful to you by
+sharing your story at https://forms.office.com/e/ffL5CZ0fGT
+Bristol Research Portal Coversheet last updated 21-07-2026
+royalsocietypublishing.org/journal/rspb
+Research
+Cite this article: How MJ, Gonzales D, Irwin
+A, Caro T. 2020 Zebra stripes, tabanid biting
+flies and the aperture effect. Proc. R. Soc. B
+287: 20201521.
+http://dx.doi.org/10.1098/rspb.2020.1521
+Received: 29 June 2020
+Accepted: 28 July 2020
+Subject Category:
+Behaviour
+Subject Areas:
+ecology, neuroscience, behaviour
+Keywords:
+zebra stripes, optic flow, tabanid, vision,
+insect flight
+Author for correspondence:
+Martin J. How
+e-mail: m.how@bristol.ac.uk
+Electronic supplementary material is available
+online at https://doi.org/10.6084/m9.figshare.
+c.5089496.
+Zebra stripes, tabanid biting flies and the
+aperture effect
+Martin J. How 1, Dunia Gonzales 1, Alison Irwin 1 and Tim Caro 1,2
+1School of Biological Sciences, University of Bristol, 24 Tyndall Avenue, Bristol BS8 1TQ, UK
+2Center for Population Biology, University of California, Davis, CA 95616, USA
+MJH, 0000-0001-5135-8828; TC, 0000-0001-6804-8519
+Of all hypotheses advanced for why zebras have stripes, avoidance of
+biting fly attack receives by far the most support, yet the mechanisms by
+which stripes thwart landings are not yet understood. A logical and popular
+hypothesis is that stripes interfere with optic flow patterns needed by flying
+insects to execute controlled landings. This could occur through disrupting
+the radial symmetry of optic flow via the aperture effect (i.e. generation of
+false motion cues by straight edges), or through spatio-temporal aliasing
+(i.e. misregistration of repeated features) of evenly spaced stripes. By record-
+ing and reconstructing tabanid fly behaviour around horses wearing
+differently patterned rugs, we could tease out these hypotheses using realis-
+tic target stimuli. We found that flies avoided landing on, flew faster near,
+and did not approach as close to striped and checked rugs compared to
+grey. Our observations that flies avoided checked patterns in a similar
+way to stripes refutes the hypothesis that stripes disrupt optic flow via the
+aperture effect, which critically demands parallel striped patterns. Our
+data narrow the menu of fly-equid visual interactions that form the basis
+for the extraordinary colouration of zebras.
+1. Introduction
+The unusual and striking colouration pattern of the three species of extant zebra
+(Equus sp.) has generated many intriguing functional explanations over the last
+150 years [1]. For convenience, they , and the evidence for and against them, can
+be collapsed into four principal themes. (i) Early ideas about stripes being a form
+of crypsis against predators have now been dismissed on grounds that large carni-
+vores are only able to resolve stripes very close up [2] and by experiments showing
+that zebra stripes are highly conspicuous to human observers [3]. (ii) Conjectures
+about stripes confusing predators are poorly supported by observations of plains
+zebras ( Equus quagga ) fleeing in ways that do not enhance protean behaviour,
+nor obscure the outline of individual animals, and because they do not promote
+motion dazzle or cause lions to misdirect their attack [3]. Most damning, lions
+kill zebras more than expected from their abundance across 40 study sites in
+Africa [4] suggesting that confusion is an unlikely functional explanation for
+stripes. (iii) A third theme, that black and white stripes have different heat signa-
+tures [5] that set up convection currents that cool zebras, could only operate
+under very restricted circumstances: over the animal’s dorsum, not over its flank
+or legs, and, problematically , not under breezy conditions or when the animal
+moves, as these would negate convection currents acting anywhere on the body
+[3]. Moreover, experimental tests reveal no cooling benefits associated with striped
+objects or striped pelts [6]. (iv) In contrast with these ideas, stripes are an established
+potent force in reducing landings of biting flies based on experimental studies with
+striped artificial targets [7–9], horse models [10], human models [11], painted cows
+[12], and comparisons of live plains zebras with domestic horses [13].
+Recently , we showed that tabanid horseflies approach domestic horses
+wearing striped rugs as often as the same horses covered with black or white
+© 2020 The Authors. Published by the Royal Society under the terms of the Creative Commons Attribution
+License http:/ /creativecommons.org/licenses/by/4.0/, which permits unrestricted use, provided the original
+author and source are credited.
+rugs but that far fewer tabanids actually landed on horses with
+these striped external appearances. Parallel observations
+revealed that tabanids failed to decelerate when approaching
+zebras compared to horses and, anecdotally , flies were seen
+to bump into zebra pelage or fly past it [13].
+The mechanism by which stripes exert these effects remains
+opaque. Given the striking appearance of zebras (figure 1 a),
+it is often argued that regularly spaced stripes of zebra
+pelage somehow confuse the visual system of flying insects
+[10,13,14]. Specifically , stripes could interfere with the control
+of visually guided flight by disrupting optic flow [14]. Optic
+flow is the pattern of apparent motion caused by relative move-
+ment between an observer and the scene. As a fly , moving at a
+constant speed, approaches an object, the surface looms ever
+faster and the fly responds by reducing its speed to keep the
+rate of looming constant, resulting in a slow controlled landing
+[15]. The visual control of flight by sensing and responding to
+optic flow is an essential component of the visual ecology of
+flying insects and is considered to be strongly conserved
+across the arthropoda [15]. Even with featureless animal
+coats, contrast gain would ensure that there would be some
+(minimal) contrast on the coat to provide the optic flow that
+flies rely upon for executing smooth landings [16].
+More specifically , striped patterns could potentially disrupt
+optic flow by interfering with the radial symmetry of expand-
+ing optic flow fields via the aperture effect (see, the barber pole
+illusion for a human example [17 –19]). This is because, in the
+absence of other cues, moving stripes induce the strongest
+motion cues in directions perpendicular to stripe orientation.
+To illustrate, as flies approach a zebra from a distance, they
+will experience radially symmetric optic flow patterns centred
+on the target host (figure 1bi). As the fly nears the zebra, stripes
+will become resolvable and occupy large parts of the visual
+field. These stripes will likely disrupt the pattern of optic
+flow so that it becomes dominated by motion cues in directions
+perpendicular to stripe orientation (figure 1bii). This disruption
+(a) zebra scene
+4.0 m
+0.5 m
+(i) 4.0 m
+(b) disruption of optic flow ( c) change in internal contrasts
+pixels along transect
+(ii) 0.5 m high sf (iii) 0.5 m low sf (i) 4.0 m 
+intensity
+(ii) 0.5 m
+Figure 1. Illustration of the main test hypotheses. ( a) Zebra scene (Wikimedia Commons). Dashed squares illustrate horsefly views chosen at 4.0 m and 0.5 m
+distances. Yellow star illustrates a fictive landing site towards which a virtual fly is heading. ( b) Motion maps generated from the same down-sampled images
+expanding from the central landing point. Colour encodes motion direction (according to the surrounding border scale) and saturation encodes motio n strength at
+(i) 4.0 m illustrating typical optic flow, (ii) 0.5 m with high spatial sample frequency (sf ) illustrating the aperture effect, and (iii) at 0.5 m with l ow spatial sample
+frequency illustrating spatio-temporal aliasing. The distribution of motion vectors across each of these scenes is represented in the polar histog rams below. (c) Scene
+at the two viewing distances down-sampled to approximate tabanid visual resolution (0.5 cycles/°). Horizontal red line indicates an image transect , the intensity
+values of which are plotted below.
+royalsocietypublishing.org/journal/rspbProc. R. Soc. B287: 20201521
+2
+could, in theory , be substantial enough to switch the fly
+from experiencing a ‘landing-type’ optic flow pattern to a
+‘translating-type’ (i.e. generated when flying through the
+environment in the absence of a landing surface) [20], thereby
+fooling the fly into no longer perceiving the zebra as a surface
+on which to land. Alternatively , the optic flow could be
+disrupted by spatio-temporal aliasing. In this case, regular
+stripes viewed in motion could become misregistered, produ-
+cing false motion directions and magnitudes [14,21] (see,
+wagon-wheel effect for a human example; figure 1 biii), and
+this contradictory movement could work against the tendency
+for the fly to fixate the pattern, creating positive feedback
+and causing it to turn away. Both aperture effect and
+spatio-temporal aliasing within the optic flow field could,
+theoretically , prevent the fly from landing properly or at all
+on a striped surface.
+On the other hand, stripes might act more centrally at the
+decision-making level of host-finding behaviour in horseflies.
+Little is known about the precise cues used by horseflies to
+visually segment their scene into host versus background
+and how this may feed into their in-flight decisions (but see
+[22–24]). However, it remains likely that at distances greater
+than 2 m from a zebra, black and white stripes fall below
+the resolving power of the tabanid eye (based on an estimated
+ommatidial acceptance angle ( Δρ) of 1° (MJ How 2019,
+unpublished data) and an average stripe width of 35 mm
+[25]; figure 1 ci). Tabanids seeking a bloodmeal from a zebra
+will initially be attracted to a grey host from a distance
+because the angular spatial frequency of the stripes will be
+higher than the cut-off angular spatial frequency of the modu-
+lation transfer function of the flies ’ visual system (determined
+by Δρ). During the final moments of approach (between
+approximately 0.5–1 m from the horse [13]), the appearance of
+the target will change to reveal the black and white striped
+pelage (figure 1cii). This visual transformation could somehow
+disrupt the tabanid ’s decision-making process, perhaps by
+diverging away from an expected search image or by obscuring
+the visual coherence of the single target host [23,26].
+Our prior observation that tabanids fail to slow down
+when approaching a zebra compared to a uniformly coloured
+horse [13] does not help us to discriminate between any
+of these hypothesized mechanisms for repelling biting flies.
+Here, we sought to determine whether the first of these
+ideas, the disruption of the radial symmetry of optic flow via
+the aperture effect, is responsible for the anti-biting fly mech-
+anism of zebra stripes. To achieve this, we went into the field
+and employed a realistic set of targets in relation to zebra
+size and movement by placing uniform and patterned cloth
+rugs on domestic horses and investigated the behaviour of
+free-flying tabanid flies in their vicinity. Crucially , we included
+a checked rug (which would generate radially symmetric
+optic flow patterns) as well as horizontally and vertically
+striped patterns to separate the aperture effect from the other
+hypotheses. The aperture effect hypothesis would predict no
+reduction in landing rate on a checked rug compared to a
+grey rug of the same average luminance because the radial
+symmetry of optic flow would be roughly naturalistic under
+both circumstances. If the aperture effect were responsible
+for landing avoidance, then the effect would be expected
+only for the striped patterns, and not the checked, grey , or
+black patterns. The remaining hypotheses would each predict
+a reduction in landings for both striped and checked rugs once
+their patterns are resolved.
+2. Methods
+Rolls of fabric (Jersey Stretch 190gsm) were custom printed
+(Contrado, London, UK) with five patterns: (i) uniform black,
+(ii) uniform grey , (iii) 3.5 cm width vertical stripes, (iv) 3.5 cm
+width horizontal stripes, and (v) 3.5 cm width checkerboard
+(figure 2a). Print shades were chosen so that all patterns, excluding
+black, had approximately the same average luminance (electronic
+supplementary material, figure S1). Patterned rugs were assembled
+by sewing together the printed fabric to make a 2.0 × 2.0 m square
+covering the horse’s body and a smaller 0.8 × 0.5 m rectangle cover-
+ing the neck and withers. Rugs were placed in random order on 22
+different horses between 13 and 20 June 2018 at Hill Livery , Dundry ,
+North Somerset, UK (see [13] for details) sequentially for 20 min
+each and affixed to underlying fly rugs with safety pins. One obser-
+ver recorded the number of tabanid flies landing on one side of the
+rug for 20 min while another observer filmed flies approaching the
+other side of the horse. Usually , several different flies landed on
+horses per observation period, although repeat landings by single
+horseflies were documented from the flight trajectories [13]. To mini-
+mize the number of repeat measurements from single flies for each
+rug type, sampling effort from the videos was spread as evenly as
+possible over the full seven-day duration of the video-recording
+period.
+Filming was conducted using a custom-built stereo camera rig
+consisting of two digital video cameras (Hero 5, GoPro, San
+Mateo, USA) affixed at either end of a 1.0 m metal bar mounted
+on a tripod. Cameras were positioned to approximately maintain
+their horizontal and vertical axes relative to the outside world and
+were triggered simultaneously by a single wireless remote and tem-
+porally synchronized using the audio channel. The relative position
+of each camera and the distortive effects of the camera optics were
+determined via a calibration routine involving a flat checkerboard
+standard and the stereo camera toolbox in Matlab (2018a, Math-
+works, Natick, USA). Fly activity around horses was filmed at 60
+frames per second, at a resolution of 2704 × 1520 pixels. Horsefly
+(Haematopota pluvialisand Tabanus bromius) trajectories were manu-
+ally extracted from the stereo video recordings, first by identifying
+tabanids approaching the horse, then by manually digitizing the
+fly’s location frame-by-frame in the pair of stereo images using a
+7 A
+2.85
+2.12
+0.22 0.10 0.20
+AB B
+n = 22 horses
+landings (min)
+B
+6
+5
+4
+3
+2
+1
+0
+(a)( b)
+Figure 2. (a) Custom-made fabric pinned over commercial horse rugs. Fabric
+was printed with uniform black, uniform grey, vertical stripe, horizontal
+stripe, and checked patterns. ( b) Horsefly landing rate on each of the five
+patterned rugs. Black lines = median, dotted lines = 25th and 75th percen-
+tile, shaded areas = violin plot of the data. Letters above each column
+indicate which are statistically different (Friedman ’s test with multi-compare
+and Bonferroni correction, p < 0.05).
+royalsocietypublishing.org/journal/rspbProc. R. Soc. B287: 20201521
+3
+custom-written script in Matlab. Trajectories in which the horse was
+moving were discarded. Finally , the moment-to-moment position of
+the fly was extracted using the built-in functions of the stereo camera
+toolbox. Reconstructions of the three-dimensional flight trajectories
+were then smoothed with a three-point moving average. To place
+the trajectory data in the context of the target host, a three-dimen-
+sional mesh model of an average-sized horse was placed in the
+virtual space alongside the fly trajectory and manoeuvred to align
+with markers digitized on the front and rear regions of the original
+horse. Care was taken to sample the 100 or so trajectories from each
+rug type across as many horses as possible, over as wide time inter-
+vals as possible to further reduce the unlikely event of digitizing the
+same fly. Digitized segments were divided for further analysis into
+slow/fast flight and straight/turning flight by determining whether
+pairs of trajectory points fell below (slow) or above (fast) the 65th
+percentile speed value of 2.35 m s−1 and whether triplets of points
+showed an angular turn rate of above or below the 65th percentile
+value of 390°/s in azimuth or 210°/s in elevation. These thresholds
+were chosen arbitrarily , based on the shape of histograms of the
+complete dataset (see results), but it must be noted that percentile
+thresholds between 50 and 70 all produce similar results. The overall
+number of trajectories analysed for each rug type was grey = 107;
+vertical = 101; horizontal = 107; and checked = 101.
+3. Results
+We found that the rate of horsefly landings differed
+dramatically according to rug pattern (figure 2 b; Friedman ’s
+test: n = 22, d.f. = 4, Chi-sq = 58.8, p < 0.001). Most landings
+were on black and grey rugs, an average of 2 –3 min−1, and
+these rates were significantly greater than landing rates on pat-
+terned rugs that averaged approximately 0.2 min −1 ( post hoc
+‘multi-compare’ with Bonferroni correction p < 0.001). There
+were no differences in landing frequencies between either of
+the uniform rugs ( p = 1), or between patterned rugs ( p = 1).
+Next, we used the reconstructed three-dimensional trajec-
+tories (figure 3 a and electronic supplementary material,
+figures S2 –S3) to examine horsefly behaviour around rugs
+with equivalent luminance (i.e. excluding the black rug).
+Flies approached closer to horses wearing grey rugs than to
+those wearing patterned rugs (figure 3 b; Kruskal –Wallis,
+p < 0.01), but flies approached all three patterned rugs to
+approximately the same distance ( p > 0.46). A similar finding
+was also evident in the proportion of flies approaching horses
+as a function of distance; fewer flies approached to within
+30 cm of the patterned rugs than the grey (figure 3 c).
+When we examined flight speeds as horseflies approached
+rugs, we found that flies flew more slowly towards grey than
+towards the three patterned rugs, particularly when they
+were between 0.1 and 0.6 m away from the host (Kruskal –
+Wallis with multi-compare post hoc and Bonferroni correction
+for 0.1 to 0.6 m data, p < 0.05; figure 4 a). Flight speeds were
+similar across the three patterned rugs, although there was
+some indication that flies approached horizontally striped
+rugs quicker than vertical (figure 4 b; Kruskal –Wallis with
+top
+view
+front
+view
+A
+B
+B
+B
+0 1.0 0.80.6
+distance (m)
+0.40.2
+1.00.80.6
+distance (m)
+proportion of flies (%)n = 101–107
+0.40.2
+100
+0
+0
+20
+40
+60
+80
+(c)
+(a)( b)
+0.06
+0.170.180.22
+Figure 3. Fly distance from horses wearing patterned rugs. ( a) Dorsoventral (top) and anteroposterior (bottom) views of 107 fly trajectories plotted around the
+horse location (see also electronic supplementary material, figure S2 and movie S3). Each red line shows a single horsefly trajectory around horses w earing (in this
+case) the vertically striped rug. ( b) Closest recorded distance of each fly to the horse (figure 2 for conventions). ( c) Proportion of digitized fly trajectories at different
+distances from the host target, colour coded according to ( b)( n = 101–107 fly trajectories per rug type).
+royalsocietypublishing.org/journal/rspbProc. R. Soc. B287: 20201521
+4
+multi-compare post hoc and Bonferroni correction, vertical
+versus horizontal, p = 0.011; and electronic supplementary
+material table S1).
+When we examined slow turns (defined as less than 65th
+percentile speed and greater than 35th percentile turn rate;
+figure 5 a, red and pink areas) and fast turns (greater than
+65th percentile speed and greater than 35th percentile turn
+rate; figure 5 a, blue and pink areas) by rug type, significant
+differences emerged both for the number of turns per unit
+time and the distance at which turns were executed in
+relation to the horse. Slow turns were significantly more fre-
+quent near the grey than near the patterned rugs, whereas
+fast turns were significantly less frequent around grey than
+the striped rugs (figure 5 c). This indicates that stripes (and
+to a lesser extent, checks) precipitated higher rates of fast
+manoeuvres compared to grey. Looking at the distance at
+which turns occurred from the animal, slow turns occurred
+at shorter distances from the grey rug than the checked rug,
+and fast turns occurred at similar distances (median roughly
+0.5 m) from all four rugs (figure 5 d). To summarize, slow
+turns occurred at lower rates around patterned rugs, fast
+turns at higher rates around striped rugs, and slow turns
+occurred further away from checked rugs than grey rugs.
+Next, we investigated whether horsefly flight behaviour
+was influenced by the orientation of the stripe patterned rugs
+by analysing the relative levels of horizontal and vertical
+flight components. First, we determined the relative contri-
+bution of horizontal and vertical flight speeds by calculating
+a ratio between the two. As the flies approached horses, the
+horizontal : vertical flight speed ratio decreased, implying
+that they incorporated more vertical movements at closer
+range (figure 6a and electronic supplementary material, figures
+S2–S3). Similarly , we extracted the absolute elevation angle of
+horsefly flight, which again showed flight trajectories deviat-
+ing from the horizontal as flies approached the horses
+(figure 6 b). Nonetheless, we found no significant differences
+in either measure across the four rugs (Kruskal –Wallis,
+Chi-Sq < 2.85, p > 0.42) (figure 6 c).
+4. Discussion
+We used rugs placed on domestic horses to investigate the
+mechanisms underlying the influence of black and white
+stripes on tabanid fly behaviour. Specifically , we devised
+tests to separate possible disruption of optic flow by the
+aperture effect from other theoretical mechanisms. Five
+independent lines of evidence indicate that the aperture
+effect cannot be responsible for repelling biting flies around
+striped patterns.
+First, we saw significantly fewer landings on the checked
+than on the grey rug and no difference in landing frequency
+between checked and striped rugs (figure 2 b). Given that the
+aperture effect relies upon the presence of high-contrast stripes
+across large parts of the visual field, checked patterns should
+not disrupt optic flow (and therefore visually guided flight con-
+trol) through this mechanism. The observation that checked
+rugs were as effective as striped rugs at repelling fly landings
+strongly implies that the aperture effect cannot be the under-
+lying mechanism for this effect. This result parallels that of
+Blaho et al . [27] who found that other unstriped black and
+white patterns (large ‘blobs’) also reduced tabanid landing
+rates on half-size herbivore models. Taken together, these find-
+ings indicate that stripes are not a necessary pattern to deter
+landings, but that other contrasting white and black patterns
+can be equally as effective.
+Second, the distances to which flies approached the differ-
+ent rug patterns (figure 3) refute the aperture effect hypothesis,
+because no differences were observed between checked and
+striped rugs. For these patterned rugs, the proportion of flies
+near the horse drops off rapidly at approximately 0.45 m
+from the target, while flies approached much closer to grey
+rugs. The aperture effect hypothesis would predict that flies
+would approach nearer to both checked and grey rugs, with
+some making a controlled landing, but that flies around striped
+rugs would make fast uncontrolled approaches, many of which
+resulting in abortive turning manoeuvres, or even colliding
+with the host.
+0 1.0 0.80.6
+distance (m)
+speed (m s–1)
+speed (m s–1)
+0.40.2
+4 An = 101–107
+*
+–0.44
+–0.09
+0.29
+–0.01
+BC BC
+3
+2
+1
+0
+3
+2
+–2
+1
+–1
+0
+(a)( b)
+Figure 4. Approach speed of flies to each rug type. ( a) Speed versus distance during fly approach, colour coded according to ( b). Black dotted line is the median
+approach speed for the whole dataset. Shaded areas are the 25th and 75th percentile ranges. Star indicates the range over which grey significantly dif fers from the
+patterned rugs (Kruskal –Wallis multi-compare post hoc with Bonferroni correction, p < 0.05). See electronic supplementary material, table S1 for more statistics.
+(b) Approach speed relative to overall median. See figure 2 for graph conventions.
+royalsocietypublishing.org/journal/rspbProc. R. Soc. B287: 20201521
+5
+Third, our data showed that flies approached striped and
+checked rugs equally fast (figure 4). If the aperture effect
+were responsible for interfering with fly landing (for example
+by inducing enough radial asymmetry in the optic flow
+pattern to ‘switch’ the fly from sensing a landing-type optic
+flow pattern to a translational-type pattern [20]), then we
+would expect flies to fly faster around striped rugs than
+around the checked rug. Of course, it is also possible that
+flies performed fast flights around the patterned rugs
+simply because the high-contrast features generated stronger
+and more reliable motion cues, allowing the flies to execute
+better-controlled manoeuvres more quickly. This seems unli-
+kely though, given that horseflies are almost certainly able to
+modulate their visual contrast gain to detect reliable optic
+flow around the grey rugs [16], and also because very few
+flights near the checked rugs actually ended in landings.
+Fourth, our findings regarding turn speeds (figure 5)
+again refute the aperture effect hypotheses, because all
+three patterned rugs caused a reduction in the number of
+slow measured turns compared to the grey rug. The aperture
+effect hypothesis would predict no difference between
+checked and grey rugs, but this was not observed. Regarding
+fast turns, flies appeared to rapidly turn away from stripes
+once they were resolved rather than continuing to fly quickly
+as predicted by the aperture effect hypothesis. Furthermore,
+slow turns occurred closer to the grey rug than to the checked
+rug, running counter to the aperture effect hypothesis, which
+would predict that any turns would occur at similar distances
+for grey and checked rugs, assuming that the grey rug dis-
+plays at least a low contrast and that movement sensing
+neurons in the fly ’s visual system signal optic flow correctly ,
+independently of the contrast or texture of the image.
+Fifth, the aperture effect mechanism would predict differ-
+ences in flight paths with respect to stripe orientation. Flies
+might be expected to fly parallel to stripe orientation due to
+the lower levels of visual contrast detected in these directions
+(caused by the lower number of edges in parallel versus per-
+pendicular to the stripes). Yet we found no difference in
+the ratio of horizontal to vertical flight movements between
+horizontal and vertically striped rugs (figure 6).
+These multiple lines of evidence force us to conclude
+that stripes, characteristic of zebras, do not reduce tabanid land-
+ings by disrupting optic flow via the aperture effect. However,
+we cannot yet distinguish alternative possibilities that may
+affect flight control or decision-making in horsefly host-finding
+behaviour. Regarding flight control, a remaining possibility is
+(c)
+(a)( b)
+(d)
+06 42
+–1000 1000 0
+speed (m s–1)
+yaw (°/S)
+–1000 1000 0
+pitch (°/S)
+1.0
+0.5
+0
+distance from horse (m)
+turns per second
+0
+4
+2
+0
+4
+2
+1.0 ABABB
+ABABB A A AA
+BAB AB
+0.5
+slow turns
+fast turns
+0
+Figure 5. Fly turning behaviour around horses wearing patterned rugs. ( a) Histograms of speed, pitch, and yaw of pooled data demonstrating the cut-off points
+used to define slow/fast flight (red and blue, respectively) and turning/straight flight ( pink and grey, respectively). ( b) Example flight segmented into fast (blue)
+and slow (red) turns viewed from above. Black arrow indicates direction of flight. ( c) Rate of slow (top) and fast (bottom) turns around the four rugs. ( d) Distance of
+slow and fast turns from horses. See figure 2 for graph conventions for c and d.
+royalsocietypublishing.org/journal/rspbProc. R. Soc. B287: 20201521
+6
+that stripes and other regular patterns such as checked rugs may
+induce visual aliasing that disrupt the optic flow. The spatial
+period of the stripe and checkerboard patterns used in our
+experiment was 7.0 cm, which, at a viewing distance of 1 m,
+would correspond to an angular period of about 4°. Thus,
+spatio-temporal aliasing could occur at this distance if the inter-
+ommatidial angle falls near to half this value. This value of the
+interommatidial angle is approximately realistic for horseflies
+(MJ How 2019, unpublished data) and could explain why fast
+turns were initiated at distances of approximately 70 cm for
+the patterned rugs (figure 5d). A necessary prerequisite for alias-
+ing is that the pattern must have regular repeating elements that
+may be misregistered when seen in motion. Future experiments
+will need to compare the effects of rugs with regularly and
+irregularly spaced high-contrast elements.
+Alternatively , if high-contrast patterns affect the higher
+level decision-making of flies when finding hosts, then we
+would expect many different types of high-contrast patterns
+(varying in distribution and spatial frequency) to be equally
+effective at repelling the attention of biting flies. It is important
+to note that stripes, checks, and large irregular contrasting cir-
+cles [27] all hinder tabanids from landing on host targets; there
+is nothing special about stripes. This raises the question of why
+zebras have horizontal and vertical stripes per se rather than
+contrasting black and white pelage of another pattern.
+Although the mechanism by which stripes are formed
+in utero is partially understood [28 –30], we suggest that
+developmental biologists turn their attention to ease of pattern
+formation in these and other mammalian species [31].
+Before concluding, we want to emphasize that stripes are
+only one way by which zebras reduce successful probing for
+blood by biting flies. Others include behavioural means
+including frequent swishing of tails and running away from
+tabanid annoyance [13] and zebra skin odour deterring
+tsetse flies from landing [32], suggesting that there are
+severe selection pressures for African Equidae to avoid
+biting fly attack [25].
+Data accessibility. All data not presented in the manuscript, including
+raw stereo video files, digitized fly location data, and Matlab code
+are available from the Dryad Digital Repository: https://doi.org/
+10.5061/dryad.18931zctk [33].
+Authors’ contributions. T.C. and M.J.H. conceived and designed the study
+and prepared the manuscript. All authors collected field data and per-
+formed preliminary analyses. M.J.H. analysed the fly trajectory data.
+Competing interests. We declare we have no competing interests.
+Funding. We thank the Institute for Advanced Studies, University of
+Bristol, and the Royal Society (grant no. UF140558) for financial support.
+Acknowledgements. We thank Terri Hill and the Hill Livery team for
+logistical support and Nick Scott-Samuel for help in the field. We
+thank the two referees for helpful comments on the manuscript.
+References
+1. Ruxton GD. 2002 The possible fitness benefits
+of striped coat coloration for zebra. Mamm.
+Rev. 32, 237 –244. (doi:10.1046/j.1365-2907.2002.
+00108.x)
+2. Melin AD, Kline DW, Hiramatsu C, Caro T. 2016
+Zebra stripes through the eyes of their predators,
+(a)
+(b)
+2 –4
+8 AAAA
+BBBB
+6
+H:V speed ratio
+relative to medianrelative to median
+|elevation (°)|
+5
+4
+3
+6
+4
+2
+0
+–2
+30
+20
+10
+0
+–10
+–20
+0
+10
+25
+20
+15
+1.00.80.6
+distance (m)
+0.40.2
+Figure 6. Horizontal and vertical flight characteristics around patterned rugs. Ratio between horizontal and vertical flight speeds ( a,b) and absolute elevation angle
+(c) relative to distance and ( d ) overall median, figure 2 for graph conventions for graphs right.
+royalsocietypublishing.org/journal/rspbProc. R. Soc. B287: 20201521
+7
+zebras, and humans. PLoS ONE 11, e0145679.
+(doi:10.1371/journal.pone.0145679)
+3. Caro T. 2016 Zebra stripes. Chicago, IL: University of
+Chicago Press.
+4. Hayward MW, Kerley GIH. 2005 Prey preferences of
+the lion ( Panthera leo). J. Zool. 267, 309 –322.
+(doi:10.1017/S0952836905007508)
+5. Cobb A, Cobb S. 2019 Do zebra stripes influence
+thermoregulation? J. Nat. Hist. 53, 863 –879.
+(doi:10.1080/00222933.2019.1607600)
+6. Horváth G, Pereszlényi Á, Száz D, Barta A,
+Jánosi IM, Gerics B, Åkesson S. 2018
+Experimental evidence that stripes do not cool
+zebras. Sci. Rep. 8, 9351. (doi:10.1038/s41598-
+018-27637-1)
+7. Waage JK. 1981 How the zebra got its stripes:
+biting flies as selective agents in the evolution of
+zebra coloration. J. Entomol. Soc. Southern Africa 44,
+351–358.
+8. Gibson G. 1992 Do tsetse flies see zebras? A field
+study of the visual response of tsetse to striped
+targets. Physiol. Entomol. 17, 141 –147. (doi:10.
+1111/j.1365-3032.1992.tb01191.x)
+9. Brady J, Shereni W. 1988 Landing responses
+of the tsetse fly Glossina morsitans morsitans
+Westwood and the stable fly Stomoxys
+calcitrans (L.) (Diptera: Glossinidae & Muscidae) to
+black-and-white patterns: a laboratory study. Bull.
+Entomol. Res. 78, 301 –311. (doi:10.1017/
+S0007485300013067)
+10. Egri Á, Blahó M, Kriska G, Farkas R, Gyurkovszky M,
+Åkesson S, Horváth G. 2012 Polarotactic tabanids
+find striped patterns with brightness and/or
+polarization modulation least attractive: an
+advantage of zebra stripes. J. Exp. Biol. 215,
+736–745. (doi:10.1242/jeb.065540)
+11. Horváth G, Pereszlényi Á, Åkesson S, Kriska G. 2019
+Striped bodypainting protects against horseflies.
+R. Soc. Open Sci. 6, 181325. (doi:10.1098/rsos.
+181325)
+12. Kojima T et al. 2019 Cows painted with zebra-like
+striping can avoid biting fly attack. PLoS ONE 14,
+e0223447. (doi:10.1371/journal.pone.0223447)
+13. Caro TM, Argueta Y, Briolat ES, Bruggink J,
+Kasprowsky M, Lake J, Mitchell MJ, Richardson S,
+How MJ. 2019 Benefits of zebra stripes:
+behaviour of tabanid flies around zebras and horses.
+PLoS ONE 14, e0210831. (doi:10.1371/journal.pone.
+0210831)
+14. How MJ, Zanker JM. 2014 Motion camouflage
+induced by zebra stripes. Zoology 117, 163 –170.
+(doi:10.1016/j.zool.2013.10.004)
+15. Baird E, Boeddeker N, Ibbotson MR, Srinivasan MV.
+2013 A universal strategy for visually guided
+landing. Proc. Natl Acad. Sci. USA 110, 18 686 –
+18 691. (doi:10.1073/pnas.1314311110)
+16. Harris RA, O ’Carroll DC, Laughlin SB. 2000
+Contrast gain reduction in fly motion adaptation.
+Neuron 28, 595 –606. (doi:10.1016/S0896-
+6273(00)00136-7)
+17. Hildreth EC, Koch C. 1987 The analysis of visual-
+motion: from computational theory to neuronal
+mechanisms. Annu. Rev. Neurosci. 10, 477 –533.
+(doi:10.1146/annurev.ne.10.030187.002401)
+18. Wuerger S, Shapley R, Rubin N. 1996 ‘On the
+visually perceived direction of motion ’ by Hans
+Wallach: 60 years later. Perception 25, 1317 –1367.
+(doi:10.1068/p251317)
+19. Troscianko T, Benton CP, Lovell PG, Tolhurst DJ, Pizlo
+Z. 2009 Camouflage and visual perception. Phil.
+Trans. R. Soc. B 364, 449 –461. (doi:10.1098/rstb.
+2008.0218)
+20. Krapp HG, Hengstenberg R. 1996 Estimation of self-
+motion by optic flow processing in single visual
+interneurons. Nature 384, 463 –466. (doi:10.1038/
+384463a0)
+21. Götz KG. 1965 Die optischen
+Übertragungseigenschaften der Komplexaugen von
+Drosophila. Kybernetik 2, 215 –221. (doi:10.1007/
+BF00306417)
+22. Horváth G, Pereszlényi Á, Egri Á, Fritz B, Guttmann
+M, Lemmer U, Gomard G, Kriska G. 2020 Horsefly
+reactions to black surfaces: attractiveness to male
+and female tabanids versus surface tilt angle and
+temperature. Parasitol. Res. 119, 2399 –2409.
+(doi:10.1007/s00436-020-06702-7)
+23. Horváth G, Szörényi T, Pereszlényi Á, Gerics B,
+Hegedüs R, Barta A, Åkesson S. 2017 Why do
+horseflies need polarization vision for host
+detection? Polarization helps tabanid flies to select
+sunlit dark host animals from the dark patches of
+the visual environment. R. Soc. Open Sci. 4, 170735.
+(doi:10.1098/rsos.170735)
+24. Megli č A, Ili ć M, Pirih P, Škorjanc A, Wehling MF,
+Kreft M, Belu šič G. 2019 Horsefly object-directed
+polarotaxis is mediated by a stochastically
+distributed ommatidial subtype in the ventral
+retina. Proc. Natl Acad. Sci. USA 116, 21 843 –
+21 853. (doi:10.1073/pnas.1910807116)
+25. Caro T, Izzo A, Reiner Jr RC, Walker H, Stankowich T.
+2014 The function of zebra stripes. Nat. Commun. 5,
+3535. (doi:10.1038/ncomms4535)
+26. Britten KH, Thatcher TD, Caro T. 2016 Zebras
+and biting flies: quantitative analysis of reflected
+light from zebra coats in their natural habitat. PLoS
+ONE 11, e0154504. (doi:10.1371/journal.pone.
+0154504)
+27. Blaho M, Egri A, Bahidszki L, Kriska G,
+Hegedus R, Åkesson S, Horvath G. 2012
+Spottier targets are less attractive to Tabanid flies:
+on the Tabanid-repellency of spotty fur patterns.
+PLoS ONE 7, e41138. (doi:10.1371/journal.pone.
+0041138)
+28. Bard JBL. 1977 A unity underlying the different
+zebra striping patterns. J. Zool. 183, 527 –539.
+(doi:10.1111/j.1469-7998.1977.tb04204.x)
+29. Marcon L, Sharpe J. 2012 Turing patterns in
+development: what about the horse part? Curr. Opin
+Genet. Dev. 22, 578 –584. (doi:10.1016/j.gde.2012.
+11.013)
+30. Turing A. 1952 The chemical basis of
+morphogenesis. Phil. Trans. R. Soc. B 237,3 7 –72.
+(doi:10.1098/rstb.1952.0012)
+31. Caro T, Mallarino R. 2020 Coloration in mammals.
+Trends Ecol. Evol. 35, 357 –366. (doi:10.1016/j.tree.
+2019.12.008)
+32. Olaide OY, Tchouassi DP, Yusuf AA, Pirk CWW,
+Masiga DK, Saini RK, Torto B. 2019 Zebra skin odor
+repels the savannah tsetse fly, Glossina pallidipes
+(Diptera: Glossinidae). PLoS Neglected Trop. Dis. 13,
+e0007460. (doi:10.1371/journal.pntd.0007460)
+33. How MJ, Gonzales D, Irwin A, Caro T. 2020 Data
+from: Zebra stripes, tabanid biting flies and the
+aperture effect. Dryad Digital Repository. (doi:10.
+5061/dryad.18931zctk)
+royalsocietypublishing.org/journal/rspbProc. R. Soc. B287: 20201521
+8

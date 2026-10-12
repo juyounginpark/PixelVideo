@@ -1,0 +1,36 @@
+{
+  "topicId": "namu-cache-listing-146",
+  "name": "리쿠르고스의 컵",
+  "sourceUrl": "https://namu.wiki/w/%EB%A6%AC%EC%BF%A0%EB%A5%B4%EA%B3%A0%EC%8A%A4%EC%9D%98%20%EC%BB%B5",
+  "sourceParent": "https://namu.wiki/w/미스터리%20관련%20정보",
+  "category": "자연과학 관련 정보 / 광학·고대 유물",
+  "verificationStatus": "VERIFIED_EXPLAINED",
+  "interestScore": 92,
+  "scoreIs": "Editorial estimate, not audience retention evidence",
+  "hookCandidates": [
+    {
+      "image": "같은 잔과 움직이는 조명",
+      "action": "빛이 앞에서 뒤로 이동하며 색이 변함",
+      "caption": "같은 잔인데?",
+      "selected": true
+    },
+    {
+      "image": "녹색 잔 내부가 붉게 보이는 확대",
+      "action": "빛 경로를 따라 컵 벽 안으로 확대",
+      "selected": false
+    },
+    {
+      "image": "민수가 잔을 돌려 확인",
+      "action": "바꾸지 않은 잔에 빛만 다시 이동",
+      "selected": false
+    }
+  ],
+  "visualPotential": "실제 관찰 조건에 연결된 색 변화",
+  "storyPotential": "사건→같은 잔 조사→유리 벽 설명→같은 실험 복귀",
+  "productionCost": "새 컵·이동 조명·유리 벽 도식; 기존 캐릭터·월드 재사용",
+  "previousEpisodeSimilarity": 0.12,
+  "rejectionReasons": [],
+  "discoveredAt": "기존 캐시; 정확한 최초 수집 시각은 캐시 메타데이터 참조",
+  "lastVerifiedAt": "2026-10-12T20:31:25.080141+09:00",
+  "sourceSnapshotHash": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+}

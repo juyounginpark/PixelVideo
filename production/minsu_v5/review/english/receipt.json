@@ -1,0 +1,17 @@
+{
+  "video": "exports\\MINSU_EP08_V5_RED_RAIN_EN.mp4",
+  "sha256": "da1718819205ea2ae7b66789c4ee476fec7366f4a35c56c5a99e1d3a27097aef",
+  "duration": 34.0,
+  "method": "Decoded exact MP4 frames; 2fps whole-episode sequence plus 3-4fps important actions. Not realtime playback or human listening.",
+  "files": [
+    "cut_grid.jpg",
+    "discovery_sequence.jpg",
+    "hook_sequence.jpg",
+    "return_sequence.jpg",
+    "settling_sequence.jpg",
+    "timeline_0.jpg",
+    "timeline_1.jpg",
+    "timeline_2.jpg",
+    "timeline_3.jpg"
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "quality": "final",
+  "renderedFrames": 45,
+  "reusedFrames": 0,
+  "projectionSeconds": 0.13337519998822245,
+  "renderSeconds": 34.60678299999199,
+  "shots": {
+    "S01": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 6.176936199997726,
+      "key": "50f1ba1c4aedc4001f534a9a4194d0dbd4fe6e19c55f011bc0864f1c91e27f39"
+    },
+    "S02": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.673559599999862,
+      "key": "09914d2ef9be6ef2d905c016cabcbfa68de4bd20aee868194c0e6d3f0baa89ed"
+    },
+    "S03": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.9231151999993017,
+      "key": "cb1ce65d322173d509f95f2a5b08d3c559c81e80136600636b0a7dda1d18700e"
+    },
+    "S04": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.305718600000546,
+      "key": "f7511efef30964db4e45184fb2c1bb45e18681e813e660f9886cda02a2e4714b"
+    },
+    "S05": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.051960900000267,
+      "key": "5438d4b99e2622f570134b26ba084f25e428154ab1945474c2e44e2a13d2172d"
+    },
+    "S06": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.232102900001337,
+      "key": "1416df0224e59664ed095f29e66a7d87511dc12496b9f15c836c7ed5fe093ec5"
+    },
+    "S07": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.3810024000013073,
+      "key": "1c53dc38874e6acc6a205107cf5838e49728d778bbce031a6278fcc92496d71c"
+    },
+    "S08": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.19261650000044,
+      "key": "fdee2eafa3d5fad8f1fff45c43ed083bd618f563bfefcaf4a8696dbf83cef693"
+    },
+    "S09": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.163172600001417,
+      "key": "d4dc93c334652b57b2bce2a93f03917ab177fbe7168c70a2779517d08b7ed904"
+    }
+  },
+  "errors": [
+    {
+      "shot": "S01",
+      "frame": 0,
+      "subject": "focus",
+      "rect": [
+        -5.08,
+        350.88,
+        755.93,
+        1117.42
+      ]
+    },
+    {
+      "shot": "S01",
+      "frame": 18,
+      "subject": "focus",
+      "rect": [
+        -24.59,
+        322.23,
+        765.6,
+        1122.07
+      ]
+    },
+    {
+      "shot": "S01",
+      "frame": 26,
+      "subject": "focus",
+      "rect": [
+        -14.1,
+        331.45,
+        762.12,
+        1118.62
+      ]
+    },
+    {
+      "shot": "S01",
+      "frame": 60,
+      "subject": "focus",
+      "rect": [
+        -8.83,
+        331.95,
+        761.42,
+        1116.12
+      ]
+    },
+    {
+      "shot": "S01",
+      "frame": 119,
+      "subject": "focus",
+      "rect": [
+        -13.38,
+        341.6,
+        759.22,
+        1119.81
+      ]
+    },
+    {
+      "shot": "S04",
+      "frame": 0,
+      "subject": "focus",
+      "rect": [
+        -9.24,
+        409.49,
+        1089.17,
+        1505.29
+      ]
+    },
+    {
+      "shot": "S04",
+      "frame": 40,
+      "subject": "focus",
+      "rect": [
+        -12.76,
+        405.97,
+        1092.69,
+        1508.79
+      ]
+    },
+    {
+      "shot": "S04",
+      "frame": 45,
+      "subject": "focus",
+      "rect": [
+        -13.46,
+        405.26,
+        1093.39,
+        1509.49
+      ]
+    },
+    {
+      "shot": "S04",
+      "frame": 48,
+      "subject": "focus",
+      "rect": [
+        -13.88,
+        404.84,
+        1093.81,
+        1509.9
+      ]
+    },
+    {
+      "shot": "S04",
+      "frame": 89,
+      "subject": "focus",
+      "rect": [
+        -17.6,
+        401.11,
+        1097.53,
+        1513.6
+      ]
+    },
+    {
+      "shot": "S05",
+      "frame": 0,
+      "subject": "focus",
+      "rect": [
+        -9.24,
+        409.49,
+        1089.17,
+        1505.29
+      ]
+    },
+    {
+      "shot": "S05",
+      "frame": 48,
+      "subject": "focus",
+      "rect": [
+        -55.14,
+        363.48,
+        1135.07,
+        1550.87
+      ]
+    },
+    {
+      "shot": "S05",
+      "frame": 56,
+      "subject": "focus",
+      "rect": [
+        -31.45,
+        387.23,
+        1111.38,
+        1527.35
+      ]
+    },
+    {
+      "shot": "S05",
+      "frame": 60,
+      "subject": "focus",
+      "rect": [
+        -13.44,
+        405.28,
+        1093.37,
+        1509.47
+      ]
+    },
+    {
+      "shot": "S05",
+      "frame": 119,
+      "subject": "focus",
+      "rect": [
+        -17.6,
+        401.11,
+        1097.53,
+        1513.6
+      ]
+    },
+    {
+      "shot": "S07",
+      "frame": 0,
+      "subject": "focus",
+      "rect": [
+        -296.92,
+        675.45,
+        1376.92,
+        1398.09
+      ]
+    },
+    {
+      "shot": "S07",
+      "frame": 40,
+      "subject": "focus",
+      "rect": [
+        -300.24,
+        674.32,
+        1380.24,
+        1399.83
+      ]
+    },
+    {
+      "shot": "S07",
+      "frame": 48,
+      "subject": "focus",
+      "rect": [
+        -301.43,
+        673.92,
+        1381.43,
+        1400.45
+      ]
+    },
+    {
+      "shot": "S07",
+      "frame": 60,
+      "subject": "focus",
+      "rect": [
+        -303.33,
+        673.27,
+        1383.33,
+        1401.45
+      ]
+    },
+    {
+      "shot": "S07",
+      "frame": 119,
+      "subject": "focus",
+      "rect": [
+        -309.67,
+        671.11,
+        1389.67,
+        1404.76
+      ]
+    },
+    {
+      "shot": "S09",
+      "frame": 0,
+      "subject": "focus",
+      "rect": [
+        -5.08,
+        339.64,
+        755.93,
+        1106.18
+      ]
+    },
+    {
+      "shot": "S09",
+      "frame": 38,
+      "subject": "focus",
+      "rect": [
+        -21.64,
+        308.12,
+        765.98,
+        1108.64
+      ]
+    },
+    {
+      "shot": "S09",
+      "frame": 46,
+      "subject": "focus",
+      "rect": [
+        -13.84,
+        315.76,
+        763.19,
+        1106.31
+      ]
+    },
+    {
+      "shot": "S09",
+      "frame": 60,
+      "subject": "focus",
+      "rect": [
+        -8.83,
+        320.64,
+        761.42,
+        1104.81
+      ]
+    },
+    {
+      "shot": "S09",
+      "frame": 119,
+      "subject": "focus",
+      "rect": [
+        -13.38,
+        330.2,
+        759.22,
+        1108.41
+      ]
+    }
+  ],
+  "assetCache": "MISS",
+  "assetSetupSeconds": 11.572736400001304,
+  "materials": [],
+  "totalSeconds": 50.67526010000074,
+  "nativeSize": [
+    540,
+    960
+  ],
+  "blenderVersion": "5.0.1",
+  "samples": 8
+}

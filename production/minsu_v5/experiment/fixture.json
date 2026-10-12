@@ -1,0 +1,13 @@
+{
+  "id": "EXPERIMENT_CONTRACT_FIXTURE", "purpose": "technical style preview; not a new science episode or real observation",
+  "durationFrames": 150, "fps": 30,
+  "title": "돌리면 방향은?", "chapter": "모양이 달라도 같은 회전",
+  "objects": [
+    {"objectId":"bar","objectType":"BLOCK_BAR","geometryVersion":"bar-1","operation":{"type":"Rotate","startFrame":30,"completeFrame":75,"updateFrame":76,"parameters":{"axis":2,"fromDegrees":0,"toDegrees":90}},"observedProperties":["rotationZDegrees"],"previousValue":0,"currentValue":90,"displayUnits":"도","definition":"시작 자세 기준 Z축 회전각","claimStatus":"MODEL_STATE","evidenceStatus":"SCENE_GEOMETRY","label":"막대 모형"},
+    {"objectId":"elbow","objectType":"BLOCK_ELBOW","geometryVersion":"elbow-1","operation":{"type":"Rotate","startFrame":60,"completeFrame":105,"updateFrame":106,"parameters":{"axis":2,"fromDegrees":0,"toDegrees":90}},"observedProperties":["rotationZDegrees"],"previousValue":0,"currentValue":90,"displayUnits":"도","definition":"시작 자세 기준 Z축 회전각","claimStatus":"MODEL_STATE","evidenceStatus":"SCENE_GEOMETRY","label":"꺾인 모형"}
+  ],
+  "ui": {"before":"어느 방향을 볼까?","during":"끝까지 돌린 다음 확인!","after":"같은 각도로 회전 완료","definition":"기준: 시작 자세의 Z축","provenance":"모형 회전각 · 실제 관측값 아님","ending":"다시 돌리면?","initialEnding":"먼저 방향을 예상해 봐"},
+  "numeric": {"kind":"CHAPTER_PROGRESS","meaning":"기술 시안의 비교 챕터","source":"EDITORIAL_PROGRESS","value":1,"total":1},
+  "assetPresets": {"geometry":["bar-1","elbow-1"],"material":"V5-limited-cel-1","operation":"Rotate-v1","labelPositions":[[300,1114],[780,1114]],"comparisonCamera":"paired-orthographic-v1"},
+  "audio": {"tts":false,"enabled":false,"reason":"UI/geometry contract fixture only; episode audio remains existing local BGM/SFX"}
+}

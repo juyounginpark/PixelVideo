@@ -1,0 +1,58 @@
+{
+  "shots": [
+    {
+      "shot": "S01",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 94.08696719999716
+    },
+    {
+      "shot": "S02",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 90.15345930001058
+    },
+    {
+      "shot": "S03",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 92.99120540000149
+    },
+    {
+      "shot": "S04",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 109.7903365999955
+    },
+    {
+      "shot": "S05",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 93.33190209999157
+    },
+    {
+      "shot": "S06",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 131.82005409999692
+    },
+    {
+      "shot": "S07",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 113.96250510000391
+    },
+    {
+      "shot": "S08",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 87.90291900000011
+    }
+  ],
+  "wallSeconds": 814.7757096999994,
+  "workers": 1,
+  "native": [
+    540,
+    960
+  ]
+}

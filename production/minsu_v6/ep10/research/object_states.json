@@ -1,0 +1,17 @@
+{
+  "objectId": "same_cup",
+  "objectType": "explanatory_cage_cup",
+  "geometryVersion": "EP10-V6-1",
+  "operation": "MoveLight",
+  "observedProperties": [
+    "reflected appearance",
+    "transmitted appearance"
+  ],
+  "previousValue": "green reflection",
+  "currentValue": "red transmission",
+  "displayUnits": "Qualitative color; no invented numerical measurement",
+  "claimStatus": "VERIFIED_EXPLAINED",
+  "evidenceStatus": "Primary publication verified",
+  "lampCoordinates": "Front y=-0.65; back y=0.70, scene coordinates, not physical measured units",
+  "simplification": "Scripted appearance tied to light position, not full spectral rendering; not exact historical replica"
+}

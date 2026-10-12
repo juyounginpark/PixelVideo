@@ -1,0 +1,46 @@
+{
+  "shots": [
+    {
+      "shot": "S01",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 96.40677610000421
+    },
+    {
+      "shot": "S02",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 90.25409849999414
+    },
+    {
+      "shot": "S03",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 88.88478100000066
+    },
+    {
+      "shot": "S04",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 83.22507880000921
+    },
+    {
+      "shot": "S07",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 79.2460279000079
+    },
+    {
+      "shot": "S08",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 80.07705690000148
+    }
+  ],
+  "wallSeconds": 520.3280849000002,
+  "workers": 1,
+  "native": [
+    540,
+    960
+  ]
+}

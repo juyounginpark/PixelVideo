@@ -1,0 +1,65 @@
+{
+  "fonts": {
+    "checkedCharacters": 725,
+    "fallbacks": 0,
+    "locale": "en",
+    "atlases": [
+      {
+        "face": "PIXEL_DISPLAY",
+        "key": "fa8507e79bb9fc5ea68f764830fecf83adc9bd68379575d5ab8e4ba34fccb2a8",
+        "reused": true,
+        "characters": 38
+      },
+      {
+        "face": "PIXEL_BODY",
+        "key": "ba771ebdbdccd653f29b296aa590c87779b4e08aa2340cf2f12760c98d347f22",
+        "reused": true,
+        "characters": 145
+      }
+    ]
+  },
+  "uiCacheHits": [],
+  "uiRenderedShots": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09"
+  ],
+  "errors": [],
+  "duration": 34.0,
+  "frameCount": 1020,
+  "fullDecode": true,
+  "validatedUIFrames": 1020,
+  "audioCacheHit": true,
+  "audioFolder": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\production\\minsu_v5\\cache\\audio\\e32665080473a2dc9122f52a7e45d462f903c7978f894123d4f5594e007f8c5a",
+  "nativeSize": [
+    540,
+    960
+  ],
+  "audio": {
+    "input_i": "-19.00",
+    "input_tp": "-7.78",
+    "input_lra": "3.60",
+    "input_thresh": "-29.24",
+    "output_i": "-19.09",
+    "output_tp": "-7.31",
+    "output_lra": "3.60",
+    "output_thresh": "-29.19",
+    "normalization_type": "dynamic",
+    "target_offset": "0.09"
+  },
+  "tts": false,
+  "totalSeconds": 73.89458559999912,
+  "sha256": "da1718819205ea2ae7b66789c4ee476fec7366f4a35c56c5a99e1d3a27097aef",
+  "output": "exports\\MINSU_EP08_V5_RED_RAIN_EN.mp4",
+  "editorialApproval": false,
+  "locale": "en",
+  "postPreset": "MOBILE",
+  "textCacheHits": 0,
+  "textCacheMisses": 26
+}

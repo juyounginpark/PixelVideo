@@ -1,0 +1,139 @@
+{
+  "scope": "No new native render or video encode. Log intervals include pose/projection/render/PNG/checkpoint; CPU microbenchmark excludes encode and audio.",
+  "render": {
+    "frameCount": 1050,
+    "loopSeconds": 784.7952280044556,
+    "patchFrameCount": 102,
+    "patchLoopSeconds": 94.1715316772461,
+    "parsedSaveLines": 1050,
+    "firstSaveAtSeconds": 15.015,
+    "lastSaveAtSeconds": 797.453,
+    "shots": [
+      {
+        "id": "SHOT_01",
+        "phase": "hook",
+        "intervals": 65,
+        "medianSeconds": 0.797,
+        "meanSeconds": 0.8005
+      },
+      {
+        "id": "SHOT_02",
+        "phase": "inspect",
+        "intervals": 78,
+        "medianSeconds": 0.797,
+        "meanSeconds": 0.8209
+      },
+      {
+        "id": "SHOT_03",
+        "phase": "contact",
+        "intervals": 72,
+        "medianSeconds": 0.718,
+        "meanSeconds": 0.7263
+      },
+      {
+        "id": "SHOT_04",
+        "phase": "structure",
+        "intervals": 90,
+        "medianSeconds": 0.688,
+        "meanSeconds": 0.7052
+      },
+      {
+        "id": "SHOT_05",
+        "phase": "path",
+        "intervals": 66,
+        "medianSeconds": 0.563,
+        "meanSeconds": 0.572
+      },
+      {
+        "id": "SHOT_06",
+        "phase": "discovery",
+        "intervals": 84,
+        "medianSeconds": 0.688,
+        "meanSeconds": 0.7167
+      },
+      {
+        "id": "SHOT_07",
+        "phase": "return",
+        "intervals": 60,
+        "medianSeconds": 0.766,
+        "meanSeconds": 0.7953
+      },
+      {
+        "id": "SHOT_08",
+        "phase": "compare",
+        "intervals": 120,
+        "medianSeconds": 0.578,
+        "meanSeconds": 0.5928
+      },
+      {
+        "id": "SHOT_09",
+        "phase": "factors",
+        "intervals": 108,
+        "medianSeconds": 0.719,
+        "meanSeconds": 0.7426
+      },
+      {
+        "id": "SHOT_10",
+        "phase": "before_after",
+        "intervals": 102,
+        "medianSeconds": 0.75,
+        "meanSeconds": 0.7699
+      },
+      {
+        "id": "SHOT_11",
+        "phase": "result",
+        "intervals": 120,
+        "medianSeconds": 0.781,
+        "meanSeconds": 0.8022
+      },
+      {
+        "id": "SHOT_12",
+        "phase": "loop",
+        "intervals": 84,
+        "medianSeconds": 0.844,
+        "meanSeconds": 0.9381
+      }
+    ]
+  },
+  "cpuComposite": {
+    "framesPerRun": 24,
+    "pngLoadSeconds": 0.21133349999945494,
+    "warmRunSeconds": [
+      0.51808770000207,
+      0.5107136000005994,
+      0.5090718999999808
+    ],
+    "medianMsPerFrame": 21.27973333335831,
+    "naive1050FrameSeconds": 22.343720000026224
+  },
+  "storage": {
+    "nativePNGs": 1050,
+    "nativePNGBytes": 625266035
+  },
+  "textArtifacts": {
+    "AGENTS.md": {
+      "bytes": 11081,
+      "lines": 87
+    },
+    "PROMPT_LOG.md": {
+      "bytes": 125740,
+      "lines": 2271
+    },
+    "production\\minsu_v31\\ep06\\episode.json": {
+      "bytes": 22664,
+      "lines": 699
+    },
+    "production\\minsu_v31\\ep06\\anchors.json": {
+      "bytes": 10163571,
+      "lines": 1
+    }
+  },
+  "encoderBuildEntries": [
+    "V....D libx264              libx264 H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10 (codec h264)",
+    "V....D libx264rgb           libx264 H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10 RGB (codec h264)",
+    "V....D h264_amf             AMD AMF H.264 Encoder (codec h264)",
+    "V....D h264_nvenc           NVIDIA NVENC H.264 encoder (codec h264)",
+    "V..... h264_qsv             H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10 (Intel Quick Sync Video acceleration) (codec h264)"
+  ],
+  "tokenUsage": "Not available in project artifacts; no measured token count or savings percentage."
+}

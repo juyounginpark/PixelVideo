@@ -1,0 +1,35 @@
+{
+  "video": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP07_V4_DARK_MATTER.mp4",
+  "sha256": "6b478f5aaa5711e72a6b3b5b719216d764c1437ea2a9706dc5564fe3a833a1f6",
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "audio_codec": "aac",
+    "fps": 30.0,
+    "source_size": [
+      1080,
+      1920
+    ],
+    "size": [
+      1080,
+      1920
+    ],
+    "rotate": 0,
+    "duration": 35.0
+  },
+  "decodedFrames": 1050,
+  "exactDuplicateAdjacentFrames": 0,
+  "temporalSampling": "every 8 frames (0.267 s), exact events and boundaries",
+  "mobileRaster": [
+    360,
+    640
+  ],
+  "preservationFiles": 62,
+  "preservationChanges": [],
+  "editorialApproval": false,
+  "limits": [
+    "Not a human listening test",
+    "No real-time playback or audience retention measurement"
+  ]
+}

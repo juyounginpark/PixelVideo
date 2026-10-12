@@ -1,0 +1,36 @@
+{
+  "checks": {
+    "dropFalls": true,
+    "hookWetFrontGrows": true,
+    "characterGazeChanges": true,
+    "capillaryFrontGrows": true,
+    "bodyRouteGrows": true,
+    "jawMovesAfterArrival": true
+  },
+  "dropZ": [
+    0.3436674475669861,
+    0.124261274933815
+  ],
+  "gazeEuler": [
+    [
+      0.47999998927116394,
+      0.0,
+      0.3700000047683716
+    ],
+    [
+      0.3521865904331207,
+      0.0,
+      0.4658600687980652
+    ]
+  ],
+  "jawEulerX": [
+    0.016739467158913612,
+    0.1143265813589096
+  ],
+  "singleCanonicalModelIds": [
+    "MINSU_CUTE_V2",
+    "THORNY_V2"
+  ],
+  "geometryIdentityStable": true,
+  "notes": "Object transforms and visibility are tested, not inferred from camera/image changes. Natural acting and comprehension still require visual review."
+}

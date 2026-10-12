@@ -1,0 +1,103 @@
+{
+  "duration": 5.0,
+  "sampleRate": 48000,
+  "track": {
+    "id": "curious_desert_100",
+    "path": "bgm/curious_desert_100.wav",
+    "mood": [
+      "exploration",
+      "observation",
+      "mechanism"
+    ],
+    "bpm": 100,
+    "duration": 19.2,
+    "loopable": true,
+    "instrumental": true,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "creditsRequired": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "commercialAndSocialUse": "Original project synthesis, no third-party samples or composition",
+    "measuredLUFS": -21.0
+  },
+  "events": [
+    {
+      "frame": 94,
+      "sound": "discovery",
+      "eventId": "event_5",
+      "event": "표면 분자가 재배치되는 동안 접촉체가 옆으로 진행하고 카메라가 따라간다",
+      "gainDb": -4,
+      "duck": true,
+      "time": 3.1333333333333333,
+      "sourceFrame": 400,
+      "sampleIndex": 150400,
+      "actualTime": 3.1333333333333333,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 20,
+      "time": 0.6666666666666666,
+      "sound": "soft_pop",
+      "event": "Tracked molecule changes position",
+      "gainDb": -9,
+      "duck": false,
+      "sourceFrame": 326,
+      "sampleIndex": 32000,
+      "actualTime": 0.6666666666666666,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 82,
+      "time": 2.7333333333333334,
+      "sound": "soft_whoosh",
+      "event": "Contact slider accelerates along mobile surface",
+      "gainDb": -8,
+      "duck": false,
+      "sourceFrame": 388,
+      "sampleIndex": 131200,
+      "actualTime": 2.7333333333333334,
+      "syncErrorSeconds": 0.0
+    }
+  ],
+  "stems": [
+    "bgm.wav",
+    "sfx.wav"
+  ],
+  "ttsEnabled": false,
+  "duckDb": 4,
+  "fadeIn": 0.4,
+  "fadeOut": 0.8,
+  "bgmMeasurement": {
+    "input_i": "-22.05",
+    "input_tp": "-12.38",
+    "input_lra": "2.10",
+    "input_thresh": "-32.16",
+    "output_i": "-19.87",
+    "output_tp": "-10.64",
+    "output_lra": "2.00",
+    "output_thresh": "-30.04",
+    "normalization_type": "dynamic",
+    "target_offset": "0.87"
+  },
+  "mixMeasurement": {
+    "input_i": "-19.01",
+    "input_tp": "-10.30",
+    "input_lra": "1.40",
+    "input_thresh": "-29.23",
+    "output_i": "-19.33",
+    "output_tp": "-10.78",
+    "output_lra": "1.50",
+    "output_thresh": "-29.50",
+    "normalization_type": "dynamic",
+    "target_offset": "0.33"
+  },
+  "loopBoundaryStep": 0.000823974609375,
+  "loopNeighborP999Step": 0.012908935546875,
+  "loopClickCheckPassed": true,
+  "minimumHalfSecondBgmRMS": 0.04819991865376968,
+  "bgmCoveragePassed": true,
+  "peakPassed": true,
+  "auditoryReview": "Not yet listened to; waveform/loudness checks are not a listening test."
+}

@@ -1,0 +1,14 @@
+{
+ "version":"6.0.0",
+ "defaultMode":"WORLD_ACTION",
+ "modes":["WORLD_ACTION","INVESTIGATION","EXPLAIN_SCENE","WORLD_RETURN","PAYOFF"],
+ "output":[1080,1920],"native":[540,960],"fps":30,"upscale":"nearest_integer_2",
+ "persistentTitle":false,"persistentChapter":false,"persistentSource":false,"outerFrame":false,
+ "fonts":{"DISPLAY":"Galmuri11-Bold","BODY":"Galmuri11","license":"../retro_voxel/fonts/OFL.md","fallback":"error"},
+ "caption":{"bodyScale":5,"displayScale":7,"maxLines":2,"position":[540,1550],"entryFrames":4,"retainedPhrase":"keep_visible","readingTime":"clamp(0.4+koreanCharacters/8,1.4,3.6)","overflow":"split_sentence"},
+ "colors":{"white":"explanation","yellow":"question_or_discovery","mint":"observed_result","cyan":"science_or_data","purple":"hypothesis","red":"rejected_condition"},
+ "post":{"scanlinePeriod":4,"opacity":0.06,"colorBleedPixels":0},
+ "tts":false,"renderWorkers":1,
+ "cache":{"captionChanges":"UI_only","audioChanges":"audio_only","cameraChanges":"affected_shot","source":"preserve_existing"},
+ "editorialGate":"Actual output frame review required; automatic tests do not approve audience experience"
+}

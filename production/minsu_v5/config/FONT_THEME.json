@@ -1,0 +1,74 @@
+{
+  "version": "5.0.0",
+  "fonts": {
+    "PIXEL_DISPLAY": {
+      "path": "production/retro_voxel/fonts/Galmuri11-Bold.ttf",
+      "basePx": 12,
+      "license": "production/retro_voxel/fonts/OFL.md"
+    },
+    "PIXEL_BODY": {
+      "path": "production/retro_voxel/fonts/Galmuri11.ttf",
+      "basePx": 12,
+      "license": "production/retro_voxel/fonts/OFL.md"
+    }
+  },
+  "roles": {
+    "PIXEL_TITLE": {
+      "font": "PIXEL_DISPLAY",
+      "scale": 7,
+      "color": "white",
+      "accent": "yellow",
+      "motion": "pop"
+    },
+    "PIXEL_BODY": {
+      "font": "PIXEL_BODY",
+      "scale": 5,
+      "color": "white",
+      "accent": "mint",
+      "motion": "step"
+    },
+    "PIXEL_IMPACT": {
+      "font": "PIXEL_DISPLAY",
+      "scale": 8,
+      "color": "yellow",
+      "accent": "yellow",
+      "motion": "pop"
+    },
+    "PIXEL_INFO": {
+      "font": "PIXEL_BODY",
+      "scale": 3,
+      "color": "white",
+      "accent": "mint",
+      "motion": "step"
+    },
+    "PIXEL_LABEL": {
+      "font": "PIXEL_BODY",
+      "scale": 3,
+      "color": "teal",
+      "accent": "teal",
+      "motion": "none"
+    },
+    "PIXEL_COUNTER": {
+      "font": "PIXEL_DISPLAY",
+      "scale": 5,
+      "color": "yellow",
+      "accent": "yellow",
+      "motion": "step"
+    }
+  },
+  "safeRect": [
+    54,
+    96,
+    1026,
+    1800
+  ],
+  "englishBodyScale": 4,
+  "atlasBasePx": 12,
+  "glyphAntialias": false,
+  "outline": "square binary one base pixel",
+  "locales": [
+    "ko",
+    "en"
+  ],
+  "defaultLocale": "ko"
+}

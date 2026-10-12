@@ -1,0 +1,31 @@
+{
+  "video": "references\\pixe.official.kr\\DeWq5t4T4-J.mp4",
+  "sha256": "143407b6273675f1965003c48d3d7afcf10e972787245feaf73671d08f5406d2",
+  "duration_seconds": 123.37,
+  "frame_sampling": "fps=1, nominal second bins, approximately +/-0.5s",
+  "contact_sampling_seconds": 3,
+  "scene_threshold": 0.3,
+  "scene_candidate_times": [
+    7.966667,
+    13.233333,
+    19.266667,
+    24.333333,
+    29.833333,
+    35.533333,
+    41.7,
+    47.933333,
+    55.033333,
+    61.633333,
+    67.466667,
+    73.5,
+    81.7,
+    88.1,
+    94.766667,
+    101.0,
+    106.066667,
+    112.466667
+  ],
+  "audio": "audio.wav, mono 16000 Hz, extracted from local video",
+  "visual_observation": "completed: sampled frame review; see TWO_REELS_ANALYSIS.md",
+  "audio_observation": "local ASR only; no direct auditory review"
+}

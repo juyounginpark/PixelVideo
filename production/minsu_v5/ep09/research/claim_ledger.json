@@ -1,0 +1,83 @@
+{
+  "sources": [
+    {
+      "id": "study2019",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210831",
+      "snapshot": "production\\minsu_v5\\ep09\\research\\study2019.html",
+      "sha256": "9ce925a974ef51c6d3e95c978cd75f6cf611633699aca0cb067bd731dd47b1a3"
+    },
+    {
+      "id": "study2023",
+      "url": "https://www.bristol.ac.uk/news/2023/february/zebra-stripes.html",
+      "type": "Researchers university primary announcement with publication link",
+      "browserVerifiedArticle": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10088525/",
+      "articleDOI": "10.1242/jeb.244778",
+      "snapshot": "production\\minsu_v5\\ep09\\research\\study2023_verified.html",
+      "sha256": "42bffdb06a96d0970546e0d5433aea221f1390e7345bccd2bd14ba632a9a09fb"
+    },
+    {
+      "id": "university2019",
+      "url": "https://www.bristol.ac.uk/news/2019/february/zebra-stripes.html",
+      "snapshot": "production\\minsu_v5\\ep09\\research\\university2019.html",
+      "sha256": "3b159497c984256efdac94155aeec98577ce60d569fbd25f05b51b8f08f2c941"
+    },
+    {
+      "id": "study2020",
+      "url": "https://research-information.bris.ac.uk/ws/portalfiles/portal/246843415/rspb.2020.1521.pdf",
+      "snapshot": "production\\minsu_v5\\ep09\\research\\study2020.pdf",
+      "sha256": "8da876a7d3b546881d76e06a3248ed16ec65554c0a9cc6216f0411d21cd6d3f9",
+      "articleDOI": "10.1098/rspb.2020.1521",
+      "type": "published paper in authors institutional repository"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C1",
+      "claim": "Striped coats reduced horsefly landings relative to uniform coats.",
+      "source": "study2019",
+      "location": "Study 2 and Coat experiment results",
+      "conditions": "7 domestic horses, three commercial coats worn in randomized order; materials were not standardized.",
+      "notClaimed": "all flies, total protection or a universal effect size"
+    },
+    {
+      "id": "C2",
+      "claim": "Approaching flies failed to decelerate normally near zebra pelage in study videos.",
+      "source": "study2019",
+      "location": "Flight trajectories results and Fig3",
+      "conditions": "2019 sampled captive animals; animation is explanatory, not measured tracks.",
+      "notClaimed": "known neural illusion or every trajectory"
+    },
+    {
+      "id": "C3",
+      "claim": "Checked patterns can reduce landings; parallel stripes are not required.",
+      "source": "study2020",
+      "location": "Abstract and results comparing striped, checked and grey coats",
+      "conditions": "patterned coats on domestic horses",
+      "notClaimed": "all check patterns repel all insects"
+    },
+    {
+      "id": "C4",
+      "claim": "High contrast stripes deterred landings more effectively than lightly contrasting stripes in the study.",
+      "source": "study2023",
+      "location": "Abstract, contrast experiment",
+      "conditions": "identically arranged coat patterns with varied contrast",
+      "notClaimed": "human visual contrast equals fly perception"
+    },
+    {
+      "id": "C5",
+      "claim": "Small dark patches are a proposed explanation; the full visual mechanism remains unresolved.",
+      "source": "study2023",
+      "location": "Abstract and discussion working hypothesis",
+      "conditions": "hypothesis rather than definitive neural mechanism",
+      "notClaimed": "proved sole evolutionary cause"
+    }
+  ],
+  "reviewedAt": "2026-10-12T15:51:14.089835+09:00",
+  "sourceIndexPreserved": true,
+  "retrievalLimits": {
+    "challengeResponse": "production\\minsu_v5\\ep09\\research\\study2023_challenge.html",
+    "status": "HTTP200 challenge was not treated as article evidence",
+    "noRepeatedChallengeRequests": true,
+    "sourceAlternatives": "public researchers university announcement and institutional published paper; no restriction bypass"
+  }
+}

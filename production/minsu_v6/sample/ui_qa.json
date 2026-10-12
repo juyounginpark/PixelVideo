@@ -1,0 +1,24 @@
+{
+  "fontQA": {
+    "checkedCharacters": 80,
+    "fallbacks": 0,
+    "locale": "ko",
+    "atlases": [
+      {
+        "face": "PIXEL_DISPLAY",
+        "key": "74cdd78597212b5306037b4adf35faa136d584eafd340ea093b91d1f98bd3e07",
+        "reused": false,
+        "characters": 30
+      },
+      {
+        "face": "PIXEL_BODY",
+        "key": "bbb2f629d4ec5e760c12fde62808479c65d2e10f0a34743cfb49c1ba0ffb4def",
+        "reused": false,
+        "characters": 50
+      }
+    ]
+  },
+  "captionContinuity": "Retained first line at 5.5s does not refade",
+  "composeSeconds": 36.11949050000112,
+  "output": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_V6_ACTION_EXPLAIN_SAMPLE.mp4"
+}

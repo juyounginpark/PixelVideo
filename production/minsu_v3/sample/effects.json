@@ -1,0 +1,202 @@
+{
+  "fps": 30,
+  "durationFrames": 180,
+  "EffectTimeline": [
+    {
+      "id": "question:QUESTION_POP",
+      "eventId": "question",
+      "shotId": "test_0",
+      "type": "QUESTION_POP",
+      "frame": 15,
+      "endFrame": 31,
+      "target": "minsu",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "surprise:PUNCH_ZOOM",
+      "eventId": "surprise",
+      "shotId": "test_0",
+      "type": "PUNCH_ZOOM",
+      "frame": 42,
+      "endFrame": 58,
+      "target": "minsu",
+      "intensity": 2,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "surprise:REACTION_BURST",
+      "eventId": "surprise",
+      "shotId": "test_0",
+      "type": "REACTION_BURST",
+      "frame": 42,
+      "endFrame": 58,
+      "target": "minsu",
+      "intensity": 2,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    },
+    {
+      "id": "inspect:OBJECT_HIGHLIGHT",
+      "eventId": "inspect",
+      "shotId": "test_1",
+      "type": "OBJECT_HIGHLIGHT",
+      "frame": 67,
+      "endFrame": 95,
+      "target": "prop",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "inspect:DARK_FOCUS",
+      "eventId": "inspect",
+      "shotId": "test_1",
+      "type": "DARK_FOCUS",
+      "frame": 67,
+      "endFrame": 95,
+      "target": "prop",
+      "intensity": 1,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    },
+    {
+      "id": "found:PIXEL_SPARK",
+      "eventId": "found",
+      "shotId": "test_2",
+      "type": "PIXEL_SPARK",
+      "frame": 132,
+      "endFrame": 148,
+      "target": "minsu",
+      "intensity": 2,
+      "text": "발견!",
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    },
+    {
+      "id": "found:IMPACT_CAPTION",
+      "eventId": "found",
+      "shotId": "test_2",
+      "type": "IMPACT_CAPTION",
+      "frame": 132,
+      "endFrame": 156,
+      "target": "minsu",
+      "intensity": 2,
+      "text": "발견!",
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    }
+  ],
+  "CameraEffectTimeline": [
+    {
+      "id": "surprise:PUNCH_ZOOM",
+      "eventId": "surprise",
+      "shotId": "test_0",
+      "type": "PUNCH_ZOOM",
+      "frame": 42,
+      "endFrame": 58,
+      "target": "minsu",
+      "intensity": 2,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    }
+  ],
+  "CaptionAnimationTimeline": [
+    {
+      "id": "found:IMPACT_CAPTION",
+      "eventId": "found",
+      "shotId": "test_2",
+      "type": "IMPACT_CAPTION",
+      "frame": 132,
+      "endFrame": 156,
+      "target": "minsu",
+      "intensity": 2,
+      "text": "발견!",
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    }
+  ],
+  "ParticleTimeline": [
+    {
+      "id": "surprise:REACTION_BURST",
+      "eventId": "surprise",
+      "shotId": "test_0",
+      "type": "REACTION_BURST",
+      "frame": 42,
+      "endFrame": 58,
+      "target": "minsu",
+      "intensity": 2,
+      "text": null,
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "secondary"
+    },
+    {
+      "id": "found:PIXEL_SPARK",
+      "eventId": "found",
+      "shotId": "test_2",
+      "type": "PIXEL_SPARK",
+      "frame": 132,
+      "endFrame": 148,
+      "target": "minsu",
+      "intensity": 2,
+      "text": "발견!",
+      "data": null,
+      "transition": "HARD_CUT",
+      "role": "primary"
+    }
+  ],
+  "SoundEffectTimeline": [
+    {
+      "frame": 15,
+      "sound": "question_blip",
+      "eventId": "question",
+      "event": "head tracks rising prop, then surprise",
+      "gainDb": -6,
+      "duck": false
+    },
+    {
+      "frame": 42,
+      "sound": "retro_boing",
+      "eventId": "surprise",
+      "event": "head tracks rising prop, then surprise",
+      "gainDb": -4,
+      "duck": true
+    },
+    {
+      "frame": 132,
+      "sound": "discovery",
+      "eventId": "found",
+      "event": "prop turns green and character smiles",
+      "gainDb": -4,
+      "duck": true
+    }
+  ],
+  "counts": {
+    "QUESTION_POP": 1,
+    "PUNCH_ZOOM": 1,
+    "REACTION_BURST": 1,
+    "OBJECT_HIGHLIGHT": 1,
+    "DARK_FOCUS": 1,
+    "PIXEL_SPARK": 1,
+    "IMPACT_CAPTION": 1
+  },
+  "omissions": []
+}

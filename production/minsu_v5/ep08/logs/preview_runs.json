@@ -1,0 +1,22 @@
+[
+  {
+    "stage": "preview_projection",
+    "seconds": 85.88305630000104,
+    "returncode": 0
+  },
+  {
+    "stage": "preview_ui_check",
+    "seconds": 48.13487990000067,
+    "returncode": 0
+  },
+  {
+    "stage": "preview_render",
+    "seconds": 544.4731190999992,
+    "returncode": 0
+  },
+  {
+    "stage": "preview_compose",
+    "seconds": 66.29111660000126,
+    "returncode": 0
+  }
+]

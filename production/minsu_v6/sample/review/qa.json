@@ -1,0 +1,39 @@
+{
+  "technical": {
+    "fullDecode": true,
+    "frames": 300,
+    "native": [
+      540,
+      960
+    ],
+    "output": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "fontFallbacks": 0,
+    "captionTests": 3
+  },
+  "editorial": {
+    "reviewMethod": "Actual decoded frames and dense transition samples; no real-time playback, hearing or audience test",
+    "improvements": [
+      "Persistent title/chapter/frame removed",
+      "Character and event occupy main world",
+      "Explain limited to observed landing difference",
+      "Same horse, actor and paddock return",
+      "First caption line persists at 5.5 seconds"
+    ],
+    "rework": {
+      "count": 1,
+      "reason": "Enlarged fly clipped at right boundary",
+      "fix": "Bounded outbound fly position"
+    },
+    "remaining": [
+      "Upper world background remains too empty; new episode composition must improve",
+      "Fly trajectory is explanatory and enlarged, not physical simulation",
+      "Observation comparison does not establish complete neural mechanism",
+      "No musical or audience approval"
+    ],
+    "gate": "Reusable caption/mode sample accepted with these explicit limitations; not a final episode quality approval"
+  }
+}

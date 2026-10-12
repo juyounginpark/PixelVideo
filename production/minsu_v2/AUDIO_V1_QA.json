@@ -1,0 +1,21 @@
+{
+  "file": "exports\\MINSU_EP04_THORNY_DEVIL_BGM_SFX_v1.mp4",
+  "fullDecodePassed": true,
+  "videoStreamUnchanged": true,
+  "AACPresent": true,
+  "loudness": {
+    "input_i": "-19.01",
+    "input_tp": "-8.71",
+    "input_lra": "1.50",
+    "input_thresh": "-29.03",
+    "output_i": "-19.10",
+    "output_tp": "-8.89",
+    "output_lra": "1.40",
+    "output_thresh": "-29.11",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "voiceNarration": false,
+  "stems": "production/minsu_v2/audio_mix",
+  "humanListeningReview": false
+}

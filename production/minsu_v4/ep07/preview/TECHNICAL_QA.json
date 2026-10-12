@@ -1,0 +1,197 @@
+{
+  "status": "PASS",
+  "checkedNativeAndUIFrames": 1050,
+  "errors": [],
+  "fontCoverage": {
+    "checkedCharacters": 1053,
+    "fallbacks": 0,
+    "fontFaces": [
+      "PIXEL_DISPLAY",
+      "PIXEL_BODY"
+    ]
+  },
+  "pixelNearestEvidence": [
+    {
+      "shot": "S01",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S02",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S03",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S04",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S05",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S06",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S07",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S08",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S09",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    },
+    {
+      "shot": "S10",
+      "equalFraction": 1.0,
+      "pixels": 194400
+    }
+  ],
+  "audioEventCount": 10,
+  "maxAudioSyncErrorSeconds": 0.0,
+  "audioPeakPassed": true,
+  "audioLoopPassed": true,
+  "audioTimingReported": [
+    {
+      "frame": 26,
+      "time": 0.8666666666666667,
+      "sound": "ui_pop",
+      "gainDb": -11,
+      "event": "같은 바깥 궤도 위 노란 관측 별이 점선 예상 별을 앞선다",
+      "duck": false,
+      "sampleIndex": 41600,
+      "actualTime": 0.8666666666666667,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 128,
+      "time": 4.266666666666667,
+      "sound": "soft_whoosh",
+      "gainDb": -11,
+      "event": "관측판 가까이 몸을 기울이고 밝은 별 부분을 손으로 가리킨다",
+      "duck": false,
+      "sampleIndex": 204800,
+      "actualTime": 4.266666666666667,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 218,
+      "time": 7.266666666666667,
+      "sound": "soft_pop",
+      "gainDb": -10,
+      "event": "밝은 중심은 남기고 바깥 궤도 별과 짧은 이동 흔적을 보여준다",
+      "duck": false,
+      "sampleIndex": 348800,
+      "actualTime": 7.266666666666667,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 325,
+      "time": 10.833333333333334,
+      "sound": "soft_pop",
+      "gainDb": -10,
+      "event": "동일 궤도 위 노란 관측 별이 흰 점선 예상 별을 앞서 나간다",
+      "duck": false,
+      "sampleIndex": 520000,
+      "actualTime": 10.833333333333334,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 420,
+      "time": 14.0,
+      "sound": "soft_whoosh",
+      "gainDb": -11,
+      "event": "별이 직선으로 갈 방향과 중심으로 당기는 화살표가 순서대로 생겨 곡선 궤도를 만든다",
+      "duck": false,
+      "sampleIndex": 672000,
+      "actualTime": 14.0,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 527,
+      "time": 17.566666666666666,
+      "sound": "soft_pop",
+      "gainDb": -10,
+      "event": "위쪽 느린 별과 아래쪽 빠른 별에 각기 짧고 긴 안쪽 화살표를 연결한다",
+      "duck": false,
+      "sampleIndex": 843200,
+      "actualTime": 17.566666666666666,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 644,
+      "time": 21.466666666666665,
+      "sound": "discovery",
+      "gainDb": -5,
+      "event": "작은 발광 은하 주위로 넓은 민트색 점선 구가 드러난다",
+      "duck": true,
+      "sampleIndex": 1030400,
+      "actualTime": 21.466666666666665,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 762,
+      "time": 25.4,
+      "sound": "ui_pop",
+      "gainDb": -10,
+      "event": "민수가 모형 스위치를 누르자 점선 예상 별이 노란 관측 별과 겹친다",
+      "duck": false,
+      "sampleIndex": 1219200,
+      "actualTime": 25.4,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 878,
+      "time": 29.266666666666666,
+      "sound": "soft_whoosh",
+      "gainDb": -11,
+      "event": "민수가 표시를 끄자 점선 구는 사라져도 별은 계속 돈다",
+      "duck": false,
+      "sampleIndex": 1404800,
+      "actualTime": 29.266666666666666,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "frame": 972,
+      "time": 32.4,
+      "sound": "ui_pop",
+      "gainDb": -10,
+      "event": "처음의 두 궤적이 일치한 상태를 유지하고 민수가 관측판을 향해 고개를 끄덕인다",
+      "duck": false,
+      "sampleIndex": 1555200,
+      "actualTime": 32.4,
+      "syncErrorSeconds": 0.0
+    }
+  ],
+  "audioFinalMeasurement": {
+    "input_i": "-19.01",
+    "input_tp": "-9.64",
+    "input_lra": "1.50",
+    "input_thresh": "-29.09",
+    "output_i": "-19.10",
+    "output_tp": "-9.92",
+    "output_lra": "1.10",
+    "output_thresh": "-29.13",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "preservedFiles": 62,
+  "preservationChanges": [],
+  "ttsEnabled": false,
+  "editorialPass": false
+}

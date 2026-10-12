@@ -1,0 +1,147 @@
+{
+  "decodedFrames": 900,
+  "analysisSize": [
+    216,
+    384
+  ],
+  "perShot": [
+    {
+      "shot": "SHOT_01",
+      "meanFrameDifference": 4.46197,
+      "maximumFrameDifference": 19.55756
+    },
+    {
+      "shot": "SHOT_02",
+      "meanFrameDifference": 0.78971,
+      "maximumFrameDifference": 6.10434
+    },
+    {
+      "shot": "SHOT_03",
+      "meanFrameDifference": 1.06551,
+      "maximumFrameDifference": 3.00033
+    },
+    {
+      "shot": "SHOT_04",
+      "meanFrameDifference": 2.94292,
+      "maximumFrameDifference": 5.23885
+    },
+    {
+      "shot": "SHOT_05",
+      "meanFrameDifference": 2.58382,
+      "maximumFrameDifference": 5.67585
+    },
+    {
+      "shot": "SHOT_06",
+      "meanFrameDifference": 3.42633,
+      "maximumFrameDifference": 17.87136
+    },
+    {
+      "shot": "SHOT_07",
+      "meanFrameDifference": 3.26792,
+      "maximumFrameDifference": 5.04055
+    },
+    {
+      "shot": "SHOT_08",
+      "meanFrameDifference": 1.2039,
+      "maximumFrameDifference": 3.92463
+    },
+    {
+      "shot": "SHOT_09",
+      "meanFrameDifference": 0.58208,
+      "maximumFrameDifference": 3.19832
+    }
+  ],
+  "exactStillRuns": [],
+  "longestExactStillSeconds": 0,
+  "largestWithinShotChanges": [
+    {
+      "frame": 30,
+      "cut": false,
+      "meanAbsoluteDifference": 19.55756,
+      "changedPixelFraction": 0.66094,
+      "meanBrightnessChange": -0.38493
+    },
+    {
+      "frame": 521,
+      "cut": false,
+      "meanAbsoluteDifference": 17.87136,
+      "changedPixelFraction": 0.628014,
+      "meanBrightnessChange": -0.50583
+    },
+    {
+      "frame": 31,
+      "cut": false,
+      "meanAbsoluteDifference": 15.90152,
+      "changedPixelFraction": 0.624614,
+      "meanBrightnessChange": -0.52227
+    },
+    {
+      "frame": 29,
+      "cut": false,
+      "meanAbsoluteDifference": 12.7336,
+      "changedPixelFraction": 0.560233,
+      "meanBrightnessChange": -0.11936
+    },
+    {
+      "frame": 522,
+      "cut": false,
+      "meanAbsoluteDifference": 12.15767,
+      "changedPixelFraction": 0.559992,
+      "meanBrightnessChange": -0.2207
+    },
+    {
+      "frame": 34,
+      "cut": false,
+      "meanAbsoluteDifference": 11.75974,
+      "changedPixelFraction": 0.567769,
+      "meanBrightnessChange": 0.33587
+    },
+    {
+      "frame": 520,
+      "cut": false,
+      "meanAbsoluteDifference": 11.69989,
+      "changedPixelFraction": 0.521858,
+      "meanBrightnessChange": -0.45702
+    },
+    {
+      "frame": 33,
+      "cut": false,
+      "meanAbsoluteDifference": 10.5629,
+      "changedPixelFraction": 0.549431,
+      "meanBrightnessChange": 0.29537
+    },
+    {
+      "frame": 35,
+      "cut": false,
+      "meanAbsoluteDifference": 10.07023,
+      "changedPixelFraction": 0.531708,
+      "meanBrightnessChange": 0.14203
+    },
+    {
+      "frame": 525,
+      "cut": false,
+      "meanAbsoluteDifference": 9.1315,
+      "changedPixelFraction": 0.509163,
+      "meanBrightnessChange": 0.27937
+    },
+    {
+      "frame": 526,
+      "cut": false,
+      "meanAbsoluteDifference": 8.1234,
+      "changedPixelFraction": 0.480119,
+      "meanBrightnessChange": 0.16321
+    },
+    {
+      "frame": 524,
+      "cut": false,
+      "meanAbsoluteDifference": 7.94333,
+      "changedPixelFraction": 0.482277,
+      "meanBrightnessChange": 0.0544
+    }
+  ],
+  "brightnessJumpsOver20Levels": [],
+  "limits": [
+    "Reduced-resolution frame metrics detect gross freeze/flash issues, not acting quality.",
+    "Contact sheets sample time; they do not establish real-time playback or listening approval."
+  ]
+}

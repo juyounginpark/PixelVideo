@@ -1,0 +1,461 @@
+{
+  "results": [
+    {
+      "operation": "Rotate",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "99f98b478b00935462ee4ef169cb8c88dbb90ca2fac5330a6d4b8b3424a94310",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 7.999999602635702,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 90.00000250447816
+        }
+      },
+      "middle": {
+        "geometryHash": "960b8176e6426df707708b006588595ccbf78a5ef3712ba4d6eb63a63109aa77",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 7.999999523162842,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 45.00000125223908
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "Squash",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "a712b528df9737f72cce972cca0114c351a37712ab58d3c1943139fde9f082cc",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 5.818999926249187,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "middle": {
+        "geometryHash": "ee8f6ca6a78d1042cb5b37e24101cce311d4082d6a68316aaf3abf7464f2bc95",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 7.164875507354736,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "Stretch",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "9149661134549cbb91e22fa9cb648bbd24b970c76a55da249c89d3517b38e4d0",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.192000389099123,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "middle": {
+        "geometryHash": "f74447325826f9a6611d5dfa23be61d1620dc21ae0c6b2155f37b44adf4953d1",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.423999468485516,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "Flatten",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "e21e9b59dc154efc5189b077b465c75dbe0476d791e2ed60cee7cd97d13d29a9",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 0.6399999856948853,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "middle": {
+        "geometryHash": "905ee6d9783f03d77b185bcedffb45ca6a7fcffa2eddd5124f3eaf4e5479c56d",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 4.320000171661377,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "Bend",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "cbea11bfe60d0728ff0054158358be5ad20b27852f94aea9e7ba0e17d0a764fd",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 6.000000655651093,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "middle": {
+        "geometryHash": "69218dc0f2c7922ac8cbd3015464b9a43d150ce6df6262d8413167537c7c2fde",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 7.464101841052374,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "Cut",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "fa6c77e4fa9902556891280047d873a8e3fb9f51c2983caa58db82cfe27e46e2",
+        "vertices": 16,
+        "polygons": 12,
+        "meshVolume": 7.250000000000002,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "middle": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "Pierce",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "867f997ec9f2b3ce0d1c2274015d6b7b3791b7ff3c76fc52faa0fd4a9a0ab863",
+        "vertices": 56,
+        "polygons": 32,
+        "meshVolume": 7.239072041818869,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "middle": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "Join",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "d84a492616293db873f27049b2b93bc8506a58984e6fafd62582e937f8a2ed14",
+        "vertices": 16,
+        "polygons": 12,
+        "meshVolume": 9.000000000000004,
+        "connectedComponents": 2,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "a2e661008f8fceb0cce5d95ca5cc67b23b2d09bf7963aa98a839f5c6a8158e70",
+        "vertices": 16,
+        "polygons": 12,
+        "meshVolume": 8.75,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "middle": {
+        "geometryHash": "89574b7ec901def9cefb2d1ee2bfe97197182bbb45353961c22770a33ae1c255",
+        "vertices": 16,
+        "polygons": 12,
+        "meshVolume": 9.000000000000004,
+        "connectedComponents": 2,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "Open",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "99f98b478b00935462ee4ef169cb8c88dbb90ca2fac5330a6d4b8b3424a94310",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 7.999999602635702,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 90.00000250447816
+        }
+      },
+      "middle": {
+        "geometryHash": "960b8176e6426df707708b006588595ccbf78a5ef3712ba4d6eb63a63109aa77",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 7.999999523162842,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 45.00000125223908
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "Close",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "99f98b478b00935462ee4ef169cb8c88dbb90ca2fac5330a6d4b8b3424a94310",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 7.999999602635702,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 90.00000250447816
+        }
+      },
+      "final": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "middle": {
+        "geometryHash": "960b8176e6426df707708b006588595ccbf78a5ef3712ba4d6eb63a63109aa77",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 7.999999523162842,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 45.00000125223908
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "Morph",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "44001d02dbdc61cb14bce0ce65bfc580b4e20a358c993c31649f3a84aeed937a",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 7.839999675750732,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "middle": {
+        "geometryHash": "2c8868d262cb44567c3d085779d91a78c60733b147bf031ce58bdef52b6710e9",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.160000801086426,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "Compare",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "e081f9d4a6f180b37ee724fbb1ff554304f70ecdeebbba9eb78e81729dfe5999",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.000000000000002,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "middle": {
+        "geometryHash": "d7cc00f4e00fe8871cebb78615b4e942b9ac61a0c01af6484988dc62f7335f5e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.000000000000002,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    },
+    {
+      "operation": "ValueUpdate",
+      "result": "PASS",
+      "initial": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "final": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "middle": {
+        "geometryHash": "fa69183e39d1844c9f2c222ca96050cf9ed6ceaa3a75b309940001d7f809632e",
+        "vertices": 8,
+        "polygons": 6,
+        "meshVolume": 8.0,
+        "connectedComponents": 1,
+        "properties": {
+          "rotationZDegrees": 0.0
+        }
+      },
+      "scope": "deterministic evaluated mesh only; scientific conservation and art not approved"
+    }
+  ],
+  "cacheContracts": 2,
+  "scientificApproval": false
+}

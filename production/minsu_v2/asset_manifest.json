@@ -1,0 +1,71 @@
+{
+  "models": [
+    "MINSU_CUTE_V2",
+    "THORNY_V2"
+  ],
+  "meshCount": 593,
+  "faceStates": [
+    "Neutral",
+    "Curious",
+    "Surprise",
+    "Confused",
+    "Happy",
+    "Worried",
+    "Thinking",
+    "Determined",
+    "Laughing",
+    "Scared"
+  ],
+  "animationPresets": [
+    "Idle",
+    "Walk",
+    "Run",
+    "Turn",
+    "LookAt",
+    "LookAround",
+    "Point",
+    "Explain",
+    "Surprise",
+    "Confused",
+    "Think",
+    "Happy",
+    "Laugh",
+    "Scared",
+    "Jump",
+    "StepBack",
+    "LeanForward",
+    "Touch",
+    "Inspect",
+    "PickUp",
+    "React",
+    "Celebrate"
+  ],
+  "exercisedPresets": [
+    "Idle",
+    "LeanForward",
+    "Surprise",
+    "Inspect",
+    "Point",
+    "Happy"
+  ],
+  "frameCount": 1080,
+  "nativeResolution": [
+    540,
+    960
+  ],
+  "textures": [
+    "amber_32px",
+    "brown_32px",
+    "cream_32px",
+    "hair_32px",
+    "mint_32px",
+    "ochre_32px",
+    "pale_32px",
+    "rock_32px",
+    "sand_32px",
+    "shoe_32px",
+    "skin_32px",
+    "wet_32px"
+  ],
+  "bakeSeconds": 34.36789631843567
+}

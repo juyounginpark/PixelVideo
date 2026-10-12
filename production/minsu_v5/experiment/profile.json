@@ -1,0 +1,24 @@
+{
+  "version": "straw-game-1.0.0",
+  "sourceSpec": "MINSU_STRAW_STYLE_USER_SPEC.md",
+  "output": [1080, 1920], "native": [540, 960], "fps": 30,
+  "colors": {"YELLOW": "#FFE17A", "MINT": "#8AE7BF", "PURPLE": "#C6AEFA", "RED": "#FF817F", "WHITE": "#F8F4E6", "NAVY": "#211D37", "PANEL": "#302942"},
+  "semantics": {"QUESTION": "YELLOW", "HYPOTHESIS": "YELLOW", "CHOICE": "YELLOW", "IMPORTANT_NUMBER": "YELLOW", "CONFIRMED": "MINT", "SUCCESS": "MINT", "PRINCIPLE": "MINT", "ALTERNATIVE": "PURPLE", "DEFINITION": "PURPLE", "REJECTED": "RED", "FAILURE": "RED", "EXPLANATION": "WHITE"},
+  "roles": {
+    "FIXED_TITLE": {"font": "PIXEL_DISPLAY", "scale": 5, "center": [540, 104], "semantic": "QUESTION"},
+    "CHAPTER_TITLE": {"font": "PIXEL_DISPLAY", "scale": 4, "center": [540, 230], "semantic": "EXPLANATION"},
+    "BODY": {"font": "PIXEL_BODY", "scale": 5, "center": [540, 1454], "semantic": "EXPLANATION"},
+    "OBJECT_LABEL": {"font": "PIXEL_BODY", "scale": 3, "center": [540, 1110], "semantic": "EXPLANATION"},
+    "RESULT_VALUE": {"font": "PIXEL_DISPLAY", "scale": 5, "center": [540, 1280], "semantic": "IMPORTANT_NUMBER"},
+    "ENDING_CHOICE": {"font": "PIXEL_DISPLAY", "scale": 4, "center": [540, 1654], "semantic": "CHOICE"},
+    "INFO": {"font": "PIXEL_BODY", "scale": 3, "center": [540, 1580], "semantic": "DEFINITION"}
+  },
+  "frame": {"outer": [40, 84, 1040, 1798], "viewport": [64, 364, 1016, 1092], "borderPx": 4, "viewportBorderPx": 12, "safe": [54, 96, 1026, 1800]},
+  "post": {"orderedDither": {"matrix": "bayer4", "levelsPerChannel": 12, "strength": 0.35}, "backgroundNoise": {"amplitude": 1, "seed": 91, "temporal": false}, "scanline": {"enabled": true, "period": 4, "opacity": 0.06}, "colorBleed": 0},
+  "numericKinds": ["CHAPTER_PROGRESS", "STATE", "COMPARISON", "OUTCOME", "OBSERVATION"],
+  "timeline": ["INITIAL", "CURRENT_VALUE", "PREDICT", "OPERATE", "UPDATE", "COMPARE", "CONNECT"],
+  "story": ["QUESTION", "COMPETING_HYPOTHESES", "OBSERVE", "EXPERIMENT", "DISCOVERY", "TRANSFER", "CONCLUSION", "PARTICIPATE"],
+  "cache": {"nativeExcludes": ["ui", "captions", "audio", "post"], "heavyWorkers": 1, "text": "existing V5 glyph atlas + persistent line cache"},
+  "sourcePolicy": "preserve existing NamuWiki mystery source; no fixture consumes a topic",
+  "tts": false, "locale": "ko", "english": "separate output"
+}

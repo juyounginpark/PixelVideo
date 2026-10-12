@@ -1,0 +1,25 @@
+{
+  "decision": "PROCEED_WITH_STATED_LIMITS",
+  "reviewer": "Codex visual inspection",
+  "evidence": [
+    "S05_sequence.jpg",
+    "S06_sequence.jpg",
+    "S05_104.png",
+    "S06_088.png",
+    "S06_032.png"
+  ],
+  "videoSha256": "4004636121dbbd0a96e79af6eb6e2ecd069f58ca31a07211ade58f45fa1dfd47",
+  "findings": [
+    "실제 210프레임 MP4에서 0.267초 간격+정확한 사건 프레임 관찰",
+    "S05 범례 이동 뒤 후반 별/화살표와 겹치지 않음",
+    "S06 진행 화살표 제거 후 느림/빠름 라벨과 별의 실제 움직임이 구분됨",
+    "민트 중력 화살표는 안쪽 방향; 동일 반지름에서 빠른 쪽이 더 큰 필요한 중력",
+    "360px 모바일 대표 프레임에서 한글 본문/영어 보조/라벨 읽기 확인",
+    "글리프 폴백 없음; 네이티브540→1080정수확대와 별도UI"
+  ],
+  "limits": [
+    "Human listening and real-time playback not performed",
+    "Audience comprehension/retention not measured",
+    "이후 인물/결말 수정은 이 샘플의 과학 궤적을 변경하지 않지만 보수적 코드 캐시 때문에 최종 재렌더될 수 있음"
+  ]
+}

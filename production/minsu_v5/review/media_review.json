@@ -1,0 +1,113 @@
+[
+  {
+    "name": "ref3",
+    "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\references\\똥, 오줌… 왜 말만 들어도 웃길까 💩 #shorts’똥‘이라는 말만 들어도 피식하게 되죠. 어른이 돼도 웃기는 데는 이유가 있어요.첫째, 금기예요. 우리는 어릴 때부터 .mp4",
+    "sha256": "a3e39ae470725c4fa35f6958ae12cd6c1c6ec95c50a8302791cfd1255d6e2071",
+    "times": [
+      1,
+      4.5,
+      5,
+      11.5,
+      12.5,
+      16,
+      26,
+      37,
+      48
+    ],
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, bt709, progressive)",
+      "audio_codec": "aac",
+      "fps": 24.0,
+      "source_size": [
+        720,
+        1280
+      ],
+      "size": [
+        720,
+        1280
+      ],
+      "rotate": 0,
+      "duration": 51.24
+    },
+    "observation": "Actual decoded frames; no claim of audio listening or continuous real-time viewing"
+  },
+  {
+    "name": "ref4",
+    "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\references\\안 만졌는데 간지러운 진짜 이유 🤣 #shorts친구가 손가락을 꼼지락거리며 다가오기만 해도 벌써 몸이 배배 꼬이죠. 아직 닿지도 않았는데 왜 간지러울까요 정답은, 뇌가 .mp4",
+    "sha256": "29d3b45eee840233e8f0e86b213b2dacb8e8a748bb565963544321313de3915d",
+    "times": [
+      0,
+      0.5,
+      1,
+      2,
+      3,
+      5,
+      6,
+      9,
+      10,
+      11,
+      13,
+      15,
+      18,
+      24
+    ],
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(progressive)",
+      "audio_codec": "aac",
+      "fps": 24.0,
+      "source_size": [
+        720,
+        1280
+      ],
+      "size": [
+        720,
+        1280
+      ],
+      "rotate": 0,
+      "duration": 30.11
+    },
+    "observation": "Actual decoded frames; no claim of audio listening or continuous real-time viewing"
+  },
+  {
+    "name": "ep07",
+    "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP07_V4_DARK_MATTER.mp4",
+    "sha256": "6b478f5aaa5711e72a6b3b5b719216d764c1437ea2a9706dc5564fe3a833a1f6",
+    "times": [
+      0,
+      0.5,
+      1.5,
+      2.5,
+      4.5,
+      7.75,
+      11.25,
+      14.75,
+      18.25,
+      22,
+      26,
+      29.5,
+      33
+    ],
+    "metadata": {
+      "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+      "codec": "h264",
+      "pix_fmt": "yuv420p(tv, bt709, progressive)",
+      "audio_codec": "aac",
+      "fps": 30.0,
+      "source_size": [
+        1080,
+        1920
+      ],
+      "size": [
+        1080,
+        1920
+      ],
+      "rotate": 0,
+      "duration": 35.0
+    },
+    "observation": "Actual decoded frames; no claim of audio listening or continuous real-time viewing"
+  }
+]

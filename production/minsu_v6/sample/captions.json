@@ -1,0 +1,40 @@
+[
+  {
+    "start": 1.1,
+    "end": 3,
+    "lines": [
+      "왜 못 앉을까?"
+    ],
+    "role": "PIXEL_TITLE",
+    "color": "yellow"
+  },
+  {
+    "start": 3,
+    "end": 5.5,
+    "lines": [
+      "줄무늬에 접근한 등에는"
+    ],
+    "role": "PIXEL_BODY",
+    "color": "white"
+  },
+  {
+    "start": 5.5,
+    "end": 8.2,
+    "lines": [
+      "줄무늬에 접근한 등에는",
+      "착륙 직전 감속하지 못했다."
+    ],
+    "newText": "착륙 직전 감속하지 못했다.",
+    "role": "PIXEL_BODY",
+    "color": "white"
+  },
+  {
+    "start": 8.2,
+    "end": 10,
+    "lines": [
+      "차이는 착륙 순간!"
+    ],
+    "role": "PIXEL_IMPACT",
+    "color": "yellow"
+  }
+]

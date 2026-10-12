@@ -1,0 +1,22 @@
+{
+  "fonts": {
+    "checkedCharacters": 725,
+    "fallbacks": 0,
+    "locale": "ko",
+    "atlases": [
+      {
+        "face": "PIXEL_DISPLAY",
+        "key": "fa8507e79bb9fc5ea68f764830fecf83adc9bd68379575d5ab8e4ba34fccb2a8",
+        "reused": true,
+        "characters": 38
+      },
+      {
+        "face": "PIXEL_BODY",
+        "key": "ba771ebdbdccd653f29b296aa590c87779b4e08aa2340cf2f12760c98d347f22",
+        "reused": true,
+        "characters": 145
+      }
+    ]
+  },
+  "errors": []
+}

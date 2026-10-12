@@ -1,0 +1,5 @@
+{
+ "version":"6.0.0",
+ "technical":{"decodeAllFrames":true,"requireFormat":[1080,1920,30],"missingGlyphs":0,"textCollisions":0,"protectedCupOutOfFrame":0,"maximumTruePeakDb":-1,"groundTolerance":0.00001,"sourceFilesChanged":0,"cacheHashErrors":0},
+ "editorial":{"autoApprove":false,"evidence":"actual MP4 frames and transition sequences","requiredNotes":["first_possible_dropoff","reason","delete_candidates","event_rework","scientific_limits","art_limits","review_scope"],"audienceRetention":"not inferred from topic score or technical success"}
+}

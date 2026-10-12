@@ -1,0 +1,2152 @@
+{
+  "quality": "final",
+  "renderedFrames": 0,
+  "reusedFrames": 0,
+  "projectionSeconds": 1.9080912999343127,
+  "renderSeconds": 0,
+  "shots": {
+    "S01": {
+      "rendered": 0,
+      "reused": 0,
+      "seconds": 0.9477962999990268,
+      "key": "b43e5f1d48681c9551cd6f70b0d856c0cd31c807cec93f50be2317cb6beeec57"
+    },
+    "S02": {
+      "rendered": 0,
+      "reused": 0,
+      "seconds": 1.0311575999985507,
+      "key": "d7b4bc533be0c23e91adbe928b7b6d0d945d01a7fd317c7258acf4f6e968cd82"
+    },
+    "S03": {
+      "rendered": 0,
+      "reused": 0,
+      "seconds": 1.5673896000007517,
+      "key": "75329c305beaf86de3c6df976bba148c122dbe91469232cd6bcbe1f81b6661e0"
+    },
+    "S04": {
+      "rendered": 0,
+      "reused": 0,
+      "seconds": 1.549309699999867,
+      "key": "9e0c6b372af15a1e433f7a5d6a10649c4d8a00b147da65dce2b24a5f3cb4af08"
+    },
+    "S05": {
+      "rendered": 0,
+      "reused": 0,
+      "seconds": 1.554940499998338,
+      "key": "df8466924b7254fd01d40f9e11d6ffde4b5fdaadbcda048e1e6c0caf2f2d1441"
+    },
+    "S06": {
+      "rendered": 0,
+      "reused": 0,
+      "seconds": 0.28797040000063134,
+      "key": "23c7bf02512cf2af92f089e22ca3aac53bd37be4f36f02ba991316b04808a1a1"
+    },
+    "S07": {
+      "rendered": 0,
+      "reused": 0,
+      "seconds": 1.8189922000019578,
+      "key": "832362b8f8cb7b953f39c2c2276c2ce8d80ea9dbe57b1bbda801ced35931b5b9"
+    },
+    "S08": {
+      "rendered": 0,
+      "reused": 0,
+      "seconds": 1.7850134000000253,
+      "key": "cf88560b7868ed0aa6f4ddcd0052ec5bcb5c21bb0a57a2ab5becc1a7ff1c58f5"
+    },
+    "S09": {
+      "rendered": 0,
+      "reused": 0,
+      "seconds": 1.4364524000011443,
+      "key": "084a36838c6ffd2cc618ff9545a58f6c05dc231ef48c47b13778bc8f043f8a5a"
+    },
+    "S10": {
+      "rendered": 0,
+      "reused": 0,
+      "seconds": 2.217690699999366,
+      "key": "618ea449840533a50c884677c38b2e7266514084add4fc8a49a176f1edd2e5ff"
+    }
+  },
+  "errors": [
+    {
+      "shot": "S02",
+      "frame": 0,
+      "subject": "head",
+      "rect": [
+        14.26,
+        520.77,
+        533.13,
+        1046.79
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 0,
+      "subject": "character",
+      "rect": [
+        14.26,
+        520.77,
+        533.13,
+        1363.19
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 1,
+      "subject": "head",
+      "rect": [
+        13.92,
+        520.7,
+        533.02,
+        1047.13
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 1,
+      "subject": "character",
+      "rect": [
+        13.92,
+        520.7,
+        533.02,
+        1363.17
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 2,
+      "subject": "head",
+      "rect": [
+        12.92,
+        520.53,
+        532.72,
+        1048.1
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 2,
+      "subject": "character",
+      "rect": [
+        12.92,
+        520.53,
+        532.72,
+        1363.12
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 3,
+      "subject": "head",
+      "rect": [
+        11.33,
+        520.26,
+        532.23,
+        1049.67
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 3,
+      "subject": "character",
+      "rect": [
+        11.33,
+        520.26,
+        532.23,
+        1363.03
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 4,
+      "subject": "head",
+      "rect": [
+        9.22,
+        519.93,
+        531.54,
+        1051.77
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 4,
+      "subject": "character",
+      "rect": [
+        9.22,
+        519.93,
+        531.54,
+        1362.91
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 5,
+      "subject": "head",
+      "rect": [
+        6.63,
+        519.54,
+        530.66,
+        1054.36
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 5,
+      "subject": "character",
+      "rect": [
+        6.63,
+        519.54,
+        530.66,
+        1362.77
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 6,
+      "subject": "head",
+      "rect": [
+        3.65,
+        519.15,
+        529.6,
+        1057.38
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 6,
+      "subject": "character",
+      "rect": [
+        3.65,
+        519.15,
+        529.6,
+        1362.59
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 7,
+      "subject": "head",
+      "rect": [
+        0.33,
+        518.76,
+        528.34,
+        1060.79
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 7,
+      "subject": "character",
+      "rect": [
+        0.33,
+        518.76,
+        528.34,
+        1362.39
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 8,
+      "subject": "head",
+      "rect": [
+        -3.26,
+        518.4,
+        526.89,
+        1064.52
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 8,
+      "subject": "character",
+      "rect": [
+        -3.26,
+        518.4,
+        526.89,
+        1362.17
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 9,
+      "subject": "head",
+      "rect": [
+        -7.06,
+        518.11,
+        525.26,
+        1068.52
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 9,
+      "subject": "character",
+      "rect": [
+        -7.06,
+        518.11,
+        525.26,
+        1361.93
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 10,
+      "subject": "head",
+      "rect": [
+        -11.02,
+        517.9,
+        523.46,
+        1072.75
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 10,
+      "subject": "character",
+      "rect": [
+        -11.02,
+        517.9,
+        523.46,
+        1361.68
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 11,
+      "subject": "head",
+      "rect": [
+        -15.06,
+        517.78,
+        521.49,
+        1077.13
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 11,
+      "subject": "character",
+      "rect": [
+        -15.06,
+        517.78,
+        521.49,
+        1361.4
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 12,
+      "subject": "head",
+      "rect": [
+        -19.13,
+        517.77,
+        519.39,
+        1081.62
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 12,
+      "subject": "character",
+      "rect": [
+        -19.13,
+        517.77,
+        519.39,
+        1361.12
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 13,
+      "subject": "head",
+      "rect": [
+        -23.19,
+        517.88,
+        517.58,
+        1086.14
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 13,
+      "subject": "character",
+      "rect": [
+        -23.19,
+        517.88,
+        517.58,
+        1360.84
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 14,
+      "subject": "head",
+      "rect": [
+        -27.17,
+        518.09,
+        517.53,
+        1090.66
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 14,
+      "subject": "character",
+      "rect": [
+        -27.17,
+        518.09,
+        517.53,
+        1360.55
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 15,
+      "subject": "head",
+      "rect": [
+        -31.03,
+        518.42,
+        517.43,
+        1095.09
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 15,
+      "subject": "character",
+      "rect": [
+        -31.03,
+        518.42,
+        517.43,
+        1360.26
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 16,
+      "subject": "head",
+      "rect": [
+        -34.71,
+        518.83,
+        517.28,
+        1099.38
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 16,
+      "subject": "character",
+      "rect": [
+        -34.71,
+        518.83,
+        517.28,
+        1359.98
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 17,
+      "subject": "head",
+      "rect": [
+        -38.19,
+        519.32,
+        517.1,
+        1103.47
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 17,
+      "subject": "character",
+      "rect": [
+        -38.19,
+        519.32,
+        517.1,
+        1359.72
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 18,
+      "subject": "head",
+      "rect": [
+        -41.42,
+        519.85,
+        516.88,
+        1107.3
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 18,
+      "subject": "character",
+      "rect": [
+        -41.42,
+        519.85,
+        516.88,
+        1359.48
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 19,
+      "subject": "head",
+      "rect": [
+        -44.35,
+        520.4,
+        516.66,
+        1110.81
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 19,
+      "subject": "character",
+      "rect": [
+        -44.35,
+        520.4,
+        516.66,
+        1359.27
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 20,
+      "subject": "head",
+      "rect": [
+        -46.96,
+        520.94,
+        516.43,
+        1113.94
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 20,
+      "subject": "character",
+      "rect": [
+        -46.96,
+        520.94,
+        516.43,
+        1359.09
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 21,
+      "subject": "head",
+      "rect": [
+        -49.2,
+        521.43,
+        516.21,
+        1116.63
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 21,
+      "subject": "character",
+      "rect": [
+        -49.2,
+        521.43,
+        516.21,
+        1358.96
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 22,
+      "subject": "head",
+      "rect": [
+        -51.05,
+        521.83,
+        516.02,
+        1118.82
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 22,
+      "subject": "character",
+      "rect": [
+        -51.05,
+        521.83,
+        516.02,
+        1358.87
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 23,
+      "subject": "head",
+      "rect": [
+        -52.46,
+        522.1,
+        515.87,
+        1120.46
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 23,
+      "subject": "character",
+      "rect": [
+        -52.46,
+        522.1,
+        515.87,
+        1358.85
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 24,
+      "subject": "head",
+      "rect": [
+        -53.4,
+        522.22,
+        515.77,
+        1121.49
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 24,
+      "subject": "character",
+      "rect": [
+        -53.4,
+        522.22,
+        515.77,
+        1358.88
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 25,
+      "subject": "head",
+      "rect": [
+        -53.83,
+        522.16,
+        515.74,
+        1121.84
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 25,
+      "subject": "character",
+      "rect": [
+        -53.83,
+        522.16,
+        515.74,
+        1358.99
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 26,
+      "subject": "head",
+      "rect": [
+        -54.03,
+        522.0,
+        515.73,
+        1121.9
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 26,
+      "subject": "character",
+      "rect": [
+        -54.03,
+        522.0,
+        515.73,
+        1359.13
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 27,
+      "subject": "head",
+      "rect": [
+        -54.24,
+        521.85,
+        515.72,
+        1121.95
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 27,
+      "subject": "character",
+      "rect": [
+        -54.24,
+        521.85,
+        515.72,
+        1359.27
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 28,
+      "subject": "head",
+      "rect": [
+        -54.46,
+        521.69,
+        515.71,
+        1122.01
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 28,
+      "subject": "character",
+      "rect": [
+        -54.46,
+        521.69,
+        515.71,
+        1359.41
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 29,
+      "subject": "head",
+      "rect": [
+        -54.68,
+        521.53,
+        515.7,
+        1122.07
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 29,
+      "subject": "character",
+      "rect": [
+        -54.68,
+        521.53,
+        515.7,
+        1359.56
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 30,
+      "subject": "head",
+      "rect": [
+        -54.9,
+        521.36,
+        515.69,
+        1122.13
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 30,
+      "subject": "character",
+      "rect": [
+        -54.9,
+        521.36,
+        515.69,
+        1359.71
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 31,
+      "subject": "head",
+      "rect": [
+        -55.13,
+        521.2,
+        515.68,
+        1122.2
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 31,
+      "subject": "character",
+      "rect": [
+        -55.13,
+        521.2,
+        515.68,
+        1359.86
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 32,
+      "subject": "head",
+      "rect": [
+        -55.36,
+        521.03,
+        515.67,
+        1122.26
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 32,
+      "subject": "character",
+      "rect": [
+        -55.36,
+        521.03,
+        515.67,
+        1360.02
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 33,
+      "subject": "head",
+      "rect": [
+        -55.59,
+        520.85,
+        515.66,
+        1122.32
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 33,
+      "subject": "character",
+      "rect": [
+        -55.59,
+        520.85,
+        515.66,
+        1360.17
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 34,
+      "subject": "head",
+      "rect": [
+        -55.83,
+        520.68,
+        515.65,
+        1122.39
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 34,
+      "subject": "character",
+      "rect": [
+        -55.83,
+        520.68,
+        515.65,
+        1360.33
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 35,
+      "subject": "head",
+      "rect": [
+        -56.07,
+        520.5,
+        515.64,
+        1122.45
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 35,
+      "subject": "character",
+      "rect": [
+        -56.07,
+        520.5,
+        515.64,
+        1360.5
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 36,
+      "subject": "head",
+      "rect": [
+        -56.31,
+        520.32,
+        515.63,
+        1122.52
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 36,
+      "subject": "character",
+      "rect": [
+        -56.31,
+        520.32,
+        515.63,
+        1360.66
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 37,
+      "subject": "head",
+      "rect": [
+        -56.56,
+        520.14,
+        515.62,
+        1122.59
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 37,
+      "subject": "character",
+      "rect": [
+        -56.56,
+        520.14,
+        515.62,
+        1360.82
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 38,
+      "subject": "head",
+      "rect": [
+        -56.81,
+        519.96,
+        515.61,
+        1122.65
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 38,
+      "subject": "character",
+      "rect": [
+        -56.81,
+        519.96,
+        515.61,
+        1360.99
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 39,
+      "subject": "head",
+      "rect": [
+        -57.06,
+        519.77,
+        515.6,
+        1122.72
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 39,
+      "subject": "character",
+      "rect": [
+        -57.06,
+        519.77,
+        515.6,
+        1361.16
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 40,
+      "subject": "head",
+      "rect": [
+        -57.31,
+        519.59,
+        515.59,
+        1122.79
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 40,
+      "subject": "character",
+      "rect": [
+        -57.31,
+        519.59,
+        515.59,
+        1361.33
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 41,
+      "subject": "head",
+      "rect": [
+        -57.56,
+        519.4,
+        515.58,
+        1122.86
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 41,
+      "subject": "character",
+      "rect": [
+        -57.56,
+        519.4,
+        515.58,
+        1361.5
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 42,
+      "subject": "head",
+      "rect": [
+        -57.81,
+        519.22,
+        515.57,
+        1122.93
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 42,
+      "subject": "character",
+      "rect": [
+        -57.81,
+        519.22,
+        515.57,
+        1361.67
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 43,
+      "subject": "head",
+      "rect": [
+        -58.07,
+        519.03,
+        515.56,
+        1123.0
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 43,
+      "subject": "character",
+      "rect": [
+        -58.07,
+        519.03,
+        515.56,
+        1361.84
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 44,
+      "subject": "head",
+      "rect": [
+        -58.32,
+        518.84,
+        515.55,
+        1123.07
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 44,
+      "subject": "character",
+      "rect": [
+        -58.32,
+        518.84,
+        515.55,
+        1362.01
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 45,
+      "subject": "head",
+      "rect": [
+        -58.58,
+        518.65,
+        515.54,
+        1123.14
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 45,
+      "subject": "character",
+      "rect": [
+        -58.58,
+        518.65,
+        515.54,
+        1362.18
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 46,
+      "subject": "head",
+      "rect": [
+        -58.83,
+        518.46,
+        515.53,
+        1123.21
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 46,
+      "subject": "character",
+      "rect": [
+        -58.83,
+        518.46,
+        515.53,
+        1362.35
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 47,
+      "subject": "head",
+      "rect": [
+        -59.09,
+        518.27,
+        515.52,
+        1123.28
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 47,
+      "subject": "character",
+      "rect": [
+        -59.09,
+        518.27,
+        515.52,
+        1362.52
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 48,
+      "subject": "head",
+      "rect": [
+        -59.34,
+        518.09,
+        515.51,
+        1123.34
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 48,
+      "subject": "character",
+      "rect": [
+        -59.34,
+        518.09,
+        515.51,
+        1362.69
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 49,
+      "subject": "head",
+      "rect": [
+        -59.6,
+        517.9,
+        515.5,
+        1123.41
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 49,
+      "subject": "character",
+      "rect": [
+        -59.6,
+        517.9,
+        515.5,
+        1362.87
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 50,
+      "subject": "head",
+      "rect": [
+        -59.85,
+        517.71,
+        515.49,
+        1123.48
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 50,
+      "subject": "character",
+      "rect": [
+        -59.85,
+        517.71,
+        515.49,
+        1363.04
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 51,
+      "subject": "head",
+      "rect": [
+        -60.1,
+        517.53,
+        515.48,
+        1123.55
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 51,
+      "subject": "character",
+      "rect": [
+        -60.1,
+        517.53,
+        515.48,
+        1363.2
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 52,
+      "subject": "head",
+      "rect": [
+        -60.35,
+        517.34,
+        515.47,
+        1123.62
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 52,
+      "subject": "character",
+      "rect": [
+        -60.35,
+        517.34,
+        515.47,
+        1363.37
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 53,
+      "subject": "head",
+      "rect": [
+        -60.6,
+        517.16,
+        515.46,
+        1123.69
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 53,
+      "subject": "character",
+      "rect": [
+        -60.6,
+        517.16,
+        515.46,
+        1363.54
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 54,
+      "subject": "head",
+      "rect": [
+        -60.85,
+        516.98,
+        515.45,
+        1123.75
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 54,
+      "subject": "character",
+      "rect": [
+        -60.85,
+        516.98,
+        515.45,
+        1363.71
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 55,
+      "subject": "head",
+      "rect": [
+        -61.09,
+        516.8,
+        515.44,
+        1123.82
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 55,
+      "subject": "character",
+      "rect": [
+        -61.09,
+        516.8,
+        515.44,
+        1363.87
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 56,
+      "subject": "head",
+      "rect": [
+        -61.34,
+        516.62,
+        515.43,
+        1123.89
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 56,
+      "subject": "character",
+      "rect": [
+        -61.34,
+        516.62,
+        515.43,
+        1364.03
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 57,
+      "subject": "head",
+      "rect": [
+        -61.57,
+        516.44,
+        515.42,
+        1123.95
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 57,
+      "subject": "character",
+      "rect": [
+        -61.57,
+        516.44,
+        515.42,
+        1364.19
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 58,
+      "subject": "head",
+      "rect": [
+        -61.81,
+        516.27,
+        515.41,
+        1124.02
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 58,
+      "subject": "character",
+      "rect": [
+        -61.81,
+        516.27,
+        515.41,
+        1364.35
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 59,
+      "subject": "head",
+      "rect": [
+        -62.04,
+        516.1,
+        515.4,
+        1124.08
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 59,
+      "subject": "character",
+      "rect": [
+        -62.04,
+        516.1,
+        515.4,
+        1364.51
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 60,
+      "subject": "head",
+      "rect": [
+        -62.27,
+        515.93,
+        515.39,
+        1124.14
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 60,
+      "subject": "character",
+      "rect": [
+        -62.27,
+        515.93,
+        515.39,
+        1364.66
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 61,
+      "subject": "head",
+      "rect": [
+        -62.5,
+        515.76,
+        515.38,
+        1124.2
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 61,
+      "subject": "character",
+      "rect": [
+        -62.5,
+        515.76,
+        515.38,
+        1364.81
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 62,
+      "subject": "head",
+      "rect": [
+        -62.72,
+        515.6,
+        515.37,
+        1124.26
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 62,
+      "subject": "character",
+      "rect": [
+        -62.72,
+        515.6,
+        515.37,
+        1364.96
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 63,
+      "subject": "head",
+      "rect": [
+        -62.94,
+        515.44,
+        515.36,
+        1124.32
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 63,
+      "subject": "character",
+      "rect": [
+        -62.94,
+        515.44,
+        515.36,
+        1365.11
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 64,
+      "subject": "head",
+      "rect": [
+        -63.15,
+        515.28,
+        515.35,
+        1124.38
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 64,
+      "subject": "character",
+      "rect": [
+        -63.15,
+        515.28,
+        515.35,
+        1365.25
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 65,
+      "subject": "head",
+      "rect": [
+        -63.35,
+        515.13,
+        515.35,
+        1124.44
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 65,
+      "subject": "character",
+      "rect": [
+        -63.35,
+        515.13,
+        515.35,
+        1365.39
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 66,
+      "subject": "head",
+      "rect": [
+        -63.56,
+        514.98,
+        515.34,
+        1124.49
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 66,
+      "subject": "character",
+      "rect": [
+        -63.56,
+        514.98,
+        515.34,
+        1365.52
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 67,
+      "subject": "head",
+      "rect": [
+        -63.75,
+        514.84,
+        515.33,
+        1124.55
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 67,
+      "subject": "character",
+      "rect": [
+        -63.75,
+        514.84,
+        515.33,
+        1365.66
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 68,
+      "subject": "head",
+      "rect": [
+        -63.94,
+        514.7,
+        515.32,
+        1124.6
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 68,
+      "subject": "character",
+      "rect": [
+        -63.94,
+        514.7,
+        515.32,
+        1365.78
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 69,
+      "subject": "head",
+      "rect": [
+        -64.13,
+        514.56,
+        515.31,
+        1124.65
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 69,
+      "subject": "character",
+      "rect": [
+        -64.13,
+        514.56,
+        515.31,
+        1365.91
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 70,
+      "subject": "head",
+      "rect": [
+        -64.31,
+        514.43,
+        515.31,
+        1124.7
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 70,
+      "subject": "character",
+      "rect": [
+        -64.31,
+        514.43,
+        515.31,
+        1366.03
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 71,
+      "subject": "head",
+      "rect": [
+        -64.48,
+        514.3,
+        515.3,
+        1124.74
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 71,
+      "subject": "character",
+      "rect": [
+        -64.48,
+        514.3,
+        515.3,
+        1366.14
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 72,
+      "subject": "head",
+      "rect": [
+        -64.64,
+        514.18,
+        515.29,
+        1124.79
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 72,
+      "subject": "character",
+      "rect": [
+        -64.64,
+        514.18,
+        515.29,
+        1366.25
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 73,
+      "subject": "head",
+      "rect": [
+        -64.8,
+        514.06,
+        515.29,
+        1124.83
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 73,
+      "subject": "character",
+      "rect": [
+        -64.8,
+        514.06,
+        515.29,
+        1366.36
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 74,
+      "subject": "head",
+      "rect": [
+        -64.95,
+        513.95,
+        515.28,
+        1124.87
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 74,
+      "subject": "character",
+      "rect": [
+        -64.95,
+        513.95,
+        515.28,
+        1366.46
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 75,
+      "subject": "head",
+      "rect": [
+        -65.09,
+        513.85,
+        515.27,
+        1124.91
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 75,
+      "subject": "character",
+      "rect": [
+        -65.09,
+        513.85,
+        515.27,
+        1366.56
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 76,
+      "subject": "head",
+      "rect": [
+        -65.23,
+        513.75,
+        515.27,
+        1124.95
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 76,
+      "subject": "character",
+      "rect": [
+        -65.23,
+        513.75,
+        515.27,
+        1366.65
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 77,
+      "subject": "head",
+      "rect": [
+        -65.35,
+        513.66,
+        515.26,
+        1124.98
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 77,
+      "subject": "character",
+      "rect": [
+        -65.35,
+        513.66,
+        515.26,
+        1366.73
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 78,
+      "subject": "head",
+      "rect": [
+        -65.47,
+        513.57,
+        515.26,
+        1125.01
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 78,
+      "subject": "character",
+      "rect": [
+        -65.47,
+        513.57,
+        515.26,
+        1366.81
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 79,
+      "subject": "head",
+      "rect": [
+        -65.58,
+        513.49,
+        515.26,
+        1125.04
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 79,
+      "subject": "character",
+      "rect": [
+        -65.58,
+        513.49,
+        515.26,
+        1366.88
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 80,
+      "subject": "head",
+      "rect": [
+        -65.68,
+        513.42,
+        515.25,
+        1125.07
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 80,
+      "subject": "character",
+      "rect": [
+        -65.68,
+        513.42,
+        515.25,
+        1366.95
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 81,
+      "subject": "head",
+      "rect": [
+        -65.77,
+        513.35,
+        515.25,
+        1125.1
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 81,
+      "subject": "character",
+      "rect": [
+        -65.77,
+        513.35,
+        515.25,
+        1367.01
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 82,
+      "subject": "head",
+      "rect": [
+        -65.85,
+        513.29,
+        515.24,
+        1125.12
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 82,
+      "subject": "character",
+      "rect": [
+        -65.85,
+        513.29,
+        515.24,
+        1367.07
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 83,
+      "subject": "head",
+      "rect": [
+        -65.92,
+        513.24,
+        515.24,
+        1125.14
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 83,
+      "subject": "character",
+      "rect": [
+        -65.92,
+        513.24,
+        515.24,
+        1367.11
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 84,
+      "subject": "head",
+      "rect": [
+        -65.98,
+        513.19,
+        515.24,
+        1125.15
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 84,
+      "subject": "character",
+      "rect": [
+        -65.98,
+        513.19,
+        515.24,
+        1367.15
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 85,
+      "subject": "head",
+      "rect": [
+        -66.03,
+        513.16,
+        515.24,
+        1125.17
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 85,
+      "subject": "character",
+      "rect": [
+        -66.03,
+        513.16,
+        515.24,
+        1367.19
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 86,
+      "subject": "head",
+      "rect": [
+        -66.07,
+        513.13,
+        515.23,
+        1125.18
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 86,
+      "subject": "character",
+      "rect": [
+        -66.07,
+        513.13,
+        515.23,
+        1367.21
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 87,
+      "subject": "head",
+      "rect": [
+        -66.1,
+        513.11,
+        515.23,
+        1125.19
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 87,
+      "subject": "character",
+      "rect": [
+        -66.1,
+        513.11,
+        515.23,
+        1367.23
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 88,
+      "subject": "head",
+      "rect": [
+        -66.12,
+        513.09,
+        515.23,
+        1125.19
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 88,
+      "subject": "character",
+      "rect": [
+        -66.12,
+        513.09,
+        515.23,
+        1367.25
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 89,
+      "subject": "head",
+      "rect": [
+        -66.12,
+        513.09,
+        515.23,
+        1125.19
+      ]
+    },
+    {
+      "shot": "S02",
+      "frame": 89,
+      "subject": "character",
+      "rect": [
+        -66.12,
+        513.09,
+        515.23,
+        1367.25
+      ]
+    }
+  ],
+  "assetCache": "HIT",
+  "assetSetupSeconds": 0.035906299999624025,
+  "materials": [
+    {
+      "name": "MINSU_V4_brass",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_cheek",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_cream",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_dim",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_floor",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_hair",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_halo",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_ice_dark",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_light",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_midnight",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_mint",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_navy",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_shoe",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_skin",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_star_cold",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_star_gold",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_track",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V4_wall",
+      "texelsPerUnit": 16,
+      "bands": 3
+    }
+  ],
+  "totalSeconds": 14.235855199996877,
+  "nativeSize": [
+    540,
+    960
+  ],
+  "blenderVersion": "5.0.1",
+  "samples": 8
+}

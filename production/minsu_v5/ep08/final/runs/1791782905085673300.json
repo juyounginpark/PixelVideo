@@ -1,0 +1,265 @@
+{
+  "quality": "final",
+  "renderedFrames": 45,
+  "reusedFrames": 0,
+  "projectionSeconds": 0.1284925999789266,
+  "renderSeconds": 31.252516099993954,
+  "shots": {
+    "S01": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 5.2834327000018675,
+      "key": "59e7d61a3b61c088f1ea5924886923ce4d228a435a1be7e7fe55e6ef4c103a4a"
+    },
+    "S02": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.06271199999901,
+      "key": "38211c960e2d0bf30fba4a69ea3532370559f90a0d3e18799ffafee5cd407023"
+    },
+    "S03": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.3946450000003097,
+      "key": "ebb1b23c82c3ab1005f72abd66be0823380e42ed00c3950a2ef3dcbc446b0d41"
+    },
+    "S04": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.516381299999921,
+      "key": "d013035981711d0eb31551b7017d11a0c492183170ef7d6e3f8a70523793aba3"
+    },
+    "S05": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.4850707999976294,
+      "key": "2b9c67996af0c39dda847ef9967092cf559be3ad72e92f38acab4c7ecdea3aff"
+    },
+    "S06": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.9553340999991633,
+      "key": "db2f516c2d36b6408e9e992698bda69bbde55bd21d4cf142045e0e8d0227e383"
+    },
+    "S07": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 2.9853691999996954,
+      "key": "30283629dd889a0913edd1108f26a551bf9fc47a36d612912d83e93cd3e6fe43"
+    },
+    "S08": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.9036319000006188,
+      "key": "0bb803d2fae029a8988bd1dafa27db88e8b6394b1b7ead60cd7d3248dbcd803b"
+    },
+    "S09": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.774089900001854,
+      "key": "8f1e4b5a77eae32e7699523030b5a40ed70423d904e70f41febbb29068356d6a"
+    }
+  },
+  "errors": [],
+  "assetCache": "MISS",
+  "assetSetupSeconds": 10.757120999998733,
+  "materials": [
+    {
+      "name": "MINSU_V5_agar",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_alga",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_amber",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_bond",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_brown",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_cheek",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_coral",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_cream",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_cyan",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_floor",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_glass",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_hair",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_hydrogen",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_ice",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_ice_dark",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_ice_top",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_leaf",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_light",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_metal",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_micro_bg",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_midnight",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_mint",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_navy",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_ochre",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_oxygen",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_pale",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_rail",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_red",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_rock",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_roof",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_sand",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_shoe",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_skin",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_snow",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_wall",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_water",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_wet",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_wood",
+      "texelsPerUnit": 16,
+      "bands": 3
+    }
+  ],
+  "totalSeconds": 46.12131980000049,
+  "nativeSize": [
+    540,
+    960
+  ],
+  "blenderVersion": "5.0.1",
+  "samples": 8
+}

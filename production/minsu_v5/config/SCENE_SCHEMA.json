@@ -1,0 +1,26 @@
+{
+  "version": "5.0.0",
+  "requiredShotFields": [
+    "narrativeRole",
+    "sceneType",
+    "primarySubject",
+    "viewerQuestion",
+    "newInformation",
+    "visualAction",
+    "scientificMeaning",
+    "characterEmotion",
+    "cameraPlan",
+    "captionPlan",
+    "emphasisEvent",
+    "nextShotConnection",
+    "protectedSubjects"
+  ],
+  "statuses": [
+    "VERIFIED_EXPLAINED",
+    "VERIFIED_UNRESOLVED",
+    "DISPUTED",
+    "ALLEGED",
+    "DEBUNKED"
+  ],
+  "abstractFractionMax": 0.35
+}

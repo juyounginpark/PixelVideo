@@ -1,0 +1,75 @@
+{
+  "topicId": "namu-cache-listing-023",
+  "name": "케랄라의 붉은 비",
+  "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+  "documentUrl": "https://namu.wiki/w/%EC%BC%80%EB%9E%84%EB%9D%BC%EC%9D%98%20%EB%B6%89%EC%9D%80%20%EB%B9%84",
+  "category": "자연과학 관련 정보",
+  "sourcePosition": {
+    "snapshot": "research\\namuwiki\\listing.html",
+    "liIndex": 23,
+    "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+  },
+  "description": "케랄라의 붉은 비 : 2001년에 인도 케랄라 지역에서 여러 차례 미상의 붉은 비가 내린 사건.( # )",
+  "discoveredAt": "2026-10-12T14:11:50+09:00",
+  "lastCheckedAt": "2026-10-12T14:11:50+09:00",
+  "lastLiveCheckedAt": null,
+  "originalDiscoveryAt": null,
+  "verificationStatus": "VERIFIED_EXPLAINED",
+  "verificationBasis": "2001년 시료의 붉은 색 원인에 범위 제한. 대량 공중 유입 경로는 미규명. 2013 DNA 검사는 별도 연구이고 2001 배양의 독립 재현으로 쓰지 않음",
+  "interestScore": 93,
+  "hookCandidates": [
+    {
+      "HOOK_IMAGE": "흰 우산에 붉은 빗방울이 튄다",
+      "HOOK_ACTION": "우산을 든 민수가 뒤로 물러선다",
+      "HOOK_CAPTION": "비가 빨갛다?",
+      "VIEWER_GAP": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+      "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+    },
+    {
+      "HOOK_IMAGE": "투명 병 속 붉은 입자가 바닥에 쌓인다",
+      "HOOK_ACTION": "민수가 병을 들어 색 경계를 확인한다",
+      "HOOK_CAPTION": "색이 가라앉는다?",
+      "VIEWER_GAP": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+      "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+    },
+    {
+      "HOOK_IMAGE": "배양 접시에 조류가 자란다",
+      "HOOK_ACTION": "민수가 현미경에서 고개를 번쩍 든다",
+      "HOOK_CAPTION": "빗물에서 자랐다?",
+      "VIEWER_GAP": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+      "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+    }
+  ],
+  "visualPotential": "빨간 비가 흰 우산에 점을 남긴다",
+  "storyPotential": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+  "productionCost": "캐릭터·비·병·현미경으로 가능",
+  "previousEpisodeSimilarity": 0.1,
+  "rejectionReasons": [],
+  "scoreComponents": {
+    "hook25": 24,
+    "event25": 24,
+    "narrative20": 18,
+    "surprise10": 9,
+    "evidence10": 9,
+    "feasibility10": 9
+  },
+  "evidenceUrls": [
+    "https://www.iangoddard.com/sampath2001.pdf",
+    "https://doi.org/10.1029/2002EO000250",
+    "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.062711-0"
+  ],
+  "reviewKey": "red_rain",
+  "viewerAnswers": {
+    "firstTwoSeconds": "흰 우산에 붉은 빗방울이 떨어지고 얼룩이 늘어난다.",
+    "visibleOddityWithoutTitle": "일반적인 무색 빗물과 달리 우산에 붉은 색이 남는다.",
+    "concreteEvent": "비를 모은 병에서 입자가 가라앉고 배양체가 자란다.",
+    "newMiddleClue": "색을 띤 입자가 가라앉으며 배양에서 조류가 확인된다.",
+    "expectationDifference": "물 자체의 색처럼 보였지만 조사 결과 생물 입자가 색을 만든다.",
+    "takeaway": "2001 조사 시료의 색 원인은 조류 포자. 대량 공중 유입 과정은 미확인.",
+    "productionFeasibility": "기존 민수·픽셀 재질·폰트·오디오를 재사용하고 우산·병·배양 접시를 제작할 수 있다.",
+    "similarityToPrevious": "얼음·견과·은하와 달리 야외 사건→채집→미세 관찰의 구조. 최근 에피소드와 낮은 유사성."
+  },
+  "selectedHook": 0,
+  "gate1": "PASS_WITH_SCOPED_FACTS",
+  "scoreIsAudienceEvidence": false
+}

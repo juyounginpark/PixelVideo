@@ -1,0 +1,45 @@
+{
+  "activeSpec": "MINSU_V5_USER_SPEC.md / U-090",
+  "creativePrompts": [
+    "P-042",
+    "P-043",
+    "P-044",
+    "P-045",
+    "P-046"
+  ],
+  "pipeline": [
+    "bounded existing-source cache batch",
+    "deterministic exclusions and production-history duplicate checks",
+    "10 editorial evidence reviews and 5 visual hook sets",
+    "single structured SceneSpec and explicit topic adapter",
+    "actual art sample plus model and CRT comparison",
+    "full low-resolution preview",
+    "per-shot final native render",
+    "independent Korean and English overlays",
+    "local audio envelope and SFX",
+    "technical and evidence-backed editorial reports"
+  ],
+  "keyModules": {
+    "discovery.py": "source lineage, scoped verification states, interest scores; immutable selection guard",
+    "directors.py": "compact episode request and status-specific story route; no automatic aesthetic pass",
+    "character_director.py": "12 full-body transform actions, two-link umbrella hand IK and boot grounding",
+    "rain_scene.py": "source-scoped courtyard, jar observation, microscope/culture and result scenes",
+    "art_v5.py": "warm stepped palette and corrected triplanar seams",
+    "typography.py": "two licensed Korean pixel faces, fail-fast glyph coverage, persistent atlases/text, single locale, CRT",
+    "audio_direction.py": "existing local stems with story-timed energy envelope",
+    "render.py": "single-worker lock, packed asset library, frame/shot hashes, projected subject bounds including cache hits",
+    "compose.py": "separate UI/audio/assembly cache and per-frame caption checks",
+    "run.py": "six-gate entry point, source and reviewed-spec consistency",
+    "model_review.py": "36 real angle/action renders and 60 pose diagnostics",
+    "qa_final.py": "actual MP4 decode, integrity, locale, sources, audio"
+  },
+  "notImplemented": [
+    "universal unseen-topic procedural scene invention",
+    "automatic proof of audience appeal",
+    "exhaustive mesh intersection solver",
+    "human auditory playback review",
+    "live NamuWiki refresh while access is unavailable",
+    "perfect world-space texel density on all parent-scaled props"
+  ],
+  "legacySourceAndOutputs": "preserved and hash audited at delivery"
+}

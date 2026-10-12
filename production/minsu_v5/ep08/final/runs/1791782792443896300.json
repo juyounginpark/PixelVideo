@@ -1,0 +1,486 @@
+{
+  "quality": "final",
+  "renderedFrames": 45,
+  "reusedFrames": 0,
+  "projectionSeconds": 0.12300770000365446,
+  "renderSeconds": 33.18307160001859,
+  "shots": {
+    "S01": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 5.440701800001989,
+      "key": "b964fab380b49691728a9dcf327b0c3430caa660650bbc6fbd46de7560d88962"
+    },
+    "S02": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.302630700000009,
+      "key": "0267a97fc90509dd77c985c4bec8fa2177060390ab22542fcbe9d6f2296433d0"
+    },
+    "S03": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.007517899997765,
+      "key": "0cd59488542bf3c74f82daa6aa643f01a593e7e74702f3caaeb3eaeef18aba2e"
+    },
+    "S04": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.7728567000012845,
+      "key": "b1b5b151e99a012e6d2829a31ac84cda219182e1b0b7206d947a42642e279230"
+    },
+    "S05": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.006470799999079,
+      "key": "43fd93cae8585fb068fe4ab067850c7eb2561e2c99bf5f020035739b679872b0"
+    },
+    "S06": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.147518599998875,
+      "key": "1a446aa23be06de735732f371f05ac994be6ff01429e680c989fb62b43df5eac"
+    },
+    "S07": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 3.4027945999987423,
+      "key": "98a4ba3510443a2a2865f07070758e04f3d60080e7823cd9f832cfb40830ac32"
+    },
+    "S08": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.070089099997858,
+      "key": "4103bf245d76136e2d4fa8221d2b9d72ffad8b3066b53a693ff873dfe59e463e"
+    },
+    "S09": {
+      "rendered": 5,
+      "reused": 0,
+      "seconds": 4.487403000002814,
+      "key": "217f9d82bd140e6fd6fb6dcd34ee443c9392499729ec34349f5539cd9aa42f63"
+    }
+  },
+  "errors": [
+    {
+      "shot": "S01",
+      "frame": 0,
+      "subject": "focus",
+      "rect": [
+        -5.08,
+        350.88,
+        755.93,
+        1117.42
+      ]
+    },
+    {
+      "shot": "S01",
+      "frame": 18,
+      "subject": "focus",
+      "rect": [
+        -24.59,
+        322.23,
+        765.6,
+        1122.07
+      ]
+    },
+    {
+      "shot": "S01",
+      "frame": 26,
+      "subject": "focus",
+      "rect": [
+        -14.1,
+        331.45,
+        762.12,
+        1118.62
+      ]
+    },
+    {
+      "shot": "S01",
+      "frame": 60,
+      "subject": "focus",
+      "rect": [
+        -8.83,
+        331.95,
+        761.42,
+        1116.12
+      ]
+    },
+    {
+      "shot": "S01",
+      "frame": 119,
+      "subject": "focus",
+      "rect": [
+        -13.38,
+        341.6,
+        759.22,
+        1119.81
+      ]
+    },
+    {
+      "shot": "S04",
+      "frame": 0,
+      "subject": "focus",
+      "rect": [
+        -9.24,
+        409.49,
+        1089.17,
+        1505.29
+      ]
+    },
+    {
+      "shot": "S04",
+      "frame": 40,
+      "subject": "focus",
+      "rect": [
+        -12.76,
+        405.97,
+        1092.69,
+        1508.79
+      ]
+    },
+    {
+      "shot": "S04",
+      "frame": 45,
+      "subject": "focus",
+      "rect": [
+        -13.46,
+        405.26,
+        1093.39,
+        1509.49
+      ]
+    },
+    {
+      "shot": "S04",
+      "frame": 48,
+      "subject": "focus",
+      "rect": [
+        -13.88,
+        404.84,
+        1093.81,
+        1509.9
+      ]
+    },
+    {
+      "shot": "S04",
+      "frame": 89,
+      "subject": "focus",
+      "rect": [
+        -17.6,
+        401.11,
+        1097.53,
+        1513.6
+      ]
+    },
+    {
+      "shot": "S05",
+      "frame": 0,
+      "subject": "focus",
+      "rect": [
+        -9.24,
+        409.49,
+        1089.17,
+        1505.29
+      ]
+    },
+    {
+      "shot": "S05",
+      "frame": 48,
+      "subject": "focus",
+      "rect": [
+        -55.14,
+        363.48,
+        1135.07,
+        1550.87
+      ]
+    },
+    {
+      "shot": "S05",
+      "frame": 56,
+      "subject": "focus",
+      "rect": [
+        -31.45,
+        387.23,
+        1111.38,
+        1527.35
+      ]
+    },
+    {
+      "shot": "S05",
+      "frame": 60,
+      "subject": "focus",
+      "rect": [
+        -13.44,
+        405.28,
+        1093.37,
+        1509.47
+      ]
+    },
+    {
+      "shot": "S05",
+      "frame": 119,
+      "subject": "focus",
+      "rect": [
+        -17.6,
+        401.11,
+        1097.53,
+        1513.6
+      ]
+    },
+    {
+      "shot": "S09",
+      "frame": 0,
+      "subject": "focus",
+      "rect": [
+        -5.08,
+        339.64,
+        755.93,
+        1106.18
+      ]
+    },
+    {
+      "shot": "S09",
+      "frame": 38,
+      "subject": "focus",
+      "rect": [
+        -21.64,
+        308.12,
+        765.98,
+        1108.64
+      ]
+    },
+    {
+      "shot": "S09",
+      "frame": 46,
+      "subject": "focus",
+      "rect": [
+        -13.84,
+        315.76,
+        763.19,
+        1106.31
+      ]
+    },
+    {
+      "shot": "S09",
+      "frame": 60,
+      "subject": "focus",
+      "rect": [
+        -8.83,
+        320.64,
+        761.42,
+        1104.81
+      ]
+    },
+    {
+      "shot": "S09",
+      "frame": 119,
+      "subject": "focus",
+      "rect": [
+        -13.38,
+        330.2,
+        759.22,
+        1108.41
+      ]
+    }
+  ],
+  "assetCache": "MISS",
+  "assetSetupSeconds": 11.390280399999028,
+  "materials": [
+    {
+      "name": "MINSU_V5_agar",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_alga",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_amber",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_bond",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_brown",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_cheek",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_coral",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_cream",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_cyan",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_floor",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_glass",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_hair",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_hydrogen",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_ice",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_ice_dark",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_ice_top",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_leaf",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_light",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_metal",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_micro_bg",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_midnight",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_mint",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_navy",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_ochre",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_oxygen",
+      "texelsPerUnit": null,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_pale",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_rail",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_red",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_rock",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_roof",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_sand",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_shoe",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_skin",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_snow",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_wall",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_water",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_wet",
+      "texelsPerUnit": 16,
+      "bands": 3
+    },
+    {
+      "name": "MINSU_V5_wood",
+      "texelsPerUnit": 16,
+      "bands": 3
+    }
+  ],
+  "totalSeconds": 49.031969200001186,
+  "nativeSize": [
+    540,
+    960
+  ],
+  "blenderVersion": "5.0.1",
+  "samples": 8
+}

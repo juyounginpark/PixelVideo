@@ -1,0 +1,949 @@
+{
+  "episode": "EP09",
+  "topic": "얼룩말 줄무늬와 흡혈등에 착륙",
+  "interestScore": 86,
+  "scoreMeaning": "editorial selection, not measured retention",
+  "verificationScope": "landing reduction confirmed in the cited study conditions; precise visual mechanism remains under study",
+  "topicId": "namu-cache-listing-063",
+  "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+  "documentUrl": "https://namu.wiki/w/%EC%96%BC%EB%A3%A9%EB%A7%90",
+  "sourceEvidence": {
+    "sources": [
+      {
+        "id": "study2019",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210831",
+        "snapshot": "production\\minsu_v5\\ep09\\research\\study2019.html",
+        "sha256": "9ce925a974ef51c6d3e95c978cd75f6cf611633699aca0cb067bd731dd47b1a3"
+      },
+      {
+        "id": "study2023",
+        "url": "https://www.bristol.ac.uk/news/2023/february/zebra-stripes.html",
+        "type": "Researchers university primary announcement with publication link",
+        "browserVerifiedArticle": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10088525/",
+        "articleDOI": "10.1242/jeb.244778",
+        "snapshot": "production\\minsu_v5\\ep09\\research\\study2023_verified.html",
+        "sha256": "42bffdb06a96d0970546e0d5433aea221f1390e7345bccd2bd14ba632a9a09fb"
+      },
+      {
+        "id": "university2019",
+        "url": "https://www.bristol.ac.uk/news/2019/february/zebra-stripes.html",
+        "snapshot": "production\\minsu_v5\\ep09\\research\\university2019.html",
+        "sha256": "3b159497c984256efdac94155aeec98577ce60d569fbd25f05b51b8f08f2c941"
+      },
+      {
+        "id": "study2020",
+        "url": "https://research-information.bris.ac.uk/ws/portalfiles/portal/246843415/rspb.2020.1521.pdf",
+        "snapshot": "production\\minsu_v5\\ep09\\research\\study2020.pdf",
+        "sha256": "8da876a7d3b546881d76e06a3248ed16ec65554c0a9cc6216f0411d21cd6d3f9",
+        "articleDOI": "10.1098/rspb.2020.1521",
+        "type": "published paper in authors institutional repository"
+      }
+    ],
+    "claims": [
+      {
+        "id": "C1",
+        "claim": "Striped coats reduced horsefly landings relative to uniform coats.",
+        "source": "study2019",
+        "location": "Study 2 and Coat experiment results",
+        "conditions": "7 domestic horses, three commercial coats worn in randomized order; materials were not standardized.",
+        "notClaimed": "all flies, total protection or a universal effect size"
+      },
+      {
+        "id": "C2",
+        "claim": "Approaching flies failed to decelerate normally near zebra pelage in study videos.",
+        "source": "study2019",
+        "location": "Flight trajectories results and Fig3",
+        "conditions": "2019 sampled captive animals; animation is explanatory, not measured tracks.",
+        "notClaimed": "known neural illusion or every trajectory"
+      },
+      {
+        "id": "C3",
+        "claim": "Checked patterns can reduce landings; parallel stripes are not required.",
+        "source": "study2020",
+        "location": "Abstract and results comparing striped, checked and grey coats",
+        "conditions": "patterned coats on domestic horses",
+        "notClaimed": "all check patterns repel all insects"
+      },
+      {
+        "id": "C4",
+        "claim": "High contrast stripes deterred landings more effectively than lightly contrasting stripes in the study.",
+        "source": "study2023",
+        "location": "Abstract, contrast experiment",
+        "conditions": "identically arranged coat patterns with varied contrast",
+        "notClaimed": "human visual contrast equals fly perception"
+      },
+      {
+        "id": "C5",
+        "claim": "Small dark patches are a proposed explanation; the full visual mechanism remains unresolved.",
+        "source": "study2023",
+        "location": "Abstract and discussion working hypothesis",
+        "conditions": "hypothesis rather than definitive neural mechanism",
+        "notClaimed": "proved sole evolutionary cause"
+      }
+    ],
+    "reviewedAt": "2026-10-12T15:51:14.089835+09:00",
+    "sourceIndexPreserved": true,
+    "retrievalLimits": {
+      "challengeResponse": "production\\minsu_v5\\ep09\\research\\study2023_challenge.html",
+      "status": "HTTP200 challenge was not treated as article evidence",
+      "noRepeatedChallengeRequests": true,
+      "sourceAlternatives": "public researchers university announcement and institutional published paper; no restriction bypass"
+    }
+  },
+  "storyMap": {
+    "기": "파리는 민무늬에는 앉지만 줄무늬에서는 착륙을 놓친다.",
+    "승": "같은 말의 덮개만 바꿔 관찰해 동물 차이와 무늬 효과를 분리한다.",
+    "전": "차이는 가까운 착륙 단계. 체크무늬와 강한 대비도 효과를 보여 단순 줄무늬 착시만으로 설명할 수 없음을 발견한다.",
+    "결": "착륙 감소는 확인됐지만 시각 기제는 연구 중. 처음 장면의 보호 효과를 이해한다."
+  },
+  "hook": "민무늬에는 정착하고 줄무늬에서는 이탈하는 확대 파리; actual modeled difference visible within 2 seconds",
+  "formats": {
+    "duration": 36,
+    "fps": 30,
+    "output": [
+      1080,
+      1920
+    ],
+    "native": [
+      540,
+      960
+    ],
+    "locales": [
+      "ko",
+      "en"
+    ],
+    "tts": false
+  },
+  "outputs": {
+    "ko": {
+      "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP09_STRIPES_KO.mp4",
+      "sha256": "a08ffadf8e27d2cd15698ff6e5019517394d550e1d07fa9daf531a422d01b51a",
+      "frameCount": 1080,
+      "duration": 36.0,
+      "metadata": {
+        "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+        "codec": "h264",
+        "pix_fmt": "yuv420p(progressive)",
+        "audio_codec": "aac",
+        "fps": 30.0,
+        "source_size": [
+          1080,
+          1920
+        ],
+        "size": [
+          1080,
+          1920
+        ],
+        "rotate": 0,
+        "duration": 36.0
+      },
+      "audioMeasurement": {
+        "input_i": "-19.02",
+        "input_tp": "-7.27",
+        "input_lra": "4.30",
+        "input_thresh": "-29.26",
+        "output_i": "-19.20",
+        "output_tp": "-7.61",
+        "output_lra": "4.40",
+        "output_thresh": "-29.29",
+        "normalization_type": "dynamic",
+        "target_offset": "0.20"
+      },
+      "fonts": {
+        "checkedCharacters": 2968,
+        "fallbacks": 0,
+        "locale": "ko",
+        "atlases": [
+          {
+            "face": "PIXEL_DISPLAY",
+            "key": "90750df44bcff5f2f9e0fb7db121b3be50c31c74a5e6fbfca40cc3cfe2b28054",
+            "reused": false,
+            "characters": 184
+          },
+          {
+            "face": "PIXEL_BODY",
+            "key": "74089dfb1efe0f6a335719dda71ce4cb212872065a2910909ff5cb87587df293",
+            "reused": false,
+            "characters": 184
+          }
+        ]
+      },
+      "uiCheckedFrames": 1080,
+      "audioCacheHit": true,
+      "fullVideoAndAudioDecode": true
+    },
+    "en": {
+      "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP09_STRIPES_EN.mp4",
+      "sha256": "747b5ee3821cbd562b70a79b56d74197b96aba50645bd4531a96341eee786292",
+      "frameCount": 1080,
+      "duration": 36.0,
+      "metadata": {
+        "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+        "codec": "h264",
+        "pix_fmt": "yuv420p(progressive)",
+        "audio_codec": "aac",
+        "fps": 30.0,
+        "source_size": [
+          1080,
+          1920
+        ],
+        "size": [
+          1080,
+          1920
+        ],
+        "rotate": 0,
+        "duration": 36.0
+      },
+      "audioMeasurement": {
+        "input_i": "-19.02",
+        "input_tp": "-7.27",
+        "input_lra": "4.30",
+        "input_thresh": "-29.26",
+        "output_i": "-19.20",
+        "output_tp": "-7.61",
+        "output_lra": "4.40",
+        "output_thresh": "-29.29",
+        "normalization_type": "dynamic",
+        "target_offset": "0.20"
+      },
+      "fonts": {
+        "checkedCharacters": 2968,
+        "fallbacks": 0,
+        "locale": "en",
+        "atlases": [
+          {
+            "face": "PIXEL_DISPLAY",
+            "key": "90750df44bcff5f2f9e0fb7db121b3be50c31c74a5e6fbfca40cc3cfe2b28054",
+            "reused": true,
+            "characters": 184
+          },
+          {
+            "face": "PIXEL_BODY",
+            "key": "74089dfb1efe0f6a335719dda71ce4cb212872065a2910909ff5cb87587df293",
+            "reused": true,
+            "characters": 184
+          }
+        ]
+      },
+      "uiCheckedFrames": 1080,
+      "audioCacheHit": true,
+      "fullVideoAndAudioDecode": true
+    }
+  },
+  "qa": {
+    "technical": "PASS",
+    "errors": [],
+    "outputs": {
+      "ko": {
+        "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP09_STRIPES_KO.mp4",
+        "sha256": "a08ffadf8e27d2cd15698ff6e5019517394d550e1d07fa9daf531a422d01b51a",
+        "frameCount": 1080,
+        "duration": 36.0,
+        "metadata": {
+          "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+          "codec": "h264",
+          "pix_fmt": "yuv420p(progressive)",
+          "audio_codec": "aac",
+          "fps": 30.0,
+          "source_size": [
+            1080,
+            1920
+          ],
+          "size": [
+            1080,
+            1920
+          ],
+          "rotate": 0,
+          "duration": 36.0
+        },
+        "audioMeasurement": {
+          "input_i": "-19.02",
+          "input_tp": "-7.27",
+          "input_lra": "4.30",
+          "input_thresh": "-29.26",
+          "output_i": "-19.20",
+          "output_tp": "-7.61",
+          "output_lra": "4.40",
+          "output_thresh": "-29.29",
+          "normalization_type": "dynamic",
+          "target_offset": "0.20"
+        },
+        "fonts": {
+          "checkedCharacters": 2968,
+          "fallbacks": 0,
+          "locale": "ko",
+          "atlases": [
+            {
+              "face": "PIXEL_DISPLAY",
+              "key": "90750df44bcff5f2f9e0fb7db121b3be50c31c74a5e6fbfca40cc3cfe2b28054",
+              "reused": false,
+              "characters": 184
+            },
+            {
+              "face": "PIXEL_BODY",
+              "key": "74089dfb1efe0f6a335719dda71ce4cb212872065a2910909ff5cb87587df293",
+              "reused": false,
+              "characters": 184
+            }
+          ]
+        },
+        "uiCheckedFrames": 1080,
+        "audioCacheHit": true,
+        "fullVideoAndAudioDecode": true
+      },
+      "en": {
+        "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP09_STRIPES_EN.mp4",
+        "sha256": "747b5ee3821cbd562b70a79b56d74197b96aba50645bd4531a96341eee786292",
+        "frameCount": 1080,
+        "duration": 36.0,
+        "metadata": {
+          "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+          "codec": "h264",
+          "pix_fmt": "yuv420p(progressive)",
+          "audio_codec": "aac",
+          "fps": 30.0,
+          "source_size": [
+            1080,
+            1920
+          ],
+          "size": [
+            1080,
+            1920
+          ],
+          "rotate": 0,
+          "duration": 36.0
+        },
+        "audioMeasurement": {
+          "input_i": "-19.02",
+          "input_tp": "-7.27",
+          "input_lra": "4.30",
+          "input_thresh": "-29.26",
+          "output_i": "-19.20",
+          "output_tp": "-7.61",
+          "output_lra": "4.40",
+          "output_thresh": "-29.29",
+          "normalization_type": "dynamic",
+          "target_offset": "0.20"
+        },
+        "fonts": {
+          "checkedCharacters": 2968,
+          "fallbacks": 0,
+          "locale": "en",
+          "atlases": [
+            {
+              "face": "PIXEL_DISPLAY",
+              "key": "90750df44bcff5f2f9e0fb7db121b3be50c31c74a5e6fbfca40cc3cfe2b28054",
+              "reused": true,
+              "characters": 184
+            },
+            {
+              "face": "PIXEL_BODY",
+              "key": "74089dfb1efe0f6a335719dda71ce4cb212872065a2910909ff5cb87587df293",
+              "reused": true,
+              "characters": 184
+            }
+          ]
+        },
+        "uiCheckedFrames": 1080,
+        "audioCacheHit": true,
+        "fullVideoAndAudioDecode": true
+      }
+    },
+    "sourceContracts": {
+      "result": "PASS",
+      "errors": [],
+      "numericUI": [
+        {
+          "kind": "OBSERVATION",
+          "meaning": "2019 덮개 실험 참가 말의 수",
+          "units": "마리",
+          "definition": "Study2 참가 동물 수, 착륙 횟수/비율 아님",
+          "source": "REAL_OBSERVATION",
+          "sourceRefs": [
+            "study2019 / Methods Study2"
+          ],
+          "value": 7
+        },
+        {
+          "kind": "STATE",
+          "meaning": "2019 덮개 실험 조건 수",
+          "units": "종",
+          "definition": "검정/흰색/줄무늬 상용 덮개 조건",
+          "source": "REAL_OBSERVATION",
+          "sourceRefs": [
+            "study2019 / Methods Study2"
+          ],
+          "value": 3
+        },
+        {
+          "kind": "CHAPTER_PROGRESS",
+          "meaning": "저작된 챕터 순서",
+          "source": "EDITORIAL_PROGRESS",
+          "value": 1,
+          "total": 6
+        }
+      ],
+      "fictionalLandingCountsDisplayed": false,
+      "closedStory": true,
+      "sources": [
+        {
+          "id": "study2019",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210831",
+          "snapshot": "production\\minsu_v5\\ep09\\research\\study2019.html",
+          "sha256": "9ce925a974ef51c6d3e95c978cd75f6cf611633699aca0cb067bd731dd47b1a3"
+        },
+        {
+          "id": "study2023",
+          "url": "https://www.bristol.ac.uk/news/2023/february/zebra-stripes.html",
+          "type": "Researchers university primary announcement with publication link",
+          "browserVerifiedArticle": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10088525/",
+          "articleDOI": "10.1242/jeb.244778",
+          "snapshot": "production\\minsu_v5\\ep09\\research\\study2023_verified.html",
+          "sha256": "42bffdb06a96d0970546e0d5433aea221f1390e7345bccd2bd14ba632a9a09fb"
+        },
+        {
+          "id": "university2019",
+          "url": "https://www.bristol.ac.uk/news/2019/february/zebra-stripes.html",
+          "snapshot": "production\\minsu_v5\\ep09\\research\\university2019.html",
+          "sha256": "3b159497c984256efdac94155aeec98577ce60d569fbd25f05b51b8f08f2c941"
+        },
+        {
+          "id": "study2020",
+          "url": "https://research-information.bris.ac.uk/ws/portalfiles/portal/246843415/rspb.2020.1521.pdf",
+          "snapshot": "production\\minsu_v5\\ep09\\research\\study2020.pdf",
+          "sha256": "8da876a7d3b546881d76e06a3248ed16ec65554c0a9cc6216f0411d21cd6d3f9",
+          "articleDOI": "10.1098/rspb.2020.1521",
+          "type": "published paper in authors institutional repository"
+        }
+      ],
+      "preservedFilesChecked": 52,
+      "sourceTopicId": "namu-cache-listing-063",
+      "humanEditorialApproval": false
+    },
+    "geometryFramesChecked": 1080,
+    "nativeFramesChecked": 1080,
+    "tts": false,
+    "humanAudioListening": false,
+    "humanRealtimePlayback": false,
+    "viewerEngagementTest": false
+  },
+  "gates": {
+    "TOPIC": {
+      "decision": "PASS_WITH_SCOPED_FACTS",
+      "score": 86,
+      "evidence": "research/claim_ledger.json"
+    },
+    "STORY": {
+      "decision": "PASS",
+      "reason": "사건→동일동물비교→착륙단계→체크반례→대비→가설→결론"
+    },
+    "STORYBOARD": {
+      "decision": "PASS",
+      "reason": "실물역할극/비교/근접비행/덮개전환/패치확대를 구분"
+    },
+    "ART_PREVIEW": {
+      "decision": "PROCEED_WITH_STATED_LIMITS",
+      "reviewedAt": "2026-10-12T19:09:36.960994+09:00",
+      "approvedSceneSpecHash": "12763d20eb1c9f0fdf842d745854e5dcd27feab6ae8bceeeb0ec279ba72ea793",
+      "evidence": [
+        {
+          "path": "exports\\MINSU_EP09_ART_SAMPLE.mp4",
+          "sha256": "3fbf82351651207c395e40da0859ce4cec5be2093152e4b7dcc70cf7b93119ce"
+        }
+      ],
+      "observations": [
+        "실제 MP4의 첫2초 표본에서 민무늬 쪽 파리 정착과 줄무늬 쪽 파리 이탈이 구분된다.",
+        "말을3/4 방향으로 바꿔 몸통과 다리를 읽을 수 있다. 민수는 화면 왼쪽으로 이동했다.",
+        "확대 파리, 2개 픽셀 폰트, 독립 고해상도 UI, 고정 프레임과 색 역할을 확인했다.",
+        "체크무늬 발견 캡션은 이벤트 이전 질문에서 이벤트 이후 민트 결과로 바뀌도록 수정했다.",
+        "S05保护여백 수정은 카메라 강도만 낮추고 발견 UI/SFX는 유지한다. 미술 조건은 동일하며 전체/해당 컷 재검수 예정."
+      ],
+      "limits": [
+        "모델은 간결한 블록 스타일이다. 원본의 세밀한 오브젝트 미술과 동일 수준으로 선언하지 않는다.",
+        "표본 프레임을 검수했고 실제 실시간 재생이나 오디오 청취는 수행하지 않았다.",
+        "전체 콘티의 연속성과 남은 장면의 가림은 전체 프리뷰에서 검수한다."
+      ]
+    },
+    "EDITING_PREVIEW": {
+      "decision": "PROCEED_WITH_STATED_LIMITS",
+      "reviewedAt": "2026-10-12T19:34:52.803737+09:00",
+      "approvedSceneSpecHash": "12763d20eb1c9f0fdf842d745854e5dcd27feab6ae8bceeeb0ec279ba72ea793",
+      "evidence": [
+        {
+          "path": "exports\\MINSU_EP09_PREVIEW.mp4",
+          "sha256": "057c87c89c06036e85664a990fc8e09b1085994ff3297179ee7720cf89eec4b1"
+        },
+        {
+          "path": "production\\minsu_v5\\ep09\\research\\geometry_qa.json",
+          "sha256": "bd0a8e830b449166d47b547a6e8dc7a8c74faf12a211f7db7ae53b987400889c"
+        }
+      ],
+      "observations": [
+        "실제36초MP4에서0~2초 접근/착륙이탈 사건을 확인했다.",
+        "4초에는같은말 덮개교체,8초에는2019실험 조건,12초에는마지막 접근,16초에는체크반례,20초에는대비,24초에는가설,28초에는효과,32초에는한계를 추가한다.",
+        "발견 컷은노랑질문→큰민트결과자막으로 바뀌며 시각적 보상에 강약이 있다. 카메라 여백 수정 후1080프레임 보호 대상 검사 통과.",
+        "같은대상을재사용하지만 덮개·비행·정보·감정 변화가 있다. 추상 설명은2개근접컷8초/36초에한정된다.",
+        "수치7마리/3덮개는 실제연구 조건. 착륙 감소는 연구 결과를 모식도로 설명하며 임의 비율을 만들지 않았다.",
+        "처음장면의 효과를 재확인하고 시각기제의 불확실성 및 불완전한 보호 범위를 설명한다.",
+        "최종한국어 결론을 기본 글자 크기로 확인했다. 영어 발견/연구조건의 가독성과 충돌 없는 화면도 확인했다."
+      ],
+      "limits": [
+        "장면의 말과 파리는 단순한 블록 모형이며 원본의 세밀한 오브젝트 미술 수준과 같다고 평가하지 않는다.",
+        "여러 비교 컷은 같은 목장 구도를 사용한다. 동작/조건/정보는 바뀌지만 공간 다양성은 제한적이다.",
+        "민수의 제스처와 덮개 동작은 각색이며 실제 연구자의 행동 기록이 아니다. 손 접촉·시선 연기의 세밀함에는 한계가 있다.",
+        "흡혈등에 경로·크기·시간은 설명용 모식도이다. 실제 실험의 정확한 궤적 또는 실패율을 재현하지 않는다.",
+        "실시간 재생·오디오 청취·시청자 유지율 검증을 수행하지 않았다. 프레임 기반 편집 검수와 오디오 수치 검사를 구분한다."
+      ]
+    },
+    "FINAL_QA": {
+      "decision": "PROCEED_WITH_STATED_LIMITS",
+      "technical": "PASS",
+      "editorial": "REVIEWED_WITH_LIMITS",
+      "reviewedAt": "2026-10-12T19:40:04.739930+09:00",
+      "evidence": {
+        "ko": {
+          "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP09_STRIPES_KO.mp4",
+          "sha256": "a08ffadf8e27d2cd15698ff6e5019517394d550e1d07fa9daf531a422d01b51a",
+          "frameCount": 1080,
+          "duration": 36.0,
+          "metadata": {
+            "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+            "codec": "h264",
+            "pix_fmt": "yuv420p(progressive)",
+            "audio_codec": "aac",
+            "fps": 30.0,
+            "source_size": [
+              1080,
+              1920
+            ],
+            "size": [
+              1080,
+              1920
+            ],
+            "rotate": 0,
+            "duration": 36.0
+          },
+          "audioMeasurement": {
+            "input_i": "-19.02",
+            "input_tp": "-7.27",
+            "input_lra": "4.30",
+            "input_thresh": "-29.26",
+            "output_i": "-19.20",
+            "output_tp": "-7.61",
+            "output_lra": "4.40",
+            "output_thresh": "-29.29",
+            "normalization_type": "dynamic",
+            "target_offset": "0.20"
+          },
+          "fonts": {
+            "checkedCharacters": 2968,
+            "fallbacks": 0,
+            "locale": "ko",
+            "atlases": [
+              {
+                "face": "PIXEL_DISPLAY",
+                "key": "90750df44bcff5f2f9e0fb7db121b3be50c31c74a5e6fbfca40cc3cfe2b28054",
+                "reused": false,
+                "characters": 184
+              },
+              {
+                "face": "PIXEL_BODY",
+                "key": "74089dfb1efe0f6a335719dda71ce4cb212872065a2910909ff5cb87587df293",
+                "reused": false,
+                "characters": 184
+              }
+            ]
+          },
+          "uiCheckedFrames": 1080,
+          "audioCacheHit": true,
+          "fullVideoAndAudioDecode": true
+        },
+        "en": {
+          "path": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP09_STRIPES_EN.mp4",
+          "sha256": "747b5ee3821cbd562b70a79b56d74197b96aba50645bd4531a96341eee786292",
+          "frameCount": 1080,
+          "duration": 36.0,
+          "metadata": {
+            "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+            "codec": "h264",
+            "pix_fmt": "yuv420p(progressive)",
+            "audio_codec": "aac",
+            "fps": 30.0,
+            "source_size": [
+              1080,
+              1920
+            ],
+            "size": [
+              1080,
+              1920
+            ],
+            "rotate": 0,
+            "duration": 36.0
+          },
+          "audioMeasurement": {
+            "input_i": "-19.02",
+            "input_tp": "-7.27",
+            "input_lra": "4.30",
+            "input_thresh": "-29.26",
+            "output_i": "-19.20",
+            "output_tp": "-7.61",
+            "output_lra": "4.40",
+            "output_thresh": "-29.29",
+            "normalization_type": "dynamic",
+            "target_offset": "0.20"
+          },
+          "fonts": {
+            "checkedCharacters": 2968,
+            "fallbacks": 0,
+            "locale": "en",
+            "atlases": [
+              {
+                "face": "PIXEL_DISPLAY",
+                "key": "90750df44bcff5f2f9e0fb7db121b3be50c31c74a5e6fbfca40cc3cfe2b28054",
+                "reused": true,
+                "characters": 184
+              },
+              {
+                "face": "PIXEL_BODY",
+                "key": "74089dfb1efe0f6a335719dda71ce4cb212872065a2910909ff5cb87587df293",
+                "reused": true,
+                "characters": 184
+              }
+            ]
+          },
+          "uiCheckedFrames": 1080,
+          "audioCacheHit": true,
+          "fullVideoAndAudioDecode": true
+        }
+      },
+      "editorialObservations": [
+        "한국어 최종36초 MP4의0.5초 간격 및 첫2초 조밀 표본 프레임을 검사했다.",
+        "한국어 결론은 시각 원리는 연구 중으로 줄여 기본 글자 크기를 유지한다. 영어 발견 장면과 연구 조건 문장도 실제 완성 프레임에서 확인했다.",
+        "발견 장면은 질문→큰민트 임팩트캡션/반짝임/발견SFX로 구분한다. 카메라 확대 여백 문제는 해당 컷 재렌더 후 해결됐다.",
+        "끝에는 체크 덮개에 착륙하는 예외 모형을 넣어 완전 차단의 과장을 피한다.",
+        "빨대 원본의 동작→결과 UI와 ref4의 캐릭터 리액션 대표 프레임을 나란히 비교했다.",
+        "완성 영상의 기술 정상 동작과 시청 재미·레퍼런스 수준의 미술 완성도를 같은 판정으로 처리하지 않는다."
+      ],
+      "limits": [
+        "장면의 말과 파리는 단순한 블록 모형이며 원본의 세밀한 오브젝트 미술 수준과 같다고 평가하지 않는다.",
+        "여러 비교 컷은 같은 목장 구도를 사용한다. 동작/조건/정보는 바뀌지만 공간 다양성은 제한적이다.",
+        "민수의 제스처와 덮개 동작은 각색이며 실제 연구자의 행동 기록이 아니다. 손 접촉·시선 연기의 세밀함에는 한계가 있다.",
+        "흡혈등에 경로·크기·시간은 설명용 모식도이다. 실제 실험의 정확한 궤적 또는 실패율을 재현하지 않는다.",
+        "실시간 재생·오디오 청취·시청자 유지율 검증을 수행하지 않았다. 프레임 기반 편집 검수와 오디오 수치 검사를 구분한다."
+      ]
+    }
+  },
+  "post": {
+    "native": "3-band cel shading + object-space nearest textures + Bayer4 dither",
+    "upscale": "integer Nearest x2",
+    "ui": "independent 1080 resolution glyph atlas",
+    "scanlines": "fixed4px / 6%",
+    "colorBleed": 0
+  },
+  "metrics": {
+    "previewNative": {
+      "renderedFrames": 120,
+      "reusedFrames": 960,
+      "nativeSize": [
+        540,
+        960
+      ],
+      "shots": {
+        "S01": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4382724000024609
+        },
+        "S02": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.43337500000052387
+        },
+        "S03": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4611827999979141
+        },
+        "S04": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.430321300002106
+        },
+        "S05": {
+          "rendered": 120,
+          "reused": 0,
+          "seconds": 99.39322650000395
+        },
+        "S06": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4868981000036001
+        },
+        "S07": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4691428000005544
+        },
+        "S08": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.5190595999956713
+        },
+        "S09": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.5430961000020034
+        }
+      },
+      "wallSeconds": 104.50503979999485
+    },
+    "finalNative": {
+      "renderedFrames": 0,
+      "reusedFrames": 1080,
+      "nativeSize": [
+        540,
+        960
+      ],
+      "shots": {
+        "S01": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4323715999998967
+        },
+        "S02": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4378967000011471
+        },
+        "S03": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.45163529999990715
+        },
+        "S04": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.42025439999997616
+        },
+        "S05": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.460045200001332
+        },
+        "S06": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4626412000070559
+        },
+        "S07": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4250448000020697
+        },
+        "S08": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4714784000025247
+        },
+        "S09": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4448759000006248
+        }
+      },
+      "wallSeconds": 5.495930400000361
+    },
+    "koreanComposition": 14.134950300001947,
+    "englishComposition": 84.56789839999692,
+    "sampleNative": {
+      "renderedFrames": 240,
+      "reusedFrames": 0,
+      "nativeSize": [
+        540,
+        960
+      ],
+      "shots": {
+        "S01": {
+          "rendered": 120,
+          "reused": 0,
+          "seconds": 103.41264170000068
+        },
+        "S05": {
+          "rendered": 120,
+          "reused": 0,
+          "seconds": 105.00517720000062
+        }
+      },
+      "wallSeconds": 210.93199810000078
+    },
+    "sameNativeFramesReusedForEnglish": true,
+    "audioReusedForEnglish": true,
+    "finalUIReusedCuts": 8,
+    "additionalPipelineLLMCalls": 0,
+    "conversationTokens": "not measured",
+    "rework": "character/fly/framing revision before full preview; discovery caption recomposed without 3D rerender",
+    "initialFullNative": {
+      "renderedFrames": 840,
+      "reusedFrames": 240,
+      "nativeSize": [
+        540,
+        960
+      ],
+      "shots": {
+        "S01": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.6006387999950675
+        },
+        "S02": {
+          "rendered": 120,
+          "reused": 0,
+          "seconds": 108.11269280000124
+        },
+        "S03": {
+          "rendered": 120,
+          "reused": 0,
+          "seconds": 100.69740460000321
+        },
+        "S04": {
+          "rendered": 120,
+          "reused": 0,
+          "seconds": 89.58441700000549
+        },
+        "S05": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.5886093000008259
+        },
+        "S06": {
+          "rendered": 120,
+          "reused": 0,
+          "seconds": 97.27573679999477
+        },
+        "S07": {
+          "rendered": 120,
+          "reused": 0,
+          "seconds": 75.51442479999969
+        },
+        "S08": {
+          "rendered": 120,
+          "reused": 0,
+          "seconds": 80.59637710000243
+        },
+        "S09": {
+          "rendered": 120,
+          "reused": 0,
+          "seconds": 80.42830050000339
+        }
+      },
+      "wallSeconds": 635.8162666000062
+    },
+    "correctiveNativePass": {
+      "renderedFrames": 120,
+      "reusedFrames": 960,
+      "nativeSize": [
+        540,
+        960
+      ],
+      "shots": {
+        "S01": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4382724000024609
+        },
+        "S02": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.43337500000052387
+        },
+        "S03": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4611827999979141
+        },
+        "S04": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.430321300002106
+        },
+        "S05": {
+          "rendered": 120,
+          "reused": 0,
+          "seconds": 99.39322650000395
+        },
+        "S06": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4868981000036001
+        },
+        "S07": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.4691428000005544
+        },
+        "S08": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.5190595999956713
+        },
+        "S09": {
+          "rendered": 0,
+          "reused": 120,
+          "seconds": 0.5430961000020034
+        }
+      },
+      "wallSeconds": 104.50503979999485
+    },
+    "measuredSampleFullCorrectionAndFinalNativeSeconds": 956.7492349000022,
+    "initialStillsTiming": "not separately preserved; excluded from this total",
+    "nativeRerenderCorrectionFrames": 120
+  },
+  "discovery": {
+    "candidateCount": 40,
+    "detailReviewCount": 10,
+    "hookReviewCount": 5,
+    "eligibleCount": 3,
+    "selectedTopicId": "namu-cache-listing-063",
+    "snapshotRefresh": "existing cache; live access unavailable",
+    "newDownloads": 0,
+    "sourceMetadataPreserved": true,
+    "scoring": "editorial judgment, not measured retention or an automatic quality guarantee",
+    "unreviewedStatus": "ALLEGED means unverified cache claim here; held, not produced"
+  },
+  "reusedAssets": [
+    "Minsu V5 rig",
+    "V5 cel materials and lighting",
+    "Galmuri display",
+    "Galmuri body",
+    "curious_desert_100 BGM",
+    "soft_pop SFX",
+    "ui_pop SFX",
+    "discovery SFX"
+  ],
+  "newAssets": [
+    "block horse preset",
+    "enlarged horsefly preset",
+    "coat prop",
+    "pastel paddock",
+    "plain coat texture",
+    "white coat texture",
+    "striped coat texture",
+    "checker coat texture",
+    "faint striped coat texture"
+  ],
+  "changedModules": [
+    "ep09/scene.py",
+    "ep09/render.py",
+    "ep09/overlay.py",
+    "ep09/pipeline.py",
+    "ep09/contracts.py",
+    "ep09/inspect_geometry.py"
+  ],
+  "remainingLimits": [
+    "장면의 말과 파리는 단순한 블록 모형이며 원본의 세밀한 오브젝트 미술 수준과 같다고 평가하지 않는다.",
+    "여러 비교 컷은 같은 목장 구도를 사용한다. 동작/조건/정보는 바뀌지만 공간 다양성은 제한적이다.",
+    "민수의 제스처와 덮개 동작은 각색이며 실제 연구자의 행동 기록이 아니다. 손 접촉·시선 연기의 세밀함에는 한계가 있다.",
+    "흡혈등에 경로·크기·시간은 설명용 모식도이다. 실제 실험의 정확한 궤적 또는 실패율을 재현하지 않는다.",
+    "실시간 재생·오디오 청취·시청자 유지율 검증을 수행하지 않았다. 프레임 기반 편집 검수와 오디오 수치 검사를 구분한다."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "decode_pass": true,
+  "size": [
+    720,
+    1280
+  ],
+  "container_fps": 24.0,
+  "native_animation_fps": 12,
+  "frames": 1200,
+  "duration_seconds": 50.0,
+  "has_audio": false,
+  "first_last_mean_pixel_difference": 1.302894603587963,
+  "bytes": 5639107
+}

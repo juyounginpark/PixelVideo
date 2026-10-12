@@ -1,0 +1,13 @@
+{
+  "decode_pass": true,
+  "width_height": [
+    720,
+    1280
+  ],
+  "fps": 24.0,
+  "frames": 1032,
+  "duration_seconds": 43.0,
+  "audio_stream_present": false,
+  "first_last_mean_pixel_difference": 0.6865303096064815,
+  "file_size_bytes": 4794262
+}

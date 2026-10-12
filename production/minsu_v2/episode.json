@@ -1,0 +1,828 @@
+{
+  "episodeId": "MINSU_EP04_V2",
+  "title": "사막의 물길",
+  "topic": "Thorny devil cutaneous water collection",
+  "hook": [
+    "물이 왜",
+    "올라가?!"
+  ],
+  "duration": 36,
+  "fps": 30,
+  "aspectRatio": "9:16",
+  "visualStyle": "cute voxel / soft pixel",
+  "narrativeMode": "BGM_SFX_NO_VOICE",
+  "targetAudience": "general Korean science viewers",
+  "internalResolution": [
+    540,
+    960
+  ],
+  "outputResolution": [
+    1080,
+    1920
+  ],
+  "characters": [
+    {
+      "characterId": "minsu",
+      "species": "stylized human",
+      "modelAssetId": "MINSU_CUTE_V2",
+      "materialPreset": "cream_mint",
+      "facePresetSet": "ten_states",
+      "animationLibrary": "minsu_motion",
+      "defaultScale": 1
+    },
+    {
+      "characterId": "thorny",
+      "species": "Moloch horridus",
+      "modelAssetId": "THORNY_V2",
+      "materialPreset": "desert_scales",
+      "facePresetSet": "animal",
+      "animationLibrary": "quadruped",
+      "defaultScale": 1
+    }
+  ],
+  "worlds": [
+    {
+      "worldId": "desert",
+      "environmentPreset": "warm_desert",
+      "backgroundAssets": [
+        "rocks",
+        "dry_grass",
+        "dunes"
+      ],
+      "lightingPreset": "soft_daylight",
+      "groundMaterial": "sand32",
+      "atmosphere": "clear"
+    },
+    {
+      "worldId": "micro",
+      "environmentPreset": "external_scale_section",
+      "backgroundAssets": [],
+      "lightingPreset": "soft_daylight",
+      "groundMaterial": "skin64",
+      "atmosphere": "none"
+    }
+  ],
+  "shots": [
+    {
+      "shotId": "SHOT_01",
+      "startTime": 0,
+      "endTime": 1.8,
+      "narrativePurpose": "hook",
+      "worldId": "desert",
+      "characterIds": [
+        "thorny"
+      ],
+      "sceneObjects": [
+        "water",
+        "scales"
+      ],
+      "cameraPlan": {
+        "shotType": "EXTREME_CLOSE_UP",
+        "startPosition": [
+          -0.7,
+          -0.91,
+          0.5
+        ],
+        "endPosition": [
+          -0.64,
+          -0.84,
+          0.47
+        ],
+        "target": [
+          -0.31,
+          -0.22,
+          0.09
+        ],
+        "lens": 48,
+        "movementDuration": 1.8,
+        "easing": "smoothstep",
+        "subjectFraming": "action above subtitles",
+        "focusTarget": "thorny"
+      },
+      "actionTimeline": [
+        {
+          "start": 0,
+          "end": 1.8,
+          "action": "drop contact, wet front starts"
+        }
+      ],
+      "animationTimeline": [
+        {
+          "start": 0,
+          "end": 1.8,
+          "preset": "hook"
+        }
+      ],
+      "captionTimeline": [
+        {
+          "start": 0.08,
+          "end": 1.6800000000000002,
+          "lines": [
+            "물이 왜",
+            "올라가?!"
+          ],
+          "highlightLine": 1,
+          "centerX": 735,
+          "y": 280,
+          "fontSize": 62,
+          "placementPreset": "upper_right_contact_safe"
+        }
+      ],
+      "uiEvents": [],
+      "vfxEvents": [],
+      "audioEvents": [
+        {
+          "time": 0.55,
+          "sound": "water_drop",
+          "duck": false,
+          "gainDb": -4,
+          "event": "drop contact, wet front starts"
+        }
+      ],
+      "expectedVisibleChange": "drop contact, wet front starts"
+    },
+    {
+      "shotId": "SHOT_02",
+      "startTime": 1.8,
+      "endTime": 4.5,
+      "narrativePurpose": "reaction",
+      "worldId": "desert",
+      "characterIds": [
+        "minsu",
+        "thorny"
+      ],
+      "sceneObjects": [
+        "water",
+        "scales"
+      ],
+      "cameraPlan": {
+        "shotType": "TWO_SHOT",
+        "startPosition": [
+          -1.6,
+          -4.8,
+          2.35
+        ],
+        "endPosition": [
+          -1.55,
+          -4.7,
+          2.32
+        ],
+        "target": [
+          -0.36,
+          0.08,
+          0.74
+        ],
+        "lens": 48,
+        "movementDuration": 2.7,
+        "easing": "smoothstep",
+        "subjectFraming": "action above subtitles",
+        "focusTarget": "thorny"
+      },
+      "actionTimeline": [
+        {
+          "start": 1.8,
+          "end": 4.5,
+          "action": "Minsu gaze, lean and surprise; animal turns"
+        }
+      ],
+      "animationTimeline": [
+        {
+          "start": 1.8,
+          "end": 4.5,
+          "preset": "reaction"
+        }
+      ],
+      "captionTimeline": [
+        {
+          "start": 1.8800000000000001,
+          "end": 4.38,
+          "lines": [
+            "입은",
+            "물 밖에 있는데?"
+          ],
+          "highlightLine": 1
+        }
+      ],
+      "uiEvents": [],
+      "vfxEvents": [],
+      "audioEvents": [
+        {
+          "time": 2.18,
+          "sound": "question_blip",
+          "duck": true,
+          "gainDb": -4,
+          "event": "Minsu gaze, lean and surprise; animal turns"
+        }
+      ],
+      "expectedVisibleChange": "Minsu gaze, lean and surprise; animal turns"
+    },
+    {
+      "shotId": "SHOT_03",
+      "startTime": 4.5,
+      "endTime": 8,
+      "narrativePurpose": "observation",
+      "worldId": "desert",
+      "characterIds": [
+        "minsu",
+        "thorny"
+      ],
+      "sceneObjects": [
+        "water",
+        "scales"
+      ],
+      "cameraPlan": {
+        "shotType": "WIDE",
+        "startPosition": [
+          -3.5,
+          -5.4,
+          2.9
+        ],
+        "endPosition": [
+          -3.65,
+          -5.5,
+          3
+        ],
+        "target": [
+          -0.15,
+          0,
+          0.58
+        ],
+        "lens": 46,
+        "movementDuration": 3.5,
+        "easing": "smoothstep",
+        "subjectFraming": "action above subtitles",
+        "focusTarget": "thorny"
+      },
+      "actionTimeline": [
+        {
+          "start": 4.5,
+          "end": 8,
+          "action": "four-leg walk toward free water"
+        }
+      ],
+      "animationTimeline": [
+        {
+          "start": 4.5,
+          "end": 8,
+          "preset": "observation"
+        }
+      ],
+      "captionTimeline": [
+        {
+          "start": 4.58,
+          "end": 7.88,
+          "lines": [
+            "사막에 사는",
+            "가시도마뱀"
+          ],
+          "highlightLine": 1
+        }
+      ],
+      "uiEvents": [],
+      "vfxEvents": [],
+      "audioEvents": [],
+      "expectedVisibleChange": "four-leg walk toward free water"
+    },
+    {
+      "shotId": "SHOT_04",
+      "startTime": 8,
+      "endTime": 12,
+      "narrativePurpose": "anatomy",
+      "worldId": "micro",
+      "characterIds": [
+        "thorny"
+      ],
+      "sceneObjects": [
+        "water",
+        "scales"
+      ],
+      "cameraPlan": {
+        "shotType": "MACRO",
+        "startPosition": [
+          17.1,
+          -4.3,
+          4.2
+        ],
+        "endPosition": [
+          18.05,
+          -3.1,
+          3.2
+        ],
+        "target": [
+          20,
+          0,
+          0.1
+        ],
+        "lens": 48,
+        "movementDuration": 4,
+        "easing": "smoothstep",
+        "subjectFraming": "action above subtitles",
+        "focusTarget": "scales"
+      },
+      "actionTimeline": [
+        {
+          "start": 8,
+          "end": 12,
+          "action": "scale surface expands to channel model"
+        }
+      ],
+      "animationTimeline": [
+        {
+          "start": 8,
+          "end": 12,
+          "preset": "anatomy"
+        }
+      ],
+      "captionTimeline": [
+        {
+          "start": 8.08,
+          "end": 11.88,
+          "lines": [
+            "비늘 사이를",
+            "확대해 보면…"
+          ],
+          "highlightLine": 1
+        }
+      ],
+      "uiEvents": [
+        {
+          "kind": "ObjectLabel",
+          "start": 9,
+          "end": 11.8,
+          "text": "비늘 사이 통로",
+          "anchor": "micro_anchor"
+        }
+      ],
+      "vfxEvents": [],
+      "audioEvents": [
+        {
+          "time": 9.0,
+          "sound": "soft_whoosh",
+          "duck": false,
+          "gainDb": -4,
+          "event": "scale surface expands to channel model"
+        }
+      ],
+      "expectedVisibleChange": "scale surface expands to channel model"
+    },
+    {
+      "shotId": "SHOT_05",
+      "startTime": 12,
+      "endTime": 17,
+      "narrativePurpose": "mechanism",
+      "worldId": "micro",
+      "characterIds": [
+        "thorny"
+      ],
+      "sceneObjects": [
+        "water",
+        "scales"
+      ],
+      "cameraPlan": {
+        "shotType": "MACRO",
+        "startPosition": [
+          18.2,
+          -3.1,
+          3.3
+        ],
+        "endPosition": [
+          18.35,
+          -3.0,
+          3.25
+        ],
+        "target": [
+          20,
+          0,
+          0.1
+        ],
+        "lens": 48,
+        "movementDuration": 5,
+        "easing": "smoothstep",
+        "subjectFraming": "action above subtitles",
+        "focusTarget": "scales"
+      },
+      "actionTimeline": [
+        {
+          "start": 12,
+          "end": 17,
+          "action": "capillary front spreads radially between external scales"
+        }
+      ],
+      "animationTimeline": [
+        {
+          "start": 12,
+          "end": 17,
+          "preset": "mechanism"
+        }
+      ],
+      "captionTimeline": [
+        {
+          "start": 12.08,
+          "end": 16.88,
+          "lines": [
+            "좁은 틈을 따라",
+            "물이 퍼진다"
+          ],
+          "highlightLine": 1
+        }
+      ],
+      "uiEvents": [
+        {
+          "kind": "ObjectLabel",
+          "start": 12.2,
+          "end": 16.8,
+          "text": "모세관 작용",
+          "anchor": "micro_anchor"
+        }
+      ],
+      "vfxEvents": [],
+      "audioEvents": [
+        {
+          "time": 12.65,
+          "sound": "water_drop",
+          "duck": false,
+          "gainDb": -4,
+          "event": "capillary front spreads radially between external scales"
+        }
+      ],
+      "expectedVisibleChange": "capillary front spreads radially between external scales"
+    },
+    {
+      "shotId": "SHOT_06",
+      "startTime": 17,
+      "endTime": 22,
+      "narrativePurpose": "connection",
+      "worldId": "desert",
+      "characterIds": [
+        "thorny"
+      ],
+      "sceneObjects": [
+        "water",
+        "scales"
+      ],
+      "cameraPlan": {
+        "shotType": "MEDIUM",
+        "startPosition": [
+          -1.3,
+          -1.7,
+          1.65
+        ],
+        "endPosition": [
+          -1.45,
+          -2.0,
+          1.85
+        ],
+        "target": [
+          0,
+          -0.04,
+          0.2
+        ],
+        "lens": 48,
+        "movementDuration": 5,
+        "easing": "smoothstep",
+        "subjectFraming": "action above subtitles",
+        "focusTarget": "thorny"
+      },
+      "actionTimeline": [
+        {
+          "start": 17,
+          "end": 22,
+          "action": "external wet routes progress on whole animal"
+        }
+      ],
+      "animationTimeline": [
+        {
+          "start": 17,
+          "end": 22,
+          "preset": "connection"
+        }
+      ],
+      "captionTimeline": [
+        {
+          "start": 17.08,
+          "end": 21.88,
+          "lines": [
+            "피부 속이 아니라",
+            "표면의 물길로"
+          ],
+          "highlightLine": 1
+        }
+      ],
+      "uiEvents": [
+        {
+          "kind": "ObjectLabel",
+          "start": 18,
+          "end": 21.8,
+          "text": "물의 이동",
+          "anchor": "route_anchor"
+        }
+      ],
+      "vfxEvents": [],
+      "audioEvents": [],
+      "expectedVisibleChange": "external wet routes progress on whole animal"
+    },
+    {
+      "shotId": "SHOT_07",
+      "startTime": 22,
+      "endTime": 27,
+      "narrativePurpose": "payoff",
+      "worldId": "desert",
+      "characterIds": [
+        "thorny"
+      ],
+      "sceneObjects": [
+        "water",
+        "scales"
+      ],
+      "cameraPlan": {
+        "shotType": "CLOSE_UP",
+        "startPosition": [
+          -0.71,
+          -1.58,
+          0.68
+        ],
+        "endPosition": [
+          -0.66,
+          -1.5,
+          0.65
+        ],
+        "target": [
+          0,
+          -0.5,
+          0.26
+        ],
+        "lens": 55,
+        "movementDuration": 5,
+        "easing": "smoothstep",
+        "subjectFraming": "action above subtitles",
+        "focusTarget": "thorny"
+      },
+      "actionTimeline": [
+        {
+          "start": 22,
+          "end": 27,
+          "action": "water reaches mouth, then jaw cycles"
+        }
+      ],
+      "animationTimeline": [
+        {
+          "start": 22,
+          "end": 27,
+          "preset": "payoff"
+        }
+      ],
+      "captionTimeline": [
+        {
+          "start": 22.08,
+          "end": 26.88,
+          "lines": [
+            "모인 물이",
+            "입까지 도착!"
+          ],
+          "highlightLine": 1
+        }
+      ],
+      "uiEvents": [],
+      "vfxEvents": [],
+      "audioEvents": [
+        {
+          "time": 23.5,
+          "sound": "water_drop",
+          "duck": false,
+          "gainDb": -4,
+          "event": "water reaches mouth, then jaw cycles"
+        }
+      ],
+      "expectedVisibleChange": "water reaches mouth, then jaw cycles"
+    },
+    {
+      "shotId": "SHOT_08",
+      "startTime": 27,
+      "endTime": 32,
+      "narrativePurpose": "discovery",
+      "worldId": "desert",
+      "characterIds": [
+        "minsu",
+        "thorny"
+      ],
+      "sceneObjects": [
+        "water",
+        "scales"
+      ],
+      "cameraPlan": {
+        "shotType": "TWO_SHOT",
+        "startPosition": [
+          -1.6,
+          -4.8,
+          2.35
+        ],
+        "endPosition": [
+          -1.55,
+          -4.7,
+          2.32
+        ],
+        "target": [
+          -0.36,
+          0.08,
+          0.74
+        ],
+        "lens": 48,
+        "movementDuration": 5,
+        "easing": "smoothstep",
+        "subjectFraming": "action above subtitles",
+        "focusTarget": "thorny"
+      },
+      "actionTimeline": [
+        {
+          "start": 27,
+          "end": 32,
+          "action": "Minsu points to route then nods"
+        }
+      ],
+      "animationTimeline": [
+        {
+          "start": 27,
+          "end": 32,
+          "preset": "discovery"
+        }
+      ],
+      "captionTimeline": [
+        {
+          "start": 27.08,
+          "end": 31.88,
+          "lines": [
+            "피부가 마시는 게 아니라",
+            "입으로 보내는 거야"
+          ],
+          "highlightLine": 1
+        }
+      ],
+      "uiEvents": [
+        {
+          "kind": "AchievementPopup",
+          "start": 28.6,
+          "end": 30.5,
+          "text": "사막의 물길 발견"
+        }
+      ],
+      "vfxEvents": [],
+      "audioEvents": [
+        {
+          "time": 28.6,
+          "sound": "discovery",
+          "duck": true,
+          "gainDb": -4,
+          "event": "Minsu points to route then nods"
+        }
+      ],
+      "expectedVisibleChange": "Minsu points to route then nods"
+    },
+    {
+      "shotId": "SHOT_09",
+      "startTime": 32,
+      "endTime": 36,
+      "narrativePurpose": "ending",
+      "worldId": "desert",
+      "characterIds": [
+        "thorny"
+      ],
+      "sceneObjects": [
+        "water",
+        "scales"
+      ],
+      "cameraPlan": {
+        "shotType": "CLOSE_UP",
+        "startPosition": [
+          -0.92,
+          -1.8,
+          0.77
+        ],
+        "endPosition": [
+          -0.88,
+          -1.74,
+          0.75
+        ],
+        "target": [
+          0,
+          -0.42,
+          0.27
+        ],
+        "lens": 50,
+        "movementDuration": 4,
+        "easing": "smoothstep",
+        "subjectFraming": "action above subtitles",
+        "focusTarget": "thorny"
+      },
+      "actionTimeline": [
+        {
+          "start": 32,
+          "end": 36,
+          "action": "animal head turns, observer settles"
+        }
+      ],
+      "animationTimeline": [
+        {
+          "start": 32,
+          "end": 36,
+          "preset": "ending"
+        }
+      ],
+      "captionTimeline": [
+        {
+          "start": 32.08,
+          "end": 35.88,
+          "lines": [
+            "사막에서 살아남는",
+            "작은 물길"
+          ],
+          "highlightLine": 1
+        }
+      ],
+      "uiEvents": [],
+      "vfxEvents": [],
+      "audioEvents": [],
+      "expectedVisibleChange": "animal head turns, observer settles"
+    }
+  ],
+  "factCheck": [
+    {
+      "claim": "비늘 사이 외부 통로의 모세관 작용으로 물을 모은다",
+      "evidence": [
+        "https://doi.org/10.1242/jeb.148791"
+      ],
+      "status": "reviewed",
+      "confidence": "high",
+      "visualRepresentation": "Water stays between scales, above skin slab",
+      "limitations": "Diagram and time compression; not a numerical fluid solver."
+    },
+    {
+      "claim": "수분은 피부를 통해 직접 흡수되지 않고 입으로 섭취된다",
+      "evidence": [
+        "https://doi.org/10.1242/jeb.148791"
+      ],
+      "status": "reviewed",
+      "confidence": "high",
+      "visualRepresentation": "External route reaches mouth before jaw motion",
+      "limitations": "Moist sand alone did not produce drinking in the cited experiment; depict free water supply. Oral transfer details uncertain."
+    },
+    {
+      "claim": "물은 통로에서 여러 방향으로 퍼질 수 있다",
+      "evidence": [
+        "https://pubmed.ncbi.nlm.nih.gov/28989762/"
+      ],
+      "status": "reviewed",
+      "confidence": "high",
+      "visualRepresentation": "Radial capillary front in macro and branches on back",
+      "limitations": "Not a unidirectional pump."
+    }
+  ],
+  "audioEvents": [
+    {
+      "time": 0.55,
+      "sound": "water_drop",
+      "duck": false,
+      "gainDb": -4,
+      "event": "drop contact, wet front starts"
+    },
+    {
+      "time": 2.18,
+      "sound": "question_blip",
+      "duck": true,
+      "gainDb": -4,
+      "event": "Minsu gaze, lean and surprise; animal turns"
+    },
+    {
+      "time": 9.0,
+      "sound": "soft_whoosh",
+      "duck": false,
+      "gainDb": -4,
+      "event": "scale surface expands to channel model"
+    },
+    {
+      "time": 12.65,
+      "sound": "water_drop",
+      "duck": false,
+      "gainDb": -4,
+      "event": "capillary front spreads radially between external scales"
+    },
+    {
+      "time": 23.5,
+      "sound": "water_drop",
+      "duck": false,
+      "gainDb": -4,
+      "event": "water reaches mouth, then jaw cycles"
+    },
+    {
+      "time": 28.6,
+      "sound": "discovery",
+      "duck": true,
+      "gainDb": -4,
+      "event": "Minsu points to route then nods"
+    }
+  ],
+  "topicAssessment": {
+    "score": 89.8,
+    "thresholdPassed": true,
+    "humanAssessment": true
+  }
+}

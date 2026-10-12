@@ -1,0 +1,115 @@
+{
+  "status": "TECHNICAL_STYLE_PREVIEW_COMPLETE",
+  "source": "C:\\Users\\0620f\\Downloads\\빨대의 구멍은 몇 개 1개 2개 🥤인터넷을 둘로 가른 질문, 빨대의 구멍은 몇 개일까요답이 갈리는 건 구멍을 입구로 세느냐, 뚫린 길로 세느냐, 뚫은 자국으로 세느냐의.mp4",
+  "sourceDuration": 176.21,
+  "sourceOriginalCompared": true,
+  "sourceScienceIndependentlyVerified": false,
+  "modules": [
+    "experiment/state.py",
+    "experiment/operations.py",
+    "experiment/overlay.py",
+    "experiment/render.py",
+    "experiment/profile.json",
+    "directors.py",
+    "config/RULE_RESOLUTION.json"
+  ],
+  "implemented": [
+    "persistent UI frame and 7 typography roles",
+    "5 numeric channels with provenance/unit/definition checks",
+    "geometry-completion receipts before state value commit",
+    "13 reusable Blender operations; Boolean Cut/Pierce/Join",
+    "native ordered dither and fixed background noise; Nearest 2x; separate UI; optional 6% fixed scanlines",
+    "compact experiment contract integrated into episode briefing; source selection preserved"
+  ],
+  "timing": {
+    "barCompletionFrame": 75,
+    "barValueUpdateFrame": 76,
+    "elbowCompletionFrame": 105,
+    "elbowValueUpdateFrame": 106
+  },
+  "metrics": {
+    "coldNative": {
+      "wallSeconds": 85.1481610999981,
+      "renderLoopSeconds": 85.01103750000038,
+      "renderedFrames": 150,
+      "reusedFrames": 0,
+      "assetCache": "MISS",
+      "assetKey": "fc7c6cc08b7930c211f602efb613763830beae00982de3321236e8f616c2d4c6",
+      "nativeSize": [
+        540,
+        960
+      ],
+      "blender": "5.0.1"
+    },
+    "lastCompositionSeconds": 12.790763700002572,
+    "warmNative": {
+      "wallSeconds": 1.020408899999893,
+      "renderLoopSeconds": 1.008781500000623,
+      "renderedFrames": 0,
+      "reusedFrames": 150,
+      "assetCache": "HIT",
+      "assetKey": "fc7c6cc08b7930c211f602efb613763830beae00982de3321236e8f616c2d4c6",
+      "nativeSize": [
+        540,
+        960
+      ],
+      "blender": "5.0.1"
+    },
+    "reworkCount": 1,
+    "compositionOnlyRevisionCount": 2,
+    "pipelineExternalLLMCalls": 0,
+    "conversationTokenSavings": "not measured",
+    "newGeometryPresets": [
+      "BLOCK_BAR",
+      "BLOCK_ELBOW"
+    ],
+    "reused": [
+      "V5 cel material library",
+      "Galmuri display/body and glyph/text cache",
+      "V5 Blender lighting setup"
+    ],
+    "heavyWorkers": 1
+  },
+  "qa": {
+    "stateTests": 14,
+    "operationTests": 13,
+    "cacheTests": 2,
+    "existingV5Tests": 10,
+    "fullMP4Decode": true,
+    "checkedFrames": 150,
+    "textCollisions": 0,
+    "glyphFallbacks": 0,
+    "allFrameGeometryViewportChecks": "PASS",
+    "preservedSourceAndDeliveryFiles": 27,
+    "post": {
+      "orderedDither": {
+        "matrix": "bayer4",
+        "levelsPerChannel": 12,
+        "strength": 0.35
+      },
+      "backgroundNoise": {
+        "amplitude": 1,
+        "seed": 91,
+        "temporal": false
+      },
+      "scanline": {
+        "enabled": true,
+        "period": 4,
+        "opacity": 0.06
+      },
+      "colorBleed": 0
+    }
+  },
+  "editorial": {
+    "reviewed": "selected actual encoded frames, including action/commit boundaries, plus reference MP4 frames",
+    "improved": "camera clipping fixed; before/current values separate; yellow pending numbers become mint only after completion; fixed 12px viewport border removes the visible background corner at the crop boundary",
+    "limits": [
+      "This 5-second fixture is not a science episode, entertainment approval or audience test.",
+      "Reference has hypothesis/rebuttal/transfer/payoff across 176 seconds; fixture only validates the state/UI connection.",
+      "Only Rotate was visually reviewed in this fixture; other operations have evaluated-mesh tests, not artistic or physical-conservation approval.",
+      "The generic operation library does not infer scientific properties from arbitrary meshes; each science adapter still needs measurements and independent evidence.",
+      "No real-time playback or audio listening; technical fixture intentionally has no audio, episode local BGM/SFX stays intact."
+    ]
+  },
+  "output": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EXPERIMENT_STYLE_PREVIEW.mp4"
+}

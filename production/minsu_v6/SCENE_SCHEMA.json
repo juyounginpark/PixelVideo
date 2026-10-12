@@ -1,0 +1,10 @@
+{
+ "version":"6.0.0",
+ "required":["id","startFrame","endFrame","mode","narrativeRole","primarySubject","viewerQuestion","newInformation","visualAction","scientificMeaning","characterEmotion","cameraPlan","captionPlan","nextShotConnection"],
+ "explanationRequired":["entryReason","returnReason","continuityObject","worldSnapshot"],
+ "captionPlan":"References to global caption cues; captions may continue across shot boundaries",
+ "worldReturn":"Same source object and world snapshot; acting may react to newly learned information",
+ "numericPolicy":"No fabricated measurements or decorative experiment numbers",
+ "emphasisEvent":"Optional event frame synchronizes camera, caption and licensed local SFX",
+ "cacheBoundary":"Scientific labels, captions, BGM and SFX are outside native 3D cache"
+}

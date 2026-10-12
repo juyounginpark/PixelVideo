@@ -1,0 +1,57 @@
+{
+  "shotConnections": [
+    {
+      "fromShot": "S01",
+      "toShot": "S02",
+      "reason": "민수와 망원경로 관심 대상을 연결"
+    },
+    {
+      "fromShot": "S02",
+      "toShot": "S03",
+      "reason": "질량 모형과 바깥 별로 관심 대상을 연결"
+    },
+    {
+      "fromShot": "S03",
+      "toShot": "S04",
+      "reason": "같은 반지름의 실제/예상 별로 관심 대상을 연결"
+    },
+    {
+      "fromShot": "S04",
+      "toShot": "S05",
+      "reason": "별의 운동 방향과 안쪽 중력로 관심 대상을 연결"
+    },
+    {
+      "fromShot": "S05",
+      "toShot": "S06",
+      "reason": "동일 반지름의 느린/빠른 궤도로 관심 대상을 연결"
+    },
+    {
+      "fromShot": "S06",
+      "toShot": "S07",
+      "reason": "빛나는 은하 주변의 추론 헤일로로 관심 대상을 연결"
+    },
+    {
+      "fromShot": "S07",
+      "toShot": "S08",
+      "reason": "민수와 수정한 관측판로 관심 대상을 연결"
+    },
+    {
+      "fromShot": "S08",
+      "toShot": "S09",
+      "reason": "헤일로 표시가 사라진 은하로 관심 대상을 연결"
+    },
+    {
+      "fromShot": "S09",
+      "toShot": "S10",
+      "reason": "민수와 처음의 빠른 별로 관심 대상을 연결"
+    }
+  ],
+  "technical": {
+    "schema": "PASS",
+    "sourceHash": "PASS",
+    "shots": 10,
+    "editorialApproval": false
+  },
+  "requiresEditorialReview": true,
+  "externalLLMRequestsMade": 0
+}

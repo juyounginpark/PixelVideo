@@ -1,0 +1,42 @@
+{
+  "topic": "2001 Kerala red rain",
+  "claims": [
+    {
+      "claim": "조사된 붉은 빗물에 가라앉는 입자가 있었다",
+      "source": "https://www.iangoddard.com/sampath2001.pdf",
+      "location": "Abstract; observations",
+      "status": "supported"
+    },
+    {
+      "claim": "시험한 시료를 배양해 Trentepohlia 속 조류를 확인했다",
+      "source": "https://www.iangoddard.com/sampath2001.pdf",
+      "location": "Microbiological studies; Conclusions",
+      "status": "supported"
+    },
+    {
+      "claim": "주변 나무의 시료에서도 같은 종류를 확인했다",
+      "source": "https://www.iangoddard.com/sampath2001.pdf",
+      "location": "Further microbiological investigations; Conclusions",
+      "status": "supported; genus-level comparison"
+    },
+    {
+      "claim": "동시에 많은 포자가 공중으로 들어간 정확한 과정",
+      "source": "https://www.iangoddard.com/sampath2001.pdf",
+      "location": "Further studies",
+      "status": "unresolved; no invented transport path"
+    },
+    {
+      "claim": "붉은 비 세포의 DNA 분석은 별도 연구에서도 다뤄졌다",
+      "source": "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.062711-0",
+      "location": "2013 primary paper abstract",
+      "status": "independent research; not a replication of every 2001 claim; not needed onscreen"
+    }
+  ],
+  "limits": [
+    "위키는 후보 출처이며 사실 판정 근거가 아니다.",
+    "정부 보고서는 공개 보관본으로 읽었으며 현재 정부 서버 원본이 아니다.",
+    "2002 Eos 논문은 같은 조사팀으로 독립 재현이 아니다.",
+    "2015 나무껍질 DNA 연구를 2001 빗물의 직접 DNA 분석으로 사용하지 않았다.",
+    "세계 모든 붉은 비의 원인이나 정확한 종을 단정하지 않는다."
+  ]
+}

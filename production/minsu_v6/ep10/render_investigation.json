@@ -1,0 +1,16 @@
+{
+  "shots": [
+    {
+      "shot": "S02",
+      "newFrames": 120,
+      "cacheHits": 0,
+      "seconds": 85.23785950000456
+    }
+  ],
+  "wallSeconds": 85.84005420000176,
+  "workers": 1,
+  "native": [
+    540,
+    960
+  ]
+}

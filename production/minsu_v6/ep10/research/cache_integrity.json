@@ -1,0 +1,20 @@
+{
+  "verifiedFrames": 960,
+  "corruptedFrames": [],
+  "unaffectedMacroCutsIdentical": {
+    "S05": true,
+    "S06": true
+  },
+  "retainedMacroFrames": 240,
+  "unaffectedCutsAfterWalkRework": {
+    "S01": true,
+    "S03": true,
+    "S04": true,
+    "S05": true,
+    "S06": true,
+    "S07": true,
+    "S08": true
+  },
+  "retainedFramesAfterWalkRework": 840,
+  "reworkScope": "Foot placement: six world cuts. Investigative WALK: S02 only. Other cuts retained and frame hashes verified."
+}

@@ -1,0 +1,7 @@
+{
+  "framesChecked": 1080,
+  "boundsPassed": true,
+  "maxPanels": 1,
+  "faceAnchorWarnings": [],
+  "limitation": "Coordinate checks use baked anchors, not full facial silhouettes or visual comprehension."
+}

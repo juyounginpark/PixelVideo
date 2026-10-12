@@ -1,0 +1,18 @@
+{
+  "active": "MINSU_STRAW_STYLE_USER_SPEC.md",
+  "base": "MINSU_V5_USER_SPEC.md",
+  "experimentProfile": "production/minsu_v5/experiment/profile.json",
+  "preservedHistory": [
+    "V2 fixed header and RPG box",
+    "V4 simultaneous bilingual overlay",
+    "old no-video request"
+  ],
+  "activeOverrides": {
+    "language": "Korean default, separate English output",
+    "audio": "local BGM/SFX; no TTS",
+    "source": "existing NamuWiki mystery cache and linked categories",
+    "style": "persistent experiment game-show frame, fixed semantic colors, typed state and geometry-completion-driven numbers; weak CRT optional",
+    "delivery": "existing episode authorization preserved; U-091 is a style update, fixture does not consume a topic"
+  },
+  "legacyFilesOverwritten": false
+}

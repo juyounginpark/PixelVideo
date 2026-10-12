@@ -1,0 +1,136 @@
+{
+  "duration": 36,
+  "sampleRate": 48000,
+  "track": {
+    "id": "curious_desert_100",
+    "path": "bgm/curious_desert_100.wav",
+    "mood": [
+      "exploration",
+      "observation",
+      "mechanism"
+    ],
+    "bpm": 100,
+    "duration": 19.2,
+    "loopable": true,
+    "instrumental": true,
+    "license": "project-original-procedural",
+    "source": "audio.py:generate_assets",
+    "externalSamples": false,
+    "creditsRequired": false,
+    "commercialUseAllowed": true,
+    "socialPublishingAllowed": true,
+    "commercialAndSocialUse": "Original project synthesis, no third-party samples or composition",
+    "measuredLUFS": -21.0
+  },
+  "events": [
+    {
+      "time": 0.8,
+      "sound": "water_drop",
+      "gainDb": -4,
+      "duck": false,
+      "event": "foot contacts puddle",
+      "sampleIndex": 38400,
+      "actualTime": 0.8,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "time": 3.55,
+      "sound": "question_blip",
+      "gainDb": -5,
+      "duck": true,
+      "event": "observer crouch completes",
+      "sampleIndex": 170400,
+      "actualTime": 3.55,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "time": 12.0,
+      "sound": "soft_whoosh",
+      "gainDb": -6,
+      "duck": false,
+      "event": "macro scale cut",
+      "sampleIndex": 576000,
+      "actualTime": 12.0,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "time": 12.65,
+      "sound": "water_drop",
+      "gainDb": -5,
+      "duck": false,
+      "event": "macro droplet contact",
+      "sampleIndex": 607200,
+      "actualTime": 12.65,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "time": 24.0,
+      "sound": "ui_pop",
+      "gainDb": -6,
+      "duck": false,
+      "event": "surface route observation",
+      "sampleIndex": 1152000,
+      "actualTime": 24.0,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "time": 30.6,
+      "sound": "water_drop",
+      "gainDb": -5,
+      "duck": false,
+      "event": "back droplet contact",
+      "sampleIndex": 1468800,
+      "actualTime": 30.6,
+      "syncErrorSeconds": 0.0
+    },
+    {
+      "time": 33.2,
+      "sound": "discovery",
+      "gainDb": -4,
+      "duck": true,
+      "event": "discovery ending",
+      "sampleIndex": 1593600,
+      "actualTime": 33.2,
+      "syncErrorSeconds": 0.0
+    }
+  ],
+  "stems": [
+    "bgm.wav",
+    "sfx.wav"
+  ],
+  "ttsEnabled": false,
+  "duckDb": 4,
+  "fadeIn": 0.4,
+  "fadeOut": 0.8,
+  "bgmMeasurement": {
+    "input_i": "-21.20",
+    "input_tp": "-11.88",
+    "input_lra": "1.50",
+    "input_thresh": "-31.22",
+    "output_i": "-19.12",
+    "output_tp": "-9.99",
+    "output_lra": "1.40",
+    "output_thresh": "-29.13",
+    "normalization_type": "dynamic",
+    "target_offset": "0.12"
+  },
+  "mixMeasurement": {
+    "input_i": "-19.00",
+    "input_tp": "-8.70",
+    "input_lra": "1.50",
+    "input_thresh": "-29.02",
+    "output_i": "-19.10",
+    "output_tp": "-8.88",
+    "output_lra": "1.40",
+    "output_thresh": "-29.12",
+    "normalization_type": "dynamic",
+    "target_offset": "0.10"
+  },
+  "loopBoundaryStep": 0.000823974609375,
+  "loopNeighborP999Step": 0.012908935546875,
+  "loopClickCheckPassed": true,
+  "minimumHalfSecondBgmRMS": 0.037862117658259205,
+  "bgmCoveragePassed": true,
+  "peakPassed": true,
+  "auditoryReview": "Not yet listened to; waveform/loudness checks are not a listening test."
+}

@@ -1,0 +1,24 @@
+{
+  "protected": {
+    "sourceFiles": {
+      "count": 261,
+      "modified": []
+    },
+    "videos": {
+      "count": 9,
+      "modified": []
+    }
+  },
+  "newVideos": [],
+  "tests": {
+    "returncode": 0,
+    "output": ".................\n----------------------------------------------------------------------\nRan 17 tests in 0.091s\n\nOK\n"
+  },
+  "nearWhitePixelsInSameCameraDiagnostic": {
+    "legacy_outline": 627,
+    "legacy_raw": 670,
+    "without_weighted_normals": 670,
+    "box_blend_safe": 0
+  },
+  "limits": "White-pixel threshold is an artifact diagnostic for these controlled stills only; not a general appearance score."
+}

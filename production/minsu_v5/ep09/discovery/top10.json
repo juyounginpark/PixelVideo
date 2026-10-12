@@ -1,0 +1,579 @@
+[
+  {
+    "topicId": "namu-cache-listing-004",
+    "name": "음펨바 효과",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%9D%8C%ED%8E%A8%EB%B0%94%20%ED%9A%A8%EA%B3%BC",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 4,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "음펨바 효과 : 온도가 높은 액체가 온도가 낮은 액체보다 빠르게 응고하는 현상으로, 풀리는 듯하면서도 풀리지 않는 미스터리.",
+    "discoveredAt": "2026-10-12T15:48:00+09:00",
+    "lastCheckedAt": "2026-10-12T15:48:00+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "DISPUTED",
+    "verificationBasis": "보편적 뜨거운 물 우선 결빙을 사실처럼 후킹하면 실패. 최근 얼음 편과 반복",
+    "interestScore": 84,
+    "hookCandidates": [],
+    "visualPotential": "두 물통 중 뜨거운 쪽이 먼저 얼 듯하다",
+    "storyPotential": "정의와 조건에 따라 비교 결과가 달라짐",
+    "productionCost": "얼음 EP06 및 상자 실험 EP05와 유사",
+    "previousEpisodeSimilarity": 0.85,
+    "rejectionReasons": [
+      "최근 영상과 장면/주제 유사도 높음"
+    ],
+    "scoreComponents": {
+      "hook25": 23,
+      "event25": 23,
+      "narrative20": 13,
+      "surprise10": 8,
+      "evidence10": 8,
+      "feasibility10": 9
+    },
+    "evidenceUrls": [
+      "https://www.nature.com/articles/srep37665"
+    ],
+    "reviewKey": "mpemba",
+    "viewerAnswers": [
+      "두 물통 중 뜨거운 쪽이 먼저 얼 듯하다",
+      "설명 보조 필요",
+      "정의와 조건에 따라 비교 결과가 달라짐",
+      "얼음 EP06 및 상자 실험 EP05와 유사",
+      "보편적 뜨거운 물 우선 결빙을 사실처럼 후킹하면 실패. 최근 얼음 편과 반복"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-023",
+    "name": "케랄라의 붉은 비",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%BC%80%EB%9E%84%EB%9D%BC%EC%9D%98%20%EB%B6%89%EC%9D%80%20%EB%B9%84",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 23,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "케랄라의 붉은 비 : 2001년에 인도 케랄라 지역에서 여러 차례 미상의 붉은 비가 내린 사건.( # )",
+    "discoveredAt": "2026-10-12T15:48:00+09:00",
+    "lastCheckedAt": "2026-10-12T15:48:00+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_EXPLAINED",
+    "verificationBasis": "2001년 시료의 붉은 색 원인에 범위 제한. 대량 공중 유입 경로는 미규명. 2013 DNA 검사는 별도 연구이고 2001 배양의 독립 재현으로 쓰지 않음",
+    "interestScore": 93,
+    "hookCandidates": [
+      {
+        "HOOK_IMAGE": "흰 우산에 붉은 빗방울이 튄다",
+        "HOOK_ACTION": "우산을 든 민수가 뒤로 물러선다",
+        "HOOK_CAPTION": "비가 빨갛다?",
+        "VIEWER_GAP": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "투명 병 속 붉은 입자가 바닥에 쌓인다",
+        "HOOK_ACTION": "민수가 병을 들어 색 경계를 확인한다",
+        "HOOK_CAPTION": "색이 가라앉는다?",
+        "VIEWER_GAP": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "배양 접시에 조류가 자란다",
+        "HOOK_ACTION": "민수가 현미경에서 고개를 번쩍 든다",
+        "HOOK_CAPTION": "빗물에서 자랐다?",
+        "VIEWER_GAP": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      }
+    ],
+    "visualPotential": "빨간 비가 흰 우산에 점을 남긴다",
+    "storyPotential": "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+    "productionCost": "캐릭터·비·병·현미경으로 가능",
+    "previousEpisodeSimilarity": 0.1,
+    "rejectionReasons": [
+      "Already selected in existing episode metadata"
+    ],
+    "scoreComponents": {
+      "hook25": 24,
+      "event25": 24,
+      "narrative20": 18,
+      "surprise10": 9,
+      "evidence10": 9,
+      "feasibility10": 9
+    },
+    "evidenceUrls": [
+      "https://www.iangoddard.com/sampath2001.pdf",
+      "https://doi.org/10.1029/2002EO000250",
+      "https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.062711-0"
+    ],
+    "reviewKey": "red_rain",
+    "viewerAnswers": [
+      "빨간 비가 흰 우산에 점을 남긴다",
+      "red_rain/zebra는 색/착륙 차이가 즉시 보임; 다른 후보는 조건 라벨 필요",
+      "가라앉는 입자→배양된 조류로 색의 단서를 연결",
+      "캐릭터·비·병·현미경으로 가능",
+      "2001년 시료의 붉은 색 원인에 범위 제한. 대량 공중 유입 경로는 미규명. 2013 DNA 검사는 별도 연구이고 2001 배양의 독립 재현으로 쓰지 않음"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-044",
+    "name": "히트버스트 (heatburst)",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%A0%81%EB%9E%80%EC%9A%B4",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 44,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "히트버스트 (heatburst): 한밤중에 수명이 다한 적란운 이 소나기를 다 뿌리고 나서 순간적으로 뜨겁고 건조한 돌풍을 일으키는 현상으로, 늦은 오후나 한밤중에 적란운이 소멸되기 직전에 극히 드물게 나타날 수 있다. 과학적 연구를 통해서 다운버스트(downburst",
+    "discoveredAt": "2026-10-12T15:48:00+09:00",
+    "lastCheckedAt": "2026-10-12T15:48:00+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_EXPLAINED",
+    "verificationBasis": "공기가 하강하며 압축 가열. 캐시의 단열팽창 서술은 채택하지 않음",
+    "interestScore": 80,
+    "hookCandidates": [
+      {
+        "HOOK_IMAGE": "밤의 온도계가 급상승",
+        "HOOK_ACTION": "민수가 창문을 열고 놀란다",
+        "HOOK_CAPTION": "밤인데 더워진다?",
+        "VIEWER_GAP": "비 증발 후 하강 공기의 압축 가열",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "마른 빗방울이 공중에서 사라진다",
+        "HOOK_ACTION": "하강 바람이 퍼진다",
+        "HOOK_CAPTION": "비는 어디 갔지?",
+        "VIEWER_GAP": "비 증발 후 하강 공기의 압축 가열",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "차갑던 바람 지표에서 가열",
+        "HOOK_ACTION": "잎과 머리가 바람에 움직인다",
+        "HOOK_CAPTION": "뜨거운 돌풍",
+        "VIEWER_GAP": "비 증발 후 하강 공기의 압축 가열",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      }
+    ],
+    "visualPotential": "밤에 창문을 열자 바람은 뜨겁고 온도계가 오른다",
+    "storyPotential": "비 증발 후 하강 공기의 압축 가열",
+    "productionCost": "온도 변화가 자막 없이 즉시 보이기 어려움",
+    "previousEpisodeSimilarity": 0.16,
+    "rejectionReasons": [],
+    "scoreComponents": {
+      "hook25": 20,
+      "event25": 20,
+      "narrative20": 16,
+      "surprise10": 8,
+      "evidence10": 9,
+      "feasibility10": 7
+    },
+    "evidenceUrls": [
+      "https://www.weather.gov/abq/localfeatureheatburst"
+    ],
+    "reviewKey": "heatburst",
+    "viewerAnswers": [
+      "밤에 창문을 열자 바람은 뜨겁고 온도계가 오른다",
+      "설명 보조 필요",
+      "비 증발 후 하강 공기의 압축 가열",
+      "온도 변화가 자막 없이 즉시 보이기 어려움",
+      "공기가 하강하며 압축 가열. 캐시의 단열팽창 서술은 채택하지 않음"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-063",
+    "name": "얼룩말 의 줄무늬",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EC%96%BC%EB%A3%A9%EB%A7%90",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 63,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "얼룩말 의 줄무늬: 얼룩말이 왜 줄무늬를 지니게 되었는지에 대해서 여러 가설이 있다. 체체파리 의 시각을 교란하기 위해서라는 설, 체온 조절을 위해서라는 설 등이 있다. 이 이유가 전부일 수도 있고 다른 이유가 더 있을 수도 있다.",
+    "discoveredAt": "2026-10-12T15:48:00+09:00",
+    "lastCheckedAt": "2026-10-12T15:48:00+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_EXPLAINED",
+    "verificationBasis": "줄무늬의 흡혈파리 착륙 감소 효과로 제한; 진화의 단일 원인으로 단정하지 않음",
+    "interestScore": 86,
+    "hookCandidates": [
+      {
+        "HOOK_IMAGE": "민무늬 말에는 파리, 줄무늬 말에는 착륙 실패",
+        "HOOK_ACTION": "파리가 연속 접근한다",
+        "HOOK_CAPTION": "줄무늬의 뜻밖의 효과",
+        "VIEWER_GAP": "접근과 착륙을 분리한 비교",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "민수가 말의 줄무늬 덮개를 걷는다",
+        "HOOK_ACTION": "파리 착륙 위치가 바뀐다",
+        "HOOK_CAPTION": "무늬 하나 바꿨는데",
+        "VIEWER_GAP": "접근과 착륙을 분리한 비교",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "파리 시점의 무늬 확대",
+        "HOOK_ACTION": "착륙 직전 속도가 줄지 않는다",
+        "HOOK_CAPTION": "왜 못 앉을까?",
+        "VIEWER_GAP": "접근과 착륙을 분리한 비교",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      }
+    ],
+    "visualPotential": "파리가 민무늬 말에는 앉고 줄무늬에는 착륙을 놓친다",
+    "storyPotential": "접근과 착륙을 분리한 비교",
+    "productionCost": "말 관절과 비행 곤충 추가 모델 필요",
+    "previousEpisodeSimilarity": 0.15,
+    "rejectionReasons": [],
+    "scoreComponents": {
+      "hook25": 22,
+      "event25": 23,
+      "narrative20": 17,
+      "surprise10": 8,
+      "evidence10": 9,
+      "feasibility10": 7
+    },
+    "evidenceUrls": [
+      "https://www.nature.com/articles/s41598-022-22333-7"
+    ],
+    "reviewKey": "zebra",
+    "viewerAnswers": [
+      "파리가 민무늬 말에는 앉고 줄무늬에는 착륙을 놓친다",
+      "red_rain/zebra는 색/착륙 차이가 즉시 보임; 다른 후보는 조건 라벨 필요",
+      "접근과 착륙을 분리한 비교",
+      "말 관절과 비행 곤충 추가 모델 필요",
+      "줄무늬의 흡혈파리 착륙 감소 효과로 제한; 진화의 단일 원인으로 단정하지 않음"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-072",
+    "name": "고양이 가 그르렁거리는 이유",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EA%B3%A0%EC%96%91%EC%9D%B4",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 72,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "고양이 가 그르렁거리는 이유: 고양이의 목구멍에 있는 후두가 수축돼 그르렁 소리를 내는 것까지는 밝혀졌지만, 왜 고양이가 그르렁거리는 소리를 내는지는 동물학자들 역시 설명하지 못하고 있다.",
+    "discoveredAt": "2026-10-12T15:48:00+09:00",
+    "lastCheckedAt": "2026-10-12T15:48:00+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_EXPLAINED",
+    "verificationBasis": "2023 후두의 수동 발성 실험은 그르렁거리는 모든 이유를 설명하지 않음",
+    "interestScore": 72,
+    "hookCandidates": [],
+    "visualPotential": "가만히 있는 고양이 목이 떨린다",
+    "storyPotential": "후두 조직의 수동 진동 실험",
+    "productionCost": "TTS 없는 시각 중심 영상에서 소리 현상 후킹 약함",
+    "previousEpisodeSimilarity": 0.1,
+    "rejectionReasons": [
+      "관심 점수 80 미만"
+    ],
+    "scoreComponents": {
+      "hook25": 17,
+      "event25": 17,
+      "narrative20": 15,
+      "surprise10": 7,
+      "evidence10": 9,
+      "feasibility10": 7
+    },
+    "evidenceUrls": [
+      "https://www.sciencedirect.com/science/article/pii/S0960982223012307"
+    ],
+    "reviewKey": "purr",
+    "viewerAnswers": [
+      "가만히 있는 고양이 목이 떨린다",
+      "설명 보조 필요",
+      "후두 조직의 수동 진동 실험",
+      "TTS 없는 시각 중심 영상에서 소리 현상 후킹 약함",
+      "2023 후두의 수동 발성 실험은 그르렁거리는 모든 이유를 설명하지 않음"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-084",
+    "name": "타이탄하늘소",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%ED%83%80%EC%9D%B4%ED%83%84%ED%95%98%EB%8A%98%EC%86%8C",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 84,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "타이탄하늘소 : 1771년이라는 굉장히 이른 시기에 현대적인 작명법으로 분류가 된 곤충임에도 불구하고 아직까지 유충이 발견되지 않았다. 본래 하늘소과 생물 대다수의 생태가 잘 알려져 있진 않은 편이지만, 멸종도 되지 않은 곤충인데도 유충이 발견된 경우가 거의 없어서 이",
+    "discoveredAt": "2026-10-12T15:48:00+09:00",
+    "lastCheckedAt": "2026-10-12T15:48:00+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "ALLEGED",
+    "verificationBasis": "성충 존재만 확인. 현재까지 유충 미발견이라는 핵심을 독립 확증하지 못해 보류",
+    "interestScore": 69,
+    "hookCandidates": [],
+    "visualPotential": "손바닥만 한 딱정벌레의 아기 사진 칸이 비어 있다",
+    "storyPotential": "성충 확인과 유충 정보의 공백",
+    "productionCost": "빈 칸을 반복하게 되어 실제 사건 부족",
+    "previousEpisodeSimilarity": 0.08,
+    "rejectionReasons": [
+      "관심 점수 80 미만",
+      "핵심 사실 독립 검증 부족"
+    ],
+    "scoreComponents": {
+      "hook25": 20,
+      "event25": 20,
+      "narrative20": 11,
+      "surprise10": 7,
+      "evidence10": 5,
+      "feasibility10": 6
+    },
+    "evidenceUrls": [
+      "https://www.nhm.ac.uk/discover/what-is-the-biggest-beetle-in-the-world.html"
+    ],
+    "reviewKey": "titan",
+    "viewerAnswers": [
+      "손바닥만 한 딱정벌레의 아기 사진 칸이 비어 있다",
+      "설명 보조 필요",
+      "성충 확인과 유충 정보의 공백",
+      "빈 칸을 반복하게 되어 실제 사건 부족",
+      "성충 존재만 확인. 현재까지 유충 미발견이라는 핵심을 독립 확증하지 못해 보류"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-087",
+    "name": "52헤르츠 고래",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/52%ED%97%A4%EB%A5%B4%EC%B8%A0%20%EA%B3%A0%EB%9E%98",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 87,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "52헤르츠 고래 : 일명 \"세상에서 가장 외로운 고래\". 1989년에 소리가 발견된 이후 현재까지 미국 해군 의 관측기에 해당 생물체가 내는 52Hz의 주파수가 잡힌다.",
+    "discoveredAt": "2026-10-12T15:48:00+09:00",
+    "lastCheckedAt": "2026-10-12T15:48:00+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_UNRESOLVED",
+    "verificationBasis": "52Hz 신호 추적 확인; 외로움이나 소통 불능은 확인되지 않음",
+    "interestScore": 67,
+    "hookCandidates": [],
+    "visualPotential": "바닷속 소리는 잡히는데 주인은 보이지 않는다",
+    "storyPotential": "반복 신호 관측과 개체 미확인 구분",
+    "productionCost": "또 파형 도식 중심이 되기 쉬움",
+    "previousEpisodeSimilarity": 0.48,
+    "rejectionReasons": [
+      "관심 점수 80 미만"
+    ],
+    "scoreComponents": {
+      "hook25": 15,
+      "event25": 16,
+      "narrative20": 13,
+      "surprise10": 8,
+      "evidence10": 9,
+      "feasibility10": 6
+    },
+    "evidenceUrls": [
+      "https://www.whoi.edu/oceanus/feature/a-lone-voice-crying-in-the-watery-wilderness/"
+    ],
+    "reviewKey": "whale52",
+    "viewerAnswers": [
+      "바닷속 소리는 잡히는데 주인은 보이지 않는다",
+      "설명 보조 필요",
+      "반복 신호 관측과 개체 미확인 구분",
+      "또 파형 도식 중심이 되기 쉬움",
+      "52Hz 신호 추적 확인; 외로움이나 소통 불능은 확인되지 않음"
+    ]
+  },
+  {
+    "topicId": "namu-cache-listing-090",
+    "name": "필히너-론네 빙붕 해저 생물",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%ED%95%84%ED%9E%88%EB%84%88-%EB%A1%A0%EB%84%A4%20%EB%B9%99%EB%B6%95%20%ED%95%B4%EC%A0%80%20%EC%83%9D%EB%AC%BC",
+    "category": "자연과학 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\listing.html",
+      "liIndex": 90,
+      "sha256": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+    },
+    "description": "필히너-론네 빙붕 해저 생물 : 2021년 영국 남극조사단(BAS)이 남극 필히너-론네 빙붕(Filchner-Ronne Ice Shelf)의 얼음층을 뚫고 그 아래 깊이 1,200 m의 해저를 촬영했는데 그곳에서 돌에 붙어 있는 길이 2~6 cm 정도인 미확인 생명체를",
+    "discoveredAt": "2026-10-12T15:48:00+09:00",
+    "lastCheckedAt": "2026-10-12T15:48:00+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_UNRESOLVED",
+    "verificationBasis": "2021 실제 영상과 부착생물 확인; 영양분이 전혀 없다고 말하지 않음",
+    "interestScore": 84,
+    "hookCandidates": [
+      {
+        "HOOK_IMAGE": "어두운 바위에 붙은 생물",
+        "HOOK_ACTION": "탐사 카메라 불빛이 켜진다",
+        "HOOK_CAPTION": "이 아래에 생명이?",
+        "VIEWER_GAP": "먹이가 먼 곳의 정착 생물→해류 가설과 미확인 범위",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "끝없이 긴 얼음 시추공",
+        "HOOK_ACTION": "케이블이 내려간다",
+        "HOOK_CAPTION": "빛도 없는데",
+        "VIEWER_GAP": "먹이가 먼 곳의 정착 생물→해류 가설과 미확인 범위",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "부착생물과 먼 바다 단면",
+        "HOOK_ACTION": "먹이 입자가 흘러온다",
+        "HOOK_CAPTION": "무엇을 먹을까?",
+        "VIEWER_GAP": "먹이가 먼 곳의 정착 생물→해류 가설과 미확인 범위",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      }
+    ],
+    "visualPotential": "얼음 아래로 내려간 카메라 앞에 붙박이 생물이 나타난다",
+    "storyPotential": "먹이가 먼 곳의 정착 생물→해류 가설과 미확인 범위",
+    "productionCost": "빙붕·수중·생물 장면 비용 높음",
+    "previousEpisodeSimilarity": 0.22,
+    "rejectionReasons": [],
+    "scoreComponents": {
+      "hook25": 22,
+      "event25": 22,
+      "narrative20": 16,
+      "surprise10": 9,
+      "evidence10": 9,
+      "feasibility10": 6
+    },
+    "evidenceUrls": [
+      "https://www.bas.ac.uk/data/our-data/publication/breaking-all-the-rules-the-first-recorded-hard-substrate-sessile-benthic-community-far-beneath-an-antarctic-ice-shelf/"
+    ],
+    "reviewKey": "subice",
+    "viewerAnswers": [
+      "얼음 아래로 내려간 카메라 앞에 붙박이 생물이 나타난다",
+      "설명 보조 필요",
+      "먹이가 먼 곳의 정착 생물→해류 가설과 미확인 범위",
+      "빙붕·수중·생물 장면 비용 높음",
+      "2021 실제 영상과 부착생물 확인; 영양분이 전혀 없다고 말하지 않음"
+    ]
+  },
+  {
+    "topicId": "namu-cache-history-084",
+    "name": "보이니치 문서",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%97%AD%EC%82%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%EB%B3%B4%EC%9D%B4%EB%8B%88%EC%B9%98%20%EB%AC%B8%EC%84%9C",
+    "category": "역사 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\history.html",
+      "liIndex": 84,
+      "sha256": "9ff13e99ea2d460a6dea94c4ee25b911ab832b3fd485760bc41d31ff71e400e9"
+    },
+    "description": "보이니치 문서 : 발견 직후에 알 수 없는 글자들로 되어 있어서 큰 화제를 모았던 미해독 문서다. 대충 중세기의 여러 가지 자연과학 지식들을 집대성한 일종의 백과사전 이라고 짐작되었고, 최근에는 여러 여성들이 물 속에 몸을 담그는 모습이 나오는 페이지가 있는 점과 책 ",
+    "discoveredAt": "2026-10-12T15:48:00+09:00",
+    "lastCheckedAt": "2026-10-12T15:48:00+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "VERIFIED_UNRESOLVED",
+    "verificationBasis": "예일 소장 실물과 미해독 상태 확인; 해독 완료를 꾸미지 않음",
+    "interestScore": 78,
+    "hookCandidates": [
+      {
+        "HOOK_IMAGE": "읽을 수 없는 책 페이지",
+        "HOOK_ACTION": "민수가 책을 돌려도 못 읽는다",
+        "HOOK_CAPTION": "무슨 글자지?",
+        "VIEWER_GAP": "원본의 기호 규칙과 해독 실패를 구분",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "서로 다른 해독 카드",
+        "HOOK_ACTION": "같은 문장에서 답이 갈린다",
+        "HOOK_CAPTION": "정말 풀렸을까?",
+        "VIEWER_GAP": "원본의 기호 규칙과 해독 실패를 구분",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      },
+      {
+        "HOOK_IMAGE": "오래된 종이와 이상한 식물 그림",
+        "HOOK_ACTION": "페이지를 확대한다",
+        "HOOK_CAPTION": "책은 진짜인데",
+        "VIEWER_GAP": "원본의 기호 규칙과 해독 실패를 구분",
+        "NEXT_REASON": "관찰을 통해 처음 장면의 원인 또는 확인된 한계를 알게 된다"
+      }
+    ],
+    "visualPotential": "책을 펼쳤는데 익숙한 글자가 하나도 없다",
+    "storyPotential": "원본의 기호 규칙과 해독 실패를 구분",
+    "productionCost": "책 넘김은 가능하지만 시각 보상이 약함",
+    "previousEpisodeSimilarity": 0.05,
+    "rejectionReasons": [
+      "관심 점수 80 미만"
+    ],
+    "scoreComponents": {
+      "hook25": 19,
+      "event25": 19,
+      "narrative20": 15,
+      "surprise10": 8,
+      "evidence10": 9,
+      "feasibility10": 8
+    },
+    "evidenceUrls": [
+      "https://beinecke.library.yale.edu/beinecke/collections/beinecke-cipher-voynich-manuscript"
+    ],
+    "reviewKey": "voynich",
+    "viewerAnswers": [
+      "책을 펼쳤는데 익숙한 글자가 하나도 없다",
+      "설명 보조 필요",
+      "원본의 기호 규칙과 해독 실패를 구분",
+      "책 넘김은 가능하지만 시각 보상이 약함",
+      "예일 소장 실물과 미해독 상태 확인; 해독 완료를 꾸미지 않음"
+    ]
+  },
+  {
+    "topicId": "namu-cache-history-135",
+    "name": "크리스탈 해골",
+    "sourceUrl": "https://namu.wiki/w/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%A6%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4/%EC%97%AD%EC%82%AC%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%B3%B4",
+    "documentUrl": "https://namu.wiki/w/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88%20%ED%95%B4%EA%B3%A8",
+    "category": "역사 관련 정보",
+    "sourcePosition": {
+      "snapshot": "research\\namuwiki\\history.html",
+      "liIndex": 135,
+      "sha256": "9ff13e99ea2d460a6dea94c4ee25b911ab832b3fd485760bc41d31ff71e400e9"
+    },
+    "description": "크리스탈 해골 : 발견 당시에 이게 마야 문명과 연관되었다는 발견자인 미첼 헤치스의 주장은 여러모로 다양한 기법과 방법으로 반박이 된 데다가 미첼 헤치스 가족이 경매장에서 사왔다고(...) 시인해서 조작된 것으로 고고학계에선 묻혔지만, 최근 미술사학계에서 이것이 예술 ",
+    "discoveredAt": "2026-10-12T15:48:00+09:00",
+    "lastCheckedAt": "2026-10-12T15:48:00+09:00",
+    "lastLiveCheckedAt": null,
+    "originalDiscoveryAt": null,
+    "verificationStatus": "DEBUNKED",
+    "verificationBasis": "박물관 소장품의 현대 제작 판정에 범위 제한. 모든 수정 유물을 일반화하지 않음",
+    "interestScore": 72,
+    "hookCandidates": [],
+    "visualPotential": "고대처럼 보이는 수정 해골에 현대 공구 흔적이 보인다",
+    "storyPotential": "확대 관찰이 제작시대 주장을 뒤집음",
+    "productionCost": "정밀 수정 재질·도구흔적 확대 비용 높음",
+    "previousEpisodeSimilarity": 0.08,
+    "rejectionReasons": [
+      "관심 점수 80 미만"
+    ],
+    "scoreComponents": {
+      "hook25": 19,
+      "event25": 18,
+      "narrative20": 14,
+      "surprise10": 7,
+      "evidence10": 8,
+      "feasibility10": 6
+    },
+    "evidenceUrls": [
+      "https://www.britishmuseum.org/collection/object/E_Am1898-1"
+    ],
+    "reviewKey": "skull",
+    "viewerAnswers": [
+      "고대처럼 보이는 수정 해골에 현대 공구 흔적이 보인다",
+      "설명 보조 필요",
+      "확대 관찰이 제작시대 주장을 뒤집음",
+      "정밀 수정 재질·도구흔적 확대 비용 높음",
+      "박물관 소장품의 현대 제작 판정에 범위 제한. 모든 수정 유물을 일반화하지 않음"
+    ]
+  }
+]

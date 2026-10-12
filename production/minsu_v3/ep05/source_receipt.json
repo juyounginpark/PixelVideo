@@ -1,0 +1,19 @@
+{
+  "sourceSystem": "existing NamuWiki mystery index workflow",
+  "indexUrl": "https://namu.wiki/w/미스터리%20관련%20정보",
+  "localSource": "research/namuwiki/listing.txt",
+  "sourceSha256": "1fc6548a87db2cee99c71fe7dc14f322e7600b383856dca633ca74346bfb8fe0",
+  "sourceLine": 92,
+  "selectionBasis": "Existing 15-item draft row 1; original visual/verification/exclusion/dedup criteria",
+  "selectionMode": "reviewed selection from existing source, not automated recommendation",
+  "priorEpisodeConcepts": [
+    "sailing stones planning",
+    "mystery vending machine",
+    "Brocken spectre",
+    "thorny devil water collection"
+  ],
+  "sourceFilesModified": false,
+  "sampleQa": "production/minsu_v3/sample/FINAL_QA.json",
+  "selectedItem": "브라질너트 효과",
+  "duplicateCheck": "No previous produced episode for this concept found"
+}

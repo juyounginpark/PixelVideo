@@ -1,0 +1,35 @@
+{
+  "version": "5.0.0",
+  "presets": {
+    "HOOK": {
+      "punch": 0.045,
+      "spark": false,
+      "sound": "soft_pop",
+      "gainDb": -10
+    },
+    "CLUE": {
+      "punch": 0.025,
+      "spark": false,
+      "sound": "ui_pop",
+      "gainDb": -13
+    },
+    "DISCOVERY": {
+      "punch": 0.1,
+      "spark": true,
+      "sound": "discovery",
+      "gainDb": -7
+    },
+    "PAYOFF": {
+      "punch": 0.035,
+      "spark": true,
+      "sound": "soft_pop",
+      "gainDb": -13
+    },
+    "NONE": {
+      "punch": 0,
+      "spark": false,
+      "sound": null,
+      "gainDb": -20
+    }
+  }
+}

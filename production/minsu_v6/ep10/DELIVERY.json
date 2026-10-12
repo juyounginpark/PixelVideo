@@ -1,0 +1,449 @@
+{
+  "topic": {
+    "topicId": "namu-cache-listing-146",
+    "name": "리쿠르고스의 컵",
+    "sourceUrl": "https://namu.wiki/w/%EB%A6%AC%EC%BF%A0%EB%A5%B4%EA%B3%A0%EC%8A%A4%EC%9D%98%20%EC%BB%B5",
+    "sourceParent": "https://namu.wiki/w/미스터리%20관련%20정보",
+    "category": "자연과학 관련 정보 / 광학·고대 유물",
+    "verificationStatus": "VERIFIED_EXPLAINED",
+    "interestScore": 92,
+    "scoreIs": "Editorial estimate, not audience retention evidence",
+    "hookCandidates": [
+      {
+        "image": "같은 잔과 움직이는 조명",
+        "action": "빛이 앞에서 뒤로 이동하며 색이 변함",
+        "caption": "같은 잔인데?",
+        "selected": true
+      },
+      {
+        "image": "녹색 잔 내부가 붉게 보이는 확대",
+        "action": "빛 경로를 따라 컵 벽 안으로 확대",
+        "selected": false
+      },
+      {
+        "image": "민수가 잔을 돌려 확인",
+        "action": "바꾸지 않은 잔에 빛만 다시 이동",
+        "selected": false
+      }
+    ],
+    "visualPotential": "실제 관찰 조건에 연결된 색 변화",
+    "storyPotential": "사건→같은 잔 조사→유리 벽 설명→같은 실험 복귀",
+    "productionCost": "새 컵·이동 조명·유리 벽 도식; 기존 캐릭터·월드 재사용",
+    "previousEpisodeSimilarity": 0.12,
+    "rejectionReasons": [],
+    "discoveredAt": "기존 캐시; 정확한 최초 수집 시각은 캐시 메타데이터 참조",
+    "lastVerifiedAt": "2026-10-12T20:31:25.080141+09:00",
+    "sourceSnapshotHash": "fe7ae6847205fc8c08728f1518d11b901fc2c3d3bf72a06510d5f7d832527956"
+  },
+  "storyMap": {
+    "기": "같은 잔이 빛의 위치에 따라 녹색→붉은색",
+    "승": "교체 없는 잔과 앞/뒤 조명 조건 조사",
+    "전": "같은 유리 벽 확대, 나노입자와 반사/투과 경로 설명",
+    "결": "동일 월드 상태 복귀, 첫 조명 동작을 다시 이해"
+  },
+  "nativeRenderInitial": {
+    "shots": [
+      {
+        "shot": "S01",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 94.08696719999716
+      },
+      {
+        "shot": "S02",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 90.15345930001058
+      },
+      {
+        "shot": "S03",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 92.99120540000149
+      },
+      {
+        "shot": "S04",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 109.7903365999955
+      },
+      {
+        "shot": "S05",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 93.33190209999157
+      },
+      {
+        "shot": "S06",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 131.82005409999692
+      },
+      {
+        "shot": "S07",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 113.96250510000391
+      },
+      {
+        "shot": "S08",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 87.90291900000011
+      }
+    ],
+    "wallSeconds": 814.7757096999994,
+    "workers": 1,
+    "native": [
+      540,
+      960
+    ]
+  },
+  "nativeRenderGroundingRework": {
+    "shots": [
+      {
+        "shot": "S01",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 96.40677610000421
+      },
+      {
+        "shot": "S02",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 90.25409849999414
+      },
+      {
+        "shot": "S03",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 88.88478100000066
+      },
+      {
+        "shot": "S04",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 83.22507880000921
+      },
+      {
+        "shot": "S07",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 79.2460279000079
+      },
+      {
+        "shot": "S08",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 80.07705690000148
+      }
+    ],
+    "wallSeconds": 520.3280849000002,
+    "workers": 1,
+    "native": [
+      540,
+      960
+    ]
+  },
+  "nativeCacheVerification": {
+    "shots": [
+      {
+        "shot": "S01",
+        "newFrames": 0,
+        "cacheHits": 120,
+        "seconds": 0.42590230000496376
+      },
+      {
+        "shot": "S02",
+        "newFrames": 0,
+        "cacheHits": 120,
+        "seconds": 0.44068650000554044
+      },
+      {
+        "shot": "S03",
+        "newFrames": 0,
+        "cacheHits": 120,
+        "seconds": 0.5587887000001501
+      },
+      {
+        "shot": "S04",
+        "newFrames": 0,
+        "cacheHits": 120,
+        "seconds": 0.5383906999923056
+      },
+      {
+        "shot": "S07",
+        "newFrames": 0,
+        "cacheHits": 120,
+        "seconds": 0.5809270000027027
+      },
+      {
+        "shot": "S08",
+        "newFrames": 0,
+        "cacheHits": 120,
+        "seconds": 0.5074817999993684
+      }
+    ],
+    "wallSeconds": 3.9684354000055464,
+    "workers": 1,
+    "native": [
+      540,
+      960
+    ]
+  },
+  "renderLogs": [
+    {
+      "log": "sample_render.log",
+      "savedFrames": 300,
+      "lastSavedElapsedSeconds": 203.0,
+      "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+    },
+    {
+      "log": "sample_rework.log",
+      "savedFrames": 300,
+      "lastSavedElapsedSeconds": 197.547,
+      "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+    },
+    {
+      "log": "ep10\\stills.log",
+      "savedFrames": 24,
+      "lastSavedElapsedSeconds": 18.14,
+      "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+    },
+    {
+      "log": "ep10\\stills_rework.log",
+      "savedFrames": 24,
+      "lastSavedElapsedSeconds": 24.282,
+      "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+    },
+    {
+      "log": "ep10\\full_render.log",
+      "savedFrames": 88,
+      "lastSavedElapsedSeconds": 75.297,
+      "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+    },
+    {
+      "log": "ep10\\full_render_rework.log",
+      "savedFrames": 960,
+      "lastSavedElapsedSeconds": 815.61,
+      "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+    },
+    {
+      "log": "ep10\\grounding_render.log",
+      "savedFrames": 720,
+      "lastSavedElapsedSeconds": 523.219,
+      "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+    },
+    {
+      "log": "ep10\\investigation_rework.log",
+      "savedFrames": 120,
+      "lastSavedElapsedSeconds": 86.672,
+      "measurement": "Last saved-frame elapsed time from Blender log; not total process wall time"
+    }
+  ],
+  "compose": {
+    "ko": {
+      "seconds": 14.484126900002593,
+      "uiCutCacheHits": 7,
+      "audioCacheHit": true,
+      "frameCount": 960,
+      "fontQA": {
+        "checkedCharacters": 201,
+        "fallbacks": 0,
+        "locale": "ko",
+        "atlases": [
+          {
+            "face": "PIXEL_DISPLAY",
+            "key": "d5a6940ff8ee33d7c52b83037228ac914f4204b9fbdadbbda4e0c46be1147c30",
+            "reused": true,
+            "characters": 32
+          },
+          {
+            "face": "PIXEL_BODY",
+            "key": "e9dbab7d5919ded099023e46b95ae35ea704c43da22de391930ad51d1f0edf50",
+            "reused": true,
+            "characters": 78
+          }
+        ]
+      },
+      "target": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP10_V6_LYCURGUS_KO.mp4",
+      "loudness": {
+        "input_i": "-18.92",
+        "input_tp": "-5.80",
+        "input_lra": "6.60",
+        "input_thresh": "-29.02",
+        "output_i": "-18.58",
+        "output_tp": "-5.19",
+        "output_lra": "6.40",
+        "output_thresh": "-28.66",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.42"
+      },
+      "tts": false
+    },
+    "en": {
+      "seconds": 11.85596980000264,
+      "uiCutCacheHits": 7,
+      "audioCacheHit": true,
+      "frameCount": 960,
+      "fontQA": {
+        "checkedCharacters": 435,
+        "fallbacks": 0,
+        "locale": "en",
+        "atlases": [
+          {
+            "face": "PIXEL_DISPLAY",
+            "key": "47e52fcd91d0912e36afe4b49b0b319323079169e46b3aabe97aa6ed84395bbb",
+            "reused": true,
+            "characters": 35
+          },
+          {
+            "face": "PIXEL_BODY",
+            "key": "cbd42fdcc9ec71c6c0b9684f239d0c2057d0fe518995d27f903bee708cd74058",
+            "reused": true,
+            "characters": 48
+          }
+        ]
+      },
+      "target": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP10_V6_LYCURGUS_EN.mp4",
+      "loudness": {
+        "input_i": "-18.92",
+        "input_tp": "-5.80",
+        "input_lra": "6.60",
+        "input_thresh": "-29.02",
+        "output_i": "-18.58",
+        "output_tp": "-5.19",
+        "output_lra": "6.40",
+        "output_thresh": "-28.66",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.42"
+      },
+      "tts": false
+    }
+  },
+  "technicalQA": {
+    "ko": {
+      "decodePassed": true,
+      "decodedFrameCount": 960,
+      "formatPassed": true,
+      "decodeErrors": "",
+      "outputSHA256": "976e38326e487da66c92d05ccdbb288dd9bc78e84a064aefebd0f233bd7a734d",
+      "mediaInfo": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP10_V6_LYCURGUS_KO.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.100\n  Duration: 00:00:32.00, start: 0.000000, bitrate: 2254 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920, 2052 kb/s, 30 fps, 30 tbr, 15360 tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.100 libx264\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\nAt least one output file must be specified\n",
+      "uiFrames": 960,
+      "glyphFallbacks": 0,
+      "textCollisions": [],
+      "cupOutOfFrame": [],
+      "reviewFrames": 32,
+      "audioAnalysis": {
+        "input_i": "-18.92",
+        "input_tp": "-5.80",
+        "input_lra": "6.60",
+        "input_thresh": "-29.02",
+        "output_i": "-18.58",
+        "output_tp": "-5.19",
+        "output_lra": "6.40",
+        "output_thresh": "-28.66",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.42"
+      },
+      "audioPeakPassed": true
+    },
+    "en": {
+      "decodePassed": true,
+      "decodedFrameCount": 960,
+      "formatPassed": true,
+      "decodeErrors": "",
+      "outputSHA256": "51b614c79c2b22375cffe7ca5202b634554e94b95f4f812d0fdf535d1afb58c9",
+      "mediaInfo": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo\\exports\\MINSU_EP10_V6_LYCURGUS_EN.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.100\n  Duration: 00:00:32.00, start: 0.000000, bitrate: 2292 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920, 2090 kb/s, 30 fps, 30 tbr, 15360 tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.100 libx264\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\nAt least one output file must be specified\n",
+      "uiFrames": 960,
+      "glyphFallbacks": 0,
+      "textCollisions": [],
+      "cupOutOfFrame": [],
+      "reviewFrames": 32,
+      "audioAnalysis": {
+        "input_i": "-18.92",
+        "input_tp": "-5.80",
+        "input_lra": "6.60",
+        "input_thresh": "-29.02",
+        "output_i": "-18.58",
+        "output_tp": "-5.19",
+        "output_lra": "6.40",
+        "output_thresh": "-28.66",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.42"
+      },
+      "audioPeakPassed": true
+    },
+    "preservation": {
+      "checkedFiles": 58,
+      "changedFiles": []
+    },
+    "gate": {
+      "technicalPassed": true,
+      "errors": [],
+      "editorialAutoApproved": false,
+      "rulesVersion": "6.0.0"
+    }
+  },
+  "reuse": [
+    "Minsu rig/model definitions",
+    "shared materials/world style",
+    "Galmuri11 + Galmuri11-Bold",
+    "one local BGM",
+    "three local SFX types"
+  ],
+  "newAssets": [
+    "explanatory cage cup",
+    "movable white lamp",
+    "glass wall and particle/light-path schematic"
+  ],
+  "additionalExternalLLMCalls": 0,
+  "tokenMeasurement": "Session token usage not available; no claimed numerical reduction",
+  "limits": "# V6 EP10 실제 결과 검수\n\n선정 소재: 리쿠르고스의 컵. 기존 나무위키 자연과학 캐시에서 선정, 중복 검사. 제작 전 검토 92/100은 대중 반응 측정값이 아니다.\n\n기: 같은 잔을 비추는 조명 이동으로 녹색→붉은색. 승: 같은 잔과 앞/뒤 조명 조건 확인. 전: 같은 유리 벽을 확대해 금·은 나노입자와 반사/투과 경로 설명. 결: 같은 장소·잔·조명 상태로 돌아와 첫 동작을 재확인.\n\n핵심 수정: 상시 제목·챕터·번호·출처·프레임 제거. 전체 3D 사건 우선. 컷 독립 자막, 읽기 시간, 4프레임 등장, 이어지는 구절 유지. 설명 진입/복귀 계약. 사건 프레임에 카메라·픽셀 강조·SFX 연결. KO/EN 별도 출력. 실제 540×960→nearest 2배→1080 UI→고정 4픽셀 주기 6% 스캔라인. 제한된 명암·텍스처와 약한 ordered dither.\n\n과학 근거: https://www.beilstein-journals.org/bjnano/articles/11/2 (doi:10.3762/bjnano.11.2). 같은 쪽 조명/관찰에서 반사색, 반대쪽에서 투과색; 금·은 나노입자의 광학 성질. 실제 색은 광원 스펙트럼과 관찰 조건에도 의존한다. '2020년 최초 원리 규명'과 제작자 의도 확정은 사용하지 않았다.\n\n시청 경험 판단은 실제 출력 프레임·전환 부근 연속 프레임·전체 디코드를 근거로 한 제작자 검토다. 실시간 재생/청취와 대중 시청자 테스트를 수행한 것으로 표현하지 않는다.\n\n처음 이탈하고 싶어질 수 있는 시점: 약 4–8초. 첫 색 변화 후 잔을 다시 확인하는 장면은 후킹보다 정보 증가 속도가 느리다. 이전 EP09의 고정 패널 반복은 제거했지만, 실제 관객의 흥미 유지까지 확인한 것은 아니다.\n삭제한 UI/문구: 고정 대제목, 챕터/진행 번호, 상시 연구 연도, 반복 출처, 중복 오브젝트 상태창.\n삭제·수정할 후보: 4–8초 재확인 동작의 일부를 줄일 여지가 있다. 막연한 '상호작용'은 '빛을 흩뜨리고 흡수한다'와 색마다 다른 반사/투과 설명으로 수정했다. 움직이는 빛 경로가 이를 보완하지만 실제 파장별 산란·흡수량을 재현한 것은 아니다.\n다시 연출한 핵심 사건: 첫 색 변화와 SFX 0.8초 동기화, 불연속 엔딩 조명 왕복 수정, 설명 전 표면 접근/설명 후 카메라 복귀, 잘린 민수 구도 수정, 앞/뒤 조건과 자막 시간 일치.\n남은 미술 한계: 잔 장식은 실제 유물의 정확한 복제보다 단순하다. 캐릭터 시선·손과 조명의 접촉은 추가적인 미세 연기 개선 여지가 있다. 레퍼런스 수준의 상업 미술/편집 완성도를 달성했다고 승인하지 않는다.\n사실 전달의 한계: 색상은 실제 광학 계산이 아닌 조건에 연결된 설명용 애니메이션. 광자·입자 크기와 경로는 모식도이며 물리적 크기 비율/측정 데이터가 아니다. 고대 재료 미세구조를 순수 금/은 두 종류의 독립 입자로 정확하게 복제했다고 주장하지 않는다.\n오디오 한계: 로컬 음악·효과음의 이벤트 시간, 음량, 피크, AAC는 분석했으나 음악적 자연스러움을 청취 승인하지 않았다.\n\n기술 정상 작동과 '재미있다'는 판정은 구분한다. 완성 영상 파일은 제작 결과물이며 실제 대중 유지율을 보증하지 않는다.\n",
+  "nativeRenderInvestigationRework": {
+    "shots": [
+      {
+        "shot": "S02",
+        "newFrames": 120,
+        "cacheHits": 0,
+        "seconds": 85.23785950000456
+      }
+    ],
+    "wallSeconds": 85.84005420000176,
+    "workers": 1,
+    "native": [
+      540,
+      960
+    ]
+  },
+  "completedFullAndPartialNativeSeconds": 1420.9438488000014,
+  "allLoggedRenderSeconds": 1943.767,
+  "logTimingScope": "Approximate sum of last saved-frame elapsed times, including sample/still/rework/aborted phases; excludes composition and idle time",
+  "cacheIntegrity": {
+    "verifiedFrames": 960,
+    "corruptedFrames": [],
+    "unaffectedMacroCutsIdentical": {
+      "S05": true,
+      "S06": true
+    },
+    "retainedMacroFrames": 240,
+    "unaffectedCutsAfterWalkRework": {
+      "S01": true,
+      "S03": true,
+      "S04": true,
+      "S05": true,
+      "S06": true,
+      "S07": true,
+      "S08": true
+    },
+    "retainedFramesAfterWalkRework": 840,
+    "reworkScope": "Foot placement: six world cuts. Investigative WALK: S02 only. Other cuts retained and frame hashes verified."
+  },
+  "gitignore": {
+    "untrackedGeneratedFiles": 15156,
+    "remainingTrackedGeneratedPaths": 0,
+    "localFilesLost": [],
+    "method": "git rm --cached with literal NUL-separated scoped paths; no filesystem deletion",
+    "gitRoot": "C:\\Users\\0620f\\OneDrive\\Desktop\\PIXELvideo"
+  }
+}

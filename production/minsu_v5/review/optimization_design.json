@@ -1,0 +1,49 @@
+{
+  "oneStructuredEpisode": true,
+  "perShotLlmRequests": 0,
+  "remoteLlmApiCallsByPipeline": 0,
+  "sessionTokenUsage": "not available; no claimed measured token savings",
+  "masterSpecCharacters": 11421,
+  "compactBriefCharacters": 2275,
+  "sceneSpecCharacters": 16595,
+  "commonConfigurationFiles": [
+    "ASSET_MANIFEST.json",
+    "CAMERA_PRESETS.json",
+    "CHARACTER_LIBRARY.json",
+    "EFFECT_LIBRARY.json",
+    "FONT_THEME.json",
+    "POST_PROCESS_PRESETS.json",
+    "QA_RULES.json",
+    "RULE_RESOLUTION.json",
+    "SCENE_SCHEMA.json",
+    "STYLE_SPEC.json",
+    "WORLD_PRESETS.json"
+  ],
+  "candidateCacheDownloadsThisBatch": 0,
+  "batchCounts": [
+    40,
+    10,
+    5,
+    1
+  ],
+  "concurrency": 1,
+  "sampledBlenderWorkingSetBytes": 1280864256,
+  "captionChangeDuringPreview": "P-045 changed only the UI; active native render continued without restart",
+  "limitations": [
+    "Candidate scores are editorial judgments, not trained interest predictions",
+    "New unimplemented topic scene adapters are held; there is no universal automatic 3D scene generator",
+    "Actual token accounting for this interactive session is not exposed"
+  ],
+  "measuredFinalPreflight": {
+    "projectedShotsReused": 9,
+    "uiCheckSeconds": 11.915087699999276,
+    "earlierUiCheckSeconds": 48.13487990000067,
+    "reason": "Skip CRT in layout-only preflight; use verified normalized preview projection for final resolution"
+  },
+  "creativeRevisionRounds": 4,
+  "memorySamplesBytes": [
+    1280864256,
+    710098944
+  ],
+  "finalProjectionCacheUses": 9
+}

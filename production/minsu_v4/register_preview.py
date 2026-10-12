@@ -1,0 +1,6 @@
+from common import R,ROOT,read,write,sha
+full=ROOT/'exports/MINSU_EP07_V4_DARK_MATTER_PREVIEW.mp4';cut=ROOT/'exports/MINSU_V4_EXPECTED_COLOR_REVIEW.mp4'
+qa=read(R/'ep07/preview/TECHNICAL_QA.json');assert qa['status']=='PASS' and qa['checkedNativeAndUIFrames']==1050
+assert read(R/'ep07/preview/color_review/decode_qa.json')['decodedFrames']==105
+gate=dict(decision='PROCEED_WITH_STATED_LIMITS',reviewer='Codex actual-image/sequence review',fullPreviewSha256=sha(full),revisedCutSha256=sha(cut),reviewed=['overview.jpg','REFERENCE_COMPARISON.jpg','S08_sequence.jpg','S07_sequence.jpg','S10_112.png','S01_026.png','../color_review/S03_052.png'],findings=['첫 3초에 흰 예상 별과 노란 관측 별의 위치 차이가 드러남','S05/S06은 중력 방향→같은 궤도에서 빠른 속력에 필요한 더 큰 중력 순서','S07은 헤일로 전개·발견 자막·짧은 카메라 강조가 핵심 사건에 집중','S08에서 손이 조작부로 이동한 뒤 궤적 일치; 일치 라벨은 실제 겹침 이후','S09 추론 모형 색상과 물질 정체 미확인을 구분','S10은 처음의 불일치를 이미 해결한 상태로 닫음','S03의 노란 예상 별은 흰 외곽선으로 부분 재작업하여 S01/S04 범례와 통일','레퍼런스의 상황→개념→적용 연결을 비교; 3D/서체/세계의 일관성을 직접 확인'],limits=['원본 전체 프리뷰는 최초 검토본이고 S03 최신 색은 별도 부분 프리뷰가 증거; 최종본에서 통합','English 36px supplementary text is denser than Korean; no native-speaker/audience test','No human audio listening or real-time playback','조건을 이해하려면 짧은 라벨과 자막이 필요함; 시청 유지율 향상 미측정'])
+write(R/'ep07/preview/review/GATE.json',gate);print('Full preview and revised S03 reviewed; final rendering allowed')
