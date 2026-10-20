@@ -1,0 +1,38 @@
+﻿{
+    "date":  "2026-10-20",
+    "timezone":  "Asia/Seoul",
+    "license":  "미확인",
+    "backend_source_obtained":  false,
+    "files":  [
+                  {
+                      "file":  "index.html",
+                      "source":  "https://voxel.hanbean.dev/",
+                      "sha256":  "815e6da20c1597f9c4f74007f3220ba7b411a6e69d9a6069b47b6ae787a1f099",
+                      "bytes":  4536
+                  },
+                  {
+                      "file":  "app.js",
+                      "source":  "https://voxel.hanbean.dev/app.js",
+                      "sha256":  "65d934dc31fca35b3124c289b7c54d252cb580915ff71d650a5a7920a89ef487",
+                      "bytes":  20471
+                  },
+                  {
+                      "file":  "boxes.js",
+                      "source":  "https://voxel.hanbean.dev/boxes.js",
+                      "sha256":  "3b83970ee6be8082b61cde899cf0e9abe8781a91d5fd7c35c04237a1efe4e69d",
+                      "bytes":  6515
+                  },
+                  {
+                      "file":  "templates.js",
+                      "source":  "https://voxel.hanbean.dev/templates.js",
+                      "sha256":  "b775f8d6155a9c85c05c01836bef3ee8cfc0a293633f4048e599796d8f35a9c5",
+                      "bytes":  10190
+                  },
+                  {
+                      "file":  "look.js",
+                      "source":  "https://voxel.hanbean.dev/look.js",
+                      "sha256":  "17100c100aa6229b67819ebe69702fe8b0a198b7dd699f0778268d679eafa26e",
+                      "bytes":  3446
+                  }
+              ]
+}

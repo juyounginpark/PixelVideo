@@ -1,0 +1,7 @@
+{
+  "name": "pixelvideo-voxel-model",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test test.mjs", "start": "node server.mjs" },
+  "dependencies": { "three": "0.170.0" }
+}
